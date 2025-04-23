@@ -56,3 +56,4 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
         for ex in examples:
             f.write(json.dumps(ex) + "\n")
 
+### RAG conversion Functions
