@@ -34,13 +34,21 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
         
         raw_answers = str(row['answer'])
         answer_letters = re.split(r"[,\s]+", raw_answers.strip())
+        
+        explanation = row.get("explanation", "")
+        source = row.get("source", "")
 
+        if pd.isna(explanation) or explanation == "":
+            explanation = "[explanation]"
+        if pd.isna(source) or source == "":
+            source = "[source]"
+    
         example = {
             "question": question_stem,
             "choices": answer_choices,
             "correct_answer": answer_letters,
-            "explanation": row.get("explanation", ""),
-            "source": row.get("source", "")
+            "explanation": explanation,
+            "source": source
         }
         examples.append(example)
 
