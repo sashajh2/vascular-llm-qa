@@ -1,0 +1,2096 @@
+CLINICAL PRACTICE GUIDELINES
+Society for Vascular Surgery clinical practice guidelines
+for management of extracranial cerebrovascular disease
+Ali F. AbuRahma, MD,a Efthymios D. Avgerinos, MD, PhD,b Robert W. Chang, MD,c
+R. Clement Darling III, MD,d Audra A. Duncan, MD,e Thomas L. Forbes, MD,f Mahmoud B. Malas, MD, MHS,g
+Mohammad Hassan Murad, MD, MPH,h Bruce Alan Perler, MD, MBA,i Richard J. Powell, MD,j
+Caron B. Rockman, MD,k and Wei Zhou, MD,l Charleston, WVa; Pittsburgh, Pa; San Francisco and La Jolla, Calif;
+Albany and New York, NY; London and Toronto, Ontario, Canada; Rochester, Minn; Baltimore, Md; Lebanon, NH; and
+Tucson, Ariz
+
+ABSTRACT
+Management of carotid bifurcation stenosis in stroke prevention has been the subject of extensive investigations, including
+multiple randomized controlled trials. The proper treatment of patients with carotid bifurcation disease is of major interest
+to vascular surgeons and other vascular specialists. In 2011, the Society for Vascular Surgery published guidelines for the
+treatment of carotid artery disease. At the time, several randomized trials, comparing carotid endarterectomy (CEA) and
+carotid artery stenting (CAS), were reported. Since the 2011 guidelines, several studies and a few systematic reviews
+comparing CEA and CAS have been reported, and the role of medical management has been reemphasized. In the present
+publication, we have updated and expanded on the 2011 guidelines with speciﬁc emphasis on ﬁve areas: (1) is CEA recommended over maximal medical therapy for low-risk patients; (2) is CEA recommended over transfemoral CAS for low
+surgical risk patients with symptomatic carotid artery stenosis of >50%; (3) the timing of carotid intervention for patients
+presenting with acute stroke; (4) screening for carotid artery stenosis in asymptomatic patients; and (5) the optimal
+sequence of intervention for patients with combined carotid and coronary artery disease.
+A separate implementation document will address other important clinical issues in extracranial cerebrovascular
+disease. Recommendations are made using the GRADE (grades of recommendation assessment, development, and
+evaluation) approach, as was used for other Society for Vascular Surgery guidelines. The committee recommends CEA
+as the ﬁrst-line treatment for symptomatic low-risk surgical patients with stenosis of 50% to 99% and asymptomatic
+patients with stenosis of 70% to 99%. The perioperative risk of stroke and death in asymptomatic patients must be <3%
+to ensure beneﬁt for the patient. In patients with recent stable stroke (modiﬁed Rankin scale score, 0-2), carotid
+revascularization is considered appropriate for symptomatic patients with >50% stenosis and should be performed as
+soon as the patient is neurologically stable after 48 hours but deﬁnitely <14 days after symptom onset. In the general
+population, screening for clinically asymptomatic carotid artery stenosis in patients without cerebrovascular symptoms
+or signiﬁcant risk factors for carotid artery disease is not recommended. In selected asymptomatic patients with an
+increased risk of carotid stenosis, we suggest screening for clinically asymptomatic carotid artery stenosis as long as the
+patients would potentially be ﬁt for and willing to consider carotid intervention if signiﬁcant stenosis is discovered. For
+patients with symptomatic carotid stenosis of 50% to 99%, who require both CEA and coronary artery bypass grafting,
+we suggest CEA before, or concomitant with, coronary artery bypass grafting to potentially reduce the risk of stroke
+and stroke/death. The sequencing of the intervention depends on the clinical presentation and institutional
+experience. (J Vasc Surg 2022;75:4S-22S.)
+
+From the Department of Surgery, West Virginia University-Charleston Division,
+Charlestona; the Division of Vascular Surgery, Univeristy of Pittsburgh School
+
+R.C.D., A.A.D., T.L.F., M.B.M., M.H.M., B.A.P., R.J.P., C.B.R., and W.Z. have no conﬂicts of interest.
+
+of Medicine, UPMC Heart & Vascular Institute, Pittsburghb; the Vascular Sur-
+
+Correspondence: Ali F. AbuRahma, MD, Department of Surgery, West Virginia
+
+gery, Permanente Medical Group, San Franciscoc; the Division of Vascular Sur-
+
+University-Charleston Division, 3110 MacCorkle Ave SE, Charleston, WV 25304
+
+gery, Albany Med Vascular, Albanyd; the Division of Vascular & Endovascular
+
+(e-mail: ali.aburahma@camc.org).
+
+Surgery, University of Western Ontario, Londone; the Vascular Surgery, Univer-
+
+Independent peer review and oversight has been provided by members of the
+
+sity of Toronto, Torontof; the Vascular & Endovascular Surgery, University of
+
+SVS Document Oversight Committee (Ruth Bush, Chair, Marc Schermerhorn,
+
+California San Diego, La Jollag; the Mayo Clinic Evidence-based Practice Cen-
+
+Vice-Chair, Keith Calligaro, Yazan Duwayri, Mohammad Eslami, Alik Farber,
+
+ter, Rochesterh; the Division of Vascular Surgery & Endovascular Therapy,
+
+Raul Guzman, Gregory Landry, Katherine McGinigle, J. Sheppard Mondy, John
+
+Johns Hopkins, Baltimorei; the Vascular Surgery, Dartmouth-Hitchcock, Leb-
+
+Rectenwald, William Robinson, Britt Tonnessen and Greg Westin).
+
+anonj; the Division of Vascular Surgery, New York University Langone, New
+
+0741-5214
+
+Yorkk; and the Division of Vascular Surgery, University of Arizona, Tucson.l
+
+Copyright Ó 2021 by the Society for Vascular Surgery. Published by Elsevier Inc.
+
+Author conﬂict of interest: E.A. has been paid a consulting fee by Angiodynamics, Medtronic, and BD Medical and is on their speakers’ bureau. A.F.A., R.W.C.,
+
+4S
+
+https://doi.org/10.1016/j.jvs.2021.04.073
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+5S
+
+Volume 75, Number 1S
+
+TABLE OF CONTENTS
+SUMMARY OF RECOMMENDATIONS ............................
+METHODS .....................................................................................
+Guideline framework ...........................................................
+Evidence synthesis .................................................................
+Evidence to decision framework ...............................
+Evidence and rationale: Question 1 .........................
+Evidence and rationale: Question 2 ........................
+CEA vs TF-CAS in symptomatic stenosis .............
+Timing of CEA ......................................................................
+Transcarotid artery revascularization ......................
+Evidence and rationale: Question 3 .........................
+Evidence and rationale: Question 4A .....................
+Evidence and rationale: Question 4B .....................
+Atherosclerotic risk factors and medical
+comorbidities predisposing toward an
+increased prevalence of carotid artery
+stenosis ......................................................................................
+Subgroups ....................................................................................
+Patients with PAD .............................................................
+Patients undergoing coronary artery bypass
+surgery ........................................................................................
+Asymptomatic patients with an audible
+carotid bruit ...........................................................................
+Asymptomatic patients with previous neck
+irradiation .................................................................................
+Patients with abdominal aortic aneurysms .
+Patients with clinically occult cerebral
+infarction or high-risk factors on brain
+imaging .....................................................................................
+Evidence and rationale: Question 4C .....................
+Evidence and rationale: Question 5 ........................
+Patients’ values and preferences ...............................
+REFERENCES .............................................................................
+
+5S
+6S
+6S
+7S
+7S
+8S
+9S
+9S
+10S
+10S
+11S
+13S
+13S
+
+13S
+14S
+14S
+15S
+15S
+15S
+16S
+16S
+17S
+18S
+18S
+18S
+
+SUMMARY OF RECOMMENDATIONS
+1. Is CEA recommended over maximal medical therapy for asymptomatic carotid stenosis in low surgical risk patients?
+1.1. For low surgical risk patients with asymptomatic
+carotid bifurcation atherosclerosis and stenosis of
+>70% (documented by validated duplex ultrasound or CTA/angiography), we recommend CEA
+with best medical therapy instead of maximal
+medical therapy alone for the long-term prevention of stroke and death. Level of recommendation: grade 1 (strong); quality of evidence: B
+(moderate).
+2. Is CEA recommended over TF-CAS for low surgical
+risk patients with symptomatic carotid artery stenosis of >50%?
+2.1. We recommend CEA over TF-CAS in low- and
+standard-risk patients with >50% symptomatic carotid artery stenosis. Level of recommendation: grade
+1 (strong); quality of evidence: A (high).
+
+3. What is the optimal timing of carotid intervention
+for patients presenting with acute stroke? Management of acute neurologic syndrome:
+3.1. In patients with recent stable stroke (modiﬁed Rankin scale score 0-2), we recommend carotid revascularization for symptomatic patients with >50%
+stenosis to be performed as soon as the patient is
+neurologically stable after 48 hours but deﬁnitely
+before 14 days after the onset of symptoms. Level of
+recommendation: grade 1 (strong); quality of evidence: B (moderate).
+3.2. In patients undergoing revascularization within the
+ﬁrst 14 days after the onset of symptoms, we recommend CEA rather than carotid stenting. Level of
+recommendation: grade 1 (strong); quality of evidence: B (moderate).
+3.3. We recommend against revascularization, regardless
+of the extent of stenosis for patients who experienced a disabling stroke, have a modiﬁed Rankin
+scale score of $3, whose area of infarction is >30%
+of the ipsilateral middle cerebral artery territory, or
+who have altered consciousness to minimize the
+risk of postoperative parenchymal hemorrhage.
+These patients can be reevaluated for revascularization later if their neurologic recovery is satisfactory. Level of recommendation: grade 1 (strong);
+quality of evidence: C (low).
+4. Screening for carotid artery stenosis in asymptomatic patients
+4A. Is screening for asymptomatic carotid stenosis recommended for the general population?
+4.1. We recommend against routine screening for clinically asymptomatic carotid artery stenosis in individuals without cerebrovascular symptoms or signiﬁcant
+risk factors for carotid artery disease. Level of recommendation: grade 1 (strong); quality of evidence: B
+(moderate).
+4B. Is screening for carotid stenosis recommended for
+high-risk asymptomatic patients?
+4.2. In selected asymptomatic patients who are at an
+increased risk of carotid stenosis, we suggest
+screening for clinically asymptomatic carotid artery
+stenosis, especially if patients are willing to consider
+carotid intervention if signiﬁcant stenosis is discovered. Level of recommendation: grade 2 (weak);
+quality of evidence: B (moderate).
+4C. What imaging test is best for screening for carotid
+stenosis in asymptomatic patients?
+4.3. In asymptomatic patients who are undergoing
+screening for carotid artery stenosis, we recommend
+duplex ultrasound performed in an accredited
+vascular laboratory as the imaging modality of
+choice instead of CTA, MRA, or other imaging modalities. Level of recommendation: grade 1 (strong);
+quality of evidence: B (moderate).
+5. What is the optimal sequence for intervention in patients with combined carotid artery stenosis and CAD?
+5.1. For patients with symptomatic carotid stenosis of
+50% to 99%, who require both CEA and CABG, we
+
+6S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+suggest CEA before, or concomitant with, CABG to
+potentially reduce the risk of stroke and stroke/death.
+The sequencing of the intervention depends on the
+clinical presentation and institutional experience.
+Level of recommendation: grade 2 (weak); quality
+of evidence: C (low).
+5.2. In patients with severe (70%-99%) bilateral asymptomatic carotid stenosis or severe asymptomatic stenosis and contralateral occlusion, we suggest CEA
+before, or concomitant with, CABG. Level of recommendation: grade 2 (weak); quality of evidence: C
+(low).
+5.3. In patients requiring carotid intervention, staged or
+synchronous with coronary intervention, we suggest
+that the decision between CEA and CAS be determined by the timing of procedure, the need for anticoagulation or antiplatelet therapy, patient anatomy, and
+patient characteristics. Level of recommendation:
+grade 2 (weak); quality of evidence: B (moderate).
+Management of extracranial cerebrovascular disease
+has been the focus of intense investigation and debate
+by multiple vascular specialists since the introduction
+of carotid endarterectomy (CEA) as a therapeutic modality for the prevention and treatment of stroke more than
+several decades earlier. The initial hopes that CEA could
+reverse the clinical course of stroke were proved false,
+and the role of surgical treatment of extracranial carotid
+and vertebral artery disease was deﬁned by the results of
+the multicenter randomized clinical trial, the Joint Study
+on the Extracranial Circulation.1 That study of 5000 patients established the role of CEA in the treatment of minor stroke, transient ischemic attack (TIA), and amaurosis
+fugax and conﬁrmed that surgery has a role in the treatment of established stroke, with a limited role for vertebral reconstruction in the treatment of cerebrovascular
+insufﬁciency. However, during the subsequent decades,
+with surgical reﬁnements to CEA and the increasing
+detection of asymptomatic carotid stenosis identiﬁed using noninvasive vascular studies, CEA assumed a primarily prophylactic role for prevention of major stroke in
+asymptomatic patients and those with evidence of transient cerebral or ocular ischemia. Large prospective, randomized trials have established the role and efﬁcacy of
+CEA in stroke prevention.2-6
+During the past two decades, carotid artery stenting
+(CAS) has also evolved as a catheter-based alternative
+to CEA and medical therapy for stroke prevention and
+treatment. Approximately 135,000 interventions on lesions in the carotid bifurcation are performed annually
+in the United States. It has been reported that 90% are
+performed for patients without neurologic symptoms
+and that 11% are catheter-based procedures performed
+by a variety of specialists, including vascular surgeons,
+general surgeons, neurosurgeons, cardiologists, thoracic
+surgeons, interventional radiologists, and interventional
+neurologists.7 However, others believe that the best
+
+data we have regarding symptom status come from
+the Vascular Quality Initiative (VQI) and National Surgical
+Quality Improvement Program, with the proportion
+closer to 60% to 70%.8 Also, although these data might
+not be generalizable to the entire U.S. population, they
+are far better than the Nationwide Inpatient Sample
+data.8
+Because multiple options can be available for the treatment of a single disease entity, deﬁning the optimal therapy can be challenging, especially, when multiple
+specialties, often with nonoverlapping expertise, are
+involved in these treatment options. Thus, extensive and
+often conﬂicting literature has developed around the current standard for the diagnosis and management of
+extracranial carotid disease. Four large, prospective, randomized trials have been reported comparing the efﬁcacy
+of CEA and CAS in the management of extracranial carotid stenosis.9-12 A meta-analysis comparing CAS and
+CEA, which included some of these trials, was published
+in the Journal of Vascular Surgery.13 Another recent
+meta-analysis conducted by the Mayo Clinic Evidence
+Practice Center and comparing CAS and CEA for symptomatic standard surgical risk patients also will be reported in the Journal of Vascular Surgery.14
+In 2011, the Society for Vascular Surgery (SVS) published clinical practice guidelines for the management of extracranial carotid artery disease in the
+Journal of Vascular Surgery. 15 A multispecialty document also was published on the “Management of Patients with Extracranial Carotid and Vertebral Artery
+Disease.“16 More recently, the European Society for
+Vascular Surgery published their guidelines “Management of Atherosclerotic Carotid and Vertebral Artery
+Disease: 2017 Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS).“17 Because
+of these publications, the Society for Vascular Surgery
+elected to update their 2011 guidelines, because
+vascular surgeons play a major, if not predominant,
+role in the treatment of patients with carotid bifurcation disease.
+
+METHODS
+Guideline framework
+The writing committee met several times, both in person and via several conference calls, to select the most
+important issues and questions of major interest to the
+clinician to be addressed in the clinical practice guidelines. A systematic review and meta-analysis was conducted by the Mayo Clinic Evidence Practice Center to
+address these questions, which will be reported separately in the Journal of Vascular Surgery. These ﬁve issues
+and questions were as follows:
+1. Is CEA recommended over maximal medical therapy
+for asymptomatic carotid stenosis in low surgical risk
+patients?
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+7S
+
+Volume 75, Number 1S
+
+2. Is CEA recommended over transfemoral (TF)-CAS for
+low surgical risk patients with symptomatic carotid
+artery stenosis of >50%?
+3. What is the optimal timing of carotid intervention in
+patients presenting with acute stroke?
+4. Screening for carotid artery stenosis in asymptomatic
+patients
+5. What is the optimal sequence for intervention in patients with combined carotid and coronary artery disease (CAD)?
+However, because several other important topics could
+not be covered in the clinical practice guidelines (eg,
+optimal modern medical therapy and risk factor modiﬁcation, transcarotid artery reconstruction [TCAR]), these
+topics were addressed in separate comprehensive implementation document, which will be used as a reference
+for further details regarding the treatment of patients
+with extracranial cerebrovascular disease.
+Each member of the committee was assigned responsibility for compiling information pertinent to a speciﬁc
+area of the document. These data were distributed to
+all members for review, and each area was subsequently
+discussed via conference calls. A consensus of the recommendation and level of evidence to support it was
+reached. Each recommendation in this document represents the unanimous opinion of the writing group.
+The committee used the GRADE (grades of recommendation assessment, development, and evaluation)
+approach to rate the certainty of evidence (conﬁdence
+in the estimates) and to grade the strength of the recommendations.18 This system, adopted by >100 other organizations, has been adapted by the SVS to express the
+level of certainty as A, B, and C, consistent with high, moderate, and low certainty; respectively. The GRADE system
+categorizes recommendations as strong (grade 1) or
+weak, also called conditional (grade 2) according to the
+certainty of the evidence, the balance between desirable
+and undesirable effects, patient values and preferences,
+and other decisional factors. Grade 1 recommendations
+are meant to identify practices for which the beneﬁt
+clearly outweighs the risk and can be adopted as a standard of care. Grade 2 recommendations are made when
+the beneﬁts and risks are more closely matched or less
+certain; a situation in which shared decision-making is
+critical. A detailed explanation of the GRADE approach
+has been previously presented to the vascular surgery
+community.19,20 The committee reached consensus for
+
+all the recommendations and the level of supporting
+evidence.
+Evidence synthesis
+The committee commissioned several systematic reviews, which will be reported separately in a document
+titled “Society for Vascular Surgery Technical Review Supporting Guidelines on the Management of Carotid Artery
+Disease.“14 The protocols and inclusion criteria for the reviews were determined a priori through collaboration
+between the committee and the Mayo Clinic EvidenceBased Practice Center. The questions selected for the
+present guidelines were speciﬁed using the PICO (population, intervention, comparison, outcomes) framework
+and chosen based on the daily clinical dilemmas
+encountered by patients and surgeons in practice.
+Patient-important outcomes were chosen for decisionmaking.21 Meta-analyses were conducted when
+appropriate.
+To make the guidelines more practical and helpful to
+clinicians, the committee drafted a second document
+to provide the implementation details and facilitate
+adoption and operationalization of the recommendations.22 The implementation document is not an SVS
+guideline and should be considered as best practice
+identiﬁed by the committee based on their knowledge
+of the reported data and their clinical expertise.
+Evidence to decision framework
+The guideline committee considered patient values
+and preferences and the feasibility and acceptability
+of the recommended interventions. The availability of
+surgical expertise and institutional experience were
+also factors that were considered when making the
+recommendations. Stroke prevention was considered
+the most critical outcome across all guideline questions, and the overall certainty of the evidence was
+dependent on the certainty for this outcome. The
+guideline committee made strong recommendations
+for the third question (timing of revascularization)
+despite the variable certainty of the direct evidence,
+based on additional indirect evidence and by placing
+greater value on avoiding the possibility of any worsening of neurologic deﬁcits. The strong recommendation against routine screening for average risk
+patients was determined by the lack of comparative
+studies showing improvement in outcomes with
+screening.
+
+Question 1: Is CEA recommended over maximal medical therapy for low surgical risk patients?
+Patients
+Asymptomatic low-risk
+patients with >70%
+internal carotid artery
+stenosis
+
+Intervention
+
+Comparison
+
+Outcomes
+
+CEA
+
+Maximal medical therapy
+
+Stroke and death at 1
+and 5 years
+
+Study
+design
+Randomized controlled trial
+
+8S
+
+AbuRahma et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+Evidence and rationale
+Several randomized controlled trials (RCTs) compared
+CEA and best medical therapy. The results of the ACAS
+(asymptomatic carotid atherosclerosis study)2 and ACST
+(asymptomatic carotid surgery trial)5 favored CEA in the
+treatment of low surgical risk patients with severe asymptomatic carotid artery stenosis. The ACAS, which randomized 1662 patients to immediate CEA vs medical therapy
+demonstrated the superiority of CEA over antiplatelet
+therapy alone for asymptomatic patients with carotid stenosis of >60% (5.1% for surgical patients and 11.0% for patients treated medically; aggregate risk reduction, 53%;
+95% conﬁdence interval [CI], 22%-72%).2 The ACAS recommended CEA for patients aged <80 years as long as
+the expected combined stroke and mortality rate for
+the individual surgeon was not >3%. The conclusions
+from the ACAS were supported by a subsequent larger
+RCT that had randomized 3120 patients to immediate
+CEA vs medical therapy.5 That trial also showed an advantage in limiting stroke and death at 5 years for CEA
+compared with maximal medical therapy (4.1% vs 10.0%;
+95% CI, 4.0%-7.8%). The long-term effectiveness of CEA
+for asymptomatic patients was conﬁrmed by the longterm results of the ACST, as reported by Halliday et al.23
+That trial had compared CEA and a medical arm, in which
+patients had primarily received antithrombotic and antihypertensive therapy. The results showed that the CEA
+arm (patients aged <75 years) experienced signiﬁcantly
+lower perioperative and 10-year stroke rates (13.3% vs
+17.9%).23 The strength of these conclusions has been questioned owing to the relatively modest absolute beneﬁts of
+CEA and the contention that the medical therapy arm did
+not reﬂect contemporary medical management.24,25 The
+question of whether modern medical therapy (including
+statins) is equivalent or superior to CEA or CAS has not
+yet been addressed by well-designed, appropriately
+funded, prospective, multicenter, and randomized trials.
+However, when the stroke rate of the patients receiving
+lipid-lowering medication in the ACST trial was analyzed,
+the patients who had undergone CEA with lipid-lowering
+medication had a lower stroke incidence compared with
+the medical therapy arm. However, the effect of CEA was
+not as great (0.7% vs 1.3% annually; P < .0001) for those
+receiving lipid-lowering therapy compared with 1.8% vs
+3.3% annually (P < .0001) for those not receiving lipidlowering therapy.23
+More recently, Howard et al26 conducted a prospective
+population-based cohort study (Oxford vascular study)
+and systematic review and meta-analysis to analyze the
+correlation between ipsilateral stroke and the degree of
+asymptomatic carotid stenosis in patients treated with
+contemporary best medical therapy. They enrolled 2354
+consecutive patients (2178 patients with carotid imaging
+studies), including 207 with 50% to 99% asymptomatic
+carotid stenosis. The ipsilateral stroke rate at 5 years for
+the patients with 70% to 99% carotid stenosis was
+
+14.6% (6 of 53) compared with 0% for the 154 patients
+with 50% to <70% stenosis (P < .0001). For patients
+with 80% to 99% carotid stenosis, the ipsilateral stroke
+rate was signiﬁcantly greater than that for those with
+50% to <80% stenosis: 5 of 34 (18.3%) vs 1 of 173 (1%;
+P < .0001). In their systematic review of 56 reports and
+13,717 patients, 23 studies provided data on ipsilateral
+stroke and the degree of asymptomatic carotid stenosis
+in 8419 patients. Ipsilateral stroke was also linearly associated with the degree of ipsilateral carotid stenosis (P <
+.0001). Patients with 70% to 99% carotid stenosis (386
+of 3778 patients) had a greater risk of ipsilateral stroke
+than those with 50% to <70% stenosis (181 of 3806 patients; odds ratio [OR] 2.1; P < .0001). They concluded
+that the beneﬁt of CEA might have been underestimated for patients with severe stenosis (>70%). In addition, the 5-year stroke risk was relatively low in those
+patients with <70% stenosis receiving contemporary
+best medical therapy.26
+Concerns have also been raised regarding whether the
+results of the previously described controlled trials could
+be attained in vascular surgical practice outside of clinical
+trials. Critics pointed out that these trials had been performed at centers of excellence and that the patients
+had been highly selected. However, subsequent reports
+of patients who would have been excluded from these trials suggested that the exclusion criteria did not falsely
+lower the complication rates. The combined stroke and
+death rates after CEA for patients deﬁned as high risk or
+eligible for high-risk carotid registries varied from 1.4% to
+3.6%, well within the American Heart Association guidelines.27-29 Similarly, studies of large National Surgical Quality Improvement Program, state, and Medicare databases
+of 4000 to 35,000 patients demonstrated stroke and
+death rates as low as 2.2%, with a maximum of 6.9%
+(symptomatic patients only), suggesting that the results
+that conform to national guidelines are achievable across
+large patient populations.7,30,31 The role of TF-CAS or transcervical carotid artery revascularization (TCAR) is even less
+clear because no completed studies have compared
+these treatments for patients with asymptomatic carotid
+stenosis against best medical therapy.
+Several upcoming, multicenter randomized trials have
+been designed to answer the role of modern pharmacologic therapy in the management of asymptomatic
+carotid stenosis. These trials include the SPACE-II
+(stent-protected angioplasty in asymptomatic carotid artery stenosis) study25 and CREST-2.32
+Recommendation 1.1: In low surgical risk patients
+with asymptomatic carotid bifurcation atherosclerosis
+and stenosis of >70% (documented by validated
+duplex ultrasound or computed tomography angiography [CTA]/angiography), we recommend CEA with
+best medical therapy over maximal medical therapy
+alone for the long-term prevention of stroke and death
+(grade IB).
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+9S
+
+Volume 75, Number 1S
+
+Question 2. Is CEA recommended over TF-CAS for low surgical risk patients with symptomatic carotid artery stenosis of
+>50%?
+Patients
+Symptomatic low-risk
+patients with >50%
+internal carotid artery
+stenosis
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+CEA
+
+TF-CAS
+
+Stroke, death, and
+myocardial
+infarction
+
+RCT
+
+30 days, >30 days, $5 years
+
+Evidence and rationale
+Once a patient with clinically signiﬁcant symptomatic carotid stenosis has been identiﬁed, appropriate treatment
+must be selected. Treatment is primarily directed at the
+reduction of stroke risk. In general, the rates of stroke,
+myocardial infarction (MI), and death have been used
+when comparing CAS against CEA. In most clinical trials
+comparing CAS with CEA, stroke, MI, and death have
+been given equal weight in determining a composite
+endpoint to test overall efﬁcacy. Data from the CREST (carotid revascularization endarterectomy vs stenting trial),9
+however, indicated that stroke has a more signiﬁcant effect
+on patients’ quality of life at 1 year than does nonfatal MI.
+Because the primary goal of intervention for carotid stenosis is stroke prevention, in developing the recommendations, the committee placed more emphasis on the
+prevention of stroke and procedurally related death than
+on the occurrence of periprocedural MI. This could have
+resulted in committee recommendations that differed
+from the reported results from some trials in which these
+three endpoints were given equal weight in the analysis.
+The threat of stroke in symptomatic patients with <50%
+stenosis has generally been considered to be small and
+typically will not warrant intervention. The ECST (European Carotid Surgery Trial) and NASCET (North American
+Symptomatic Carotid Endarterectomy Trial) demonstrated that CEA was unable to reduce the subsequent
+neurologic event rates in patients with symptoms of cerebral ischemia and bifurcation stenosis of <50% diameter
+reduction and was actually associated with increased
+morbidity compared with medical management.33-35
+NASCET and ECST both demonstrated the beneﬁt of
+CEA compared with maximal medical treatment for
+neurologically symptomatic patients with carotid stenosis with a reduced diameter of >50%.6,33-35 NASCET
+demonstrated a relative risk (RR) reduction of 65% and
+an absolute risk reduction in stroke of 17% at 2 years
+(26% in the medical arm vs 9% in the surgical arm) for
+patients with >70% carotid stenosis. ECST demonstrated
+a similar reduction in stroke risk after 3 years. The medical arm had a 26.5% stroke risk compared with 14.9% in
+the surgical group, an absolute risk reduction of 11.6%.
+In both studies, the risk of stroke in the medical arm
+and, therefore, the beneﬁt of CEA, increased with an
+increasing degree of stenosis. The results of these trials
+established CEA as the treatment of choice for patients
+
+with severe carotid stenosis and have been widely
+accepted throughout the medical community. The
+beneﬁt of CEA for those with stenosis of 50% to 69%
+was more moderated15.7% rate of stroke after CEA vs
+22.2% rate of stroke with medical therapy at 5 yearsdbut
+the difference was still statistically signiﬁcant.4
+CEA vs TF-CAS in symptomatic stenosis
+A number of trials have examined the role of TF-CAS in
+the management of neurologically symptomatic patients
+with >50% diameter stenosis. Several early trials such as
+SAPPHIRE (stenting and angioplasty with protection in
+patients at high risk for endarterectomy) of high surgical
+risk patients demonstrated overall equivalence of CAS
+and CEA in the management of carotid stenosis, although
+the number of symptomatic patients was too small for a
+subgroup analysis.36 Two large prospective randomized
+European trials, EVA-3S (endarterectomy vs angioplasty
+in patients with symptomatic severe carotid stenosis)11
+and SPACE1 (stent-supported percutaneous angioplasty
+of the carotid artery vs endarterectomy),12 examined the
+role of CAS vs CEA in neurologically symptomatic patients.
+EVA-3S showed statistically inferior 30-day outcomes for
+CAS compared with CEA. The 30-day incidence of any
+stroke or death was 3.9% after CEA (95% CI, 2.0-7.2) and
+9.6% after TF-CAS (95% CI, 6.4-14.0). The RR of any stroke
+or death after CAS compared with CEA was 2.5 (95% CI,
+1.2-5.1). The 30-day incidence of disabling stroke or death
+was 1.5% after CEA (95% CI, 0.5-4.2) and 3.4% after CAS
+(95% CI, 1.7-6.7); the RR was 2.2 (95% CI, 0.7-7.2). However,
+EVA-3S study was criticized because of the relatively low
+level of experience (minimum of 12 CAS cases or 35
+supra-aortic trunk cases, of which 5 were CAS procedures)
+required in the CAS arm. The SPACE trial was designed to
+test the “equivalence” between CEA and CAS for patients
+with neurologic symptoms. However, the trial was
+stopped after the recruitment of 1200 patients owing to
+the futility of proving equivalence between the two treatments. The rate of death or ipsilateral stroke at 30 days
+was 6.84% for CAS and 6.34% for CEA in for randomized
+patients. However, the study was not powered appropriately and failed to show the noninferiority of CAS
+compared with CEA (P < .09).12 More recently, two large
+randomized trials comparing CEA and TF-CAS for symptomatic patients were completed. The ICST (international
+carotid stenting study trial) enrolled 1713 patients and
+
+10S
+
+AbuRahma et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+demonstrated an increased periprocedural stroke risk
+with CAS (7.7%) compared with CEA (4.1%) in neurologically symptomatic patients.10 The observed difference
+was statistically signiﬁcant (P < .002). The rate of any
+stroke or death within 30 days after treatment in the
+CAS group was more than twice the rate recorded for
+the CEA group (7.4% vs 3.4%; P< .0004). In addition, the
+composite endpoint of stroke, death, and MI signiﬁcantly
+favored CEA (5.2%) vs CAS (8.5%; P < .006). These ﬁndings
+were similar to those for the symptomatic patients
+enrolled in the CREST (carotid revascularization endarterectomy vs stenting trial).9 In the CREST, the periprocedural rate of stroke and death was signiﬁcantly greater
+after TF-CAS than after CEA for symptomatic patients
+(6.0% 6 0.9% vs 3.2% 6 0.7%; hazard ratio [HR], 1.89;
+95% CI, 1.11-3.21; P < .02). The rate of MI was lower after
+CAS than after CEA for symptomatic patients (1.0% 6
+0.4% vs 2.3% 6 0.6%; HR, 0.45; 95% CI, 0.18-1.11; P < .08);
+however, the differences were not signiﬁcant. The CSTC
+(Carotid Stenosis Trialists’ Collaboration) performed a
+meta-analysis of 4754 patients from the four randomized
+trials comparing CEA and TF-CAS. These investigators
+demonstrated a CEA vs TF-CAS periprocedural HR of 1.61
+(95% CI, 0.90-2.88), in favor of CEA for patients aged 65
+to 69 years and an HR of 2.09 (95% CI, 1.32-3.32) for patients aged 70 to 74 years.37 If octogenarians (>80 years)
+were removed from the data to allow the CREST ﬁndings
+to be compared with those from other trials in which such
+patients were not enrolled, the results demonstrated that
+the 30-day stroke and death rate was signiﬁcantly lower
+for patients undergoing CEA (2.6% 6 0.7% for CEA and
+5.6% 6 1.0% for CAS; P ¼ .006).37 The pooled analysis of
+30-day outcomes of stroke and death were lower for
+symptomatic patients treated with CEA vs TF-CAS14 (Fig 1).
+The long-term outcomes of CAS vs CEA for symptomatic patients were examined using a preplanned pooled
+analysis of individual patient data from the EVA-3S,
+SPACE, ICSS, and CREST studies.38 These four trials randomized a total of 4754 symptomatic patients with
+>50% internal carotid artery stenosis. The median length
+of follow-up was 2 to 6.9 years. The risk of stroke or death
+within 120 days of the index procedure was 5.5% for CEA
+and 8.7% for CAS (risk difference, 3.2%; 95% CI, 1.7-4.7). After the periprocedural period of 120 days, no differences
+were found in the annual rate of late ipsilateral stroke
+(annual event rate, 0.60% for CEA vs 0.64% for CAS).
+These ﬁndings lend support that both procedures have
+similar durability, although the long-term outcomes
+have continued to favor CEA owing to the lower periprocedural stroke and death rate (Figs 2 and 3).
+Concern might exist regarding whether the data from
+RCTs of CEA and CAS can be extrapolated to real world
+experience. In general, those performing CAS in these trials were highly experienced and rigorously adjudicated
+before being allowed to enroll patients. In a review of
+physicians treating Medicare beneﬁciaries with
+
+Fig 1. Thirty-day death and stroke. CAS, Carotid artery
+stenting; CEA, carotid endarterectomy; CI, conﬁdence interval; RR, relative risk.
+
+CAS, <10% of physicians would have met the criteria to
+participate in the CREST owing to a lack of volume or a
+high complication rate.39 It is unclear whether results
+similar to those from RCTs will be obtained for CAS by
+operators who might be less experienced or for patients
+who would not be eligible for clinical trials. Nolan et al40
+reviewed data from the Vascular Study Group of New England and showed a higher rate of stroke and death for
+symptomatic patients treated with CAS compared with
+those treated with CEA (5.1% with CAS vs 1.6% with
+CEA; P ¼ .001). Similarly, Hicks et al41 studied almost
+52,000 carotid procedures in the VQI and found that
+for symptomatic high-risk patients (determined using
+Medicare criteria), the risk of stroke and death after
+CEA was 2.3% compared with 3.6% after CAS (P < .001).
+The difference in the stroke rate was twofold greater for
+CAS in both the general population and the
+propensity-matched patient cohorts (HR, 2.23; 95% CI,
+1.58-3.15; P < .001).41 The lower stroke and death rates
+observed in registries includes only in-hospital events
+and, as such, could be lower than those observed in clinical trials that use 30-day event rates and mandatory
+postprocedure
+evaluations
+by
+an
+independent
+neurologist.
+Timing of CEA. Increasing evidence has shown that
+CEA provides maximum beneﬁt if performed
+in <14 days for patients presenting with TIA or amaurosis
+fugax.17 Natural history studies reported that the incidence of recurrent symptoms after the index TIA ranges
+from 5% to 8% at 48 hours, 4% to 17% at 72 hours, 8% to
+22% at 7 days, and 11% to 25% at 14 days.17
+Transcarotid artery revascularization
+Early data suggested that TCAR might have a role in the
+treatment of patients with symptomatic carotid occlusive disease. Studies have shown that TCAR results in a
+similar rate of infarcts using diffusion-weighted imaging
+(DWI) on postprocedure magnetic resonance imaging
+compared with CEA and that TF-CAS is associated with
+a two-to threefold greater rate of DWI.42 Up to 50% of
+the infarcts on DWI and strokes that occur after TF-CAS
+were contralateral, suggesting arch pathology as the etiology.43 Two recent trials, ROADSTER-1 (safety and efﬁcacy study for reverse ﬂow used during carotid artery
+stenting procedure) and ROADSTER-2 (post-approval
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+11S
+
+Volume 75, Number 1S
+
+Fig 2. Five-year risk of death. CAS, Carotid artery stenting;
+CEA, carotid endarterectomy; CI, conﬁdence interval; RR,
+relative risk.
+
+Fig 3. Five-year risk of any stroke. CAS, Carotid artery
+stenting; CEA, carotid endarterectomy; CI, conﬁdence interval; RR, relative risk.
+
+cranial nerve injury and shorter hospital stays. The effect
+of developing a TCAR program on overall carotid revascularization outcomes was examined by Columbo et al.49
+They compared the risk of major adverse cardiovascular
+events (MACE), deﬁned as stroke, death, and MI, in centers
+that performed only CEA vs the risk of MACE in centers
+that performed both CEA and TCAR. At 1 year, the incidence of MACE was 10% lower at the centers that performed both TCAR and CEA vs CEA alone (OR, 0.9; 95%
+CI, 0.81-0.99; P ¼ .04).49 Although these studies appear
+promising and have been supported by a clinical competency statement from the SVS,50 it is important to
+remember that to date the vast majority of TCAR procedures have been performed in patients at high anatomic or
+medical risk for CEA and the data at present are inadequate to make a recommendation on the role of TCAR
+for low surgical risk patients with symptomatic carotid
+stenosis. In summary, TCAR is superior or preferable to
+TF-CAS or CEA for patients with high anatomic and/or
+physiologic surgical risk (more detail provided in the
+Implementation Document).
+Recommendation 2.1.: We recommend CEA over TFCAS for low- and standard-risk patients with >50%
+symptomatic carotid artery stenosis (grade IA).
+
+Question 3. What is the optimal timing of carotid intervention in patients presenting with acute stroke?
+Patients
+Patients presenting
+with stroke with
+>50% ipsilateral
+carotid stenosis
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+Urgent CEA or CAS
+
+Early vs delayed
+intervention
+
+Patients with
+Rankin scale score
+of #2 will beneﬁt
+from early
+intervention
+
+Retrospective
+
+CEA #48 hours,
+1 week, 2 weeks,
+and 6 weeks after
+index event
+
+study of transcarotid artery revascularization in patients
+with signiﬁcant carotid artery disease) have been
+completed.44-46 The incidence of 30-day stroke in the
+symptomatic per protocol patients in both trials was
+0.6% in each trial. No deaths occurred in the per protocol
+symptomatic patients in ROADSTER-2 for a combined
+30-day stroke and death rate of 0.6%.44,45 A more recent
+study examined 3286 propensity-matched patients from
+the VQI and demonstrated a signiﬁcantly lower incidence of in-hospital stroke and death for the patients
+treated with TCAR vs TF-CAS (1.6% vs 3.1%; RR, 0.51; 95%
+CI, 0.37-.72).47 No difference was found in MI between
+the groups. Finally, Malas et al48 examined a more recent
+cohort of patients from the VQI Transcarotid Revascularization Project. These investigators propensity score
+matched 6384 pairs of patients who had undergone
+either TCAR or CEA. In this cohort, 3333 symptomatic patients were compared.48 No differences were found in the
+in-hospital stroke and death rates between the symptomatic patients undergoing TCAR vs CEA (2.2% vs 2.6%; P ¼
+.46), and TCAR was associated with a lower incidence of
+
+Evidence and rationale
+Acute stroke is often associated with intracranial
+thrombosis or embolization. Thus, a major management goal is to identify those patients with intracranial
+occlusions and to reperfuse the ischemic brain as
+rapidly as possible. Primarily, therapy should be directed
+at the intracranial occlusion that affects a signiﬁcant
+amount of the vasculature and resultant brain at risk.
+Only w15% of patients with acute stroke will present
+within the 6-hour window for acute intervention. However, as techniques and diagnosis have improved, neurointerventionalists have expanded this therapeutic
+window.
+Many patients present outside this 6-hour therapeutic
+window. Intervention for these patients is directed at
+the carotid bifurcation rather than the intracranial circulation, with the goal of preventing recurrent events rather
+than re-establishing intracranial ﬂow in the occluded
+arteries.
+However, for patients with acute stroke who present
+obtunded or severely neurologically debilitated, it is
+
+12S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+often necessary to delay CEA because they could have a
+greater risk of hemorrhagic transformation of an infarct
+or intracerebral hemorrhage. Patients with a signiﬁcant
+neurologic deﬁcit (modiﬁed Rankin scale score >2),
+with an area of infarction >30% of the middle cerebral
+artery territory and those with altered consciousness
+should not undergo CEA until signiﬁcant neurologic
+improvement has occurred. Factors that have been
+found to inﬂuence outcomes include the extent of
+hemispheric involvement, the time to the initiation of
+therapy, time to perfusion, patient age, blood glucose,
+and female sex. The most important of these appears
+to be the degree of hemispheric involvement (<30% of
+middle cerebral artery by volume), time to reperfusion,
+and age.51-53
+Patients with an acute ﬁxed deﬁcit of >6 hours’ duration and a mild to moderate deﬁcit can be considered
+for carotid intervention after a period of medical stabilization. Waiting >14 days could increase the risk of recurrent neurologic events by 10% to 20%.54
+Numerous series have documented the safety of early
+CEA (0-14 days after the index event). In a single-center
+series, Sharpe et al55 reported a 30-day death and stroke
+rate of 2.4% when patients had undergone CEA within
+48 hours of symptom onset. Other registry data from Germany, Sweden, the United States, and single-series reports from the United States have shown equally good
+results for CEA performed within the ﬁrst week but not
+within the ﬁrst 48 hours.56-59 In an analysis of the VQI of
+8408 patients, the results were comparable among the
+patients who had undergone surgery after 48 hours
+but <14 days after stroke and those who had undergone
+surgery >14 days after the index event.59 When the cohorts were stratiﬁed by 3 to 8 days and 8 to 14 days, the
+multivariate analysis demonstrated that performing
+CEA at 3 to 7 days after stroke was protective for postoperative stroke/death (P ¼ .003) and any postoperative
+complication (P ¼ .028). The investigators concluded
+that surgery should be delayed for $48 hours after acute
+stroke and should be performed within 14 days after the
+stroke.59 Avgerinos et al60 corroborated these data, suggesting CEAs performed 2 to 5 days after the index
+neurologic event will have outcomes similar to the outcomes of CEAs performed later.
+These ﬁndings conﬁrmed the results of an analysis of
+the Swedish Vascular Registry, including 2596 patients
+who had undergone CEA for symptomatic carotid stenosis, including stroke. The combined stroke/death
+rate was 11.5% among those who had undergone
+
+surgery within the ﬁrst 2 days of the neurologic event
+compared with 3.6%, 4.0%, and 5.4% among those
+who had undergone CEA at 3 to 7, 8 to 14, and 15 to
+180 days after the acute neurologic event, respectively.
+A multivariate analysis demonstrated that patients
+who underwent CEA within the ﬁrst 2 days after an
+acute neurologic event experienced a relative OR of
+4.24 (95% CI, 2.07-8.70; P < .001) for perioperative complications compared with those undergoing surgery
+within 3 to 7 days.58 These data were corroborated by
+Hasan et al14 in their meta-analysis concerning the
+timing of the intervention after index stroke. Avgerinos
+et al60 demonstrated an increased risk of complications
+if CEA were performed within 48 hours of the index
+event (RR, 2.3053) for stroke but no difference between
+2 and 14 days. This short delay could allow for a more
+complete patient evaluation and to allow the symptoms
+to stabilize and plateau.
+The preponderance of evidence indicates that CEA performed early (<2 weeks) after an acute stroke is preferable
+to a delay of 4 to 6 weeks to CEA.61-67 The data on CAS in
+the setting of acute stroke are scant, even in the recent
+meta-analysis by Hasan et al.14 Most reports were based
+on anecdotal studies; thus, we could not draw any signiﬁcant conclusions regarding the beneﬁts of CAS for acute
+strokes with carotid-based lesions. At present, CEA is the
+procedure of choice for patients with stable strokes and
+>50% carotid bifurcation stenosis.
+Recommendations for management of acute neurologic syndrome
+3.1: For patients with a recent stable stroke (modiﬁed
+Rankin scale score, 0-2), we recommend carotid revascularization for symptomatic patients with >50% stenosis to be performed as soon as the patient is
+neurologically stable after 48 hours but deﬁnitely
+before 14 days after the onset of symptoms (grade IB).
+3.2: For patients undergoing revascularization within
+the ﬁrst 14 days after the onset of symptoms, we
+recommend CEA rather than CAS (grade IB).
+3.3: We recommend against revascularization,
+regardless of the extent of stenosis, for patients who
+have experienced a disabling stroke, have a modiﬁed
+Rankin scale score of $3, whose area of infarction is
+>30% of the ipsilateral middle cerebral artery territory, or who have altered consciousness to minimize
+the risk of postoperative parenchymal hemorrhage.
+These patients can be reevaluated for revascularization later if their neurologic recovery is satisfactory
+(grade IC).
+
+Question 4A. Is screening for asymptomatic carotid stenosis recommended in the general population?
+Patients
+General population
+with no symptoms of
+cerebrovascular
+disease
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Screening for carotid artery disease with Duplex
+ultrasound
+
+No screening
+
+Prevalence of $50% carotid
+stenosis and incidence of
+stroke or death related to
+carotid disease
+
+Any
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+13S
+
+Volume 75, Number 1S
+
+Evidence and rationale
+No consensus has been reached on which patient populations should undergo carotid screening for the detection of asymptomatic carotid disease, and no direct
+evidence is available on the beneﬁts of screening
+regarding the actual outcomes of future stroke. The
+rationale behind screening for asymptomatic disease
+has been determined by the assumptions that unheralded stroke is often the ﬁrst symptom of signiﬁcant carotid atherosclerosis and that the medical, surgical, or
+endovascular treatment of identiﬁed severe carotid artery stenosis can prevent future cerebral infarction. The
+efﬁcacy of screening is directly related to the prevalence
+of disease in the designated population. Screening has
+been found to reduce the risk of stroke in a costeffective manner when the prevalence of signiﬁcant stenosis is $20%.68 However, with a prevalence of <5% in
+the general population,68,69 screening does not appear
+to reduce the stroke risk and might, in fact, be harmful
+if it leads to inappropriately performed invasive procedures. In addition, the rate of false-positive carotid Duplex
+ultrasound ﬁndings could be increased in a population
+with such a low prevalence of disease.70 Because of the
+relatively low prevalence of disease, widespread
+screening of the general population, therefore, is clearly
+not indicated. This position is supported by multiple professional organizations, including the National Stroke Association, Canadian Stroke Consortium,71,72 and the U.S.
+Preventive Services Task Force.70
+Recommendation 4.1: We recommend against the
+routine screening for clinically asymptomatic carotid
+artery stenosis for individuals without cerebrovascular
+symptoms or signiﬁcant risk factors for carotid artery
+disease (grade IB).
+
+Therefore, speciﬁc high-risk asymptomatic populations
+have been proposed as appropriate for carotid screening.
+The American Stroke Association/American Heart Association Stroke Council concluded that screening of
+highly selected populations might be of beneﬁt.73 Multiple societies, including the American College of Cardiology Foundation and others, have recommended
+screening for asymptomatic patients with a carotid bruit
+found on physical examination and for those for whom
+coronary artery bypass grafting (CABG) is planned.74 The
+SVS has advocated for consideration of carotid artery
+screening of high-risk patients aged $55 years with cardiovascular risk factors.75
+Several groups have attempted to further reﬁne and
+identify the population subsets for whom the prevalence
+of carotid stenosis is $20%, which would possibly justify
+screening of asymptomatic patients. In a report of a
+single-institution screening program, a model identifying
+patients at high risk of $50% asymptomatic stenosis was
+proposed. The patients screened were >60 years old and
+had had one or more of the following risk factors: hypertension, CAD, current cigarette smoking, and/or a
+ﬁrst-degree family member with a history of stroke. The
+prevalence of signiﬁcant stenosis was only 2% if none of
+these risk factors were present but increased dramatically with the coexisting presence of additional risk factors. The prevalence of carotid stenosis was 14% with
+two risk factors, 16% with three risk factors, and 67%
+with four risk factors.76 In another analysis from the
+same institution, patients with both hypertension and
+known cardiac disease of any type had a prevalence of
+carotid stenosis of $50% of 22.1%.77
+Similarly, a report from the Western New York stroke
+screening program identiﬁed the following variables to
+
+Question 4B. Is screening for carotid stenosis recommended for high-risk asymptomatic patients?
+Patients
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+Patients with
+signiﬁcant risk factors
+for carotid
+atherosclerosis but
+no symptoms of
+cerebrovascular
+disease
+
+Screening for
+carotid artery
+disease with
+Duplex
+ultrasound
+
+No screening
+
+Prevalence of $50% carotid stenosis and incidence of stroke or death
+related to carotid
+disease
+
+Any
+
+Patients with atherosclerotic risk factors,
+peripheral arterial disease, AAA, CAD, audible
+neck bruit, previous
+radiotherapy to the
+neck, ﬁndings of cerebral infarction on brain
+imaging studies
+
+Evidence and rationale
+Atherosclerotic risk factors and medical comorbidities predisposing toward an increased prevalence of
+carotid artery stenosis. Screening has been found to
+reduce the risk of stroke in a cost-effective manner
+when the prevalence of signiﬁcant stenosis is $20%.68
+
+be associated with $60% carotid stenosis: age
+$65 years (OR, 4.1), current smoking (OR, 2), CAD (OR,
+2.4), and hypercholesterolemia (OR, 1.9).78 Patients undergoing coronary artery bypass surgery were noted to have
+a prevalence of signiﬁcant carotid stenosis of 8%. The
+American College of Cardiology/American Heart
+
+14S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+Association guidelines noted that screening before
+CABG is probably indicated for the following subset of
+patients: age $65 years; the presence of left main coronary artery stenosis; a history of smoking, a history of
+TIA, stroke, or carotid bruit; and known peripheral arterial
+disease (PAD).78 Based on these and other reports, the
+SVS does advocate carotid artery screening for high-risk
+patients aged $55 years with appropriate cardiovascular
+risk factors.75,79
+Other investigators have noted that the prevalence of
+occult carotid stenosis is increased in those with diabetes
+compared with those without diabetes (8.7% vs 2.8%; P <
+.01)80 and in patients requiring hemodialysis and undergoing tunneled catheter placement (9.8%).81 In a study of
+1500 subjects speciﬁcally recruited for carotid screening,
+the overall prevalence of signiﬁcant stenosis was 5.2%.
+The independent predictors of an increased prevalence
+of carotid stenosis included hypertension, diabetes mellitus, cigarette smoking, hypercholesterolemia, and a
+family history of stroke.82 One investigator reported that
+screening of asymptomatic patients is appropriate if
+they were aged $60 years and had three or more traditional atherosclerotic risk factors.83
+However, few direct comparative studies have evaluated the efﬁcacy of screening with respect to the actual
+clinical outcomes of stroke or death. Most reported
+studies have used the prevalence of signiﬁcant carotid
+stenosis in the studied populations as the actual
+outcome measure. In a report by Berens et al,84 >1000
+patients aged $65 years who were undergoing cardiac
+surgery were screened with carotid duplex ultrasound
+scans before surgery. The prevalence of disease was
+17% for those with $50% stenosis and 5.9% those with
+$80% stenosis. Using multivariate analysis, ﬁve variables
+were found to be signiﬁcant independent predictors of
+$80% stenosis: female sex, peripheral vascular disease,
+a history of TIA or stroke, a positive smoking history,
+and the presence of left main coronary disease. If all patients with at least one of those risk factors were
+screened, the mathematical model predicted that 95%
+of the patients with $80% stenosis would be identiﬁed
+before their cardiac operation.84
+Lin et al85 reported the outcomes of 3233 patients
+who had undergone cardiac surgery. They performed
+comparisons between those who had undergone preoperative carotid duplex ultrasound scanning (n ¼
+515) and those who had not (n ¼ 2718). No difference
+was found in the risk factors or a history of previous
+TIA between the two cohorts. Among the patients
+who had undergone screening with ultrasound before
+isolated CABG (n ¼ 306), the incidence of signiﬁcant
+disease was relatively low: 25 (8.2%) had had unilateral
+moderate (50%-69%) stenosis, 10 (3.3%) bilateral moderate stenosis, 9 (2.9%) unilateral severe (70%-99%) stenosis, 2 (0.7%) bilateral severe stenosis, 5 (1.6%)
+unilateral total occlusion, and 1 (0.3%) bilateral total
+
+occlusion. The outcomes regarding perioperative mortality and stroke did not differ between those who
+had and those who had not undergone duplex ultrasound. Operative intervention of severe carotid stenosis
+before CABG was performed in 2 of 17 patients identiﬁed (11.8%).85
+When the results of these two studies were combined
+in a systematic review and meta-analysis, screening in
+these deﬁned populations did reveal a beneﬁt with regard to the mortality outcome and less so for the stroke
+outcome (Fig 4). Additionally, the systematic review
+revealed that certain patient cohort populations might
+be expected to have an approximate prevalence of
+$20% of signiﬁcant carotid artery stenosis even if asymptomatic, making them appropriate to consider for
+screening (Fig 5)14:
+Patients with current cigarette smoking
+Patients with hypertension and CAD
+d Patients with renal failure and diabetes, hypertension,
+or CAD
+d Patients with hypertension, hypercholesterolemia, and
+CAD
+d
+d
+
+Subgroups
+Patients with PAD. Patients with lower extremity PAD
+have an increased prevalence of carotid artery stenosis
+and might beneﬁt from screening.86,87 The prevalence
+of $60% carotid artery stenosis in patients with symptomatic lower extremity PAD is likely $20% and was
+nearly 25% in one epidemiologic study.87
+Multiple studies have conﬁrmed the high prevalence of
+carotid artery stenosis in patients with lower extremity
+PAD.86,88-97 In one study of >400 patients with PAD undergoing surgery, patients with occult carotid stenosis
+were also noted to have an increased risk of stroke in
+the postoperative period.96 In that study, the risk of stroke
+in patients with symptomatic high-grade stenosis was
+ameliorated by performing CEA either before or simultaneously with the designated arterial bypass surgery.96
+However, it has generally been accepted that if carotid
+stenosis is asymptomatic, intervention for critical limb
+ischemia can proceed before consideration of carotid
+revascularization. Nevertheless, carotid screening for patients with lower extremity PAD is clearly appropriate,
+considering the markedly increased risk of occult disease.
+Patients undergoing coronary artery bypass surgery.
+Multiple reports have documented a markedly increased
+prevalence of occult carotid artery stenosis in patients
+with CAD, especially in those undergoing coronary artery
+bypass surgery.84,85,98-107 Two direct comparative studies
+regarding screening of CABG patients using the actual
+outcomes of stroke and death have been previously
+discussed in detail.84,85,98-107 An increased prevalence of
+carotid stenosis has also been documented in patients
+undergoing coronary angioplasty.108 Among patients
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+15S
+
+Volume 75, Number 1S
+
+Fig 4. Comparative studies. CI, Conﬁdence interval; RR,
+relative risk.
+
+undergoing coronary artery bypass, the presence of a
+carotid bruit and diabetes mellitus increased the predictive value.104 Additionally, carotid stenosis in coronary
+bypass patients has been noted to be a risk factor for
+perioperative stroke.104 Considering the prevalence of
+occult carotid disease, carotid screening for patients
+undergoing coronary artery bypass is believed to be
+appropriate. However, the evidence in favor of screening
+for patients with documented CAD without plans for
+coronary artery bypass procedures is less robust.
+Asymptomatic patients with an audible carotid
+bruit. The ﬁnding of an audible bruit in the neck is
+believed to be a sign of turbulent blood ﬂow at the bifurcation and of carotid artery atherosclerosis. However, this
+physical ﬁnding is not particularly speciﬁc or sensitive for
+clinically signiﬁcant carotid artery stenosis. In a reported
+meta-analysis of studies describing the relationship between carotid bruit and carotid stenosis, 28 prospective
+cohort studies involving >17,000 patients were
+analyzed.109 The stroke rate was 1.6 per 100 patient-years
+for those with bruits compared with 1.3 per 100 patientyears for those without carotid bruits. Thus, the
+presence of a carotid bruit likely increases the risk of
+cerebrovascular disease and, therefore, might justify
+screening of otherwise asymptomatic patients.
+In the Northern Manhattan study, the presence of
+$60% carotid stenosis was 2.2%, and the presence of a
+carotid bruit was 4.1% among 686 asymptomatic subjects.110 The positive predictive value of an ipsilateral carotid bruit was 25%, and the negative predictive value
+was 99%. The sensitivity, speciﬁcity, and overall accuracy
+was 56%, 98%, and 97.5%, respectively. However, in
+another observational study of >1500 patients who had
+undergone carotid ultrasound speciﬁcally because of
+the presence of an audible bruit, 31% had had signiﬁcant
+($50%) stenosis.111 However, for the patients with 50% to
+
+99% carotid stenosis, the presence of a carotid bruit had
+an accuracy of 75%, sensitivity of 71%, speciﬁcity of 81%,
+and positive likelihood ratio of 3.65. Therefore, although
+carotid bruits are not necessarily accurate enough to
+conﬁrm or exclude the presence of signiﬁcant carotid
+stenoses, these signs are thought to be an appropriate
+indication for further directed screening with carotid
+duplex ultrasound, especially if the carotid bruit is noted
+in a patient with other atherosclerotic risk factors.
+Asymptomatic patients with previous neck irradiation. With the increased use and success of radiotherapy
+to treat head and neck malignancies, the survival of patients with these diseases has achieved remarkable progress.112 Vascular injury and carotid stenosis have received
+increased attention. Patients who have undergone neck
+irradiation >5 years earlier have an eight times greater
+risk of developing carotid stenosis compared with those
+with a postradiotherapy interval of <5 years. Severe
+postradiotherapy carotid stenosis is also associated with
+older age, smoking, and heart disease. Patients who have
+undergone radiotherapy of the head and neck might
+have a prevalence of signiﬁcant carotid stenosis that
+would justify screening in asymptomatic patients.113 The
+greatest incidence of carotid stenosis was noted
+w15 years after radiation exposure, with ipsilateral rates
+of stenosis as high as 21.3%.15,113,114 Unlike typical
+atherosclerotic disease, which often involves only the
+carotid bifurcation, the distribution of radiation-induced
+carotid disease can also involve the proximal common
+carotid arteries. The presence of extensive proximal disease would have obvious implications for surgical or
+endovascular treatment of such lesions, if indicated.
+It has been proposed by some that patients with previous radiotherapy should undergo screening duplex evaluations even in the absence of clinical cerebrovascular
+symptoms.114 However, the optimal timing and frequency of such screening are undeﬁned, and this
+concept has not been universally accepted. The evidence
+does not appear to be sufﬁcient to recommend routine
+screening for asymptomatic patients with previous
+neck radiotherapy in the absence of other deﬁned risk
+factors.
+Patients with abdominal aortic aneurysms. Although
+patients with PAD and severe CAD are clearly at greatly
+increased risk of having occult carotid artery stenosis,
+the correlation in patients with abdominal aortic aneurysms (AAAs) is not as robust. The prevalence of carotid
+stenosis of $70% was 8.8% in a population of patients
+with AAAs compared with 12.5% in a cohort of PAD patients.115 In a prospective study of patients with AAAs,
+the prevalence of asymptomatic carotid stenosis of
+$70% was 10.8%.116 No correlation was noted between
+the size of the AAA and the degree or presence of carotid
+
+16S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+Fig 5. Noncomparative studies (yield of screening for carotid stenosis cases based on risk factor). CAD, Coronary
+artery disease; CI, conﬁdence interval; DM, diabetes mellitus; HTN, hypertension; Hyperchol, hypercholesterolemia,
+PAD, peripheral artery disease; RF, renal failure.
+
+stenosis. In an additional report of 332 patients with AAA
+who had undergone carotid duplex ultrasound scans, a
+greater prevalence of carotid stenosis was noted, with
+30.4% found to have $50% stenosis in one or both carotid arteries.117 However, several additional studies have
+revealed the prevalence of carotid stenosis in patients
+with AAAs to be <20%.118 Clearly, the correlation of carotid atherosclerosis with isolated abdominal aneurysmal disease is not thought to be as signiﬁcant as the
+relationship with coronary and lower extremity atherosclerotic occlusive disease. Therefore, routine screening
+for carotid stenosis in asymptomatic patients with AAAs
+but without other deﬁned high-risk factors is not
+recommended.119
+Patients with clinically occult cerebral infarction or
+high-risk factors on brain imaging. Finally, asymptomatic patients in whom brain imaging has identiﬁed cerebral infarction despite the absence of any corresponding
+history of neurologic symptoms represent a population
+that might beneﬁt from imaging of the carotid artery.
+An increased subsequent stroke rate of 4.4% in patients
+with 60% to 79% initially asymptomatic stenosis has
+been reported if a silent infarct was identiﬁed on brain
+imaging studies.120 Therefore, screening is generally recommended for patients with asymptomatic cerebral
+infarctions.120 The detection of cerebral emboli using
+transcranial Doppler (TCD) studies also had a high positive predictive value to identify asymptomatic patients at
+high risk of stroke. The patients with two or more
+microemboli per hour on TCD studies had a markedly
+
+increased risk of 1-year ipsilateral ischemic stroke
+compared with patients with asymptomatic carotid
+stenosis without TCD-detected microemboli (15.6% vs
+1.0%, respectively; P < .0001).121 However, at present, it is
+unclear how this technology might be practically applied
+to all asymptomatic patients with known carotid
+stenosis.
+Recommendation 4.2 In selected asymptomatic patients who are at an increased risk of carotid stenosis,
+we suggest screening for clinically asymptomatic carotid artery stenosis, especially if patients are willing
+to consider carotid intervention if signiﬁcant stenosis
+is discovered (grade 2B). These high-risk groups include
+Patients with lower extremity PAD
+Patients undergoing coronary artery bypass surgery
+d Patients aged $55 years with at least two traditional
+atherosclerotic risk factors
+d Patients aged $55 years and active cigarette smoking
+d Patients with diabetes, hypertension, or CAD
+d Patients with clinically occult cerebral infarction noted
+on brain imaging studies
+d
+d
+
+Additional remarks.
+1. In these patient cohorts, the presence of a carotid
+bruit increases the likelihood of detecting signiﬁcant
+stenosis
+2. Asymptomatic individuals with an AAA or previous
+radiotherapy to the neck who do not meet the criteria
+for any of the high-risk groups noted above do not
+require screening
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+17S
+
+Volume 75, Number 1S
+
+Question 4C. What imaging test is best for screening for carotid stenosis in asymptomatic patients?
+Patients
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Asymptomatic patients
+undergoing
+screening for carotid
+stenosis
+
+Imaging study
+
+Duplex ultrasound or
+other imaging study
+(CTA, magnetic resonance angiography)
+
+Sensitivity and speciﬁcity
+in identiﬁcation of $50%
+and $70% carotid
+stenosis
+
+Any
+
+Evidence and rationale
+The most important features of imaging of carotid bifurcation disease are the degree of stenosis and the character
+of the plaque.2,6,15,33,122 A greater degree of stenosis is generally thought to represent a progressively increased risk of
+future stroke.6,33 However, plaque morphology also clearly
+plays a signiﬁcant role.122 The morphologic features of the
+plaque likely related to the risk of future stroke include heterogeneity, measurement of plaque area and juxtaluminal
+black area, gray-scale median, and echogenicity.
+Duplex ultrasound is safe, accurate, and reliable.
+Because it is heavily dependent on technique, it should
+be performed in an accredited ultrasound laboratory.15
+Duplex ultrasound is the ﬁrst-line imaging modality for
+carotid artery imaging, screening, and the identiﬁcation
+of patients with 70% to 99% stenosis of the internal carotid artery.75,123 The rationale for the widespread use of
+Duplex ultrasound include its low cost, ease of performance, and robust sensitivity (85%-92%) and speciﬁcity
+(84%).123,124 Consensus ultrasound criteria for diagnosing
+the varying degrees of carotid artery stenosis have been
+extensively developed, widely used, and validated.125
+Duplex ultrasound also has the ability to evaluate features of plaque morphology that might indicate patients
+with a high risk of stroke.122
+Determination of the degree of carotid stenosis is determined by an analysis of the hemodynamic parameters obtained from Doppler ultrasound analysis, including the
+peak systolic and end-diastolic velocities. The ultrasound
+criteria for the degree of carotid stenosis should be deﬁned
+by the angiographic and imaging correlation in each
+vascular laboratory. The most commonly recognized
+consensus criteria include a cutoff peak systolic velocity of
+the internal carotid artery of $125 cm/s to denote angiographic stenosis of $50%. A combination of peak systolic
+velocity of 230 cm/s and an end-diastolic velocity of
+$100 cm/s or a peak systolic velocity ratio between the internal and common carotid artery of $4 can be used to predict a stenosis of $70%.126 Using these criteria, the reported
+sensitivity, speciﬁcity, and accuracy of duplex ultrasound in
+predicting 50% to 69% or $70% stenosis were 93%, 68%,
+
+and 85% and 99%, 86%, and 95%, respectively.125 The major
+limitations of duplex ultrasound include its dependence on
+a skilled operator and its inability to completely image the
+proximal and intracranial vasculature. Certain anatomic
+features can also reduce the accuracy of duplex ultrasound
+imaging, including severe vascular calciﬁcation and arterial
+tortuosity.15
+At present, contrast-enhanced magnetic resonance
+angiography (MRA) can provide three-dimensional images that can rival those of formal arteriography.75 Its
+main advantages include the absence of radiation and
+the avoidance of iodinated-based contrast materials.
+Additionally, MRA can be combined with magnetic resonance imaging of the brain, delineating clinically silent
+cerebral infarction. It can also evaluate plaque
+morphology, in particular, the presence of intraplaque
+hemorrhage.127 Contraindications include the presence
+of metallic implants, including some pacemakers and
+deﬁbrillators. MRA has no role, however, in screening for
+carotid artery disease, owing to its considerable expense.
+Multidimensional CTA can be used to rapidly and accurately evaluate soft tissue, bone, and vascular structures
+simultaneously. It is also able to evaluate the extent of vessel
+calciﬁcation, especially in the aortic arch. CTA is less likely to
+overestimate the severity of carotid stenosis compared
+with MRA.15,75 The requirement for radiation and the use
+of contrast remain its most signiﬁcant limitations. CTA is
+not appropriate for screening purposes, because of its signiﬁcant cost and the degree of radiation exposure.75
+Catheter arteriography was previously considered the
+reference standard in the evaluation of carotid artery stenosis, especially preoperatively before CEA.75 Because of
+its invasive nature and small, but present, risk of complications, it has no role in screening for extracranial cerebrovascular disease.
+Recommendation 4.3: For asymptomatic patients
+who are undergoing screening for carotid artery stenosis, we recommend duplex ultrasound performed in an
+accredited vascular laboratory as the imaging modality of choice instead of CTA, MRA, or other imaging modalities (grade 1B).
+
+Question 5. what is the optimal sequence for intervention in patients with combined carotid and coronary disease?
+Patients
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+Patients with both
+carotid stenosis
+>70% and CAD
+requiring CABG
+
+CEA or CAS
+and CABG
+
+Combined CEA
+and CABG or
+CABG ﬁrst or
+CEA ﬁrst
+
+Stroke, death, MI,
+combined stroke/
+death
+
+RCT,
+observational
+
+Asymptomatic,
+carotid stent
+
+18S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+Evidence and rationale
+The recommendation for staged or synchronous carotid interventions in patients with 50% to 99% stenosis
+and a history of stroke or TIA in the preceding 6 months
+who require CABG is supported by the reported
+data.128-133 However, the optimal timing for these interventions is unclear. In patients with severe (>70%) stenosis and symptomatic disease, minimal studies have
+addressed the timing of the interventions.134 In an analysis of multiple observational studies, patients undergoing combined CABG and CEA compared with CABG
+ﬁrst had a similar risk of death (RR, 0.58; 95% CI, 0.321.05), stroke (RR, 0.87; 95% CI, 0.34-2.22), and MI (RR,
+0.64; 95% CI, 0.09-4.34).14 When comparing CABG ﬁrst
+vs CEA ﬁrst, the groups had a similar risk of death (RR,
+0.94; 95% CI, 0.44-2.01), stroke (RR, 1.4; 95% CI, 0.643.06), and MI (RR, 0.51; 95% CI, 0.22-1.18). Finally, if the
+CABG ﬁrst group were compared with the CEA ﬁrst
+group, the risks of death, stroke, and MI were also similar.
+As expected, a small trend was found toward a greater
+risk of MI if CEA were performed ﬁrst and an increased
+trend toward a risk of stroke if CABG were performed
+ﬁrst; however, these differences were not signiﬁcant.
+One of the most controversial issues is the role of prophylactic CEA and/or CAS in CABG patients with unilateral 70% to 99% asymptomatic stenosis, for whom the
+stroke risk might be <2%.135,136 Two RCTs and several
+observational series compared combined CEA and
+CABG with a strategy of CABG ﬁrst and delayed CEA in
+patients with unilateral asymptomatic carotid stenosis.137,138 In the series by Illuminati et al,137 the risk of
+stroke with CABG ﬁrst was greater than that in the combined series; however, in the series by Weimar et al,138 the
+contrary was true. Owing to small numbers in both series,
+these differences were not signiﬁcant; therefore, one
+must assess larger series to obtain meaningful
+interpretations.
+For patients undergoing CAS, a trend was found for
+decreased mortality with CAS ﬁrst; however, the
+number of patients assessed was small.14 If the option of carotid intervention is considered as either
+CEA or CAS, when comparing combined carotid
+intervention vs carotid intervention ﬁrst for asymptomatic patients, the endpoints of stroke and
+stroke/death are slightly favored in the carotid intervention group.14 Because these data are based primarily on observational data, the certainty of the
+conclusions remains low.
+Patients’ values and preferences
+Patients undergoing CABG already have an increased
+risk of stroke and, therefore, many would prefer combined treatment to potentially decrease their risk with
+one procedure. However, if patients are severely symptomatic from either coronary disease or carotid disease,
+they might be more likely to wish for symptomatic relief
+
+rather than overall risk reduction. If anatomically suitable,
+CAS seems favorable for symptomatic patients. In addition, patients with CAD amenable to percutaneous coronary intervention should undergo such intervention,
+followed by treatment of the carotid stenosis. In addition,
+patients should be considered for CEA with regional
+anesthesia before CABG, if possible.139-141
+Recommendation 5.1. For patients with symptomatic
+carotid stenosis of 50% to 99%, who require both CEA
+and CABG, we suggest CEA before, or concomitant
+with, CABG to potentially reduce the risk of stroke
+and stroke/death. The sequencing of the intervention
+depends on the clinical presentation and institutional
+experience (grade 2C).
+5.2. For patients with severe (70%-99%) bilateral
+asymptomatic carotid stenosis or severe asymptomatic stenosis and contralateral occlusion, we suggest
+CEA before or concomitant with CABG (grade 2C).
+5.3. For patients requiring carotid intervention, staged
+or synchronous with coronary intervention, we suggest
+that the decision between CEA and CAS be determined by the timing of the procedure, the need for
+anticoagulation or antiplatelet therapy, patient anatomy, and patient characteristics (grade 2B).
+
+REFERENCES
+1. Fields WS, North RR, Hass WK, Galbraith JG, Wylie EJ, Ratinov G,
+et al. Joint study of extracranial arterial occlusion as a cause of
+stroke. I. Organization of study and survey of patient population.
+JAMA 1968;203:955-60.
+2. Endarterectomy for asymptomatic carotid artery stenosis. Executive
+Committee for the Asymptomatic Carotid Atherosclerosis Study.
+JAMA 1995;273:1421-8.
+3. Randomised trial of endarterectomy for recently symptomatic carotid stenosis: ﬁnal results of the MRC European Carotid Surgery
+Trial (ECST). Lancet 1998;351:1379-87.
+4. Barnett HJ, Taylor DW, Eliasziw M, Fox AJ, Ferguson GG, Haynes RB,
+et al. Beneﬁt of carotid endarterectomy in patients with symptomatic moderate or severe stenosis. North American Symptomatic
+Carotid Endarterectomy Trial Collaborators. N Engl J Med 1998;339:
+1415-25.
+5. Halliday A, Mansﬁeld A, Marro J, Peto C, Peto R, Potter J, et al. Prevention of disabling and fatal strokes by successful carotid endarterectomy in patients without recent neurological symptoms:
+randomised controlled trial. Lancet 2004;363:1491-502.
+6. Barnett HJM, Taylor DW, Haynes RB, Sackett DL, Peerless SJ,
+Ferguson GG, et al. Beneﬁcial effect of carotid endarterectomy in
+symptomatic patients with high-grade carotid stenosis. N Engl J
+Med 1991;325:445-53.
+7. Eslami MH, McPhee JT, Simons JP, Schanzer A, Messina LM. National trends in utilization and postprocedure outcomes for carotid artery revascularization 2005 to 2007. J Vasc Surg 2011;53:
+307-15.
+8. Bensley RP, Yoshida S, Lo RC, Fokkema M, Hamdan AD, Wyers MC,
+et al. Accuracy of administrative data versus clinical data to evaluate
+carotid endarterectomy and carotid stenting. J Vasc Surg 2013;58:
+412-9.
+9. Brott TG, Hobson RW II, Howard G, Roubin GS, Clark WM, Brooks W,
+et al. Stenting versus endarterectomy for treatment of carotidartery stenosis. N Engl J Med 2010;363:11-23.
+10. Ederle J, Dobson J, Featherstone RL, Bonati LH, van der Worp HB, de
+Borst GJ, et al. Carotid artery stenting compared with endarterectomy in patients with symptomatic carotid stenosis (International
+Carotid Stenting Study): an interim analysis of a randomised
+controlled trial. Lancet 2010;375:985-97.
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+19S
+
+Volume 75, Number 1S
+11. Mas JL, Chatellier G, Beyssen B, Branchereau A, Moulin T,
+Becquemin JP, et al. Endarterectomy versus stenting in patients
+with symptomatic severe carotid stenosis. N Engl J Med 2006;355:
+1660-71.
+12. Ringleb PA, Allenberg J, Bruckmann H, Eckstein HH, Fraedrich G,
+Hartmann M, et al. 30 Day results from the SPACE trial of stentprotected angioplasty versus carotid endarterectomy in symptomatic patients: a randomised non-inferiority trial. Lancet
+2006;368:1239-47.
+13. Murad MH, Shahrour A, Shah ND, Montori VM, Ricotta JJ.
+A systematic review and meta-analysis of randomized trials of carotid endarterectomy vs stenting. J Vasc Surg 2011;53:792-7.
+14. Hasan B, Nayfeh T, Amin M, Malandris K, Abd-Rabu R, Shah S, et al.
+Society for Vascular Surgery technical review supporting guidelines
+on the management of carotid artery disease. J Vasc Surg 2021. In
+press.
+15. Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK.
+Updated Society for Vascular Surgery guidelines for management
+of extracranial carotid disease. J Vasc Surg 2011;54:e1-31.
+16. Brott TG, Halperin JL, Abbara S, Bacharach JM, Barr JD, Bush RL,
+et al. 2011 ASA/ACCF/AHA/AANN/AANS/ACR/ASNR/CNS/SAIP/SCAI/
+SIR/SNIS/SVM/SVS guideline on the management of patients with
+extracranial carotid and vertebral artery disease: a report of the
+American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines, and the American Stroke
+Association, American Association of Neuroscience Nurses, American Association of Neurological Surgeons, American College of
+Radiology, American Society of Neuroradiology, Congress of
+Neurological Surgeons, Society of Atherosclerosis Imaging and
+Prevention, Society for Cardiovascular Angiography and Interventions, Society of Interventional Radiology, Society of NeuroInterventional Surgery, Society for Vascular Medicine, and Society
+for Vascular Surgery. J Am Coll Cardiol 2011;57:e16-94.
+17. Naylor AR, Ricco JB, de Borst GJ, Debus S, de Haro J, Halliday A, et al.
+Editor’s choice e management of atherosclerotic carotid and
+vertebral artery disease: 2017 clinical practice guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc
+Surg 2018;55:3-81.
+18. Murad MH. Clinical practice guidelines: a primer on development
+and dissemination. Mayo Clin Proc 2017;92:423-33.
+19. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for Vascular
+Surgery including the experience with the GRADE framework.
+J Vasc Surg 2011;53:1375-80.
+20. Murad MH, Swiglo BA, Sidawy AN, Ascher E, Montori VM. Methodology for clinical practice guidelines for the management of arteriovenous access. J Vasc Surg 2008;48(suppl):26s-30s.
+21. Gandhi GY, Murad MH, Fujiyoshi A, Mullan RJ, Flynn DN, Elamin MB,
+et al. Patient-important outcomes in registered diabetes trials.
+JAMA 2008;299:2543-9.
+22. AbuRahma AF, Avgerinos EM, Chang RW, Darling RC III, Duncan AA,
+Forbes TL, et al. Updated Society for Vascular Surgery implementation document for management of extracranial cerebrovascular disease [e-pub ahead of print]. J Vasc Surg, https://doi.org/10.
+1016/j.jvs.2021.04.074. Accessed July 30, 2021.
+23. Halliday A, Harrison M, Hayter E, Kong X, Mansﬁeld A, Marro J, et al.
+10-Year stroke prevention after successful carotid endarterectomy
+for asymptomatic stenosis (ACST-1): a multicentre randomised trial.
+Lancet 2010;376:1074-84.
+24. Marquardt L, Geraghty OC, Mehta Z, Rothwell PM. Low risk of ipsilateral stroke in patients with asymptomatic carotid stenosis on
+best medical treatment: a prospective, population-based study.
+Stroke 2010;41:e11-7.
+25. Reiff T, Stingele R, Eckstein HH, Fraedrich G, Jansen O, Mudra H,
+et al. Stent-protected angioplasty in asymptomatic carotid artery
+stenosis vs. endarterectomy: SPACE2da three-arm randomisedcontrolled clinical trial. Int J Stroke 2009;4:294-9.
+26. Howard DPJ, Gaziano L, Rothwell PM. Risk of stroke in relation to
+degree of asymptomatic carotid stenosis: a population-based
+cohort study, systematic review, and meta-analysis. Lancet Neurol
+2021;20:193-202.
+27. Gasparis AP, Ricotta L, Cuadra SA, Char DJ, Purtill WA, Van
+Bemmelen PS, et al. High-risk carotid endarterectomy: fact or ﬁction. J Vasc Surg 2003;37:40-6.
+
+28. Mackey WC, O’Donnell TF Jr, Callow AD. Carotid endarterectomy contralateral to an occluded carotid artery: perioperative
+risk and late results. J Vasc Surg 1990;11:778-83; discussion:
+784-5.
+29. Mozes G, Sullivan TM, Torres-Russotto DR, Bower TC, Hoskin TL,
+Sampaio SM, et al. Carotid endarterectomy in SAPPHIRE-eligible
+high-risk patients: implications for selecting patients for carotid
+angioplasty and stenting. J Vasc Surg 2004;39:958-65; discussion:
+965-6.
+30. Bunch CT, Kresowik TF. Can randomized trial outcomes for carotid
+endarterectomy be achieved in community-wide practice? Semin
+Vasc Surg 2004;17:209-13.
+31. Chiriano J, Abou-Zamzam AM Jr, Nguyen K, Molkara AM,
+Zhang WW, Bianchi C, et al. Preoperative carotid duplex ﬁndings
+predict carotid stump pressures during endarterectomy in symptomatic but not asymptomatic patients. Ann Vasc Surg 2010;24:
+1038-44.
+32. Howard VJ, Meschia JF, Lal BK, Turan TN, Roubin GS, Brown RD Jr,
+et al. Carotid revascularization and medical management for
+asymptomatic carotid stenosis: protocol of the CREST-2 clinical
+trials. Int J Stroke 2017;12:770-8.
+33. European Carotid Surgery Trialists’ Collaborative Group. MRC European carotid surgery trial: interim results for symptomatic patients with severe (70-99%) or with mild (0-29%) carotid stenosis.
+Lancet 1991;337:1235-43.
+34. North American Symptomatic Carotid Endarterectomy Trial.
+Methods, patient characteristics, and progress. Stroke 1991;22:711-20.
+35. Rothwell PM, Eliasziw M, Gutnikov SA, Fox AJ, Taylor DW,
+Mayberg MR, et al. Analysis of pooled data from the randomised
+controlled trials of endarterectomy for symptomatic carotid stenosis. Lancet 2003;361:107-16.
+36. Yadav JS, Wholey MH, Kuntz RE, Fayad P, Katzen BT, Mishkel GJ,
+et al. Protected carotid-artery stenting versus endarterectomy in
+high-risk patients. N Engl J Med 2004;351:1493-501.
+37. Howard G, Roubin GS, Jansen O, Hendrikse J, Halliday A,
+Fraedrich G, et al. Association between age and risk of stroke or
+death from carotid endarterectomy and carotid stenting: a metaanalysis of pooled patient data from four randomised trials. Lancet 2016;387:1305-11.
+38. Brott TG, Calvet D, Howard G, Gregson J, Algra A, Becquemin JP,
+et al. Long-term outcomes of stenting and endarterectomy for
+symptomatic carotid stenosis: a preplanned pooled analysis of individual patient data. Lancet Neurol 2019;18:348-56.
+39. Nallamothu BK, Gurm HS, Ting HH, Goodney PP, Rogers MA,
+Curtis JP, et al. Operator experience and carotid stenting outcomes
+in Medicare beneﬁciaries. JAMA 2011;306:1338-43.
+40. Nolan BW, De Martino RR, Goodney PP, Schanzer A, Stone DH,
+Butzel D, et al. Comparison of carotid endarterectomy and stenting
+in real world practice using a regional quality improvement registry.
+J Vasc Surg 2012;56:990-6.
+41. Hicks CW, Nejim B, Locham S, Aridi HD, Schermerhorn ML,
+Malas MB. Association between Medicare high-risk criteria and
+outcomes after carotid revascularization procedures. J Vasc Surg
+2018;67:1752-61.e2.
+42. Leal I, Orgaz A, Flores Á, Gil J, Rodríguez R, Peinado J, et al.
+A diffusion-weighted magnetic resonance imaging-based study of
+transcervical carotid stenting with ﬂow reversal versus transfemoral
+ﬁlter protection. J Vasc Surg 2012;56:1585-90.
+43. Bonati LH, Jongen LM, Haller S, Flach HZ, Dobson J,
+Nederkoorn PJ, et al. New ischaemic brain lesions on MRI after
+stenting or endarterectomy for symptomatic carotid stenosis: a
+substudy of the International Carotid Stenting Study (ICSS).
+Lancet Neurol 2010;9:353-62.
+44. Kwolek CJ, Jaff MR, Leal JI, Hopkins LN, Shah RM, Hanover TM, et al.
+Results of the ROADSTER multicenter trial of transcarotid stenting
+with dynamic ﬂow reversal. J Vasc Surg 2015;62:1227-34.
+45. Malas MB, Leal Lorenzo JI, Nejim B, Hanover TM, Mehta M,
+Kashyap V, et al. Analysis of the ROADSTER pivotal and extendedaccess cohorts shows excellent 1-year durability of transcarotid
+stenting with dynamic ﬂow reversal. J Vasc Surg 2019;69:1786-96.
+46. Kashyap VS, Schneider PA, Foteh M, Motaganahalli R, Shah R,
+Eckstein HH, et al. Early outcomes in the ROADSTER 2 study of
+transcarotid artery revascularization in patients with signiﬁcant carotid artery disease. Stroke 2020;51:2620-9.
+
+20S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+47. Schermerhorn ML, Liang P, Eldrup-Jorgensen J, Cronenwett JL,
+Nolan BW, Kashyap VS, et al. Association of transcarotid artery
+revascularization vs transfemoral carotid artery stenting with stroke
+or death among patients with carotid artery stenosis. JAMA
+2019;322:2313-22.
+48. Malas MB, Dakour-Aridi H, Kashyap VS, Eldrup-Jorgensen J,
+Wang GJ, Motaganahalli RL, et al. Transcarotid revascularization
+with dynamic ﬂow reversal versus carotid endarterectomy in the
+Vascular Quality Initiative surveillance project [e-pub ahead of
+print]. Ann Surg, https://doi.org/10.1097/SLA.0000000000004496.
+Accessed April 19, 2021.
+49. Columbo JA, Martinez-Camblor P, O’Malley AJ, Stone DH,
+Kashyap VS, Powell RJ, et al. Association of adoption of transcarotid
+artery revascularization with center-level perioperative outcomes.
+JAMA Netw Open 2021;4:e2037885.
+50. Lal BK, Jordan W, Kashyap VS, Kwolek CJ, Moore WS, Mukherjee D,
+et al. Clinical competence statement of the Society for Vascular
+Surgery on training and credentialing for transcarotid artery revascularization. J Vasc Surg 2020;72:779-89.
+51. Johnston SC, Rothwell PM, Nguyen-Huynh MN, Giles MF, Elkins JS,
+Bernstein AL, et al. Validation and reﬁnement of scores to predict
+very early stroke risk after transient ischaemic attack. Lancet
+2007;369:283-92.
+52. Salem MK, Sayers RD, Bown MJ, Eveson DJ, Robinson TG, Naylor AR.
+Rapid access carotid endarterectomy can be performed in the
+hyperacute period without a signiﬁcant increase in procedural risks.
+Eur J Vasc Endovasc Surg 2011;41:222-8.
+53. Sbarigia E, Toni D, Speziale F, Acconcia MC, Fiorani P. Early carotid
+endarterectomy after ischemic stroke: the results of a prospective
+multicenter Italian study. Eur J Vasc Endovasc Surg 2006;32:229-35.
+54. Naylor AR. Delay may reduce procedural risk, but at what price to
+the patient? Eur J Vasc Endovasc Surg 2008;35:383-91.
+55. Sharpe R, Sayers RD, London NJ, Bown MJ, McCarthy MJ, Nasim A,
+et al. Procedural risk following carotid endarterectomy in the hyperacute period after onset of symptoms. Eur J Vasc Endovasc Surg
+2013;46:519-24.
+56. Loftus IM, Paraskevas KI, Johal A, Waton S, Heikkila K, Naylor AR,
+et al. Editor’s choice e delays to surgery and procedural risks
+following carotid endarterectomy in the UK National Vascular
+Registry. Eur J Vasc Endovasc Surg 2016;52:438-43.
+57. Rantner B, Schmidauer C, Knoﬂach M, Fraedrich G. Very urgent
+carotid endarterectomy does not increase the procedural risk. Eur J
+Vasc Endovasc Surg 2015;49:129-36.
+58. Strömberg S, Gelin J, Osterberg T, Bergström GM, Karlström L,
+Osterberg K. Very urgent carotid endarterectomy confers increased
+procedural risk. Stroke 2012;43:1331-5.
+59. Tanious A, Pothof AB, Boitano LT, Pendleton AA, Wang LJ, de
+Borst GJ, et al. Timing of carotid endarterectomy after stroke:
+retrospective review of prospectively collected national database.
+Ann Surg 2018;268:449-56.
+60. Avgerinos ED, Farber A, Abou Ali AN, Rybin D, Doros G, Eslami MH.
+Early carotid endarterectomy performed 2 to 5 days after the onset of
+neurologic symptoms leads to comparable results to carotid endarterectomy performed at later time points. J Vasc Surg 2017;66:1719-26.
+61. Ali M, Stephenson J, Naylor AR. Delay prior to expedited carotid
+endarterectomy: a prospective audit of practice. Eur J Vasc Endovasc Surg 2013;46:404-10.
+62. Baracchini C, Meneghetti G, Ballotta E. Early carotid endarterectomy in acute stroke. Cerebrovasc Dis 2005;19:417-8.
+63. Capoccia L, Sbarigia E, Speziale F, Toni D, Fiorani P. Urgent carotid
+endarterectomy to prevent recurrence and improve neurologic
+outcome in mild-to-moderate acute neurologic events. J Vasc Surg
+2011;53:622-7; discussion: 627-8.
+64. Mussa FF, Aaronson N, Lamparello PJ, Maldonado TS, Cayne NS,
+Adelman MA, et al. Outcome of carotid endarterectomy for acute
+neurological deﬁcit. Vasc Endovascular Surg 2009;43:364-9.
+65. Paty PS, Darling RC III, Feustel PJ, Bernardini GL, Mehta M,
+Ozsvath KJ, et al. Early carotid endarterectomy after acute stroke.
+J Vasc Surg 2004;39:148-54.
+66. Rerkasem K, Rothwell PM. Systematic review of the operative risks
+of carotid endarterectomy for recently symptomatic stenosis in
+relation to the timing of surgery. Stroke 2009;40:e564-72.
+67. Rothwell PM, Eliasziw M, Gutnikov SA, Warlow CP, Barnett HJ. Sex
+difference in the effect of time from symptoms to surgery on
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+beneﬁt from carotid endarterectomy for transient ischemic attack
+and nondisabling stroke. Stroke 2004;35:2855-61.
+Qureshi AI, Alexandrov AV, Tegeler CH, Hobson RW II, Dennis Baker J,
+Hopkins LN, et al. Guidelines for screening of extracranial carotid
+artery disease: a statement for healthcare professionals from the
+multidisciplinary practice guidelines committee of the American
+Society of Neuroimaging; cosponsored by the Society of Vascular and
+Interventional Neurology. J Neuroimaging 2007;17:19-47.
+Rockman CB, Hoang H, Guo Y, Maldonado TS, Jacobowitz GR,
+Talishinskiy T, et al. The prevalence of carotid artery stenosis varies
+signiﬁcantly by race. J Vasc Surg 2013;57:327-37.
+U.S. Preventive Services Task Force, Krist AH, Davidson KW,
+Mangione CM, Barry MJ, Cabana M, et al. Screening for asymptomatic carotid artery stenosis: US Preventive Services task force
+recommendation statement. JAMA 2021;325:476-81.
+Gorelick PB, Sacco RL, Smith DB, Alberts M, Mustone-Alexander L,
+Rader D, et al. Prevention of a ﬁrst stroke: a review of guidelines and
+a multidisciplinary consensus statement from the National Stroke
+Association. JAMA 1999;281:1112-20.
+Perry JR, Szalai JP, Norris JW. Consensus against both endarterectomy and routine screening for asymptomatic carotid artery stenosis. Canadian Stroke Consortium. Arch Neurol 1997;54:25-8.
+Goldstein LB, Adams R, Alberts MJ, Appel LJ, Brass LM, Bushnell CD,
+et al. Primary prevention of ischemic stroke: a guideline from the
+American Heart Association/American Stroke Association Stroke
+Council: cosponsored by the Atherosclerotic Peripheral Vascular
+Disease Interdisciplinary Working Group; Cardiovascular Nursing
+Council; Clinical Cardiology Council; Nutrition, Physical Activity, and
+Metabolism Council; and the Quality of Care and Outcomes
+Research Interdisciplinary Working Group: the American Academy of
+Neurology afﬁrms the value of this guideline. Stroke 2006;37:1583-633.
+Bates ER, Babb JD, Casey DE Jr, Cates CU, Duckwiler GR,
+Feldman TE, et al. ACCF/SCAI/SVMB/SIR/ASITN 2007 clinical expert
+consensus document on carotid stenting. Vasc Med 2007;12:35-83.
+Naylor AR. Cerebrovascular diseases. In: Sidawy AN, Perler BA, editors. Rutherford’s Textbook of Vascular Surgery and Endovascular
+Therapy. 9th ed. Philadelphia, PA: Elsevier; 2018. p. 1149-65.
+Jacobowitz GR, Rockman CB, Gagne PJ, Adelman MA,
+Lamparello PJ, Landis R, et al. A model for predicting occult carotid
+artery stenosis: screening is justiﬁed in a selected population. J Vasc
+Surg 2003;38:705-9.
+Rockman CB, Jacobowitz GR, Gagne PJ, Adelman MA,
+Lamparello PJ, Landis R, et al. Focused screening for occult carotid
+artery disease: patients with known heart disease are at high risk.
+J Vasc Surg 2004;39:44-51.
+Qureshi AI, Janardhan V, Bennett SE, Luft AR, Hopkins LN,
+Guterman LR. Who should be screened for asymptomatic carotid
+artery stenosis? Experience from the Western New York Stroke
+Screening Program. J Neuroimaging 2001;11:105-11.
+Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK.
+Updated Society for Vascular Surgery guidelines for management
+of extracranial carotid disease: executive summary. J Vasc Surg
+2011;54:832-6.
+Mackaay AJ, Beks PJ, Dur AH, Bischoff M, Scholma J, Heine RJ, et al.
+The distribution of peripheral vascular disease in a Dutch Caucasian
+population: comparison of type II diabetic and non-diabetic subjects. Eur J Vasc Endovasc Surg 1995;9:170-5.
+Lin R, Hingorani A, Marks N, Ascher E, Jimenez R, Aboian E, et al.
+Screening for carotid artery stenosis and renal artery stenosis in
+patients undergoing tunneled cuffed hemodialysis catheter
+placement. Vasc Endovasc Surg 2012;46:364-8.
+Kaul S, Alladi S, Mridula KR, Bandaru VC, Umamashesh M,
+Anjanikumar D, et al. Prevalence and risk factors of asymptomatic
+carotid artery stenosis in Indian population: an 8-year follow-up
+study. Neurol India 2017;65:279-85.
+Bishara RA, Taha W, Alfarouk MO, Milik IA, Wilson N. Screening for
+signiﬁcant carotid artery disease among a cohort of 1,000 Egyptian
+patients. Vascular 2008;16:35-40.
+Berens ES, Kouchoukos NT, Murphy SF, Wareing TH. Preoperative
+carotid artery screening in elderly patients undergoing cardiac
+surgery. J Vasc Surg 1992;15:313-21; discussion: 322-3.
+Lin JC, Kabbani LS, Peterson EL, Masabni K, Morgan JA, Brooks S,
+et al. Clinical utility of carotid duplex ultrasound prior to cardiac
+surgery. J Vasc Surg 2016;63:710-4.
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+21S
+
+Volume 75, Number 1S
+86. Marek J, Mills JL, Harvich J, Cui H, Fujitani RM. Utility of routine carotid duplex screening in patients who have claudication. J Vasc
+Surg 1996;24:572-7; discussion: 577-9.
+87. Ramos MJ, Gonzalez-Fajardo JA, Vaquero-Puerta C, VallinaVictorero M, Vicente-Santiago M, Vaquero-Lorenzo F, et al.
+Asymptomatic carotid stenosis in patients with intermittent
+claudication: epidemiological study. J Cardiovasc Surg (Torino)
+2011;52:761-8.
+88. Cheng SW, Wu LL, Lau H, Ting AC, Wong J. Prevalence of signiﬁcant
+carotid stenosis in Chinese patients with peripheral and coronary
+artery disease. Aust N Z J Surg 1999;69:44-7.
+89. Fowl RJ, Marsch JG, Love M, Patterson RB, Shukla R,
+Kempczinski RF. Prevalence of hemodynamically signiﬁcant stenosis of the carotid artery in an asymptomatic veteran population.
+Surg Gynecol Obstet 1991;172:13-6.
+90. Gentile AT, Taylor LM Jr, Moneta GL, Porter JM. Prevalence of
+asymptomatic carotid stenosis in patients undergoing infrainguinal
+bypass surgery. Arch Surg 1995;130:900-4.
+91. House AK, Bell R, House J, Mastaglia F, Kumar A, D’Antuono M.
+Asymptomatic carotid artery stenosis associated with peripheral
+vascular disease: a prospective study. Cardiovasc Surg 1999;7:44-9.
+92. Klop RB, Eikelboom BC, Taks AC. Screening of the internal carotid
+arteries in patients with peripheral vascular disease by colour-ﬂow
+duplex scanning. Eur J Vasc Surg 1991;5:41-5.
+93. Miralles M, Corominas A, Cotillas J, Castro F, Clara A, VidalBarraquer F. Screening for carotid and renal artery stenoses in patients with aortoiliac disease. Ann Vasc Surg 1998;12:17-22.
+94. Pilcher JM, Danaher J, Khaw KT. The prevalence of asymptomatic
+carotid artery disease in patients with peripheral vascular disease.
+Clin Radiol 2000;55:56-61.
+95. Valentine RJ, Hagino RT, Boyd PI, Kakish HB, Clagett GP. Utility of
+carotid duplex in young adults with lower extremity atherosclerosis:
+how aggressive should we be in screening young patients? Cardiovasc Surg 1997;5:408-13.
+96. Yamamoto K, Miyata T, Nagayoshi M, Akagi D, Hosaka A, Miyahara T,
+et al. Carotid endarterectomy may reduce the high stroke rate for
+patients with the disease of abdominal aorta and peripheral arteries. Int Angiol 2006;25:35-9.
+97. Yun WS, Rho YN, Park UJ, Lee KB, Kim DI, Kim YW. Prevalence of
+asymptomatic critical carotid artery stenosis in Korean patients
+with chronic atherosclerotic lower extremity ischemia: is a
+screening carotid duplex ultrasonography worthwhile? J Korean
+Med Sci 2010;25:1167-70.
+98. Narayan P, Khan MW, Das D, Guha Biswas R, Das M, Rupert E. Carotid artery screening at the time of coronary artery bypassddoes it
+inﬂuence neurological outcomes? Int J Cardiol 2017;243:140-4.
+99. Wanamaker KM, Moraca RJ, Nitzberg D, Magovern GJ Jr. Contemporary incidence and risk factors for carotid artery disease in patients referred for coronary artery bypass surgery. J Cardiothorac
+Surg 2012;7:78.
+100. Anastasiadis K, Karamitsos TD, Velissaris I, Makrygiannakis K,
+Kiskinis D. Preoperative screening and management of carotid artery disease in patients undergoing cardiac surgery. Perfusion
+2009;24:257-62.
+101. Ascher E, Hingorani A, Yorkovich W, Ramsey PJ, Salles-Cunha S.
+Routine preoperative carotid duplex scanning in patients undergoing
+open heart surgery: is it worthwhile? Ann Vasc Surg 2001;15:669-78.
+102. Cheng Y, Gao J, Wang J, Wang S, Peng J. Risk factors for carotid
+artery stenosis in Chinese patients undergoing coronary artery
+bypass graft interventions. Medicine (Baltimore) 2015;94:e1119.
+103. Chun LJ, Tsai J, Tam M, Prema J, Chen LH, Patel KK. Screening carotid artery duplex in patients undergoing cardiac surgery. Ann
+Vasc Surg 2014;28:1178-85.
+104. Cornily JC, Le Saux D, Vinsonneau U, Bezon E, Le Ven F, Le Gal G,
+et al. Assessment of carotid artery stenosis before coronary artery
+bypass surgery: is it always necessary? Arch Cardiovasc Dis 2011;104:
+77-83.
+105. Dharmasaroja PA, Piyayotai D, Hutayanon P, Buakhamsri A,
+Intharakham K. Extracranial carotid stenosis and peripheral arterial
+disease in Thai patients with coronary artery disease. Angiology
+2010;61:329-32.
+ R.
+106. Drohomirecka A, Ko1towski L, Kwinecki P, Wronecki K, Cichon
+Risk factors for carotid artery disease in patients scheduled for
+coronary artery bypass grafting. Kardiol Pol 2010;68:789-94.
+
+107. Kawarada O, Yokoi Y, Morioka N, Nakata S, Higashiue S, Mori T, et al.
+Carotid stenosis and peripheral artery disease in Japanese patients
+with coronary artery disease undergoing coronary artery bypass
+grafting. Circ J 2003;67:1003-6.
+108. Fassiadis N, Adams K, Zayed H, Goss D, Deane C, Maccarthy P, et al.
+Occult carotid artery disease in patients who have undergone
+coronary angioplasty. Interact Cardiovasc Thorac Surg 2008;7:
+855-7.
+109. Pickett CA, Jackson JL, Hemann BA, Atwood JE. Carotid bruits and
+cerebrovascular disease risk: a meta-analysis. Stroke 2010;41:
+2295-302.
+110. Ratchford EV, Jin Z, Di Tullio MR, Salameh MJ, Homma S, Gan R,
+et al. Carotid bruit for detection of hemodynamically signiﬁcant
+carotid stenosis: the Northern Manhattan study. Neurol Res 2009;31:
+748-52.
+111. Johansson EP, Wester P. Carotid bruits as predictor for carotid stenoses detected by ultrasonography: an observational study. BMC
+Neurol 2008;8:23.
+112. Xu J, Cao Y. Radiation-induced carotid artery stenosis: a comprehensive review of the literature. Interv Neurol 2014;2:183-92.
+113. Steele SR, Martin MJ, Mullenix PS, Crawford JV, Cuadrado DS,
+Andersen CA. Focused high-risk population screening for carotid
+arterial stenosis after radiation therapy for head and neck cancer.
+Am J Surg 2004;187:594-8.
+114. Carmody BJ, Arora S, Avena R, Curry KM, Simpkins J, Cosby K, et al.
+Accelerated carotid artery disease after high-dose head and neck
+radiotherapy: is there a role for routine carotid duplex surveillance?
+J Vasc Surg 1999;30:1045-51.
+115. Kurvers HA, van der Graaf Y, Blankensteijn JD, Visseren FL,
+Eikelboom B. Screening for asymptomatic internal carotid artery
+stenosis and aneurysm of the abdominal aorta: comparing the yield
+between patients with manifest atherosclerosis and patients with
+risk factors for atherosclerosis only. J Vasc Surg 2003;37:1226-33.
+116. Vranes M, Davidovic L, Vasic D, Radmili O. Coexistence of internal
+carotid artery stenosis in patients with abdominal aortic aneurysm.
+Korean Circ J 2013;43:550-6.
+117. Gray C, Goodman P, Cullen P, Badger SA, O’Malley K,
+O’Donohoe MK, et al. Screening for peripheral arterial disease and
+carotid artery disease in patients with abdominal aortic aneurysm.
+Angiology 2016;67:346-9.
+118. Berger JS, Hochman J, Lobach I, Adelman MA, Riles TS,
+Rockman CB. Modiﬁable risk factor burden and the prevalence of
+peripheral artery disease in different vascular territories. J Vasc Surg
+2013;58:673-81.e1.
+119. Razzouk L, Rockman CB, Patel MR, Guo Y, Adelman MA, Riles TS,
+et al. Co-existence of vascular disease in different arterial beds:
+peripheral artery disease and carotid artery stenosisddata from Life
+Line Screening(Ò). Atherosclerosis 2015;241:687-91.
+120. Kakkos SK, Sabetai M, Tegos T, Stevens J, Thomas D, Grifﬁn M, et al.
+Silent embolic infarcts on computed tomography brain scans and
+risk of ipsilateral hemispheric events in patients with asymptomatic
+internal carotid artery stenosis. J Vasc Surg 2009;49:902-9.
+121. Paraskevas KI, Veith FJ, Spence JD. How to identify which
+patients with asymptomatic carotid stenosis could beneﬁt
+from endarterectomy or stenting. Stroke Vasc Neurol 2018;3:
+92-100.
+122. Nicolaides AN, Kakkos SK, Grifﬁn M, Sabetai M, Dhanjil S,
+Thomas DJ, et al. Effect of image normalization on carotid plaque
+classiﬁcation and the risk of ipsilateral hemispheric ischemic events:
+results from the asymptomatic carotid stenosis and risk of stroke
+study. Vascular 2005;13:211-21.
+123. Wardlaw JM, Chappell FM, Stevenson M, De Nigris E, Thomas S,
+Gillard J, et al. Accurate, practical and cost-effective assessment of
+carotid stenosis in the UK. Health Technol Assess 2006;10. iii-iv, ix-x,
+1-182.
+124. Loftus IM, McCarthy MJ, Pau H, Hartshorne T, Bell PR, London NJ, et al.
+Carotid endarterectomy without angiography does not compromise
+operative outcome. Eur J Vasc Endovasc Surg 1998;16:489-93.
+125. AbuRahma AF, Srivastava M, Stone PA, Mousa AY, Jain A, Dean LS,
+et al. Critical appraisal of the carotid duplex consensus criteria in
+the diagnosis of carotid artery stenosis. J Vasc Surg 2011;53:53-9;
+discussion: 59-0.
+126. Grant EG, Benson CB, Moneta GL, Alexandrov AV, Baker JD, Bluth EI,
+et al. Carotid artery stenosis: grayscale and Doppler ultrasound
+
+22S
+
+AbuRahma et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+127.
+
+128.
+
+129.
+
+130.
+
+131.
+
+132.
+
+133.
+
+134.
+
+diagnosisdSociety of Radiologists in ultrasound consensus conference. Ultrasound Q 2003;19:190-8.
+Altaf N, Daniels L, Morgan PS, Auer D, MacSweeney ST, Moody AR,
+et al. Detection of intraplaque hemorrhage by magnetic resonance
+imaging in symptomatic patients with mild to moderate carotid
+stenosis predicts recurrent neurological events. J Vasc Surg 2008;47:
+337-42.
+D’Agostino RS, Svensson LG, Neumann DJ, Balkhy HH,
+Williamson WA, Shahian DM. Screening carotid ultrasonography
+and risk factors for stroke in coronary artery surgery patients. Ann
+Thorac Surg 1996;62:1714-23.
+Naylor AR, Cuffe RL, Rothwell PM, Bell PR. A systematic review of
+outcomes following staged and synchronous carotid endarterectomy and coronary artery bypass. Eur J Vasc Endovasc Surg 2003;25:
+380-9.
+Naylor AR, Mehta Z, Rothwell PM, Bell PR. Carotid artery disease
+and stroke during coronary artery bypass: a critical review of the
+literature. Eur J Vasc Endovasc Surg 2002;23:283-94.
+Naylor R, Cuffe RL, Rothwell PM, Loftus IM, Bell PR. A systematic
+review of outcome following synchronous carotid endarterectomy
+and coronary artery bypass: inﬂuence of surgical and patient variables. Eur J Vasc Endovasc Surg 2003;26:230-41.
+Paraskevas KI, Nduwayo S, Saratzis AN, Naylor AR. Carotid stenting
+prior to coronary bypass surgery: an updated systematic review and
+meta-analysis. Eur J Vasc Endovasc Surg 2017;53:309-19.
+Timaran CH, Rosero EB, Smith ST, Valentine RJ, Modrall JG,
+Clagett GP. Trends and outcomes of concurrent carotid revascularization and coronary bypass. J Vasc Surg 2008;48:355-60; discussion: 360-1.
+Newman DC, Hicks RG, Horton DA. Coexistent carotid and coronary
+arterial disease: outcome in 50 cases and method of management.
+J Cardiovasc Surg 1987;28:599-606.
+
+135. Naylor AR, Bown MJ. Stroke after cardiac surgery and its association
+with asymptomatic carotid disease: an updated systematic review
+and meta-analysis. Eur J Vasc Endovasc Surg 2011;41:607-24.
+136. Venkatachalam S, Shishehbor MH. Management of carotid
+disease in patients undergoing coronary artery bypass surgery:
+is it time to change our approach? Curr Opin Cardiol 2011;26:
+480-7.
+137. Illuminati G, Ricco JB, Calio F, Pacile MA, Miraldi F, Frati G, et al.
+Short-term results of a randomized trial examining timing of carotid endarterectomy in patients with severe asymptomatic unilateral carotid stenosis undergoing coronary artery bypass grafting.
+J Vasc Surg 2011;54:993-9; discussion: 998-9.
+138. Weimar C, Bilbilis K, Rekowski J, Holst T, Beyersdorf F, Breuer M,
+et al. Safety of simultaneous coronary artery bypass grafting and
+carotid endarterectomy versus isolated coronary artery bypass
+grafting: a randomized clinical trial. Stroke 2017;48:2769-75.
+139. Naylor AR, Mehta Z, Rothwell PM. A systematic review and
+meta-analysis of 30-day outcomes following staged carotid artery stenting and coronary bypass. Eur J Vasc Endovasc Surg
+2009;37:379-87.
+140. Shishehbor MH, Venkatachalam S, Sun Z, Rajeswaran J, Kapadia SR,
+Bajzer C, et al. A direct comparison of early and late outcomes with
+three approaches to carotid revascularization and open heart surgery. J Am Coll Cardiol 2013;62:1948-56.
+141. Van der Heyden J, Suttorp MJ, Bal ET, Ernst JM, Ackerstaff RG,
+Schaap J, et al. Staged carotid angioplasty and stenting followed by cardiac surgery in patients with severe asymptomatic
+carotid artery stenosis: early and long-term results. Circulation
+2007;116:2036-42.
+
+Submitted Apr 19, 2021; accepted Apr 20, 2021.
+
+

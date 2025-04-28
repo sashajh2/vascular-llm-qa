@@ -1,0 +1,523 @@
+SOCIETY FOR VASCULAR SURGERY® DOCUMENTS
+
+Endovascular repair of traumatic thoracic aortic
+injury: Clinical practice guidelines of the Society
+for Vascular Surgery
+W. Anthony Lee, MD,a Jon S. Matsumura, MD,b R. Scott Mitchell, MD,c Mark A. Farber, MD,d
+Roy K. Greenberg, MD,e Ali Azizzadeh, MD,f Mohammad Hassan Murad, MD, MPH,g and
+Ronald M. Fairman, MD,h Boca Raton, Fla; Madison, Wisc; Palo Alto, Calif; Chapel Hill, NC; Cleveland, Ohio;
+Houston, Tex; Rochester, Minn; and Philadelphia, Pa
+The Society for Vascular Surgery® pursued development of clinical practice guidelines for the management of traumatic
+thoracic aortic injuries with thoracic endovascular aortic repair. In formulating clinical practice guidelines, the Society selected
+a panel of experts and conducted a systematic review and meta-analysis of the literature. They used the Grading of
+Recommendations Assessment, Development and Evaluation methods (GRADE) to develop and present their recommendations. The systematic review included 7768 patients from 139 studies. The mortality rate was significantly lower in patients
+who underwent endovascular repair, followed by open repair, and nonoperative management (9%, 19%, and 46%, respectively,
+P < .01). Based on the overall very low quality of evidence, the committee suggests that endovascular repair of thoracic aortic
+transection is associated with better survival and decreased risk of spinal cord ischemia, renal injury, graft, and systemic
+infections compared with open repair or nonoperative management (Grade 2, Level C). The committee was also surveyed on
+a variety of issues that were not specifically addressed by the meta-analysis. On these select matters, the majority opinions of the
+committee suggest urgent repair following stabilization of other injuries, observation of minimal aortic defects, selective (vs
+routine) revascularization in cases of left subclavian artery coverage, and that spinal drainage is not routinely required in these
+cases. ( J Vasc Surg 2011;53:187-92.)
+
+Blunt traumatic thoracic aortic injury is associated with
+a high mortality rate, and has been implicated as the second
+most common cause of death in trauma patients, behind
+From the Christine E. Lynn Heart and Vascular Institute, Boca Raton;a Division of Vascular Surgery, University of Wisconsin, Madison;b Department of
+Cardiothoracic Surgery, Stanford University, Palo Alto;c Division of Vascular
+Surgery, University of North Carolina, Chapel Hill;d Department of Vascular
+Surgery, Cleveland Clinic Foundation, Cleveland;e Division of Vascular Surgery, University of Texas Houston Medical School, Houston;f Division of
+Preventive, Occupational and Aerospace Medicine, Mayo Clinic, Rochester;g
+and Division of Vascular Surgery, University of Pennsylvania, Philadelphia.h
+Competition of interest: Dr Lee received research support and consultation fees
+from Cook, Medtronic, and Bolton Medical. Dr Matsumura has grants for
+research and training from Abbott, Cook, Covidien, Endologix, and W. L.
+Gore. Dr Mitchell has no conflict of interest disclosures. Dr Farber received
+consultant fees from W. L. Gore, Medtronic, Cook, Aptus Endosystems, and
+Bolton Medical. Dr Greenberg received research support from Cook and
+W. L. Gore. He has IP/License agreements with Cook. Dr Azizzadeh
+received consultation fees from Medtronic and W. L. Gore. Dr Murad has no
+conflict of interest disclosures. Dr Fairman received research support from
+Abbott, Medtronic, Cook, Aptus, and Boston Scientific.
+Presented at the 2010 Vascular Annual Meeting of the Society for Vascular
+Surgery, June 10-13, 2010, Boston, Mass.
+Reprint requests: W. Anthony Lee, MD, Director of Endovascular Program,
+Christine E. Lynn Heart and Vascular Institute, 670 Glades Road, Suite
+No 300 Boca Raton, FL 33431 (e-mail: walee@sapbc.net).
+Independent peer-review and oversight has been provided by members of
+the SVS Document Oversight Committee (K. Wayne Johnston, MD
+(chair), Enrico Ascher, MD, Jack L. Cronenwett, MD, R. Clement
+Darling, MD, Vivian Gahtan, MD, Peter Gloviczki, MD, Thomas F.
+Lindsay, MD, Gregorio A. Sicard, MD).
+0741-5214/$36.00
+Copyright © 2011 by the Society for Vascular Surgery.
+doi:10.1016/j.jvs.2010.08.027
+
+only to intracranial hemorrhage.1,2 It has been estimated
+that less than 25% of patients with such an injury live to be
+evaluated in a hospital,3 and of those who do, up to 50%
+will die within 24 hours.4 Given the location of injury in
+50% to 70% of cases,4 conventional surgical repair typically
+involves a high posterolateral thoracotomy with or without
+cardiopulmonary bypass and significant blood loss, which
+can negatively impact the pulmonary, cardiac, and neurologic status of the patient. Historically, open repair of
+traumatic aortic injuries has been associated with a 28%
+mortality rate5 and a 16% paraplegia rate.6 There has been
+a risk of delayed rupture in the unrepaired thoracic transection that has been estimated to be 2% to 5%.7
+Thoracic endovascular aortic repair (TEVAR) is a rapidly evolving therapy in the treatment of a variety of thoracic aortic pathologies. TEVAR involves placing an endovascular stent graft into the thoracic aorta from a remote
+peripheral location under imaging guidance. TEVAR offers
+the potential for a durable aortic repair while avoiding the
+morbidity of a thoracotomy, aortic cross clamping, and
+cardiopulmonary bypass. Nevertheless, stroke, spinal cord
+ischemia, and other complications that are associated with
+open repair can also occur with TEVAR.
+Although there is no device currently commercially
+available with an on-label indication for repair of traumatic thoracic aortic transections, these are increasingly
+being treated off-label using endovascular devices. At the
+time of this manuscript, there were at least two ongoing
+investigator device exemption (IDE) pivotal clinical trials in187
+
+JOURNAL OF VASCULAR SURGERY
+January 2011
+
+188 Lee et al
+
+Table I. GRADE (Grading of Recommendations
+Assessment, Development, and Evaluation) system
+Strength of recommendation
+Grade 1 (strong)
+Grade 2 (weak)
+Quality of evidence
+Level A (high quality)
+Level B (moderate quality)
+Level C (low or very low
+quality)
+
+Terminology
+“We recommend . . .”
+“We suggest . . .”
+Source of evidence
+Well conducted randomized trials.
+Less rigorous or inconsistent
+randomized trials.
+Observational studies, case series,
+and unsystematic observations
+or expert opinion.
+
+vestigating the safety and efficacy of endovascular repair of
+traumatic thoracic aortic injuries. Despite the focal nature of
+these aortic injuries, which may appear to favor endograft
+repair, there remains a number of unresolved issues: (1)
+poor conformation to the arch, (2) frequent need to cover
+the left subclavian artery (LSA), (3) uncertain natural history of the repair given the younger age of trauma victims
+and the morphologic changes of the aorta that come with
+age, (4) optimal follow-up strategy that may span several
+decades and the risks of cumulative radiation exposure, (5)
+timing of repair, and (6) the need for intraoperative anticoagulation in the setting of polytrauma.
+The Society for Vascular Surgery® (SVS) identified several
+key issues that require the development of clinical practice
+guidelines to aid surgeons, referring physicians, and patients in
+the process of decision making. Endovascular repair of traumatic thoracic aortic injuries was one of these areas. In developing these guidelines, the Society utilized similar processes
+and formats to their recently published guidelines.8 First, the
+Society selected a committee of experts in the field who
+possess knowledge of the clinical aspects as well as patients’
+values and preferences in this regard. Second, they commissioned the Knowledge and Encounter Research Unit, Mayo
+Clinic, Rochester, a third party with expertise in evidencebased medicine, knowledge synthesis, and guideline development to conduct a comprehensive systematic review of
+the literature and identify the best available evidence. The
+Society acknowledged the value of systematic reviews and
+meta-analyses since, compared with individual studies, they
+provide evidence that is more robust and more likely to be
+applicable to a wider range of patients. Third, the Society
+utilized the Grading of Recommendations Assessment,
+Development and Evaluation (GRADE) methods to develop and present their recommendations. The GRADE
+method provides superior clarity and separates the quality
+of evidence from the strength of recommendations. It also
+allows for the inclusion of patients’ values and preferences
+in recommendations8 (Table I).
+In this article, the committee presents the following
+recommendation with the aim of clarifying the role of
+TEVAR in the treatment of traumatic blunt aortic injuries.
+While there was diversity of individual opinions, the article
+
+reflects the consensus of the committee. The recommendation is followed by the supporting evidence, a values statement, and relevant technical remarks. Detailed description
+of the data analysis is in the accompanying article.9
+RECOMMENDATION BASED ON THE
+META-ANALYSIS
+Prospective randomized trials directly comparing open
+vs endovascular repair of traumatic thoracic aortic injury are
+unavailable. Despite probable clinical equipoise, such a
+clinical trial will unlikely be conducted in a timely and
+successful manner. Therefore, based on the systematic review of the available literature presented in an article by
+Murad et al,9 the committee suggests that endovascular
+repair of traumatic thoracic aortic injuries be performed
+preferentially over open surgical repair or nonoperative
+management. This recommendation is based on very low
+quality evidence (Grade 2, Level C).
+EVIDENCE
+The systematic review commissioned by the Society
+included 7768 patients (77% males). The mean ages of
+patients treated nonoperatively and with endovascular or
+open repair were 39, 39, and 36 years, respectively. The
+mortality rate was significantly lower in patients who underwent endovascular repair, followed by open repair and
+nonoperative management (9%, 19%, and 46%, respectively, P ⬍ .01). The ISS correlated with mortality after
+open (P ⫽ .01) but not endovascular repair (P ⫽.68). No
+significant difference in event rate across the three groups
+was noted for any stroke. The risk of spinal cord ischemia
+(SCI) and end stage renal disease (ESRD) was higher in
+open repair compared with endovascular repair and nonoperative management (SCI: 9% open vs 3% endovascular and
+3% nonoperative, P ⫽ .01; ESRD: 8% open vs 5% endovascular and 3% nonoperative, P ⫽ .01). Compared with
+endovascular repair, open repair was associated with increased risk of graft infection and systemic infections, most
+commonly pneumonia. With a median follow-up of 2 years,
+there was a trend toward increased risk of a secondary
+procedure in endovascular compared with open repair (P ⫽
+.07).
+VALUES
+In developing the recommendation that endovascular
+repair should be performed preferentially over open surgical repair or nonoperative management, the committee
+placed a significantly higher value on preventing catastrophic complications of thoracic aortic repair (death,
+stroke, and spinal cord ischemia) and a lower value on
+potential adverse events such as endoleak, need for reintervention, and device failures. The committee also placed less
+value on possible late-term outcomes that remain unknown
+at this time. Furthermore, the committee acknowledges the
+off-label use of a medical device in the context of endovascular repair of traumatic thoracic aortic injury, although
+there are ongoing studies investigating the safety and efficacy in this application; however, as we believe that pre-
+
+JOURNAL OF VASCULAR SURGERY
+Volume 53, Number 1
+
+Lee et al 189
+
+Table II. Summary of guidelines for thoracic endovascular aortic repair (TEVAR) in traumatic thoracic aortic injuries
+
+Guideline
+Choice of treatment
+Timing of repair
+Management of minimal
+aortic injury
+Type of repair in the
+young patient
+Management of left
+subclavian artery
+Systemic heparinization
+Spinal drainage
+Choice of anesthesia
+Femoral access technique
+
+Consensus
+We suggest that endovascular repair be performed preferentially
+over open surgical repair or nonoperative management.
+We suggest urgent (⬍24 hours) repair, and at the latest prior to
+hospital discharge.
+We suggest expectant management with serial imaging for type
+I injuries.
+We suggest endovascular repair regardless of age if anatomically
+suitable.
+We suggest selective revascularization of the left subclavian
+artery.
+We suggest routine heparinization but at a lower dose than in
+elective TEVAR.
+We do not suggest routine spinal drainage.
+We suggest general anesthesia.
+We suggest open femoral exposure.
+
+venting death is paramount in this setting, the committee
+recommends endovascular repair.
+CONSENSUS OF OPINION ON SELECT ISSUES
+Endovascular repair of traumatic thoracic aortic injuries
+poses several unresolved or controversial issues whose supporting evidence lacks sufficient clarity in the literature due
+to cohort heterogeneity, size, and length of follow-up.
+Nevertheless, the committee sought to arrive at some consensus on a select number of these issues to offer guidance
+in actual clinical practice. To this end, a series of questions
+were used to survey the opinions of each committee member. Published evidence is provided in support of the majority and minority opinions when available. Using the
+GRADE system, all of the following opinions should be
+regarded as Grade 2, Level C statements (Table II).
+Issue 1: Timing of TEVAR in a stable patient. The
+committee suggests urgent (⬍24 hours) repair barring
+other serious concomitant nonaortic injuries, or repair immediately after other injuries have been treated, but at the
+latest prior to hospital discharge.10,11 This is consistent
+with the available evidence in which mortality was 46% in
+those managed nonoperatively.9 While most did not favor
+discharge without repair, depending on the severity of the
+injury (see below), minority opinion was expressed that
+expectant management was appropriate with follow-up imaging.
+Issue 2: Management of “minimal aortic injury”
+(periadventitial defect or hematoma). Intimal or periadventitial defects or hematomas are not infrequently seen on
+computed tomography (CT) scan. A classification scheme
+for grading the severity of aortic injury has been proposed:
+type I (intimal tear), type II (intramural hematoma), type
+III (pseudoaneurysm), and type IV (rupture)12 (Fig). The
+committee suggests expectant management with serial imaging for type I injuries, while types II to IV should be
+repaired. This is based on early evidence that most type I
+
+Grade of
+recommendation
+1—strong
+2—weak
+
+Quality of evidence
+A— high
+B—moderate
+C—low or very low
+
+2
+
+C
+
+2
+
+C
+
+2
+
+C
+
+2
+
+C
+
+2
+
+C
+
+2
+
+C
+
+2
+2
+2
+
+C
+C
+C
+
+injuries heal spontaneously.12 Decision to intervene and its
+timing should be guided by progression of the initial radiographic abnormality and/or symptoms.
+Issue 3: Choice of repair in the young—TEVAR vs
+open. There was near unanimity of opinion that anatomic
+suitability is important for TEVAR but age should not be a
+factor in deciding the type of repair. The risks of death and
+spinal cord ischemia are significantly lower in all age groups
+after endovascular repair compared with open surgery,13-15
+and these early benefits outweigh the concerns of potential
+late complications. However, in surgically fit patients with
+poor anatomy for endovascular repair, conventional open
+repair should be considered.
+Issue 4: Suitability and the unmet needs of current
+FDA-approved thoracic endografts. With the availability of three commercially available devices, there was considerable divergence of opinion about the “best” device for
+use in traumatic thoracic aortic injury. There was a consensus, however, that arch conformation represented the single greatest unmet need given the curvature of the thoracic
+aorta at the location of the injury. Inability to conform to
+this curvature can result in malapposition of the endograft,
+which can lead to endoleak and endograft collapse.16 The
+aortic diameters are relatively smaller in the younger subset
+of trauma patients. Currently, available thoracic endograft
+sizes mostly reflect the larger aortic diameters that would be
+typically encountered in an older cohort with degenerative
+aneurysms. Excessive oversizing may result in attachment
+site endoleak, device infolding, endograft collapse, and
+even death from acute aortic occlusion.16 Endograft collapse represents a failure of the therapy and a marker of
+unsuitable anatomy, and open surgical conversion should
+be considered. No consensus could be reached regarding
+optimal oversizing for these cases, and opinions were
+equally divided among minimal to no oversizing, 5% to 10%
+oversizing, and standard oversizing per manufacturer’s recommendations. Historically, abdominal endograft compo-
+
+JOURNAL OF VASCULAR SURGERY
+January 2011
+
+190 Lee et al
+
+Fig. Classifications of traumatic aortic injury.12
+
+nents such as proximal extension cuffs have been used when
+thoracic devices were either unavailable or anatomically
+unsuitable.17,18 Due to the shorter delivery systems, often
+these devices could not reach the site of injury from the
+femoral approach, which necessitated either use of a longer
+makeshift delivery system or access through a more proximal site. The lengths of extension cuffs are typically short,
+and this required multiple overlapping pieces. Such an
+intercalating construction allowed slightly improved conformation to the arch but at the same time introduced
+multiple junctions, which were potential sources of type III
+endoleaks.
+A number of next generation devices are presently
+undergoing clinical trials that may address some of the
+unmet needs of this therapy. Cook (Bloomington, Ind) has
+recently introduced the Pro-Form delivery system that is
+intended to improve arch conformability, and in the near
+future the TX2 LP (low-profile), which will decrease the
+profile of the delivery catheter and broaden the range of
+available diameters. Medtronic (Santa Rosa, Calif) will
+introduce the Valiant thoracic endograft with the Captivia delivery system, which should enhance the stability
+and reliability of the deployment mechanism. W. L. Gore
+(Flagstaff, Ariz) is currently conducting clinical trials of
+their c (conformable)-TAG device, with which preliminary experience outside the United States appears to
+show improved arch conformability and greater tolerance to device oversizing.
+Issue 5: LSA management during zone 2 coverage.
+There was near unanimity of opinion for selective revascu-
+
+larization (either before or after TEVAR) depending on the
+status of the vertebral anatomy, with a minority opinion
+favoring routine revascularization.19 In the current metaanalysis,9 the LSA was covered in 30% of cases. Preservation
+of antegrade perfusion on the side of the dominant vertebral artery can specifically decrease the risk of posterior
+circulation strokes.20 However, the urgency of the repair
+and the condition of the victim may preclude preoperative
+assessment. If the LSA is covered, intraoperative angiography of the right vertebral artery would allow the most
+expeditious assessment of the adequacy of the posterior
+circulation. If the right vertebral artery is atretic or hypoplastic with or without an intact Circle of Willis, the decision to revascularize the left subclavian artery must be
+individualized taking into account the availability of surgical expertise, condition of the patient, and other injuries.19
+Issue 6: Systemic heparinization. The safety of systemic heparinization during endovascular repair in a multiply injured patient with a closed head injury or abdominal
+solid organ injury is a controversial issue. The majority of
+committee members indicated that they routinely use systemic heparin but at a lower dose than in elective TEVAR.
+A minority opinion was expressed that heparin may not be
+necessary as most of these cases can be performed relatively
+rapidly, and the risk of a thrombotic event is likely small.21
+In the final analysis, the decision must be individualized
+based on the balance of the perceived risks of bleeding in a
+particular organ system vs the thromboembolic complications.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 53, Number 1
+
+Issue 7: Spinal drainage. Spinal drainage has been
+the mainstay of management for spinal cord ischemia during TEVAR. The issue of prophylactic spinal drainage is
+controversial even for treatment of degenerative thoracic
+aneurysms and, to be sure, no data exist for traumatic
+injuries. SCI is a low-incidence event (3%) after TEVAR for
+traumatic injuries.9 Based on this and the proximal location
+of the injury, limited coverage of the thoracic aorta and the
+risk of epidural hematoma in a coagulopathic patient, there
+was unanimity of opinion that spinal drainage is not routinely indicated, and it should only be placed for symptoms
+of spinal cord ischemia.
+Issue 8: Choice of anesthesia— general vs regional
+vs local. There was a strong consensus favoring general
+anesthesia. While it is possible to perform TEVAR under
+local anesthesia (minority opinion), unreliable cooperation
+of an agitated trauma patient and presence of concomitant
+injuries that may require additional surgery make this option less favorable.
+Issue 9: Femoral access technique— open vs percutaneous. Nearly all of the committee members favored
+open femoral exposure in these cases to minimize potentially avoidable complications related to percutaneous closure of large bore access sites. On the other hand, “percutaneous TEVAR” using suture-mediated closure devices
+can be performed safely with low rates of early and late limb
+or life threatening events22 and there was a minority opinion, which favored this approach. In the emergent setting,
+percutaneous access can also refer to the actual insertion of
+the endovascular device without initial surgical exposure of
+the femoral artery. The artery is repaired after the endograft
+is deployed by surgical exposure, and removal of the delivery system under direct vision. This technique may allow a
+more rapid endograft delivery and repair in a hemodynamically unstable patient.
+Issue 10: Optimal follow-up strategy. Given the
+concerns of cumulative radiation, iodinated contrast exposure, and late endograft collapse, the optimal strategy for
+long-term follow-up of these patients post-TEVAR remains in evolution. Opinions varied widely within the
+committee as to the frequency and types of imaging that
+should be utilized. In the absence of any abnormalities on
+imaging (ie, stable endograft position, no endoleak) in the
+first 12 to 36 months, some have suggested decreasing the
+frequency to 2 to 5 years, while others have expressed that,
+lacking any evidence to the contrary, follow-up for traumatic thoracic aortic injuries should be no different than
+those treated with TEVAR for other pathologies. There
+was, however, some consensus suggesting that a combination of a multi-view chest x-ray and a magnetic resonance
+angiography (MRA) may be preferable over conventional
+contrast computed tomographic angiography (CTA) for
+long-term imaging, with due consideration of the metallic
+composition of the endograft.
+CONCLUSION
+Although the quality of evidence is very low, TEVAR
+for traumatic thoracic aortic injury is associated with im-
+
+Lee et al 191
+
+proved outcomes compared with open repair, especially
+about its lower mortality and incidence of spinal cord
+ischemia. However, this finding should be tempered by the
+current lack of suitable devices that can accommodate the
+unique anatomy of these patients, which has occasionally
+resulted in severe procedure-related complications, and the
+unknown natural history of the endovascular repair and the
+optimal follow-up strategy.
+AUTHOR CONTRIBUTIONS
+Conception and design: WL
+Analysis and interpretation: WL, JM, SM, MF, RG, AA,
+MM, RF
+Data collection: WL, MM
+Writing the article: WL
+Critical revision of the article: WL
+Final approval of the article: WL, JM, SM, MF, RG, AA,
+MM, RF
+Statistical analysis: MM
+Obtained funding: Not applicable
+Overall responsibility: WL
+REFERENCES
+1. Clancy TV, Gary Maxwell J, Covington DL, Brinker CC, Blackman D.
+A statewide analysis of level I and II trauma centers for patients with
+major injuries. J Trauma 2001;51:346-51.
+2. Richens D, Field M, Neale M, Oakley C. The mechanism of injury in
+blunt traumatic rupture of the aorta. Eur J Cardiothorac Surg 2002;21:
+288-93.
+3. Fabian TC, Richardson JD, Croce MA, Smith JS Jr, Rodman G Jr,
+Kearney PA, et al. Prospective study of blunt aortic injury: multicenter
+trial of the American Association for the Surgery of Trauma. J Trauma
+1997;42:374-80.
+4. Jamieson WR, Janusz MT, Gudas VM, Burr LH, Fradet GJ, Henderson
+C. Traumatic rupture of the thoracic aorta: third decade of experience.
+Am J Surg 2002;183:571-5.
+5. Cowley RA, Turney SZ, Hankins JR, Rodriguez A, Attar S, Shankar BS.
+Rupture of thoracic aorta caused by blunt trauma. A 15-year experience.
+J Thorac Cardiovasc Surg 1990;100:652-60.
+6. Ott MC, Stewart TC, Lawlor DK, Gray DK, Forbes TL. Management
+of blunt thoracic aortic injuries: endovascular stents versus open repair.
+J Trauma 2004;56:565-70.
+7. Tehrani HY, Peterson BG, Katariya K, Morasch MD, Stevens R,
+DiLuozzo G, et al. Endovascular repair of thoracic aortic tears. Ann
+Thorac Surg 2006;82:873-7.
+8. Murad MH, Swiglo BA, Sidawy AN, Ascher E, Montori VM. Methodology for clinical practice guidelines for the management of arteriovenous access. J Vasc Surg 2008;48:26S-30S.
+9. Murad MH, Rizvi AZ, Malgor R, Carey J, Alkatib AA, Erwin PJ, et al.
+Comparative effectiveness of the treatments for aortic transaction: a
+systematic review and meta-analysis. J Vasc Surg
+10. Demetriades D, Velmahos GC, Scalea TM, Jurkovich GJ, Karmy-Jones
+R, Teixeira PG, et al. Blunt traumatic thoracic aortic injuries: early or
+delayed repair–results of an American Association for the Surgery of
+Trauma prospective study. J Trauma 2009;66:967-73.
+11. Pate JW, Gavant ML, Weiman DS, Fabian TC. Traumatic rupture of the
+aortic isthmus: program of selective management. World J Surg 1999;
+23:59-63.
+12. Azizzadeh A, Keyhani K, Miller CC III, Coogan SM, Safi HJ, Estrera
+AL. Blunt traumatic aortic injury: initial experience with endovascular
+repair. J Vasc Surg 2009;49:1403-8.
+13. Xenos ES, Abedi NN, Davenport DL, Minion DJ, Hamdallah O, Sorial
+EE, et al. Meta-analysis of endovascular vs open repair for traumatic
+descending thoracic aortic rupture. J Vasc Surg 2008;48:1343-51.
+
+192 Lee et al
+
+14. Tang GL, Tehrani HY, Usman A, Katariya K, Otero C, Perez E, et al.
+Reduced mortality, paraplegia, and stroke with stent graft repair of
+blunt aortic transections: a modern meta-analysis. J Vasc Surg 2008;
+47:671-5.
+15. Neschis DG, Scalea TM, Flinn WR, Griffith BP. Blunt aortic injury.
+N Engl J Med 2008;359:1708-16.
+16. Raupach J, Ferko A, Lojik M, Krajina A, Harrer J, Dominik J. Endovascular treatment of acute and chronic thoracic aortic injury. Cardiovasc Intervent Radiol 2007;30:1117-23.
+17. Wellons ED, Milner R, Solis M, Levitt A, Rosenthal D. Stent-graft repair of
+traumatic thoracic aortic disruptions. J Vasc Surg 2004;40:1095-100.
+18. McPhee JT, Asham EH, Rohrer MJ, Singh MJ, Wong G, Vorhies RW,
+et al. The midterm results of stent graft treatment of thoracic aortic
+injuries. J Surg Res 2007;138:181-8.
+19. Matsumura JS, Lee WA, Mitchell RS, Farber MA, Murad MH,
+Lumsden AB, et al; Society for Vascular Surgery. The Society for
+
+JOURNAL OF VASCULAR SURGERY
+January 2011
+
+Vascular Surgery Practice Guidelines: management of the left
+subclavian artery with thoracic endovascular aortic repair. J Vasc
+Surg 2009;50:1155-8.
+20. Feezor RJ, Martin TD, Hess PJ, Klodell CT, Beaver TM, Huber TS, et
+al. Risk factors for perioperative stroke during thoracic endovascular
+aortic repairs (TEVAR). J Endovasc Ther 2007;14:568-73.
+21. Peterson BG, Matsumura JS, Morasch MD, West MA, Eskandari MK.
+Percutaneous endovascular repair of blunt thoracic aortic transection.
+J Trauma 2005;59:1062-5.
+22. Lee WA, Brown MP, Nelson PR, Huber TS, Seeger JM. Midterm
+outcomes of femoral arteries after percutaneous endovascular aortic
+repair using the Preclose technique. J Vasc Surg 2008;47:919-23.
+
+Submitted Aug 2, 2010; accepted Aug 10, 2010.
+
+
