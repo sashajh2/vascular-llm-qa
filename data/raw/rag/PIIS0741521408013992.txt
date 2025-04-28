@@ -1,0 +1,2572 @@
+The Society for Vascular Surgery: Clinical practice
+guidelines for the surgical placement and
+maintenance of arteriovenous hemodialysis access
+Anton N. Sidawy, MD, MPH,a Lawrence M. Spergel, MD,b Anatole Besarab, MD,c Michael Allon, MD,d
+William C. Jennings, MD,e Frank T. Padberg Jr, MD,f M. Hassan Murad, MD, MPH,g
+Victor M. Montori, MD, MSc,g Ann M. O’Hare, MD,h Keith D. Calligaro, MD,i Robyn A. Macsata, MD,a
+Alan B. Lumsden, MD,j and Enrico Ascher, MD,k Washington, DC; San Francisco, Calif; Detroit, Mich;
+Birmingham, Ala; Tulsa, Okla; Newark, NJ; Rochester, Minn; Philadelphia, Pa; Houston, Tex; and Brooklyn, NY
+Recognizing the impact of the decision making by the dialysis access surgeon on the successful placement of autogenous
+arteriovenous hemodialysis access, the Society for Vascular Surgery assembled a multispecialty panel to develop practice
+guidelines in arteriovenous access placement and maintenance with the aim of maximizing the percentage and functionality of autogenous arteriovenous accesses that are placed. The Society commissioned the Knowledge and Encounter
+Research Unit of the Mayo Clinic College of Medicine, Rochester, Minnesota, to systematically review the available
+evidence in three main areas provided by the panel: timing of referral to access surgeons, type of access placed, and
+effectiveness of surveillance. The panel then formulated practice guidelines in seven areas: timing of referral to the access
+surgeon, operative strategies to maximize the placement of autogenous arteriovenous accesses, first choice for the
+autogenous access, choice of arteriovenous access when a patient is not a suitable candidate for a forearm autogenous
+access, the role of monitoring and surveillance in arteriovenous access management, conversion of a prosthetic
+arteriovenous access to a secondary autogenous arteriovenous access, and management of the nonfunctional or failed
+arteriovenous access. For each of the guidelines, the panel stated the recommendation or suggestion, discussed the
+evidence or opinion upon which the recommendation or suggestion was made, detailed the values and preferences that
+influenced the group’s decision in formulating the relevant guideline, and discussed technical remarks related to the
+particular guideline. In addition, detailed information is provided on various configurations of autogenous and
+prosthetic accesses and technical tips related to their placement. ( J Vasc Surg 2008;48:2S-25S.)
+
+Autogenous arteriovenous (AV) access for hemodialysis has been shown to be superior to prosthetic graft or
+catheter access in terms of patient morbidity and mortality.
+In addition, the maintenance of autogenous AV access is
+less expensive than prosthetic conduits.1-5 Although several
+reports have shown an autogenous AV access is feasible in
+most patients in the United States, construction and utilization rates for autogenous AV access for hemodialysis in
+this country are dramatically lower than in Europe and
+From the Veterans Affairs Medical Center, Washington, DC,a Dialysis
+Management Medical Group, San Francisco,b Division of Nephrology
+and Hypertension, Henry Ford Hospital, Detroit,c Division of Nephrology, University of Alabama at Birmingham, Birmingham,d Department of
+Surgery, The University of Oklahoma, Tulsa,e Section of Vascular Surgery, Department of Surgery, University of Medicine and Dentists of New
+Jersey, Newark,f Division of Preventive, Occupational and Aerospace
+Medicine, Mayo Clinic, Rochester,g Veterans Affairs Medical Center, San
+Francisco,h Section of Vascular Surgery, Pennsylvania Hospital, Philadelphia,i Baylor College of Medicine, Houston,j and Maimonides Medical
+Center, Brooklyn.k
+STATEMENT OF CONFLICT OF INTEREST: These authors report that
+they have no conflicts of interest with the sponsor of this supplement
+article or products discussed in this article.
+Correspondence: Anton N. Sidawy, MD, 50 Irving Street, NW (112),
+Washington, DC 20422 (e-mail: ansidawy@aol.com).
+0741-5214/$34.00
+Copyright © 2008 Published by Elsevier Inc. on behalf of The Society for
+Vascular Surgery.
+doi:10.1016/j.jvs.2008.08.042
+
+2S
+
+Japan.6,7 Nevertheless, rates of autogenous AV access
+within the United States have improved in the last several
+years. This important progress likely reflects the effect of
+national efforts to increase autogenous access placement,
+such as the Centers for Medicare and Medicaid Services
+(CMS)–sponsored AV Fistula First Breakthrough Initiative
+(FFBI) and the National Kidney Foundation (NKF)-Kidney
+Disease Outcomes Quality Initiative (KDOQI) Clinical Practice Guidelines,8,9 as well as improved preoperative evaluation, vessel mapping, and accepted priority for autogenous
+access. The development of alternative and innovative approaches to autogenous AV access construction has also
+contributed to wider utilization of autogenous access in
+this country.10
+Ten years ago, in October 1997, the NKF-KDOQI
+Clinical Practice Guidelines for Vascular Access were published in an effort to increase the placement of autogenous
+AV access and to prolong the use of existing access by
+detection of, and timely intervention for, dysfunction.
+These original guidelines and subsequent versions stress
+proactive identification of patients with progressive kidney
+disease, identification and protection of potential native
+access construction sites by members of the health care
+team and patients, and the development of a multifaceted
+quality assurance program to detect at-risk vascular access,
+track complication rates, and implement procedures that
+maximize access longevity.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+The original guidelines recommended that autogenous
+AV access be constructed in at least 50% of all new renal
+failure patients electing to receive hemodialysis as their
+initial form of renal replacement therapy, with the expectation that ultimately, 40% of prevalent patients would be
+receiving their hemodialysis through an autogenous AV
+access.11 The 2006 updated KDOQI Guidelines raised this
+benchmark for minimal use of autogenous access in prevalent hemodialysis patients to 65%.9
+In June 2003, a coalition consisting of the CMS, the
+End-Stage Renal Disease (ESRD) Networks, the Institute
+for Healthcare Improvement (IHI), and other key provider
+representatives jointly recommended adoption of a National Vascular Access Improvement Initiative (NVAII).
+The initial goal of this initiative was to increase the number
+of autogenous AV accesses placed and functioning in suitable patients to meet or even surpass the targets set by
+NKF-KDOQI guidelines.
+The NVAII was originally intended to run through
+2003; but because of early success in reaching the thenKDOQI goal of 40% prevalence by August 2005, CMS
+formally expanded its commitment by upgrading the initiative to what CMS called the AV Fistula First Breakthrough
+Initiative (FFBI), with a new goal of 66% by 2009.10 The
+FFBI Work Group identified clinical and organizational
+changes that could be adapted and applied locally by nephrologists, dialysis personnel, access surgeons, and patients
+to increase the production and use of autogenous AV
+access. They also identified system changes that could be
+implemented at a national level to encourage the placement
+of autogenous AV accesses at a higher rate than prosthetic
+AV accesses and catheters, for example, reimbursement for
+preoperative vessel mapping to identify adequate vessels for
+use for autogenous access construction. As a result of the
+efforts of the FFBI, the prevalence of autogenous access
+had increased by ⬎50%, from 32% to 49%, by January
+2008.
+The Society for Vascular Surgery (SVS), representing
+⬎2500 vascular surgeons, recognizes the effect of decision
+making by the individual vascular access surgeon on the
+construction and utilization of access for hemodialysis.
+Therefore, the SVS approved and sponsored two initiatives:
+(1) to develop and publish reporting standards for AV
+hemodialysis access and (2) to develop practice guidelines
+for AV hemodialysis access.
+To accomplish the first initiative, the SVS charged a
+multidisciplinary committee to develop standardized definitions related to AV access procedures, patency, and complications. Standardization of terminology facilitates more
+meaningful comparisons between published reports of
+long-term patency and complications of AV access procedures. These recommendations were published in the Journal of Vascular Surgery in 2002.12
+To accomplish the second initiative, SVS assembled a
+multispecialty expert panel, consisting of vascular access
+surgeons and nephrologists, to develop clinical practice
+guidelines for AV access placement. In an ongoing effort to
+optimize the placement of autogenous AV access in pa-
+
+Sidawy et al 3S
+
+tients with chronic kidney disease (CKD) and ESRD, these
+guidelines are directed toward AV access surgeons and
+specialists (such as interventional radiologists, nephrologists, and cardiologists) as the providers whose ultimate
+operative decision determines the type of access placed.
+The panel’s recommendations have culminated in the following practice guidelines: optimal timing and indications
+for referral of patients with advanced CKD, defined by a
+Modification of Diet in Renal Disease (MDRD) glomerular
+filtration rate (GFR) of ⬎20 to 25 mL/min, to a vascular
+access surgeon, preoperative evaluation for AV access, configuration and strategies to optimize autogenous AV access
+placement, assessment of functionality of AV access, and
+treatment of AV access thrombosis.
+To help the panel formulate its recommendations, the
+SVS used the help of The Knowledge and Encounter
+Research Unit (KER) of the Mayo Clinic College of Medicine, Rochester, Minnesota. This independent group performed a systematic study of the available evidence in three
+main areas provided by the panel: timing of referral to
+access surgeons, type of access placed, and effectiveness of
+surveillance.13-15 The panel adopted the Grading of Recommendations Assessment, Development and Evaluation
+(GRADE) scheme to formulate these recommendations
+because this system separates the strength of recommendations from the quality of the evidence.16 This separation
+informs guideline users (eg, patients, clinicians, and policy
+makers) of factors other than evidence, such as values and
+preferences if applicable, and clinical and social circumstances that played a role in formulating these recommendations.
+These systematic literature reviews revealed a paucity of
+high-quality evidence in this area, and many of the recommendations herein are based on observational studies, unsystematic observations, and consensus of our committee.
+Nevertheless, some of these recommendations were graded
+as strong (GRADE 1) because of the values and preferences
+brought to bear by the committee and are explicitly described in this article. In addition, because of the multidisciplinary nature of the committee, these recommendations
+reflect consensus among access surgeons and nephrologists. Although by spearheading this project the SVS aimed
+to provide a structure to form the underpinning of patient
+evaluation and decision making by the access surgeon, it is
+important to emphasize that these recommendations are
+not intended to supersede the surgeon’s final judgment
+regarding the management of the individual patient.
+1. CLINICAL RECOMMENDATION: Timing of
+referral to AV access surgeon and timing of
+placement of permanent vascular access
+We recommend that patients with advanced CKD
+disease (late stage 4, MDRD <20 to 25 mL/min) who
+have elected hemodialysis as their choice of renal replacement therapy be referred to an access surgeon in
+order to evaluate and plan construction of AV access
+(GRADE 1 recommendation, very low-quality evidence).
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+4S Sidawy et al
+
+A. If at the conclusion of the evaluation, upper extremity arterial and venous anatomy is adequate
+for an autogenous AV access, such access should
+be constructed as soon as possible to allow it
+enough time to mature and undergo further interventions that may be needed to ensure that the
+access is ready to be used when dialysis is initiated.
+B. If a prosthetic access is to be constructed, this
+should be delayed until just before the need for
+dialysis.
+1.1. Evidence
+A systematic review of the literature demonstrated that
+the evidence on the appropriate timing of referring patients
+to vascular surgery is very scarce.13 Two observational
+studies demonstrated that ⬍5% of patients who were seen
+by a vascular surgeon ⬎1 month before hemodialysis was
+initiated used a catheter as their first access17 and that,
+compared with late access construction (ⱕ1 month of
+hemodialysis), early access construction (ⱖ4 months before
+hemodialysis) was associated with lower risk of death and
+sepsis, with relative risks (RRs) of 0.76 (95% confidence
+interval [CI], 0.58-1.00) and 0.57 (95% CI, 0.41-0.79),
+respectively.18 Introducing catheter use and sepsis into the
+mortality model rendered the association nonsignificant. It
+is difficult to predict the timing of hemodialysis onset in an
+individual patient19; however, observations of the committee members suggest that access placement ⬍6 months
+before initiation of hemodialysis is unlikely to allow adequate time for autogenous access maturation. Timely discussion and consultation could help avoid these adverse
+outcomes.
+In addition, according to unsystematic observations
+and consensus of our committee, prosthetic AV accesses
+should be placed no earlier than 3 to 6 weeks before an
+anticipated need for hemodialysis in patients who are not
+candidates for autogenous AV accesses. This is because the
+lifespan of prosthetic accesses is limited by venous outflow
+stenosis, which can develop at any time after access placement, regardless of when hemodialysis is initiated through
+the access. In addition, the prosthetic access only needs 3 to
+6 weeks for incorporation in the surrounding tissue, and at
+many centers, a prosthetic access is used ⱕ2 weeks of
+placement or earlier, depending on the type of prosthetic
+access. This recommendation is consistent with those of
+KDOQI and the FFBI.8,9
+1.2. Values and preferences
+In formulating a strong recommendation despite the
+very low-quality evidence, the committee placed a higher
+value on avoiding harm associated with late access construction and a lower value on potential harms and costs
+associated with early referral and early access placement.
+Early referral should encourage placement of autogenous
+access; however, whether the autogenous access prevalence
+rate can be increased to reach 66% by 2009, as desired by
+CMS,8 is currently uncertain.
+
+1.3. Technical remarks
+It is generally agreed that all new hemodialysis patients
+should have the most optimal permanent vascular access
+that can be successfully used at the time of initiation of
+dialysis therapy. For this to happen, the patient must see a
+nephrologist before initiation of dialysis to facilitate the
+referral to an access surgeon, and the surgery must be
+performed in enough time before dialysis initiation to allow
+for maturation, revision, and repeat procedures if the first
+attempt is unsuccessful.
+Referral for initial vascular access placement should
+ideally occur approximately 6 months in advance of the
+anticipated need for dialysis. Because of the difficulty of
+predicting timing of onset of hemodialysis in an individual
+patient, it is recommended that referral for initial access
+placement should occur when the estimated GFR (eGFR)
+level drops ⬍20 to 25 mL/min/1.73 m2 (stage 4 CKD) in
+a patient expected to start hemodialysis. However, referral
+decisions should be individualized to reflect differences in
+rates of actual and predicted decline in eGFR, in the competing risk of death, and in patient preferences.
+In the United States, most patients who start dialysis do
+not have a functioning permanent vascular access (autogenous or prosthetic) in place at the time dialysis is initiated, and
+thus a catheter must be used for dialysis until permanent access
+is placed and ready to be used.20,21 Many patients are not
+referred to a nephrologist until their kidney disease is already
+quite advanced, allowing little opportunity for vascular access
+placement before dialysis is initiated.17,22,23
+Not surprisingly, patients who are referred to nephrologists before the initiation of dialysis are more likely to
+undergo vascular access surgery before dialysis begins.24
+More frequent utilization of nephrology care before the
+initiation of dialysis also appears to be associated with a
+lower risk of catheter use at the initiation of dialysis.24
+Avorn et al24 found that patients referred to a nephrologist
+⬍90 days before the initiation of dialysis were approximately 40% more likely to undergo catheter placement
+compared with those who were seen ⬎90 days before the
+initiation of dialysis. Frequency of nephrology care was also
+important. Those who had fewer than three visits to a
+nephrologist within the year before dialysis initiation were
+40% more likely to have a catheter than those who had three
+or more visits.24
+In addition, predialysis nephrology referral is associated
+with a shorter duration of catheter use after the initiation of
+dialysis and with a greater likelihood of autogenous access
+placement.25 Nevertheless, even among patients referred to
+a nephrologist well in advance of the need for dialysis, most
+start dialysis with a catheter rather than a permanent vascular access.20,22,25 Therefore, the need for CKD/pre-ESRD
+programs is crucial to ensuring that patients are evaluated
+early to receive the optimal renal replacement therapy and
+permanent hemodialysis access (if hemodialysis is chosen).
+The average maturation time of a new autogenous
+access is 2 to 4 months.26-30 In addition, a patient whose
+access fails to mature sufficiently to support hemodialysis
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+needs to undergo additional procedures to promote autogenous access maturation or place a new vascular access, or
+both. Hemodialysis patients are usually dialyzed through a
+central venous catheter while this process is completed.
+Catheter use is associated with bacteremia and inadequate
+dialysis, which is time/use-related.31 Catheter use at initiation of dialysis is also associated with higher subsequent
+mortality.32-34 Furthermore, mortality is higher among
+patients who receive dialyses continuously through a catheter than among those who switch from a catheter to
+autogenous or prosthetic permanent access.35 It should be
+noted that it is unclear from these studies whether catheter
+use directly causes higher mortality or whether catheter use
+is a marker for other conditions and situations associated
+with increased mortality risk.
+In addition to central vein preservation, peripheral upper extremity veins should also be preserved for future
+placement of permanent vascular access; therefore whenever possible, hand veins should be used in preference to
+arm veins for phlebotomy and intravenous catheter placement in patients with CKD, despite the increased discomfort for patients. Particular care should be taken to avoid
+cannulation of the cephalic vein in the nondominant arm.
+When arm veins must be used, the site should be rotated.
+Percutaneous intravenous central catheters (PICCs) should
+not be used in patients with evidence of renal dysfunction
+until their renal status is evaluated.
+Because of low rates of autogenous access placement
+among incident hemodialysis patients, time required for
+successful autogenous access maturation, and associations
+of catheter use with adverse outcomes among hemodialysis
+patients, there is ready consensus that patients with CKD
+should be referred for autogenous access placement well
+before the initiation of dialysis. However, scant information
+is available to suggest exactly how far in advance of the need
+for dialysis and when in relation to their level of renal
+function and course of their CKD patients should be referred for initial AV access construction. Consequently,
+although there is broad agreement among different national guidelines that timely referral for autogenous access
+construction is important, specific recommendations are
+opinion-based and vary considerably, as indicated by various published guidelines around the world.8,10,11,36,37,38
+Some are summarized below:
+United States KDOQI guidelines.11
+I. Guideline 1: Patient preparation for permanent hemodialysis access:
+1.3. Patients should have a functional permanent access at
+the initiation of dialysis therapy.
+● 1.3.1. A fistula should be placed at least 6 months
+
+before the anticipated start of hemodialysis (HD)
+treatments. This timing allows for access evaluation
+and additional time for revision to ensure a working
+fistula is available at initiation of dialysis therapy. (B)
+● 1.3.2. A graft should, in most cases, be placed at least
+
+3 to 6 weeks before the anticipated start of HD ther-
+
+Sidawy et al 5S
+
+apy. Some newer graft materials may be cannulated
+immediately after placement. (B)
+And these guidelines also stated:11
+II. Clinical practice recommendations for guideline 1:
+patient preparation for permanent hemodialysis access.
+● 1.3. Patients with CKD stage 5 should be educated on
+the risks and benefits associated with catheters and strongly
+encouraged to allow the evaluation for and creation of a
+fistula for long-term access when appropriate. Such discussions with the patient should be initiated months before the
+anticipated start of dialysis therapy.
+The FFBI. Referral to surgeon for evaluation for access by stage 4 CKD (GFR ⬍30), with placement of AVF
+soon thereafter (GFR 20 to 30), or based on progression of
+renal disease.8,10
+British Renal Association. The following is stated
+under guideline 7-Vascular Access of The British Renal
+Association C:37
+7.4. Patients should undergo fistula creation between 6
+and 12 months before hemodialysis is expected to start to
+allow time for adequate maturation of the fistula or time for
+a revision procedure if the fistula fails or is inadequate for
+use.
+Canadian Society of Nephrology. Guidelines from
+the Canadian Society of Nephrology indicate:38
+A. Establish autogenous AV access when the patient has a
+creatinine clearance of 15 to 20 mL/min or serum
+creatinine of 300 to 500 ␮mol/L, depending on the
+size and weight of the patient.
+B. Place dialysis prosthetic access at least 3 to 6 weeks
+before an anticipated need for hemodialysis.
+Caring for Australians with Renal Insufficiency
+(CARI). Guidelines from Caring for Australians With Renal Insufficiency state:36
+A. All patients, and especially those with comorbid conditions, should be referred to a vascular access surgeon
+well in advance of the anticipated need for hemodialysis. The exact timing depends on patient-related factors
+and local facilities.
+B. Several procedures may be required to establish access
+and maturation of access may be prolonged in some
+patients.
+C. AV grafts should be placed only shortly before anticipated use.
+Preoperative evaluation. Establishing functional AV
+access requires careful preoperative evaluation and planning. This process starts by early identification of individuals with renal insufficiency for prompt surgical consultation
+to select the best extremity and site for an autogenous AV
+access. A very important determinant of the success of AV
+access is an appropriate and detailed preoperative history
+and examination, followed by vessel mapping.
+Patient history specific to vascular access selection. Several historical factors have been associated with increased
+difficulty in establishing a functional AV access and partic-
+
+6S Sidawy et al
+
+ularly autogenous AV access. These include diabetes mellitus, peripheral vascular disease, severe congestive heart
+failure, advanced age, and female gender.29,39-40 However,
+recent reports have demonstrated that successful outcomes
+are possible in several of these groups.41,42 All patients
+should be viewed as potential candidates for autogenous
+AV access construction, although some individuals with a
+difficult access extremity will require more inventive or
+complex access procedures.42-44 Repeated thrombotic
+events may prompt screening for a hypercoagulable state.45
+Several risk factors such as homocystine and factor VIII are
+commonly elevated in patients with renal failure. Chronic
+anticoagulation with warfarin carries significant risk in these
+patients and should probably be considered only for those
+individuals with a clearly defined hypercoagulable
+state.46,47 Clopidogrel is frequently used in the dialysis
+population. In prosthetic accesses, it was associated with a
+higher rate of bleeding and no statistical improvement in
+graft patency.48-50
+The patient’s surgical history, such as failed access
+procedures, PICCs, pacemakers, defibrillators, arterial
+catheters, cardiac surgery, or trauma often play an important role in AV access planning. Consideration of the
+patient’s dominant arm or incapacitation of one extremity
+from a previous stroke may influence, but not dictate, an
+AV access decision. Placement of an autogenous AV access
+is particularly important in patients with chronic infections,
+recurrent skin diseases, and immunosuppression. Finally,
+the patient’s overall medical condition, social support
+structure, and life expectancy should be considered when
+considering long-term vascular access.
+Physical examination specific to vascular access selection. Patients with forearm eczema or extensive solar keratosis and those older patients with particularly thin and
+fragile skin may be better suited to upper arm autogenous
+AV access. Neurologic examination should record the presence of neuropathy and describe motor or sensory abnormalities. Evidence of congestive heart failure, such as neck
+vein distension, should be addressed and cardiac function
+maximized before surgery.
+Unfortunately, most individuals in the United States
+begin chronic dialysis through a central venous dialysis
+catheter. The site and location of these existing and previous catheters should be recorded. In addition, defibrillators
+and pacemakers often use the subclavian vein and are even
+more likely to be associated with clinically important central
+venous stenosis or occlusion. If permanent access is planned
+on the side of a previous central catheter, imaging of the
+central veins may be needed because any significant stenoses may produce venous hypertension due to markedly
+increased venous blood flow from an upper extremity AV
+access.51
+Arterial examination. The experienced surgeon’s examination, including identification of healthy brachial, radial, and ulnar arteries, is the single most important aspect
+of arterial inflow evaluation. Palpation of healthy vessels
+should find the arteries soft, easily compressible, and their
+pulse equal bilaterally. The Allen’s test confirms a patent
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+palmar arch and is particularly important when an autogenous AV access at the wrist is planned. Bilateral extremity
+blood pressures should be recorded and found to be equal.
+Sites of previous arterial catheters or arterial donations for
+coronary artery bypass grafting should be identified; the
+radial artery harvested for coronary revascularization is
+identified by the characteristic longitudinal incision over
+the anterior aspect of the forearm. Further investigations
+are indicated if the history or physical findings suggest an
+arterial inflow abnormality.
+Venous examination. The venous system should be
+inspected with and without a venous pressure tourniquet in
+place. Outflow veins should be uninterrupted and distensible. The presence of enlarged superficial veins on the chest
+wall or arm edema may suggest central venous stenosis or
+occlusion. Enlarged collateral veins are pathognomonic of a
+segmental venous occlusion.52 Arm diameter in obese patients may limit access selection or dictate the need for primary
+or staged vein elevation or a transposition procedure.
+Noninvasive ultrasound imaging: a critical supplement
+to the clinical examination. Ultrasound venous mapping is
+of critical importance in these patients, not only for identifying preferred autogenous access sites but also for evaluating the depth of venous structures.53 Utilization of autogenous veins for construction of AV access is enhanced
+by the identification of clinically “buried” veins as well as
+unexpected venous occlusions or stenoses.47 Some obese
+individuals have deep forearm veins that are quite adequate
+for dialysis if transposed or superficialized. Further, if distal
+arterial inflow is inadequate and the venous system is found
+adequate by ultrasound imaging, functional access can often be established by using proximal arterial inflow and
+establishing retrograde forearm autogenous AV access
+flow.46 Although adequate arterial inflow can usually be
+determined by a clinical examination, arterial abnormalities
+such as the high brachial bifurcation are relatively common,
+easily identified by ultrasound examination, and may substantially affect preoperative planning; this is especially relevant when considering a forearm prosthetic access site. An
+inadequate arterial lumen may also adversely affect outcome and is easily determined by combining the arterial
+ultrasound examination with the venous survey.
+Arterial procedural evaluations specific to vascular
+access. Noninvasive evaluation. A normal clinical arterial
+examination without a history suggesting inflow occlusive
+disease may not require a further presurgical evaluation of
+the arterial inflow. However, if arterial inflow is not clearly
+normal, duplex ultrasound (DU) imaging, performed simultaneously with vein mapping, will aid in identifying
+stenotic segments and determine arterial diameter in addition to calculation of arterial flow.54,55 The minimal arterial
+lumen diameter is important. Studies have shown both 1.5
+mm and 2.0 mm to be the minimally acceptable internal
+arterial diameters for successful autogenous AV access,
+although 2.0 mm seems to be the more commonly accepted limit in adults.56,57
+A significant number of patients are poor candidates for
+a radiocephalic (wrist) AV access from either an arterial or
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+venous standpoint. Goldstein et al58 reported that ultrasound examination found 50% of patients studied had
+inadequate arterial inflow to support a radiocephalic autogenous AV access at the wrist. Segmental Doppler pressures
+may be helpful; however, vessel calcification in diabetic
+patients may preclude accurate measurement of these pressures. Digital pressures, transcutaneous oximetry, and resistance index measurements have also been suggested as
+measures of inflow adequacy and may be helpful in selected
+cases. Calculating the resistance index or simple ultrasound
+observation of changes in the arterial waveform during a
+clinched fist maneuver (reactive hyperemia) predicts the
+vessel’s ability to accommodate the anticipated marked
+increase in flow required for a successful AV access.54,59
+Arteriography. Arteriography may be useful in patients
+with significant peripheral vascular disease, particularly in
+those individuals with suspected proximal arterial occlusive
+lesions where pre-AV access interventional procedures
+might both identify and treat the problem site, gaining
+adequate arterial inflow for the eventual autogenous AV
+access. In patients nearing dialysis, the risk of contrastinduced nephropathy must be carefully weighed against the
+need for an AV access that will mature when needed by the
+time of dialysis initiation. Renal protective strategies such as
+hydration, limiting contrast, or using carbon dioxide as
+contrast agents minimize risk to the patient.60 Administration of bicarbonate or N-acetyl cysteine may further moderate the risk of contrast-induced nephropathy.61,62 Magnetic resonance angiography (MRA) for preoperative
+arterial vascular access evaluation has not replaced arteriography or ultrasound imaging but may be useful and appropriate in selected cases. Gadolinium may cause nephrogenic
+systemic fibrosis in patients with advanced CKD or dialysis
+and therefore should be used only after carefully weighing
+the risks and benefits of alternative imaging studies.63
+Venous procedural evaluations specific to vascular access. Noninvasive studies. As discussed the preceding clinical examination, ultrasound imaging has become the common standard in preparation for an AV access
+procedure.54,64 An ultrasound scan is optimally performed
+by the surgeon during the initial office visit or it may be
+done by a technologist.65 Ultrasound examination discovers potential autogenous AV access sites that are overlooked by physical examination. Silva et al57 found ultrasound evaluation increased AV fistula construction from
+14% to 63%. Ultrasound venous mapping, which is performed with and without a venous pressure tourniquet in
+place, evaluates vein diameter, patency, continuity, and
+distensibility of the planned venous outflow conduit. Both
+distensibility and venous diameter have been found to
+independently predict autogenous AV access success.56,57
+For the surgeon performing the operative planning,
+ultrasound offers simultaneous visualization of both the
+deep and superficial venous systems along with adjacent
+arteries. Brief, preoperative ultrasound mapping, just before the surgical procedure, is often helpful in confirming
+available vessels targeted for the procedure and marking the
+anticipated surgical site.
+
+Sidawy et al 7S
+
+Contrast venography. This procedure may be used for
+peripheral vein mapping, particularly when ultrasound imaging is not available. When history or physical findings
+suggest a central stenosis or occlusion, venography is superior to ultrasound imaging, offers the best opportunity to
+both identify and treat these central lesions, and is relatively
+safe. Asif et al66 found only one patient of 25 studied
+required dialysis ⱕ4 weeks after vein mapping with lowdiluted osmolarity contrast. MRA has been reported in preoperative central venous imaging but has not been shown to be more
+effective than standard venography.67 As in arterial evaluations,
+MRA has been rarely used in venous AV access planning. Although promising, these early reports of MRA mapping should
+be considered preliminary.68-69
+2. CLINICAL RECOMMENDATION: Operative
+strategies to optimize the placement of autogenous
+arteriovenous accesses
+We recommend optimizing the placement of autogenous accesses using the following operative strategies:
+A. AV accesses are placed as far distally in the upper
+extremity as possible to preserve proximal sites for
+future accesses (GRADE 1 recommendation, very
+low-quality evidence).
+B. When possible, autogenous AV accesses should be
+considered before prosthetic arteriovenous accesses
+are placed. These autogenous access configurations
+should include, in order of preference, the use of
+direct AV anastomosis, venous transpositions, and
+translocations (GRADE 1 recommendation, very
+low-quality evidence).
+C. Upper extremity access sites are used first, with the
+nondominant arm given preference over the dominant arm only when access opportunities are equal
+in both extremities (GRADE 1 recommendation,
+very low-quality evidence).
+D. Lower extremity and body wall access sites are used
+only after all upper extremity access sites have been
+exhausted (GRADE 1 recommendation, very lowquality evidence).
+2.1. Evidence
+These recommendations were formulated mainly according to unsystematic observations and consensus of our
+committee because there is paucity of high-quality evidence
+to support them except what is cited to support recommendations 3 and 4.
+2.2. Values and preferences
+The operative strategies recommended by the committee place high value on optimizing patient outcomes such
+as preventing death, access infection, and achieving a
+longer period of time with successful dialysis. In addition,
+the committee took into account patient comfort by recommending that the nondominant upper extremity be
+used first when access opportunities are equal. This allows
+the dialysis patient to use the dominant side to pursue
+
+8S Sidawy et al
+
+various functions while undergoing dialysis; however, the
+best extremity for autogenous access should be used, regardless of dominance. In recommending distal upper extremity access sites, these recommendations place high
+value on the preservation of proximal veins for future access
+placement.
+In addition, in recommending the use of autogenous
+accesses first, except as stated in recommendation 4, the
+committee did not favor the use of prosthetic access despite
+features that may favor its use such as higher reimbursement, ready availability, and shorter time to first use. However, the committee would like to point out that in the push
+to perform all autogenous AV access, substandard veins are
+sometimes used for autogenous accesses, taking a long time
+to mature and thereby subjecting the patient to placement
+of catheters for hemodialysis. Many believe that catheters
+should be avoided at all cost, even if a prosthetic AV access
+is used, which makes the construction of autogenous access
+desirable but not always optimal.19 In addition, the committee placed higher value on avoiding infection, arterial
+steal, ischemia, and other complications known to occur
+with higher frequency in association with lower extremity
+access placement.
+2.3. Technical remarks
+Various configurations of AV accesses, autogenous and
+prosthetic, are described at the end of this document. We
+describe here the strategies we suggest to optimize the use
+of various access sites in order to provide the hemodialysis
+patient with the safest and the longest life span on hemodialysis possible.
+Forearm. For autogenous forearm access, use of the
+cephalic vein is preferred to the basilic vein secondary to its
+ease of access for dialysis, with minimal need for dissection,
+long incisions, and possible need for vein transpositions.
+Possible sites of arterial inflow include the entire radial
+artery from the posterior branch to its junction with the
+ulnar at the brachial bifurcation, and the brachial artery.
+The ulnar artery is usually not the first arterial option due to
+its distance from the cephalic vein.
+The access is placed as distally in the forearm as possible
+where a normal palpable pulse is identified to preserve more
+proximal sites of inflow for future accesses. Therefore, in
+patients with a palpable posterior branch of the radial artery
+pulse, an autogenous posterior radial branch– cephalic direct wrist access (snuffbox) should be considered. In patients with a nonpalpable posterior branch of the radial
+artery pulse but a palpable radial artery pulse at the wrist, an
+autogenous radial– cephalic direct wrist access is performed. In either of these cases, if the cephalic vein is felt to
+be too deep or is not close to the radial artery in the wrist,
+an autogenous radial– cephalic forearm transposition is performed. If the radial artery pulse is nonpalpable, the ulnar
+may provide an alternative distal inflow site; alternatively,
+the entire trunk, but especially the proximal segment of
+either the radial or the ulnar artery, may provide an arterial
+source. In instances where the radial or ulnar artery pulse is
+not palpable at the wrist but the brachial artery pulse is, an
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+autogenous brachial– cephalic forearm looped transposition can be performed.
+When the cephalic vein is not considered adequate for
+an autogenous AV access, the forearm basilic vein is the
+preferred alternative. Secondary to its posteromedial location in the forearm, a transposition is always required to
+provide safe access for hemodialysis. Possible sites of arterial
+inflow include the entire trunk of the radial or ulnar arteries,
+or the brachial artery. Use of the posterior branch of the
+radial artery is usually difficult for this procedure secondary
+to the distance from the basilic vein.
+Similar to the cephalic vein, the AV access is placed as
+distally in the arm as possible where a palpable pulse is
+identified to preserve more proximal sites of inflow for
+future accesses. Therefore, when a radial artery pulse is
+palpable, an autogenous radial– basilic forearm transposition is performed. If the radial artery pulse is nonpalpable
+but the ulnar artery pulse is palpable, an autogenous ulnar–
+basilic forearm transposition is performed. If the radial and
+ulnar artery pulses are nonpalpable at the wrist, a more
+proximal segment can be used if it is patent. Finally, if the
+brachial artery pulse is palpable, an autogenous brachial–
+basilic forearm looped transposition is performed.
+When forearm autogenous accesses are exhausted, the
+surgeon and patient may opt to perform a prosthetic forearm access before proceeding to the upper arm to perform
+an autogenous access. Of note, and as it is indicated in
+Guideline 4, the committee made this one exception to the
+rule of all-autogenous access. The committee suggested
+that the access surgeon presents the patient with the choice
+of either performing a forearm prosthetic access before
+moving to the upper arm to perform an autogenous access
+or placing the upper arm autogenous access primarily before placement of forearm prosthetic. Sources of arterial
+inflow for forearm prosthetic AV access also include the
+radial and brachial artery.
+Similar to an autogenous access, the prosthetic access
+should originate from an arterial inflow as distally in the arm
+as possible where a normal palpable pulse is identified to
+preserve more proximal arteries for future accesses. Therefore, when the radial artery pulse is palpable and is of a good
+quality, a prosthetic radial–antecubital forearm straight access
+is performed. If the radial artery pulse is nonpalpable and the
+brachial artery pulse is, a prosthetic brachial–antecubital
+forearm loop access is performed. Care should be paid not
+to cross the elbow for venous outflow to protect upper arm
+veins for future autogenous access. Patients should be told
+that this forearm prosthetic access is a “bridge” to an
+autogenous access. The nephrologist should be informed
+to minimize the number of attempts to salvage the access
+with endovascular means to avoid ruining the venous outflow, preserving it to be used as a future autogenous access.
+Upper arm. When the use of the forearm has been
+exhausted, efforts at access are directed to the upper arm.
+Similar to the forearm, use of the upper arm cephalic vein is
+preferred to the basilic vein secondary to its lateral location
+and only occasional need for extensive dissection, long
+incisions, and transposition. For upper arm access, either
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+the brachial artery or proximal radial is the source of arterial
+inflow. Therefore, in patients with an adequate cephalic
+vein and a palpable brachial artery pulse, an autogenous
+brachial– cephalic upper arm direct access is performed;
+alternatively, the proximal radial artery may provide a reasonable alternative with less risk of steal. If the cephalic vein
+is felt to be too deep or is located far from the brachial
+artery, an autogenous brachial– cephalic upper arm transposition is performed.
+When the cephalic vein is considered inadequate for an
+autogenous AV access, the basilic vein in the upper arm is
+the preferred alternative. Secondary to its medial and deep
+location, transposition or superficialization is required for
+all access using the basilic vein. In patients with an adequate
+basilic vein and a palpable brachial artery pulse, an autogenous brachial– basilic upper arm transposition is performed.
+Alternatively, the proximal radial artery may be used as
+inflow, with less risk of steal.
+If the cephalic or basilic veins have been used or are not
+available, an upper extremity prosthetic AV access is performed. For upper arm access, the source of arterial inflow
+is the brachial or proximal radial artery. If the brachial artery
+is used, it must be palpable. Alternatively, or after an upper
+arm prosthetic access is used, an autogenous brachial–
+brachial (vein) upper arm transposition or a great saphenous vein upper arm translocation may be performed. Of
+note, although using the great saphenous vein is described
+here as an autogenous alternative, it should be reserved as a
+last-resort option because its long-term patency has not
+been confirmed. Indeed, the femoral vein has been used as
+an autogenous alternative with functional patency of 94%
+reported at 2 years.70
+Lower extremity. When use of both upper extremities
+has been exhausted, lower extremity access becomes an
+alternative access site. This access is less desirable secondary
+to the high occurrence of lower extremity occlusive disease
+in this group of patients, the higher likelihood of steal, and
+the increased incidence of infections associated with groin
+accesses. The great saphenous vein is the preferred conduit;
+secondary to its medial and deep location, transpositions
+are always required. The femoral artery (preferably the
+superficial femoral artery or the profunda femoris artery) is
+used for inflow and must be palpable. Therefore, for initial
+lower extremity access in patients with adequate great
+saphenous vein and a palpable femoral pulse, an autogenous femoral– great saphenous lower extremity transposition is performed, either in a loop or straight configuration.
+Alternatively, in patients with a palpable posterior or anterior tibial artery pulse, either tibial artery may be used as
+inflow to create an autogenous tibial– great saphenous
+lower extremity direct access.
+In patients without an adequate great saphenous vein,
+the femoral vein (previously named superficial femoral
+vein) is an appropriate alternative source of autogenous
+conduit. Similar to the great saphenous vein, the femoral
+vein is located too medial and deep for usable dialysis
+access, and transpositions are always required. Obstructive
+complications are minimized when the vein harvest is lim-
+
+Sidawy et al 9S
+
+ited to the anatomic segment proximal to the popliteal vein.
+The femoral artery remains the source of inflow and must
+be palpable. Therefore, in patients with an adequate femoral vein and a palpable femoral pulse, an autogenous femoral artery–femoral vein lower extremity transposition is
+performed, either in straight or loop configuration.
+If no lower extremity vein, including the great saphenous
+or femoral, is available, a lower extremity prosthetic access is
+performed. The common femoral artery can provide the
+source of inflow and must be palpable. Therefore, in a patient
+with no adequate lower extremity vein and a palpable
+common femoral artery pulse, a prosthetic femoral–femoral
+(vein) lower extremity looped access is performed. It is
+especially important to limit the size of the anastomosis (4
+to 6 mm) to the femoral artery to minimize the risk of
+significant steal/ischemia and potential limb threat. This is
+easily accomplished by tapering the large vein to the desired
+diameter with a running suture.
+Body wall. After both upper and lower extremities use
+has been exhausted, body wall access can be used as an
+alternative access site.71 Body wall access usually requires
+use of a prosthetic graft, and its use is left as a last alternative. Sources of venous outflow include the axillary, internal
+jugular, and common femoral veins. The main source of
+arterial inflow is the axillary artery. Appropriate options
+include a prosthetic axillary–axillary (vein) chest access, a
+prosthetic axillary–axillary (vein) chest loop access, a prosthetic axillary–internal jugular chest loop access, and a
+prosthetic axillary– common femoral (vein) body wall access. When a patient is being evaluating for placement of
+AV dialysis access, this access sequencing strategy will help
+the surgeon optimize the construction of autogenous access and lengthening the time the patient can be dialyzed
+safely and comfortably.
+3. CLINICAL RECOMMENDATION: First choice
+is forearm autogenous arteriovenous access
+We recommend the placement of forearm autogenous arteriovenous access as the first choice for primary
+access for hemodialysis (GRADE 1 recommendation,
+very low-quality evidence).
+A. When arterial and venous anatomy is suitable,
+placement of autogenous radial– cephalic direct
+wrist access (Brescia-Cimino-Appel) or autogenous
+posterior radial branch– cephalic direct wrist access
+(snuffbox) is recommended.
+B. In the case where arterial or venous anatomy does
+not allow placement of a direct access, forearm
+vein transposition or translocation are recommended. These procedures should use the maximal length of adequate vein and use arterial
+inflow from the forearm tailored to accommodate
+this length of vein.
+3.1. Evidence
+Systematic review of the literature that included 83
+studies revealed that, compared with prosthetic access, the
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+10S Sidawy et al
+
+Table I. Summary of evidence. Question: Should autogenous access or prosthetics access be used for patients with
+chronic hemodialysis?
+Quality assessment
+Studies, No.
+
+Design
+
+Limitations
+
+Inconsistency
+
+Indirectness
+
+Imprecision
+
+Seriousb
+
+No serious
+inconsistency
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access infection (follow-up 6-60 months)
+43
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting bias,c strong
+associatione
+
+Postoperative complications (follow-up 6-60 months)
+31
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+Serious
+
+Reporting biasc
+
+No serious
+indirectness
+
+Serious
+
+Reporting biasc
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Death (follow-up 6-60 months)
+27
+Observational studya
+
+Length of hospitalization related to access (follow-up 6-60 months)
+3
+Observational studya
+Seriousb,f
+No serious
+inconsistency
+Access failure without interventions at 12 months
+a
+b
+42
+Observational study
+Serious
+Seriousd
+
+Other considerations
+
+Access failure without interventions at 36 months
+24
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access failure with interventions at 12 months
+25
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access failure with interventions at 36 months
+20
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+CI, Confidence interval; N/A, Not applicable; RR, relative risk.
+a
+Only three of 83 studies were randomized.
+b
+In many studies, the two cohorts were not similar at baseline, blinded outcome assessment was not used, and loss to follow-up and funding source were not
+reported.
+c
+Not all of the included studies reported this outcome; thus, outcome may have been collected and not reported.
+d
+The proportion of heterogeneity that is not attributed to chance is ⬎50%.
+e
+RR ⬍0.50.
+f
+The imbalance in the number of the two groups suggests that surgeons in these studies performed many more autogenous access placements than they did of
+prosthetic ones, implying possible lack of experience in prosthetic access placement and biased selection of patients.
+
+autogenous access is associated with a lower incidence of
+death and access infection and with a higher primary and
+secondary patency at 12 and 36 months.14 Subgroup analysis of 13 studies showed a significant access location–
+complication interaction, suggesting that the benefit of
+autogenous access compared with prosthetic access in
+terms of lowering the incidence of the three complications
+of steal, aneurysm, and hematoma is significantly more in
+the case of lower arm autogenous access compared with
+upper arm autogenous access, with RRs of 0.20 (95%
+confidence interval [CI], 0.06-0.68) for the lower arm
+autogenous subgroup and 1.29 (95% CI, 0.43-3.91) for
+the upper arm autogenous subgroup (P ⫽ .03 ). An overall
+summary of the evidence derived from this systematic review is presented in Table I. Autogenous hemodialysis
+access options can be maximized by using venous transposition procedures (eg, the radial– basilic forearm transposition or the brachial– basilic upper arm transposition) when
+direct arteriovenous anastomosis autogenous access options are not available.4,57,72,73
+
+3.2. Values and preferences
+The recommendation for autogenous access places
+high value on optimizing patient outcomes by minimizing
+the risks of death and infection and maximizing durability.
+Prioritization of forearm access places high value on the
+preservation of proximal veins or future access placement.
+This recommendation places a lower value on competing
+considerations such as higher reimbursement for construction of prosthetic, availability of ready to use off-the-shelf
+prosthetic grafts, and a shorter period of time for the access
+to be ready for hemodialysis.
+3.3. Technical remarks
+Despite the lack of evidence, some helpful techniques
+may encourage the maturation of the autogenous access.
+Gentle flushing of the distal end of the vein with heparinized saline allows for evaluation of the caliber and extent of
+the vein and identification of side branches for ligation
+through stab incisions after performing the anastomosis.
+This encourages flow in the main venous segment, allowing
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+Sidawy et al 11S
+
+Table I. Continued.
+Summary of findings
+Patients, No.
+
+Effect
+
+Autogenous access
+
+Prosthetic access
+
+RR (95% CI)
+
+Absolute (95% CI)
+
+Quality
+
+Importance
+
+2729/16823
+
+7001/31698
+
+0.76 (0.67 to 0.86)
+
+38 fewer per 1000
+(21 to 51)
+
+QŒŒŒ (very low)
+
+Critical
+
+527/9337
+
+656/4416
+
+0.18 (0.11 to 0.31)
+
+86 fewer per 1000
+(66 to 97)
+
+QŒŒŒ (very low)
+
+Important
+
+338/7122
+
+162/3071
+
+0.73 (0.48 to 1.16)
+
+15 fewer per 1000
+(⫺13 to 34)
+
+QŒŒŒ (very low)
+
+Important
+
+2373
+
+74
+
+NA
+
+3.81 days shorter
+(–7.77 to 0.15)
+
+QŒŒŒ (very low)
+
+Important
+
+1849/7628
+
+2509/5538
+
+0.72 (0.65 to 0.80)
+
+131 fewer per 1000
+(95 to 167)
+
+QŒŒŒ (very low)
+
+Important
+
+1410/3798
+
+1334/2326
+
+0.67 (0.58 to 0.78)
+
+174 fewer per 1000
+(93 to 242)
+
+QŒŒŒ (very low)
+
+Important
+
+892/3769
+
+778/2735
+
+0.83 (0.70 to 0.99)
+
+57 fewer per 1000
+(6 to 102)
+
+QŒŒŒ (very low)
+
+Important
+
+1055/2873
+
+622/967
+
+0.67 (0.61 to 0.74)
+
+210 fewer per 1000
+(150 to 264)
+
+QŒŒŒ (very low)
+
+Important
+
+for faster maturation. Ligation or endovascular coiling of
+side branches can also be delayed to a later date and
+performed only if the autogenous access does not mature in
+a timely basis.
+In autogenous accesses originating from arteries
+proximal to the radial, the arteriotomy should be limited
+to a maximum length of 4 to 6 mm, using the smaller
+anastomoses for those individuals at highest risk of developing steal-induced ischemia, such as those with diabetes mellitus and peripheral arterial occlusive disease.
+Also, the anastomosis is performed with a continuous
+suture to prevent future increase of the anastomotic
+surface area. These two maneuvers limit future increases
+in flow through the autogenous access and decrease the
+incidence of arterial steal. Although the role of exercise
+to encourage early maturation of the autogenous access
+is not supported by strong evidence, some access surgeons continue to ask patients to perform hand exercises
+starting 24 to 48 hours postoperatively to increase blood
+flow through the vein to encourage early maturation of
+the access.
+
+4. CLINICAL RECOMMENDATION: Choice of
+arteriovenous access when a patient is not a
+suitable candidate for forearm autogenous access
+For patients who have exhausted all forearm veins
+on both sides and, according to vein availability and
+surgical expertise, are suitable candidates for either
+forearm prosthetic access or upper arm access of any
+type, we suggest that the surgeon offer both alternatives to patients (GRADE 2, very low-quality evidence).
+4.1. Evidence
+The systematic review by Murad et al14 identified only
+2 studies that compared the autogenous upper arm access
+with the prosthetic lower arm access (prosthetic looped
+forearm access). One study showed that an autogenous brachial– basilic fistula in the upper arm had significantly better
+primary and assisted-primary patency at 12 months compared
+with the polytetrafluoroethylene (PTFE) group,74 and the
+second study showed both accesses had similar patency at 12
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+12S Sidawy et al
+
+Table II. Summary of evidence. Question: Should access surveillance vs watchful waiting be used for patients with
+chronic hemodialysis?e
+Quality assessment
+
+Studies, No.
+
+Design
+
+Limitations
+
+Access thrombosis (follow-up mean 18 months)
+7
+Randomized triala
+Seriousb
+Access abandonment (follow-up mean 18 months)
+6
+Randomized triala
+Seriousb
+
+Inconsistency
+
+Indirectness
+
+Imprecision
+
+Other considerations
+
+No serious
+inconsistency
+
+Seriousc
+
+Seriousd
+
+None
+
+Seriouse
+
+No serious
+indirectness
+
+Seriousd
+
+None
+
+CI, Confidence interval; RR, relative risk.
+a
+One study was not randomized.
+b
+Most trials lack description of allocation concealment and blinding of patients, clinicians, and outcome assessors. The first threatens prognostic balance at
+baseline; the latter threatens maintenance of prognosis balance after randomization.
+c
+Access thrombosis is a surrogate outcome for access failure, which is a patient-important outcome associated with significant morbidity and mortality.
+d
+Confidence intervals are wide.
+e
+The proportion of heterogeneity that is not attributable to chance is ⬎50%.
+
+and 24 months, although the autogenous access group had
+fewer complications.75 Of note, subgroup analysis by Murad et al did not demonstrate superiority of upper arm
+autogenous access compared with prosthetic accesses in
+terms of complications.
+4.2. Values and preference
+In a patient whose bilateral forearm veins have been
+exhausted, the decision whether to place an upper arm
+autogenous AV access before placement of forearm prosthetic access is a difficult one. In the effort to maximize
+placement of autogenous accesses, surgeons are sometimes
+performing upper arm autogenous accesses without considering whether a forearm prosthetic access might be more
+appropriate. In some instances, placement of forearm prosthetic access before moving to an autogenous upper arm
+access may prove advantageous. Although the upper arm
+autogenous access may fare better compared with a forearm
+prosthetic access, using these two accesses sequentially may
+lead to additive benefit: This practice may help to preserve
+upper arm veins for future placement of autogenous access,
+may help to increase the caliber of these veins and maximize
+the success of future upper arm autogenous access, and may
+provide patients with an additional 1 to 3 years of functional hemodialysis access before resorting to catheter use
+or other, less studied and less desirable configurations in the
+lower extremity or body wall.
+4.3. Technical remarks
+When forearm autogenous sites are depleted, a forearm
+prosthetic access can be considered before moving to the
+upper arm for placement of an autogenous access as long as
+the forearm prosthetic access does not cross the elbow
+when the venous anastomosis is performed. Such access
+helps to develop the upper arm veins due to the increased
+flow from the forearm prosthetic access, and if the venous
+anastomosis is kept below the elbow, upper arm veins are
+
+preserved for future use. In addition in the case of the
+prosthetic access failing or failure, care should be directed
+and the staff involved in the patient’s care should be informed not to involve the veins above the elbow in procedures designed to maintain or re-establish patency of the
+prosthetic access.
+There are additional techniques that are common to all
+prosthetic access placements. The tunnel should be superficial enough for easy access for the dialysis staff. A 6-mm
+PTFE prosthetic graft without rings is used for the conduit.
+For patients at risk for ischemia, such as when the brachial
+or lower extremity arteries are used for inflow, a tapered or
+stepped graft should be considered for use with the smaller
+end of the graft placed at the arterial end.
+5. CLINICAL RECOMMENDATION: The role of
+monitoring and surveillance in arteriovenous
+access management
+A. We recommend regular clinical monitoring (inspection, palpation, auscultation, and monitoring for
+prolonged bleeding after needle withdrawal) to detect access dysfunction (GRADE 1, very low-quality
+evidence).
+B. We suggest access flow monitoring or static dialysis
+venous pressures for routine surveillance (GRADE
+2, very low-quality evidence).
+C. We suggest performing a Duplex ultrasound (DU)
+study or contrast imaging study in accesses that
+display clinical signs of dysfunction or abnormal
+routine surveillance (GRADE 2, very low-quality
+evidence).
+5.1. Evidence
+A systematic review of 12 studies, 10 of which were
+randomized, demonstrated that very low-quality evidence
+yielding imprecise results suggested a potentially beneficial
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+Sidawy et al 13S
+
+Table II. Continued.
+Summary of findings
+Patients, No.
+
+Effect
+
+Access surveillance
+
+Watchful waiting
+
+RR (95% CI)
+
+Absolute
+
+Quality
+
+Importance
+
+90/406
+
+92/387
+
+0.82 (0.58 to 1.16)
+
+43 fewer per 1000
+
+QŒŒŒ (very low)
+
+Critical
+
+94/614
+
+88/347
+
+0.80 (0.51 to 1.25)
+
+51 fewer per 1000
+
+QŒŒŒ (very low)
+
+Critical
+
+impact of AV access surveillance, followed by interventions
+to restore patency.15 In this review, the surveillance strategy of nine studies (1363 patients) was compared with
+clinical monitoring, with a vascular intervention to maintain or restore patency provided to both groups if needed.
+Surveillance, followed by intervention, led to a nonsignificant reduction of the risk of access thrombosis (RR, 0.82;
+95% CI, 0.58-1.16; I2 ⫽ 37%) and access abandonment
+(RR, 0.80; 95% CI, 0.51-1.25; I2 ⫽ 60%). Three studies
+(207 patients) compared the effect of vascular interventions
+vs observation in patients with an abnormal surveillance
+result. Vascular interventions after an abnormal AV access
+surveillance result led to a significant reduction of the risk of
+access thrombosis (RR, 0.53; 95% CI, 0.36-0.76) and a
+nonsignificant reduction of the risk of access abandonment
+(RR, 0.76; 95% CI, 0.43-1.37). Table II summarizes the
+quality of evidence derived from this systematic review.
+It is important to recognize that the value of surveillance strongly depends on the adequacy of clinical monitoring (physical examination and assessment of clinical
+clues of access dysfunctions). Clinical monitoring by skilled
+personnel was shown to have adequate diagnostic accuracy;
+clinical monitoring has been reported to have positive
+predictive value of 70% to 90% in prosthetic accesses and a
+specificity of 90% and a sensitivity of 38% 93% in autogenous accesses.76-79 Therefore, in centers with skilled personnel, surveillance may not be as beneficial and produce
+marginal benefit vs clinical monitoring, as outlined above.
+However, this is not the practice in the real world, wherein
+physical examinations are seldom conducted and the first
+indication of an underlying stenosis is often access thrombosis. In this situation, surveillance may be more justified.
+Furthermore, although access survival was no different
+in members of the group who underwent surveillance, it is
+possible that their lower incidence of thrombosis may translate into a reduction in access-related costs and hospitalizations, as demonstrated in a reanalysis of a small study by
+Dossabhoy et al80 and by a quality improvement project
+
+conducted by Wijnen et al.81 In the latter study, flow
+surveillance produced a 32.5% reduction in the overall cost
+of access care. Savings occurred chiefly in the prosthetic
+access group and resulted from reduction in the number of
+invasive procedures, central catheters, and hospitalizations.
+Therefore, and despite the imprecision of evidence, surveillance of accesses may be justified.
+5.2. Values and preferences
+These recommendations place higher value on preventing access thrombosis and the associated cost, hospitalization, morbidity, and burdens and lower values on inconvenience and cost of surveillance and monitoring. In
+addition, considering the low costs and harms associated
+with clinical monitoring, access flow, and static dialysis
+venous pressure measurements, we suggested these methods for routine surveillance to detect access dysfunction,
+reserving DU scans for patients with accesses that show
+symptoms and signs suggestive of impending access failure.
+In these patients, the benefits of imaging studies are likely
+to outweigh the potential burden and cost.82,83
+5.3. Technical remarks
+Assessing functionality of AV access. Various methods can be used to assess the functionality of AV accesses.
+They range from clinical physical evaluation to invasive
+contrast procedures. This will be discussed in the section
+below, which addresses available methods used to detect or
+confirm access dysfunction.
+Access assessment and clinical monitoring. A. Assessment of the new access. Prosthetic AV accesses, such as PTFE
+grafts, can be cannulated as early as 2 weeks after their
+construction, provided that they have a bruit, the postoperative edema has resolved, and there is no evidence of
+infection. However, the clinical assessment of new autogenous access requires considerable experience in interpreting
+visual, auditory, and tactile clues. A normal autogenous
+access has a soft pulse that is easily compressible and a
+
+14S Sidawy et al
+
+continuous low-pitched bruit. A thrill should be palpable
+near the anastomosis and extend along the vein outflow for
+a varying distance. In addition, a normal autogenous access
+collapses when the extremity is elevated. Clinical clues of a
+stenosis of an autogenous AV access include the presence of
+a palpable pulse at the arterial end with possible faint thrill
+or complete access collapse proximally, a discontinuous
+bruit, or failure to collapse with arm elevation. The physical
+examination can be used to estimate access diameter, its
+depth from the skin, the presence of collateral veins and the
+presence of accessory veins.
+If upon clinical evaluation at 4 to 6 weeks the autogenous access is not clearly maturing adequately, further
+investigation is warranted to identify potentially remediable
+anatomic lesions. These may include a venous or arterial
+stenosis, competing veins, large patent branches, or excessive depth from the skin.27 The assessment may be performed either by DU scanning or by an imaging study.
+Several studies have demonstrated that at least 80% of
+immature autogenous accesses can be salvaged after correcting one or more underlying lesions.84,85 Moreover,
+immature autogenous accesses with correctable anatomic
+lesions that are repaired percutaneously or surgically are
+much more likely to achieve suitability for dialysis compared with those that do not undergo a corrective
+procedure.86
+A mature autogenous access requires three components: (1) an adequate diameter to permit safe cannulation
+with dialysis needles without infiltration, (2) an adequate
+access flow rate to permit achieving an access blood flow of
+ⱖ500 mL/min,87,88 and (3) it must be sufficiently superficial to permit recognition of landmarks and accurate, safe
+cannulation.27 The access blood flow increases dramatically
+within 24 hours of autogenous access placement and
+reaches most of its maximum flow within 3 to 6 weeks.89,90
+Similarly, most of the increase in access diameter is achieved
+within 4 to 8 weeks of autogenous access placement.87
+When the clinical examination is equivocal, a postoperative DU study can be helpful. Specifically, measurement of
+the vein diameter and access blood flow is useful in predicting access functionality. When the vein diameter is ⱖ4 mm
+and the access blood flow is ⱖ500 mL/min, there is a 95%
+likelihood that the autogenous access will be usable for
+dialysis. If the vein diameter is ⬍4 mm and the access blood
+flow is ⬍500 mL/min, only 33% of autogenous accesses are
+likely to be suitable for dialysis. If only one of the two
+criteria is met, the likelihood of access success is intermediate (60% to 70%). Interestingly, the time from placement to
+cannulation varies geographically: Autogenous accesses are
+routinely cannulated ⱕ1 month of placement in Europe
+and Japan, whereas the average time in the United States is
+about 3 months.91
+B. Monitoring and surveillance of an established access. The
+KDOQI defines “monitoring” as including physical examination indicators such as observation, palpation, and auscultation of the access, whereas “surveillance” refers to
+various tests to assess access function.
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+Physical examination of the graft by trained nephrologists or dialysis staff is very effective in identifying accesses
+with clinically significant underlying stenosis. Abnormalities on physical examination of the access (absent thrill,
+abnormal auscultation, persistent edema of the access extremity, venous collaterals on the ipsilateral chest wall) have
+a high positive predictive value for stenosis estimated at 80%
+in prosthetic accesses.92-94
+A number of surveillance tests have been found
+useful in detecting access dysfunction. The four most
+useful surveillance methods, which are described in the
+KDOQI Guidelines, are (1) serial access flow measurement, (2) serial measurement of static dialysis venous
+pressure, (3) prepump arterial pressure, and (4) DU
+scanning. Unlike clinical evaluation, most surveillance
+methods require the use of specialized equipment and
+trained technicians. Each of these methods has a high
+positive predictive value for identifying access dysfunction
+when applied to the correct setting and to the indicated
+type of access (autogenous or prosthetic access, catheter). A
+description of how to perform these tests can be found in
+the NKF-KDOQI Clinical Practice Guidelines.9 The clinical value of each test is summarized below:
+1. Access blood flow measurements. Access blood flow is
+the best determinant of access function. As a prosthetic
+access develops progressive stenosis, access blood flow falls
+progressively. A number of studies have shown that a
+prosthetic access blood flow rate of ⬍600 mL/min, or one
+that has decreased by ⬎25% from the previous baseline, has
+a high predictive value for significant stenosis (87% to
+100%).95,96 This test is most useful for autogenous AV
+access, where venous pressure surveillance is less reliable.
+The most common methods of measuring access flow can
+be performed in 10 to 15 minutes while the patient is on
+dialysis, after reversing the arterial and venous lines. The
+measurement uses ultrasound dilution (Fick principle) by
+measuring the rate of change in ultrasound transmission in
+the venous line after infusion of a saline bolus through the
+arterial line. The KDOQI Guidelines recommend monthly
+measurement of access flow. It requires specialized equipment and a trained technician.
+2. Static venous dialysis pressure. The greatest value of
+static venous dialysis pressure (VDP) is in prosthetic accesses, but is of little or no value as a surveillance tool for
+autogenous accesses because of the high incidence of lowflow etiologies proximal to the venous needle in autogenous accesses where VDP is measured.
+Measurement of dynamic VDP (at a low dialysis blood
+flow of 200 ml/min) is a relative poor marker of autogenous or prosthetic access stenosis. It is affected by multiple
+factors, including the dialysis blood flow, needle diameter,
+type of dialysis machine, and the patient’s blood pressure.
+Better standardization can be achieved by measuring static
+VDP (at zero dialysis pump blood flow). VDP needs to be
+normalized for the systemic blood pressure. The ratio of
+systolic VDP to systemic systolic blood pressure can be
+suggestive of stenosis when the ratio of systolic VDP to
+systemic systolic blood pressure is ⬎ 0.4.97 Use of mean
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+pressure ratio (more commonly obtained by the pressure
+transducers on conventional dialysis systems) requires that
+the ratio is ⬎0.5. The use of any given static venous
+pressure ratio is not a reliable indicator of stenosis, especially in autogenous access; however, the best use of static
+VDP measurement is as a trending tool, where trends of
+increasing VDP may be indicative of stenosis.98 It is critical
+to have a well-trained technician who performs the measurements in a standardized fashion and who calibrates the
+transducers.
+3. Prepump arterial dialysis pressure. Most dialysis machines currently in use have a pressure transducer connected to the blood line on the arterial side of the blood
+pump. This prepump pressure is displayed on the information screen and indicates the ease (or difficulty) with which
+blood is drawn from the access by the blood pump at any
+given pump setting. This pressure is influenced by anything
+that causes restriction of flow to the pump: the needle
+gauge and length, the diameter and length of the blood
+line, needle position in the access, and access blood flow.
+After any needle or tubing problem has been checked as the
+possible cause of unexpected increasingly negative arterial
+dialysis pressure and corrected, inadequate access flow,
+which is the most common cause of persistently elevated
+prepump arterial pressure, will be the likely cause.
+New autogenous accesses, which have a high incidence
+of failure to mature, almost always have an access flow
+problem that is on the arterial side of the venous needle and
+therefore will be identified by an excessively negative arterial dialysis pressure (ADP). In addition, most of the flowrestricting lesions in dysfunctional radial– cephalic as well as
+some other autogenous accesses, are likewise present on the
+arterial side of the venous needle and are often identified by
+increasingly negative ADPs. Therefore, routinely checking
+the ADP at every dialysis session is critically important in
+evaluating function in autogenous accesses, especially new
+ones.
+4. Duplex ultrasound imaging. DU imaging can assess
+the access for both anatomic as well as flow abnormalities
+that may represent significant stenosis. This test requires
+measuring the peak systolic velocity (PSV) at the graft
+venous anastomosis and at any other area of visual stenosis.99 A ratio of PSV ⱖ2.0 at the stenotic site compared
+with the PSV immediately upstream is used to diagnose
+stenosis, with a positive predictive value of 80% for significant graft stenosis.87 It is possible to measure the volume
+flow through the graft, but that measurement is less accurate than the flow surveillance technique previously described. In general, DU imaging requires expensive equipment, a trained technician, and is not typically performed in
+the dialysis unit. The increasing availability of portable
+laptop based systems may alter this in the future. However,
+DU imaging is currently not an easily accessible or a costeffective method for routine access surveillance.
+Finally, abnormalities related to the dialysis session
+have a 69% positive predictive value for significant stenosis.
+Within this last category, the predictive value of prolonged
+bleeding from the needle sites is 76%, difficulty with can-
+
+Sidawy et al 15S
+
+nulation is 58%, and aspiration of clots is 30%. In addition,
+an unexplained decrease (⬎0.2 U) in delivered dialysis dose
+(Kt/V) on a fixed dialysis prescription has a 69% positive
+predictive value for significant stenosis.
+Monitoring and surveillance by access type. 1. Autogenous access. The best, most feasible tools for identifying
+dysfunction in autogenous access include (1) physical examination (monitoring), (2) routine measurement of prepump ADP at every dialysis session, and (3) serial access
+blood flow measurements. In addition, although not recommended for routine surveillance, a recirculation study
+can help in select cases of autogenous access dysfunction to
+confirm inadequate access flow because recirculation results
+when access flow falls below dialysis blood pump demand.
+This study has little value with a prosthetic access because
+prosthetic accesses will usually thrombose at low flows that
+do not support adequate dialysis, whereas autogenous accesses will remain patent at very low flows, thereby permitting inadequate dialysis to proceed without noticeable
+etiology.
+2. Prosthetic access. Prosthetic access function is best
+and most feasibly followed up by (1) a physical examination
+(monitoring), (2) serial access blood flow measurements,
+and (3) serial static VDP measurements.
+Diagnostic tests: DU scanning and imaging
+studies. Although DU can be used as a diagnostic tool for
+access stenosis, it has some limitations, especially for identifying lesions behind bone, as in subclavian vein stenosis. A
+major advantage is that it is noninvasive. If an etiology for
+access dysfunction is not identified by DU scanning, an
+imaging study should be performed. A contrast imaging
+study or other imaging studies such as MRA of the access is the
+gold standard for documenting stenosis. Because it is expensive and invasive, it should be reserved for those patients in
+whom abnormal clinical monitoring or access surveillance
+has predicted a high likelihood of hemodynamically
+(⬎50%) significant stenosis. This contrast study should
+include the arterial inflow, the actual access, its outflow
+vein, and central vein. If a significant stenosis is detected, a
+balloon angioplasty can be performed at the same sitting.
+In the event that no obstructing lesion is identified, a
+physiologic etiology causing low access flow is likely and
+should be investigated by an access flow study.
+Preemptive angioplasty associated with monitoring
+and surveillance. As mentioned previously, a number of
+observational studies (using historical controls) have shown
+a substantial reduction in the rate of graft thrombosis after
+implementing a program of stenosis monitoring or surveillance with preemptive angioplasty. More recently, six randomized clinical trials have evaluated the efficacy of this
+approach in reducing graft thrombosis or prolonging graft
+longevity. These studies have used a variety of surveillance
+methods, including static dialysis venous pressures, flow
+monitoring, and DU imaging. In each of these studies, the
+intervention group had a substantially higher rate of preemptive angioplasty. Despite that, access surveillance failed
+to improve thrombosis-free graft survival or overall (cumulative) graft survival in five of the six studies.76,95,100-102
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+16S Sidawy et al
+
+Only one of the six studies (using DU scanning) demonstrated a reduction in graft thrombosis and an improvement in access longevity.103
+The randomized studies of access surveillance have
+been fairly small in size (64 to 189 patients), so they may
+not have been sufficiently powered to demonstrate a small
+benefit of access surveillance. Taken together, however,
+they suggest that the benefit of preemptive angioplasty is
+modest at best. Thus, the available surveillance methods are
+quite useful in detecting significant stenosis and permitting
+preemptive angioplasty before the graft thrombosis. The benefit is quite short-lived, however, and the injury from the
+angioplasty appears to accelerate the process of restenosis.
+This topic continues to generate significant debate.104,105
+6. CLINICAL RECOMMENDATION: Conversion
+of a prosthetic AV access to a secondary
+autogenous AV access.
+We suggest that a plan and protocol for eventual
+conversion of forearm prosthetic access to a secondary
+autogenous AV access should be put in place at the
+presence of any sign of failing forearm prosthetic AV
+access, or after the first failure (GRADE 2, very lowquality evidence).
+We suggest two strategies for transitioning suitable
+prosthetic AV access to secondary autogenous access
+before abandoning a functional prosthetic access:
+A. Conversion of the prosthetic access mature outflow
+vein to an autogenous access.
+B. Identifying a new, remote site for autogenous access construction in a patient where the prosthetic
+access outflow vein is not deemed suitable.
+6.1. Evidence
+The committee found no high-quality evidence to support a strategy of converting prosthetic accesses with impending failure to secondary autogenous accesses, and
+these recommendations are based on very low-quality evidence that consists of unsystematic observations and the
+consensus of experts.
+6.2. Values and preferences
+In recommending a proactive approach that involves
+conversion of a failing or failed prosthetic access to a
+secondary autogenous access before the prosthetic access
+fails, the committee placed highest value on maintaining
+functional permanent access and avoiding interruption of
+dialysis and the need for central venous catheter placement,
+known for an associated high rate of infection and possibly
+mortality.
+6.3. Technical remarks
+In all instances, the construction of the new autogenous access should take place before abandonment of the
+prosthetic one to allow for adequate time for autogenous
+AV access maturity without the need for a long-term catheter. This is true whether the secondary autogenous access
+
+is constructed by conversion of the prosthetic access mature
+outflow vein to an autogenous access or by identifying a
+new, remote site for autogenous access construction in a
+patient where the prosthetic access outflow vein is not
+deemed suitable, In preparation for the procedure, the
+outflow veins should be evaluated, including the central
+venous circulation, for the presence of obstruction.106 The
+FFBI Work Group recommends that the evaluation for
+secondary autogenous access be triggered by the initial AV
+graft failure and that conversion to autogenous access be
+performed no later than the second graft failure. This is to
+allow adequate time for AV fistula maturation without need
+for a catheter.
+A. Conversion of prosthetic AV access outflow vein
+to an autogenous access. This strategy is predominantly
+applicable to forearm AV prosthetic access because the
+outflow veins are readily accessible, well located for conversion to autogenous access for hemodialysis, and one or
+more of the outflow veins are usually suitable as a conduit.
+The outflow vein candidates in the arm are the cephalic,
+basilic, and brachial veins. In situations where these veins
+are not suitable, there may be an adequate vein in the
+forearm that can be used as a retrograde-flow secondary
+autogenous access, after disrupting one or more valves.
+This is another reason why preoperative imaging to identify
+all vessel options is so critical, especially in patients with few,
+if any, access options available. In most patients with an
+established forearm prosthetic access, one or more of the
+outflow veins becomes a mature, adequate autogenous
+access conduit.107,108 If an imaging study confirms that the
+outflow vein is suitable, conversion of this outflow vein into
+an upper arm access provides an ideal autogenous alternative that is durable and usually usable immediately, thus
+obviating or minimizing the need for a catheter. A separate
+imaging study is not usually necessary, because the fistulogram performed for the graft failure can be used to examine
+the outflow and central veins.
+B. Remote secondary autogenous AV access construction. This strategy involves a physical examination
+and vessel mapping in a patient with a failing prosthetic
+access where an imaging study has shown that a suitable
+outflow vein is not available. In this situation, evaluation of
+the vessels of the contralateral extremity should be performed. If suitable remote vessels are identified, a secondary
+autogenous AV access construction should be undertaken as
+soon as feasible to avoid the need for long-term use of a
+catheter when the failing access is no longer salvageable.
+7. CLINICAL RECOMMENDATION: Management
+of nonfunctional or failed arteriovenous access.
+We suggest open surgery, endovascular means, or a
+combination of both to maintain or restore patency in
+AV access (GRADE 2, very low-quality evidence).
+7.1. Evidence
+The choice between open and endovascular interventions to improve the functionality or to restore or maintain
+patency in accesses that show signs of impending failure is
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+based on nonrandomized studies that showed both procedures to be moderately effective and safe. Owing to the lack
+of such randomized comparison, the panel was unable to
+recommend one over the other. Open thrombectomy is
+successful in restoring thrombosed access function.109,110
+Similarly, endovascular techniques using a combined percutaneous mechanical and pharmacologic thrombectomy
+are successful in restoring function in most patients. Further, both open and endovascular interventions may add a
+further average of 12 months of functionality with low
+morbidity and mortality while preserving future sites of
+access.111
+7.2. Values and peferences
+In recommending either method or a combination of
+both to be used for failed or failing AV accesses, the
+committee recognizes the weakness of the evidence that
+may favor one method rather than the other. Because none
+of these methods has been proven to have better short- or
+long-term results, the committee based its recommendation on other factors that may determine outcomes. Such
+factors include the experience of the surgeon, interventionalist, or other AV access specialist and the ability or availability of either method in a certain situation or location
+where a patient presents for care.
+7.3. Technical remarks
+Management of nonfunctional or failed AV access
+A. Access functionality. Access functionality is a very
+important concept. An access can be patent but unusable
+for successful hemodialysis—and thus nonfunctional—and
+such an access provides no benefit to the patient. In fact, a
+nonfunctional access maybe even harmful because the patient may continue to be dialyzed using percutaneous catheters, with their intended complications, while waiting for
+the autogenous access to dilate and mature.
+An access that has failed to mature is patent but not
+functional.12 Failure to mature is more frequently an issue
+with autogenous AV accesses than prosthetic grafts. As
+recommended by the FFBI, every new autogenous access
+should be evaluated for development at 4 weeks. If the
+access is not adequately maturing by four weeks or not
+functional by 12 weeks (ie, access flow ⬍500 ml/min, a
+recirculation higher than 10%, or inability to cannulate), a
+contrast study should be performed. Beathard et al112
+demonstrated the feasibility of salvage of the early nonmaturing autogenous accesses. Of 63 patients with inadequate
+autogenous access development, the access was patent in
+74.7% after 1 year by using a systematic approach for
+revision that included diagnostic angiography, percutaneous angioplasty, and accessory vein ligation as indicated.112
+Most nonfunctional autogenous accesses should therefore
+be investigated and the underlying defects corrected, with
+reasonable expectation of long term functionality. The
+underlying defects are usually one or more of the following:
+1. Access too deep. An access can be nonfunctional because it is placed too deep in an extremity such that punc-
+
+Sidawy et al 17S
+
+ture is difficult, inconsistent, or traumatic to the patient and
+the conduit. Several approaches can be taken to correct this
+problem, depending on the location and access type. When
+a prosthetic graft is placed too deep, it may be possible to
+divide the graft close to an anastomosis and place it in a new
+tunnel. If this is not possible, an entirely new conduit must
+be placed.
+Because a functioning autogenous access is very valuable, every attempt must be made to move the vein to a
+more superficial location. Typically, this involves making an
+incision along the entire length of the autogenous or transposed vein and retunneling the vein, often moving the
+location of the arteriovenous anastomosis. Retunneling
+may shorten the length of the conduit available for puncture. Before embarking on an operation of this magnitude,
+the access should be studied to ensure that the conduit is
+free from stenoses and that an additional procedure is likely
+to render the access functional.
+2. Nonligated side branches. Large, patent side branches
+in an autogenous access may shunt blood away from the
+axial vein, thereby preventing the main trunk from dilating
+sufficiently to accept dialysis cannulae and to support adequate dialysis. However, before simple surgical ligation or
+endoluminal coil occlusion, the main trunk must be studied
+angiographically or with DU scanning to ensure that the
+side branch has not dilated secondary to a stenosis in the
+main trunk increasing resistance to axial flow. Such a lesion
+must be addressed before side branch obliteration. Generally, these branches must be ⬎2 mm diameter to be considered significant and associated with a poorly maturing
+axial vein.
+Localization of the side branch can be achieved by
+visual inspection, ultrasound scanning, or angiography.
+Road mapping of the access and side branch facilitates
+accurate marking of the side branch for either an endovascular or surgical approach. Coil embolization and surgical
+ligation are equally acceptable approaches.
+3. Insufficient arterial inflow. Insufficient arterial inflow as a cause for nonfunctionality is much less frequent
+than venous anastomotic stenoses in prosthetic AV grafts,
+representing only 3% to 5% of all stenoses identified in
+hemodialysis accesses.100 Stenosis at the arterial anastomosis is the most common reason for inadequate arterial
+inflow. Arterial anastomotic stenosis usually occurs as a
+result of a technical error or neointimal hyperplasia. The
+next most common location for arterial stenosis is an orificial stenosis of the subclavian artery, most commonly on
+the left and caused by atherosclerosis. These can usually be
+studied by retrograde puncture of the access, navigating the
+diagnostic catheter retrograde into the aorta. Alternatively,
+a standard transfemoral approach can be used. Stenoses
+⬎50% of the diameter of the artery that are associated with
+access failure should be treated with angioplasty. Stenting
+in addition to angioplasty can be used for subclavian orificial stenoses. Before management of the arterial stenosis, an
+evaluation of the access viability and stratification of the risk
+of the patient to undergo such procedure should be
+undertaken.
+
+18S Sidawy et al
+
+4. Poor venous outflow. With increasing pressure to
+create primary autogenous accesses, there is growing concern that surgeons will use “inadequate veins” to achieve
+target rates of autogenous access placement. A small or
+diseased vein may result in poor venous flow that can be
+associated with failed maturation, early failure, and focal
+areas of stenosis or dilation, or both. Definitions of vein
+adequacy will be described elsewhere in this document.
+However, once the autogenous access has been placed, a
+policy of aggressive re-evaluation should be performed to
+maintain access functionality as described in the surveillance section. Revision of a functioning autogenous access
+to a more proximal arterial and venous location is another
+strategy to optimize use of vein segments that have matured, while excluding diseased segments.
+Poor venous outflow can also be caused by early anastomotic stenoses, which are technical errors, usually manifest as early thrombosis, but they can also lead to nonfunctionality or failure to mature in autogenous accesses. When
+diagnosed ⱕ7 days of access construction, surgical revision
+should be performed. When such stenoses are diagnosed
+later, balloon angioplasty can be performed initially. Care
+must be taken when approaching the arterial anastomosis.
+Arterial embolization can result from clot fragmentation or
+dislodgement of the arterial plug, and intimal dissection
+can occur from vessel damage caused by the wire or thrombectomy device.
+B. Thrombosis. Thrombosis is the most common complication of AV access, accounting for a major source of
+morbidity, hospitalization, and cost. A thrombosed access
+is not patent and nonfunctional. Access thrombosis can
+occur for a variety of reasons and can be classified into
+thrombosis that occurs early (perioperative, 0-30 days) and
+late (⬎30 days) in the life of an access. It is very important
+to note that thrombectomy alone may not result in longterm patency of the access if the etiology of the thrombosis
+is not addressed at the same sitting or shortly thereafter.
+A stenosis is usually found along the access circuit;
+therefore, the key to preventing a recurrent thrombosis of
+an access is complete imaging of the arterial inflow, the
+access itself, and venous outflow. The venous outflow study
+should include the central venous circulation because most
+accesses have more than one stenosis in their circuit and
+stenoses often occur centrally.113 A retrospective review
+by Sofocleous et al114 found 48 complications occurred
+in 579 treated thrombosed prosthetic hemodialysis accesses. Their overall technical success rate was 81%, and
+primary and secondary patency rate at 6 months were 36%
+and 67%, respectively. They also found that most complications encountered during percutaneous thrombolysis or
+surgical thrombectomy of thrombosed prosthetic access
+could be treated at the same sitting, allowing the same
+access to be used for hemodialysis.114 Percutaneous excimer laser-facilitated thrombus vaporization is also found to
+be safe and effective for recanalization of acute and subacute thrombotic occlusions of hemodialysis shunts.115
+1. Early thrombosis. Early failure occurs for many of the
+same reasons described above as causing nonfunctionality.
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+In a way, early thrombosis represents the more extreme
+form of failure to mature, and mechanistically, the same
+underlying problems need to be evaluated in addition to
+performing thrombectomy of the conduit, either by endovascular or open surgical means. Insufficient arterial inflow,
+poor venous outflow, and anastomotic stenosis are the
+most common reasons for early access thrombosis. Additional factors may include surgical technical errors, intrinsic
+coagulation state, drops in systemic blood pressure, and
+poor cardiac output.
+Usually, the surgeon has some idea from the initial
+procedure about what might be the most likely cause of
+early access failure. Depending on what is thought to be the
+most likely reason for access failure, surgical re-exploration
+of the access may or may not be worthwhile. For example,
+a small vein that failed to dilate with a gentle intraoperative
+infusion of heparinized solution or a diseased artery with
+poor inflow may not be worth re-exploration. It may make
+more sense to evaluate alternative sites with a view toward
+placing a new access. On the other hand, a possible kink in
+the vein graft or compression within the tunnel would
+require prompt urgent exploration.
+Strategies for revisions can range from a simple thrombectomy to creation of completely new proximal anastomoses on the donor artery or vein. Occasionally, a preexisting venous stenosis that was not recognized before
+placement of the access can be diagnosed angiographically.
+In this situation, thrombectomy alone would not be expected to result in long-term access patency if the stenosis is
+not addressed.
+2. Late thrombosis. Although both autogenous and
+prosthetic accesses are prone to late thrombosis, the approach to late thrombosis differs substantially. Prosthetic
+accesses have a much higher incidence of thrombosis and
+the access-specific stenotic lesion is more predictably found
+in a specific location, at the prosthetic venous anastomosis.
+In contrast, in autogenous access the stenosis can be located anywhere along the access vein used for needle puncture, and multiple stenoses are often present, thus highlighting the importance of complete access evaluation.
+Prosthetic and autogenous accesses can both be plagued by
+stenoses along the venous outflow tract, including central
+veins on the same side.
+Although venous stenoses are far more common, the
+arterial side can also develop stenoses that can result in
+access thrombosis. Such lesions can be atherosclerotic in
+nature and can arise anywhere in the inflow arterial circuit.
+In addition, a hyperplastic stenosis can occur at the arterial
+anastomosis. Therefore, evaluation of the arterial inflow
+from the central arteries to the artery providing inflow to
+the access is indicated if a venous etiology cannot be found
+or the quality of the arterial inflow is in question.
+Intimal hyperplasia. In ⬎90% of cases, prosthetic accesses failure is due to stenosis of the venous anastomosis,
+draining vein, or central vein.115-119 Histologic analysis of
+the venous anastomotic lesion demonstrates that it is identical to restenotic lesions that occur in the coronary arteries
+after coronary angioplasty or artery-to-artery bypass. The
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+pathophysiology of prosthetic access failure is largely that of
+neointimal hyperplasia at the venous anastomosis.
+It is important to note that once access occlusion
+occurs, prolonged patency is unusual. Thrombectomy, access revision, or percutaneous transluminal angioplasty
+usually result in a limited period of patency before failure
+recurs. The inability to prolong access patency after occlusion reflects several challenges, including the difficulty of
+correcting the primary lesion responsible for access failure,
+alteration in graft thrombogenicity, persistence of secondary lesions, or a combination of these factors. Moreover,
+the injury caused by angioplasty of the stenotic lesion can
+itself promote accelerated neointimal hyperplasia. Because
+the venous anastomotic lesion of an AV graft is a proliferative vascular lesion, it is difficult to dilate and has a very
+high recurrence rate, regardless of the corrective intervention performed.
+The KDOQI Guidelines recommend9,120 that stenoses
+in prosthetic or autogenous accesses should be treated
+prophylactically with percutaneous transluminal angioplasty or surgical revision if the stenosis is ⬎50% of the
+lumen diameter and is associated with clinical/physiologic
+abnormalities.
+Management of thrombosed access. The mainstay of the
+management of thrombosed access is clot management,
+identification of stenotic lesions causing thrombosis, and
+management of significant stenotic lesions. Clot management alone is usually not sufficient for long-term patency
+unless the inciting factor is transient, such as access
+compression or an episode of hypotension. Management
+of thrombosed access can be by surgical or endovascular
+techniques. In either method, the clot or thrombus
+needs to be removed: surgically using a Fogarty balloon
+catheter or by endovascular means using thrombolysis,
+mechanical thrombectomy devices, or a combination
+thereof. Many of these devices are currently being used;
+a description of such devices can be found elsewhere in
+the literature.
+1. Open surgical management: After surgical catheter
+thrombectomy, stenotic lesions either at the venous
+outflow anastomosis of a prosthetic graft or in the main
+body of the autogenous access have been traditionally
+managed by open surgical techniques. If the lesion is
+short, a patch angioplasty can be performed using either
+autogenous venous or prosthetic material. When the
+lesion is long or multiple sequential lesions are found, a
+vein segment or a piece of prosthetic graft is used to
+bypass the diseased segment. This bypass can be performed either to replace the diseased segment or to
+bypass it to a proximal healthy vein. This should be
+planned in a way to keep, if possible, an incorporated
+segment of a prosthetic access or a mature segment of an
+autogenous access free to be continuously used for
+dialysis, obviating the need for catheter placement while
+the new replacement segment incorporates or matures.
+This is well demonstrated when a prosthetic access
+thrombosis due to a hyperplastic lesion at the graft–vein
+
+Sidawy et al 19S
+
+interface is being surgically repaired. A longitudinal
+incision is made in the prosthetic graft and extended to
+the vein through the lesion. A Fogarty catheter is used
+to perform thrombectomy from the longitudinal incision. When the thrombectomy is complete, as evidenced by excellent arterial inflow, the longitudinal
+incision is closed using a patch that widens the lumen at
+the venous anastomotic site. The incorporated main
+body of the access can then be used for dialysis immediately after the conclusion of the procedure without the
+need for percutaneous catheter placement.
+2. Endovascular techniques: clot can be managed by a
+variety of endovascular techniques or thrombolysis and
+the stenotic lesions can also be managed using balloon
+angioplasty and stenting techniques.
+3. Combination of both techniques:
+a. Open balloon catheter thrombectomy through a
+small transverse incision remote from both the arterial
+and venous anastomosis of a prosthetic access.
+b. Angiographic imaging of the entire graft including
+arterial anastomosis and entire venous outflow.
+c. Open revision or balloon angioplasty of graft, anastomotic or venous outflow tract stenoses.
+ACCESS CONFIGURATIONS
+Autogenous accesses
+Forearm autogenous accesses. Autogenous posterior radial branch– cephalic direct wrist access (snuffbox). This autogenous access is performed between the end of the cephalic vein and the posterior branch of the radial artery
+located in the anatomic snuffbox. The cephalic vein and
+radial artery are identified through a single longitudinal
+incision overlying the palpable posterior branch of the
+radial artery pulse. The artery is found in the base of the
+snuffbox between the tendons of the extensor pollicis longus and brevis.
+Autogenous radial– cephalic direct wrist access (BresciaCimino-Appel).
+This autogenous access is performed between the end of
+the cephalic vein and the radial artery in the wrist. If the
+arterial pulse and the vein are close to each other, the
+procedure is performed through one longitudinal or curvilinear incision. If these vessels are far from each other, the
+artery and the vein are dissected through two separate
+longitudinal incisions and the vein is passed through a
+tunnel to perform the anastomosis.
+Autogenous radial– cephalic forearm transposition. This
+autogenous access is performed between the end of the
+cephalic vein and the radial artery in the forearm. The
+cephalic vein is identified at the wrist and mobilized to the
+antecubital fossa. The radial artery may be identified within
+the distal portion of this incision or, if located far away, a
+second longitudinal incision may be made overlying the
+palpable radial artery pulse. The cephalic vein is tunneled
+superficially and laterally to the radial artery to perform the
+anastomosis. This operation is used in obese patients with
+good inflow at the wrist and a normal cephalic vein in the
+
+20S Sidawy et al
+
+forearm, which is too deep to allow for successful cannulation if kept in its location and a direct autogenous access is
+performed.
+Autogenous brachial (or proximal radial)– cephalic forearm looped transposition. This autogenous access is performed between the end of the cephalic vein and the
+brachial artery in the antecubital fossa. The cephalic vein is
+identified at the wrist and mobilized to the antecubital fossa
+through a single incision or multiple incisions. The brachial
+or proximal radial artery is identified within the proximal
+portion of this incision or, if located far away, a second
+incision is made overlying the artery. The cephalic vein is
+tunneled superficially in a forearm loop to the artery to
+perform the anastomosis.
+Autogenous radial– basilic forearm transposition. This
+autogenous access is performed between the end of the
+basilic vein and the radial artery in the forearm. The basilic
+vein is identified in the wrist and mobilized to the antecubital fossa. The radial artery is identified through a longitudinal incision directly overlying the palpable radial artery
+pulse. The basilic vein is tunneled superficially and laterally
+to the radial artery to perform the anastomosis.
+Autogenous ulnar– basilic forearm transposition. This
+autogenous access is performed between the end of the
+basilic vein and the ulnar artery in the forearm. The basilic
+vein is identified at the wrist and mobilized to the antecubital fossa. The ulnar artery is identified through a longitudinal incision directly overlying the palpable ulnar artery
+pulse. The basilic vein is tunneled superficially and laterally
+to the ulnar artery to perform the anastomosis.
+Autogenous brachial (or proximal radial)– basilic forearm looped transposition. This autogenous access is performed between the end of the basilic vein and the brachial
+or proximal radial artery in the antecubital fossa. The basilic
+vein is identified at the wrist and mobilized to the antecubital fossa. The artery is identified within the proximal
+portion of this incision or, if located far away, a second
+longitudinal incision is made overlying the artery. The
+basilic vein is tunneled superficially in a forearm loop to the
+artery to perform the anastomosis.
+Autogenous radial–antecubital forearm indirect greater
+saphenous translocation. This autogenous access is performed between the antecubital vein in the antecubital
+fossa and the radial artery in the wrist using the great
+saphenous vein as conduit. The antecubital vein is identified through a transverse incision in the antecubital fossa.
+The radial artery is identified through a longitudinal incision overlying the palpable radial artery pulse. An appropriate length of great saphenous vein is harvested from the
+lower extremity. The great saphenous vein is translocated
+to the forearm in a superficial and lateral tunnel between
+the antecubital vein and the radial artery to perform the two
+anastomoses.
+Autogenous brachial (or proximal radial)–antecubital forearm indirect looped greater saphenous translocation. This autogenous access is performed between the antecubital vein and
+the brachial or proximal radial artery located in the antecubital fossa using the great saphenous vein as conduit. The
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+antecubital vein and artery are identified through a transverse incision in the antecubital fossa. An appropriate
+length of great saphenous vein is harvested from the lower
+extremity. The great saphenous vein is translocated to the
+forearm in a looped configuration between the antecubital
+vein and brachial or proximal radial artery to perform the
+two anastomoses.
+Upper arm autogenous accesses. Upper arm accesses
+have most commonly been based on the brachial artery for
+inflow; however, the proximal radial artery is an excellent
+choice for inflow as long as there is adequate length of vein
+to support the additional 2 to 3 cm of length required to
+perform the anastomosis at the proximal radial artery,
+which is a few centimeters distal to the brachial artery at the
+antecubital fossa. Although confusion may arise regarding
+classification of accesses originating from the proximal radial artery, these accesses should be classified as upper arm
+accesses except in cases where all access flow is retrograde
+into the forearm.
+Autogenous brachial (or proximal radial)– cephalic upper arm direct access. This autogenous access is performed
+between the end of the cephalic vein and the brachial or
+proximal radial artery located in the antecubital fossa. If the
+cephalic vein and selected artery are close together, the
+procedure is performed through one transverse incision; if
+not, separate incisions are made and the end of the cephalic
+vein is tunneled to the brachial or proximal radial artery to
+perform the anastomosis.
+Autogenous brachial (or proximal radial)– cephalic upper arm transposition. This autogenous access is performed
+between the end of the cephalic vein and the brachial or
+proximal radial artery. The cephalic vein is identified at the
+elbow and mobilized to an appropriate length to allow its
+free end to reach the brachial artery. The brachial artery is
+identified through an extension of this incision or, if located
+far away, through a second incision overlying the palpable
+brachial artery pulse just beyond to the proximal radial artery.
+The cephalic vein is tunneled superficially and medially towards the brachial artery to perform the anastomosis.
+Autogenous brachial (or proximal radial)– basilic upper
+arm transposition. This autogenous access is performed
+between the end of the basilic vein and the brachial artery
+located at or just proximal to the antecubital fossa, or the
+proximal radial artery just distal to the fossa. An appropriate
+length of adequate basilic vein is completely mobilized
+distal to the antecubital crease if possible. The artery is
+identified in the distal portion of the incision or, if located
+far away, through a second incision overlying the artery.
+The basilic vein is tunneled superficially and laterally to the
+artery to perform the anastomosis. It is of note that this
+transposition as well as others can be performed by onestage or two-stage techniques. A two-stage technique can
+be used when the vein to be transposed has a small caliber
+(⬍4 mm), where simply anastomosing the end of the vein
+to the artery would allow the vein to dilate before its
+transposition in the second stage of the two-stage technique.121 Before the second stage is performed, DU study
+of the vein can confirm its adequacy. The second stage is
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+performed, usually 4 to 8 weeks later, if the vein is adequately dilated, displays no stenosis, and has adequate flow
+volume.121
+Autogenous brachial (or proximal radial artery)–brachial
+vein upper arm transposition. This autogenous access is performed between the end of the brachial vein and the
+brachial artery located in the antecubital fossa. If there is
+adequate vein available distally, use of the proximal radial
+artery as inflow is another option. The brachial vein and
+brachial artery are identified through a longitudinal incision
+in the antecubital fossa. The brachial vein is mobilized to
+the axilla and tunneled superficially and laterally to the
+brachial artery to perform the anastomosis. This transposition is well suited for a two-stage technique because the
+vein is quite small, unless it has been arterialized from a
+prior forearm access. Further, a two-stage transposition will
+result in elongation of the vein during the first stage,
+providing the additional vein length that is usually required
+to transpose this vein to a lateral subcutaneous tunnel.
+Finally, superficialization of the vein can be done if there is
+inadequate length to transpose the vein, in which case the
+vein should be positioned laterally under a skin flap so that
+cannulation does not have to be performed through the
+incision site.
+Autogenous proximal radial–median antebrachial (or
+cephalic) vein, bidirectional flow. This autogenous access is
+performed as a side-to-side or end-to-side anastomosis
+using the median antebrachial or cephalic vein. Retrograde
+flow is established into the forearm by disruption of the first
+valve under direct vision with a small probe or reverse
+valvulotome. Flow into both the upper arm cephalic vein
+and the forearm median antebrachial vein offers the potential for continued and uninterrupted vascular access, should
+one of the outflow branches fail. The brachial artery can
+also be used as inflow, but use of the proximal radial artery
+minimizes the risk of steal syndrome. Further, the side-toside anastomosis maintains flow through multiple venous
+channels.122
+Autogenous brachial (proximal radial) artery–axillary
+vein upper arm indirect greater saphenous translocation.
+This autogenous access is performed between the axillary
+vein in the axilla and the brachial or proximal radial artery in
+or near the antecubital fossa using the great saphenous vein
+as conduit. The axillary or proximal brachial vein is identified through a longitudinal incision in the axilla. The artery
+is then isolated. An appropriate length of great saphenous
+vein is harvested from the lower extremity. The great
+saphenous vein is translocated in a superficial and lateral
+tunnel between the axillary vein and chosen artery to perform the two anastomoses. The saphenous vein can also be
+constructed in loop configuration in the arm or forearm.
+Lower extremity autogenous accesses. Autogenous femoral– great saphenous lower extremity looped transposition.
+This autogenous access is performed between the end of
+the great saphenous vein and the superficial femoral artery
+in the groin. The great saphenous vein and common femoral artery are identified through a longitudinal groin incision. The great saphenous vein is mobilized for an appro-
+
+Sidawy et al 21S
+
+priate length. The great saphenous vein is tunneled
+superficially and laterally to the superficial femoral artery to
+perform the anastomosis.
+Autogenous femoral artery–femoral vein lower extremity
+transposition (straight). This autogenous access is performed between the end of the femoral vein and the femoral artery. The femoral vein and femoral artery are identified through longitudinal incisions. The femoral vein is
+mobilized for an appropriate length, usually into the adductor canal, but not including the popliteal. The femoral
+vein is tunneled superficially and laterally to the femoral
+artery to perform the anastomosis. In the presence of an
+unacceptable distal femoral artery, the vein may be looped
+back to the femoral artery in the groin.
+Autogenous posterior tibial– greater saphenous lower extremity direct access. This autogenous access is performed
+between the great saphenous vein and the posterior tibial
+artery in the distal calf. The great saphenous vein and
+posterior tibial artery are identified through a longitudinal
+incision at the ankle. The distal end of the great saphenous
+vein is mobilized to the posterior tibial artery to perform
+the anastomosis.123
+Configurations of prosthetic AV accesses
+Forearm prosthetic accesses. Prosthetic radial–antecubital forearm straight access. This prosthetic access is performed between the antecubital vein in the antecubital
+fossa and the radial artery in the wrist using a prosthetic
+graft as conduit. The antecubital vein is exposed through a
+transverse incision distal to the antecubital crease. The
+radial artery is exposed through a longitudinal incision in
+the wrist overlying the palpable radial artery pulse. The
+prosthetic graft is tunneled superficially and laterally between the antecubital vein and the radial artery to perform
+the two anastomoses.
+Prosthetic brachial–antecubital forearm looped access. This
+prosthetic access is performed between the antecubital vein
+and the brachial artery in the antecubital fossa using a
+prosthetic graft as conduit. The antecubital vein and brachial artery are exposed through a transverse incision in the
+antecubital fossa. The prosthetic graft is tunneled superficially in a forearm loop between the antecubital vein and
+the brachial artery to perform the two anastomoses.
+Upper arm prosthetic accesses. Prosthetic brachial–axillary (vein) upper arm access. This prosthetic access is performed between the axillary or brachial vein in the axilla and
+the brachial artery using a prosthetic graft as conduit. The
+axillary vein is exposed through a longitudinal incision in
+the axilla. The brachial artery is exposed through a longitudinal incision at or just proximal to the antecubital fossa
+overlying the palpable brachial artery pulse. The prosthetic
+graft is tunneled superficially and laterally between the
+axillary vein and the brachial artery to perform the two
+anastomoses.
+Lower extremity prosthetic accesses. Prosthetic femoral
+artery–femoral vein lower extremity looped access. This prosthetic access is performed between the femoral vein and the
+femoral artery using a prosthetic graft as conduit. The
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+22S Sidawy et al
+
+femoral vein and artery are exposed through longitudinal or
+transverse incisions. The prosthetic graft is tunneled superficially in a loop between the femoral vein and artery to
+perform the two anastomoses.70,124
+Body wall prosthetic accesses. Prosthetic axillary–axillary (vein) chest access (necklace prosthetic access). This prosthetic access is performed between the axillary vein and the
+contralateral axillary artery using a prosthetic graft as conduit. The axillary vein is exposed through a transverse
+infraclavicular incision and is located deep to the pectoralis
+major muscle. Through a similar incision, the contralateral
+axillary artery is exposed. The prosthetic graft is tunneled
+superficially across the chest wall between the axillary vein
+and artery to perform the two anastomoses.
+Prosthetic axillary–axillary (vein) chest loop access. This prosthetic access is performed between the axillary vein and the
+ipsilateral axillary artery using a prosthetic graft as conduit.
+The axillary vein and artery are exposed through a transverse infraclavicular incision where they are located deep to
+the pectoralis major muscle. The prosthetic graft is tunneled superficially in a loop on the chest wall between the
+axillary vein and artery to perform the two anastomoses.
+Prosthetic axillary–internal jugular chest loop access. This
+prosthetic access is performed between the internal jugular
+vein and the ipsilateral axillary artery using a prosthetic graft
+as conduit. The internal jugular vein is exposed through a
+longitudinal incision just anterior to the sternocleidomastoid muscle and is located in the carotid sheath. The axillary
+artery is exposed through a transverse infraclavicular incision and is located deep to the pectoralis major muscle. The
+prosthetic graft is tunneled superficially between the internal jugular vein and the axillary artery to perform the two
+anastomoses.
+Prosthetic axillary–femoral (vein) body wall access. This
+prosthetic access is performed between the common femoral vein and the axillary artery using a prosthetic graft as
+conduit. The common femoral vein is exposed through a
+longitudinal groin incision. The axillary artery is exposed
+through a transverse infraclavicular incision and is located
+deep to the pectoralis major muscle. The prosthetic graft is
+tunneled superficially along the body wall between the
+common femoral vein and the axillary artery to perform the
+two anastomoses.
+AUTHOR CONTRIBUTIONS
+Conception and design: AS, LS, AB, MA, WJ, FP, MM,
+VM, AO, KC, RM, AL, EA
+Analysis and interpretation: AS, MM, VM
+Data collection: Not applicable
+Writing the article: AS, LS, AB, MA, WJ, FP, MM, VM,
+AO, KC, RM, AL, EA
+Critical revision of the article: AS, LS, AB, MA, WJ, FP,
+MM, VM, AO, KC, RM, AL, EA
+Final approval of the article: AS, LS, AB, MA, WJ, FP, MM,
+VM, AO, KC, RM, AL, EA
+Statistical analysis: MM, VM
+Obtained funding: AS, EA
+Overall responsibility: AS
+
+REFERENCES
+1. Dhingra RK, Young EW, Hulbert-Shearon TE, Leavey SF, Port FK.
+Type of vascular access and mortality in U.S. hemodialysis patients.
+Kidney Int 2001;60:1443-51.
+2. Young E. Vascular access. Current practice and practical aspects of
+management, ASN Renal Week 2000. Toronto: American Society of
+Nephrology, 2000. p. 377– 85.
+3. Murphy GJ, White SA, Nicholson ML. Vascular access for haemodialysis. Br J Surg 2000;87:1300-15.
+4. Ascher E, Gade P, Hingorani A, Mazzariol F, Gunduz Y, Fodera M, et
+al. Changes in the practice of angioaccess surgery: impact of dialysis
+outcome and quality initiative recommendation. J Vasc Surg 2000;31:
+84-92.
+5. Kheriakian GM, Roedersheimer LR, Arbaugh JL, Newmark KJ, King
+LR. Comparison of autogenous fistula versus expanded polytetrafluoroethylene graft fistula for angioaccess in hemodialysis. Am J Surg
+1986;152:238-43.
+6. Jennings WC. Creating arteriovenous fistulas in 132 consecutive patients: exploiting the proximal radial artery arteriovenous fistula: reliable, safe and simple forearm and upper arm hemodialysis access. Arch
+Surg 2006;141:27-32; discussion 32.
+7. Nguyn VD, Griffith C, Treat L. A multidisciplinary approach to
+increasing AV fistula creation. Nephrol News Issues 2003;17:54-6.
+8. Lok CE. “Fistula first initiative: advantages and pitfalls.” Clin J Am Soc
+Nephrol 2007;2:1043-53.
+9. National Kidney Foundation’s KDOQI 2006 Vascular Access Guidelines. Am J Kidney Disease 2006:48(suppl 1):S177-322.
+10. Arteriovenous Fistula First Breakthrough Coalition. http://www.
+fistulafirst.org. Accessed: Dec 9, 2007.
+11. National Kidney Foundation. KDOQI guidelines. http://www.
+kidney.org/professionals/KDOQI/guideline_upHD_PD_VA/
+index.htm. Accessed: Dec 9, 2007.
+12. Sidawy AN, Gray R, Besarab A, Henry M, Ascher E, Silva M Jr, et al.
+Recommended standards for reports dealing with arteriovenous hemodialysis accesses. J Vasc Surg 2002;35:603-10.
+13. Murad MH, Sidawy AN, Elamin MB, Rizvi AZ, Flynn DN, McCausland FR, et al. Timing of referral for chronic hemodialysis vascular
+access placement: a systematic review. J Vasc Surg 2008;48(suppl S):
+31S-33S.
+14. Murad MH, Elamin MB, Sidawy AN, Malaga G, Rizvi A, Flynn D, et
+al. Autogenous vs prosthetic vascular access for hemodialysis: a systematic review and meta-analysis. J Vasc Surg 2008;48(suppl S):34S-47S.
+15. Casey E, Murad MH, Rizvi A, Sidawy AN, McGrath MM, Elamin MB,
+et al. Surveillance of arteriovenous hemodialysis access: a systematic
+review and meta-analysis. J Vasc Surg 2008;48(suppl S):48S-54S.
+16. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al.
+Grading quality of evidence and strength of recommendations. BMJ
+2004;328:1490.
+17. Besarab A, Adams M, Amatucci S, Bowe D, Deane J, Ketchen K, et al.
+Unraveling the realities of vascular access: the Network 11 experience.
+Adv Ren Replace Ther 2000;7(4 suppl 1):S65-70.
+18. Oliver MJ, Rothwell DM, Fung K, Hux JE, Lok CE. Late creation of
+vascular access for hemodialysis and increased risk of sepsis. J Am Soc
+Nephrol 2004;15:1936-42.
+19. Lacson E Jr, Lazarus JM, Himmelfarb J, Ikizler TA, Hakim RM.
+Balancing Fistula First with Catheters Last. Am J Kidney Dis 2007;50:
+379-95.
+20. Lee T, Barker J, Allon M. Associations with predialysis vascular access
+management. Am J Kidney Dis 2004;43:1008-13.
+21. Pisoni RL, Young EW, Dykstra DM, Greenwood RN, Hecking E,
+Gillespie B, et al. Vascular access use in Europe and the United States:
+results from the DOPPS. Kidney Int 2002;61:305-16.
+22. Arora P, Obrador GT, Ruthazer R, Kausz AT, Meyer KB, Jenuleson
+CS, et al. Prevalence, predictors, and consequences of late nephrology
+referral at a tertiary care center. J Am Soc Nephrol 1999;10:1281-6.
+23. Patel UD, Young EW, Ojo AO, Hayward RA. CKD progression and
+mortality among older patients with diabetes. Am J Kidney Dis 2005;
+46:406-14.
+24. Avorn J, Winkelmayer WC, Bohn RL, Levin R, Glynn RJ, Levy E, et al.
+Delayed nephrologist referral and inadequate vascular access in pa-
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+tients with advanced chronic kidney failure. J Clin Epidemiol
+2002;55:711-6.
+25. Astor BC, Eustace JA, Powe NR, Klag MJ, Sadler JH, Fink NE, et al.
+Timing of nephrologist referral and arteriovenous access use: the
+CHOICE Study. Am J Kidney Dis 2001;38:494-501.
+26. Allon M, Lockhart ME, Lilly RZ, Gallichio MH, Young CJ, Barker J,
+et al. Effect of preoperative sonographic mapping on vascular access
+outcomes in hemodialysis patients. Kidney Int 2001;60:2013-20.
+27. Allon M, Robbin ML. Increasing arteriovenous fistulas in hemodialysis
+patients: problems and solutions. Kidney Int 2002;62:1109-24.
+28. Dixon BS, Novak L, Fangman J. Hemodialysis vascular access survival:
+upper-arm native arteriovenous fistula. Am J Kidney Dis 2002;39:92101.
+29. Miller PE, Tolwani A, Luscy CP, Deierhoi MH, Bailey R, Redden DT,
+et al. Predictors of adequacy of arteriovenous fistulas in hemodialysis
+patients. Kidney Int 1999;56:275-80.
+30. Oliver MJ, McCann RL, Indridason OS, Butterly DW, Schwab SJ.
+Comparison of transposed brachiobasilic fistulas to upper arm grafts
+and brachiocephalic fistulas. Kidney Int 2001;60:1532-9.
+31. Schwab SJ, Beathard G. The hemodialysis catheter conundrum:
+hate living with them, but can’t live without them. Kidney Int
+1999;56:1-17.
+32. Ortega T, Ortega F, Diaz-Corte C, Rebollo P, Ma Baltar J, AlvarezGrande J. The timely construction of arteriovenous fistulae: a key to
+reducing morbidity and mortality and to improving cost management.
+Nephrol Dial Transplant 2005;20:598-603.
+33. Pastan S, Soucie JM, McClellan WM. Vascular access and increased
+risk of death among hemodialysis patients. Kidney Int 2002;62:620-6.
+34. Astor BC, Eustace JA, Powe NR, Klag MJ, Fink NE, Coresh J. Type of
+vascular access and survival among incident hemodialysis patients: the
+Choices for Healthy Outcomes in Caring for ESRD (CHOICE)
+Study. J Am Soc Nephrol 2005;16:1449-55.
+35. Allon M, Daugirdas J, Depner TA, Greene T, Ornt D, Schwab SJ.
+Effect of change in vascular access on patient mortality in hemodialysis
+patients. Am J Kidney Dis 2006;47:469-77.
+36. CARI: Caring for Australians With Renal Impairment. http://www.
+cari.org.au/dialysis_va_005_pub.php. Accessed: Mar 23, 2008.
+37. The Renal Association Clinical Practice Guidelines. http://www.
+renal.org/guidelines/module3a.html#VascularAccess. Accessed: Apr
+23, 2008.
+38. Jindal K, Chan CT, Deziel C, Hirsch D, Soroka SD, Tonelli M, et al.
+Hemodialysis clinical practice guidelines for the Canadian Society of
+Nephrology. J Am Soc Nephrol 2006;17(3 suppl 1):S1-27.
+39. Astor BC, Coresh J, Powe NR, Eustace JA, Klag MJ. Relation between
+gender and vascular access complications in hemodialysis patients.
+Am J Kidney Dis 2000;36:1126-34.
+40. Hakaim AG, Nalbandian M, Scott T. Superior maturation and patency
+of primary brachiocephalic and transposed basilic vein arteriovenous
+fistulae in patients with diabetes. J Vasc Surg 1998;27:154-7.
+41. Caplin N, Sedlacek M, Teodorescu V, Falk A, Uribarri J. Venous
+access: women are equal. Am J Kidney Dis 2003;41:429-32.
+42. Gibson K, Caps M, Kohler T, Hatsukami TS, Gillen DL, Aldassy M, et
+al. Assessment of a policy to reduce placement of prosthetic hemodialysis access. Kidney Int 2001;59:2335-45.
+43. Dalman RL, Harris EJ, Victor BJ, Coogan SM. Transition to allautogenous hemodialysis access: the role of preoperative vein mapping. Ann Vasc Surg 2002;16:624-30.
+44. Roberts JK, Sideman MJ, Jennings WC. The difficult hemodialysis
+access extremity: proximal radial arteriovenous fistulas and the role of
+angioscopy and valvulatomes. Am J Surg 2005;190:869-73.
+45. Abularrage CJ, Sidawy AN, Weiswasser JM, White PW, Arora S.
+Medical factors affecting patency of arteriovenous access. Semin Vasc
+Surg 2004;17:25-31.
+46. LeSar CJ, Merrick HW, Smith MR. Thrombotic complications resulting from hypercoagulable states in chronic vascular access. J Am Col
+Surg 1999;189:73-9.
+47. Crowther MA, Clase CM, Margetts PJ. Low intensity warfarin is
+ineffective for the prevention of PTFE graft failure in patients on
+hemodialysis; a randomized controlled trial. J Am Soc Nephrol 2002;
+13:2331-7.
+
+Sidawy et al 23S
+
+48. Dember LM, Kaufman JS, Beck GJ, Dixon BS, Gassman JJ, Greene T,
+et al. DAC Study Group. Design of the Dialysis Access Consortium
+(DAC) Clopidogrel Prevention of Early AV Fistula Thrombosis Trial.
+Clin Trials 2005;2:413-22.
+49. Kaufman JS, O’Connor TZ, Zhang JH, Cronin RE, Fiore LD, Ganz
+MB, et al. Veterans Affairs Cooperative Study Group on Hemodialysis
+Access Graft Thrombosis. Randomized controlled trial of clopidogrel
+plus aspirin to prevent hemodialysis access graft thrombosis. J Am Soc
+Nephrol 2003;14:2313-21
+50. Dember LM, Beck GJ, Allon M, Delmez JA, Dixon BS, Greenberg A,
+et al. Dialysis Access Consortium Study Group. Effect of clopidogrel
+on early failure of arteriovenous fistulas for hemodialysis: a randomized
+controlled trial. JAMA 2008;299:2164-71.
+51. Currier CB, Widder S, Ali A, Kuusisto E, Sidawy AN. Surgical management of subclavian and axillary vein thrombosis in patients with a
+functioning arterio-venous fistula. Surgery 1986;100:25.
+52. Neville RF, Abularrage CJ, White PW, Sidawy AN. Venous hypertension associated with arteriovenous hemodialysis access. Semin Vasc
+Surg 2004;17:50-6.
+53. Vassalotti J, Falk A, Cohl ED, Uribarri J, Teodorescu V. Obese and
+non obese hemodialysis patients have a similar prevalence of functioning arteriovenous fistulas using preoperative vein mapping. Clin Nephrol 2002;58:211-4.
+54. Brown PW. Preoperative radiological assessment for vascular access.
+Eur J Vasc Endovasc Surg 2006;31:64-9.
+55. Wong V, Ward R, Taylor J, Selvakumar S, How TV, Bakran A. Factors
+associated with early failure of arteriovenous fistulae for haemodialysis
+access. Eur J Vasc Endovasc Surg 1996;12:207-13.
+56. Malovrh M. Approach to patients with end-stage renal disease who
+need an arteriovenous fistula. Nephrol Dial Transplant 2003;18:
+v50-2.
+57. Silva MB, Hobson RW, Pappas PJ, Jamil Z, Araki CT, Goldberg MC,
+et al. A strategy for increasing use of autogenous hemodialysis access
+procedures: impact of preoperative noninvasive evaluation. J Vasc Surg
+1998;27:302-8.
+58. Goldstein LJ, Gupta S. Use of the radial artery for hemodialysis access.
+Arch Surg 2003;138:1130-4.
+59. Malovrh M. The role of sonography in the planning of arteriovenous
+fistulas for hemodialysis. Semin Dial 2003;16:299-303.
+60. Geoffroy O, Tassart M, Le Blanche A, Khalil A, Duedal V, Rossert J, et
+al. Upper extremity digital subtraction venography with gadoterate
+meglumine before fistula creation for hemodialysis. Kidney Int 2001;
+59:1491-7.
+61. Merten GJ, Burgess WP, Gray LV, Holleman JH, Roush TS, Kowalchuk GJ, et al. Prevention of contrast-induced nephropathy with
+sodium bicarbonate. JAMA 2004;291:2328-31.
+62. Kay J, Chow WH, Chan TM, Lo SK, Kwok OH, Yip A, et al.
+Acetylcysteine for prevention of acute deterioration of renal function
+following elective coronary angiography and intervention. JAMA
+2003;289:553-7.
+63. Marckmann P, Skov L, Rossen K, Dupont A, Damholt MB, Heaf JG,
+et al. Nephrogenic systemic fibrosis: suspected causative role of gadodiamide used for contrast-enhanced magnetic resonance imaging.
+J Am Soc Nephrol 2006;17:2359-62.
+64. Schuman E, Standage BA, Ragsdale JW, Heinl P. Achieving vascular
+access success in the quality outcomes era. Am J Surg 2004;187:585-9;
+discussion 589.
+65. Parmley MC, Broughan TA, Jennings WC. Vascular ultrasonography
+prior to dialysis access surgery. Am J Surg 2002;184:568-72.
+66. Asif A, Cherla G, Merrill D, Cipleu CD, Tawakol JB, Epstein DL, et al.
+Venous mapping using venography and the risk of radiocontrastinduced nephropathy. Semin Dial 2005;18:239-42.
+67. Paksoy Y, Gormus N, Tercan MA. Three-dimensional contrast-enhanced magnetic resonance angiography (3-D CE-MRA) in the evaluation of hemodialysis access complications, and the condition of
+central veins in patients who are candidates for hemodialysis access. J
+Nephrol 2004;17:57-65.
+68. Turmel-Rodrigues L, Bourquelot P, Raynaud A, Beyssen B, Sapoval
+M. Hemodialysis fistula: preoperative MR venography--a promising
+but partial view. Radiology 2000;214:302-3.
+
+24S Sidawy et al
+
+69. Laissy JP, Fernandez P, Karila-Cohen P, Delmas V, Dupuy E, Chillon
+S, et al. Upper limb vein anatomy before hemodialysis fistula creation:
+cross-sectional anatomy using MR venography. Eur Radiol 2003;13:
+256-61.
+70. Gradman WS, Laub J, Cohen W. Femoral Vein transposition for
+arteriovenous hemodialysis access: improved patient selection and
+intraoperative measures reduce postoperative ischemia. J Vasc Surg
+2005:41:279-84.
+71. McCann RL. Axillary grafts for difficult hemodialysis access. J Vasc
+Surg 1996:24:257-62.
+72. Huber TS, Ozaki CK, Flynn TC, Lee WA, Berceli SA, Hirneise CM, et
+al. Prospective validation of an algorithm to maximize native arteriovenous fistulae for chronic hemodialysis access. J Vasc Surg 2002;36:
+452-9.
+73. Miller A, Holzenbein TJ, Gottlieb MN, Sacks BA, Lavin PT, Goodman WS, et al. Strategies to increase the use of autogenous arteriovenous fistula in end-stage renal disease. Ann Vasc Surg 1997;11:397405.
+74. Keuter X, De Smet A, Kessels A, van der Sande F, Welten R, Tordoir
+J. A randomized multicenter study of the outcome of brachial-basilic
+arteriovenous fistula and prosthetic brachial-antecubital forearm loop
+as vascular access for hemodialysis. J Vasc Surg 2008;47:395-401.
+75. Fitzgerald JT, Schanzer A, McVicar JP, Chin AI, Perez RV, Troppmann C. Upper arm arteriovenous fistula versus forearm looped arteriovenous graft for hemodialysis access: A comparative analysis. Ann
+Vasc Surg 2005;19:843-50.
+76. Robbin ML, Oser RF, Lee JY, Heudebert GR, Mennemeyer ST, Allon
+M. Randomized comparison of ultrasound surveillance and clinical
+monitoring on arteriovenous graft outcomes. Kidney Int 2006;69:
+730-5.
+77. Cayco AV, Abu-Alfa AK, Mahnensmith RL, Perazella MA. Reduction
+in arteriovenous graft impairment: results of a vascular access surveillance protocol. Am J Kidney Dis 1998;32:302-8.
+78. Malik J, Slavikova M, Malikova H, Maskova J. Many clinically silent
+access stenoses can be identified by ultrasonography. J Nephrol 2002;
+15:661-5.
+79. Campos RP, Chula DC, Perreto S, Riella MC, do Nascimento MM.
+Accuracy of physical examination and intra-access pressure in the
+detection of stenosis in hemodialysis arteriovenous fistula. Semin Dial
+2008;21:269-73.
+80. Dossabhoy NR, Ram SJ, Nassar R, Work J, Eason JM, Paulson WD.
+Stenosis surveillance of hemodialysis grafts by duplex ultrasound reduces hospitalizations and cost of care. Semin Dial 2005;18:550-7.
+81. Wijnen E, Planken N, Keuter X, Kooman JP, Tordoir JH, de Haan
+MW, et al. Impact of a quality improvement programme based on
+vascular access flow monitoring on costs, access occlusion and access
+failure. Nephrol Dial Transplant 2006;21:3514-9.
+82. Karakayali F, Basaran O, Ekici Y, Budakoglu I, Aytekin C, Boyvat F, et
+al. Effect of secondary interventions on patency of vascular access sites
+for hemodialysis. Eur J Vasc Endovasc Surg 2006;32:701-9.
+83. Tessitore N, Mansueto G, Bedogna V, Lipari G, Poli A, Gammaro L,
+et al. A prospective controlled trial on effect of percutaneous transluminal angioplasty on functioning arteriovenous fistulae survival. J Am
+Soc Nephrol 2003;14:1623-7.
+84. Beathard GA, Arnold P, Jackson J, Litchfield T. Physician Operators
+Forum of RMS Lifeline: aggressive treatment of early fistula failure.
+Kidney Int 2003;64:1487-94.
+85. Turmel-Rodrigues L, Mouton A, Birmele B, Billaux L, Ammar N,
+Grezard O, et al. Salvage of immature forearm fistulas for hemodialysis by interventional radiology. Nephrol Dial Transplant 2001;
+16:2365-71.
+86. Singh P, Robbin ML, Lockhart ME, Allon M. Impact of postoperative
+ultrasound on salvage of clinically immature arteriovenous fistulas.
+Radiology 2008;246:299-305.
+87. Robbin ML, Chamberlain NE, Lockhart ME, Gallichio MH, Young
+CJ, Deierhoi MH, et al. Hemodialysis arteriovenous fistula maturity:
+US evaluation. Radiology 2002;225:59-64.
+88. Singh P, Robbin ML, Lockhart ME, Allon M. Clinically immature
+arteriovenous hemodialysis fistulas: effect of US on salvage. Radiology
+2008;246:299-305.
+
+JOURNAL OF VASCULAR SURGERY
+November Supplement 2008
+
+89. Malovrh M. Non-invasive evaluation of vessels by duplex sonography
+prior to construction of arteriovenous fistulas for hemodialysis. Nephrol Dial Transpl 1998;13:125-9.
+90. Yerdel MA, Kesenci M, Yazicioglu KM, Doseyen Z, Turkcapar AG,
+Anadol E. Effect of haemodynamic variables on surgically created
+arteriovenous fistula flow. Nephrol Dial Transplant 1997;12:1684-8.
+91. Rayner HC, Pisoni Rl, Gillespie BW, Goodkin DA, Akiba T, Azikawa
+T, et al. Creation, cannulation, and survival of arteriovenous fistulae:
+data from the Dialysis Outcomes and Practice Patterns Study. Kidney
+Int 2003;63:323-30.
+92. Trerotola SO, Ponce P, Stavropoulos SW, Clark TW, Tuite CM,
+Mondschein JI, et al. Physical examination versus normalized pressure
+ratio for predicting outcomes of hemodialysis access interventions. J
+Vasc Interv Radiol 2003;14:1387-94.
+93. Schuman E, Ronfeld A, Barclay C, Heinl P. Comparison of clinical
+assessment with ultrasound flow for hemodialysis access surveillance.
+Arch Surg 2007;142:1129-33.
+94. Asif A, Leon C, Orozco-Vargas LC, Krishnamurthy G, Choi KL,
+Mercado C, et al. Accuracy of physical examination in the detection of
+arteriovenous fistula stenosis. Clin J Am Soc Nephrol 2007;2:1191-4.
+95. Moist LM, Churchill DN, House AA, Millward SF, Elliott JE, Kribs
+SW, et al. Regular monitoring of access flow compared with monitoring of venous pressure fails to improve graft survival. J Am Soc Nephrol
+2003;14:2645-53.
+96. Schwab SJ, Oliver MJ, Suhocki P, McCann R. Hemodialysis arteriovenous access: Detection of stenosis and response to treatment by
+vascular access blood flow. Kidney Int 2001;59:358-62.
+97. Besarab A, Sullivan KL, Ross RP, Moritz MJ. Utility of intra-access
+pressure monitoring in detecting and correcting venous outlet stenoses prior to thrombosis. Kidney Int 1995;47:1364-73.
+98. Spergel LM, Holland JE, Fadem SZ, McAllister CJ, Peacock EJ. Static
+intra-access pressure ratio does not correlate with access blood flow.
+Kidney Int 2004;66:1512-6.
+99. Robbin ML, Oser RF, Allon M, Clements MW, Dockery J, Weber
+TM, et al. Hemodialysis access graft stenosis: US detection. Radiology
+1998;208:655-61.
+100. Lumsden AB, MacDonald MJ, Kikeri D, Cotsonis GA, Harker LA,
+Martin LG. Prophylactic balloon angioplasty fails to prolong the
+patency of expanded polytetrafluoroethylene arteriovenous grafts: results of a prospective randomized study. J Vasc Surg 1997;26:382-92.
+101. Ram SJ, Work J, Caldito GC, Eason JM, Pervez A, Paulson WD. A
+randomized controlled trial of blood flow and stenosis surveillance of
+hemodialysis grafts. Kidney Int 2003;64:272-80.
+102. Mayer DA, Zingale RG, Tsapogas MJ. Duplex scanning of expanded
+polytetrafluoroethylene dialysis shunts: Impact on patient management and graft survival. Vasc Surg 1993;27:647-58.
+103. Malik J, Slavikova M, Svobodova J, Tuka V. Regular ultrasound
+screening significantly prolongs patency of PTFE grafts. Kidney Int
+2005;67:1554-8.
+104. Besarab A. Access monitoring is worthwhile and valuable. Blood Purif
+2006;24:77-89.
+105. White JJ, Bander SJ, Schwab SJ. Is percutaneous transluminal angioplasty an effective intervention for arteriovenous graft stenosis? Semin
+Dial 2005;18:190-202.
+106. Slayden GC, Spergel L, Jennings WC. Secondary arteriovenous fistulas: converting prosthetic AV grafts to autogenous dialysis access.
+Semin Dial 2008 [published online 10.1111/j.1525-139X.2008.
+00459.x].
+107. Beathard GA. Interventionalist’s role in identifying candidates for
+secondary fistulas. Semin Dial 2004;17:233-6.
+108. Sands J, Miranda CL. Increasing numbers of AV fistulas for hemodialysis access. Clin Nephrol 1997;48:114-7.
+109. Ponikvar R. Surgical salvage of thrombosed arteriovenous fistulas and
+grafts. Ther Apher Dial 2005;9:245-9.
+110. Palmer RM, Cull DL, Kalbaugh C, Carsten CG, Taylor SM, Snyder
+BA, et al. Is surgical thrombectomy to salvage failed autogenous
+arteriovenous fistulae worthwhile? Am Surg 2006;72:1231-3.
+111. Bakken AM, Galaria II, Agerstrand C, Saad WE, Surowiec SM, Singh
+MJ, et al. Percutaneous therapy to maintain dialysis access successfully
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+prolongs functional duration after primary failure. Ann Vasc Surg
+2007;21:474-80.
+112. Beathard GA, Settle SM, Shields MW. Salvage of the nonfunctioning
+arteriovenous fistula. Am J Kidney Dis 1999;33:910-6.
+113. Bush RL, Lin PH, Lumsden AB. Management of thrombosed dialysis
+access: thrombectomy versus thrombolysis. Semin Vasc Surg 2004;17:
+32-9.
+114. Sofocleous CT, Cooper SG, Schur I, Patel RI, Iqbal A, Walker S.
+Retrospective comparison of the Amplatz thrombectomy device with
+modified pulse-spray pharmacomechanical thrombolysis in the treatment of thrombosed hemodialysis access grafts. Radiology 1999;213:
+561-7.
+115. Dahm JB, Ruppert J, Doerr M, Bordihn N, Maybauer W. Percutaneous laser-facilitated thrombectomy: an innovative, easily applied, and
+effective therapeutic option for recanalization of acute and subacute
+thrombotic hemodialysis shunt occlusions. J Endovasc Ther 2006;13:
+603-8.
+116. Palder SB, Kirkman RL, Whittemore AD, Hakim RM, Lazarus JM,
+Tilney NL. Vascular access for hemodialysis. Ann Surg 1986;202:
+235-9.
+117. Zibari GB, Rohr MS, Landreneau MD, Bridges RM, DeValut GA,
+Petty FH, et al. Complications from permanent hemodialysis vascular
+access. Surgery 1988;104:681-6.
+
+Sidawy et al 25S
+
+118. Imparato AM, Bracco A, Kim GE, Zeff R. Intimal and neointimal
+fibrous proliferation causing failure of arterial reconstruction. Surgery
+1972;72:1007-17.
+119. Bell DD, Rosenthal JJ. Arteriovenous graft life in chronic hemodialysis. Arch Surg 1988;123:1169-72.
+120. Eknoyan G, Levin NW, Eschbach JW, Golper TA, Owen WF Jr,
+Schwab S, et al. Continuous quality improvement: DOQI becomes
+K/ DOQI and is updated. National Kidney Foundation’s Dialysis
+Outcomes Quality Initiative. Am J Kidney Dis 2001;37:179-94.
+121. Arroyo MR, Sideman MJ, Spergel L, Jennings WC. Primary and
+staged transposition arteriovenous fistulas. J Vasc Surg 2008;47:
+1279-83.
+122. Bruns SD, Jennings WC. Proximal radial artery as inflow site for native
+arteriovenous fistula. J Am Coll Surg 2003;197:58-63.
+123. Spergel LM, Ravani P, Asif A, Roy-Chaudhury P, Besarab A. Autogenous arteriovenous fistula options. J Nephrol 2007;20:288-98.
+124. Jackson MR. The superficial femoral–popliteal vein transposition fistula: description of a new vascular access procedure. J Am Coll Surg
+2000:191;581-4.
+
+Submitted Aug 6, 2008; accepted Aug 18, 2008.
+
+

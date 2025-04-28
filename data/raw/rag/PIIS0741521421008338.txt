@@ -1,0 +1,2955 @@
+REVIEW ARTICLE
+A systematic review and meta-analysis of treatment and
+natural history of popliteal artery aneurysms
+Brad Beuschel, BS,a Tarek Nayfeh, MD,a Ahmad Kunbaz, MD,a Abdullah Haddad, MD,a Muayad Alzuabi, MD,a
+Shravani Vindhyal, MD,a Alik Farber, MD, MBA, FACS,b and M. Hassan Murad, MD, MPH,a Rochester, Minn; and
+Boston, Mass
+
+ABSTRACT
+Objective: To summarize the best available evidence comparing open vs endovascular popliteal artery aneurysm (PAA)
+repair. We also summarized the natural history of PAAs to support of the Society for Vascular Surgery guidelines.
+Methods: We searched MEDLINE, EMBASE, Cochrane databases, and Scopus for studies of patients with PAAs treated
+with an open vs an endovascular approach. We also included studies of natural history of untreated patients. Studies
+were selected and appraised by pairs of independent reviewers. A meta-analysis was performed when appropriate.
+Results: We identiﬁed 32 original studies and 4 systematic reviews from 2191 candidate references. Meta-analysis showed
+that compared with the endovascular approach, open surgical repair was associated with higher primary patency at 1 year
+(odds ratio [OR], 2.10; 95% conﬁdence interval [CI], 1.41-3.12), lower occlusion rate at 30 days (OR, 0.41; 95% CI, 0.24-0.68) and
+fewer reinterventions (OR, 0.28; 95% CI, 0.17-0.45), but a longer hospital stay (standardized mean difference, 2.16; 95% CI,
+1.23-3.09) and more wound complications (OR, 5.18; 95% CI, 2.19-12.26). There was no statistically signiﬁcant difference in
+primary patency at 3 years (OR, 1.38; 95% CI, 0.97-1.97), secondary patency (OR, 1.59; 95% CI, 0.84-3.03), mortality at the
+longest follow-up (OR, 0.49; 95% CI, 0.21-1.17), mortality at 30 days (OR, 0.28; 95% CI, 0.06-1.36), or amputation (incidence rate
+ratio, 0.85; 95% CI, 0.56-1.31). The certainty in these estimates was, in general, low. Studies of PAA natural history suggest that
+thromboembolic complications and amputation develop at a mean observation time of 18 months and they are frequent.
+One study showed that at 5 years, approximately one-half of the patients had complications.
+Conclusions: This systematic review provides event rates for outcomes important to patients with PAAs. Despite the low
+certainty of the evidence, these rates along with surgical expertise and anatomic feasibility can help patients and
+surgeons to engage in shared decision-making. (J Vasc Surg 2022;75:121S-5S.)
+Keywords: Meta-analysis; Guideline; Popliteal; Aneurysm
+
+Although peripheral artery aneurysms are rare, popliteal
+artery aneurysms (PAAs) are the most common type of
+peripheral arterial aneurysm with a reported prevalence
+rate of 0.007% in men, and 0.001% in women. Patients
+with PAAs are at increased risk of concomitant abdominal
+aortic aneurysms (33%) and contralateral PAA disease
+(50%).1,2 Given the anatomic location of the popliteal
+artery, untreated aneurysmal disease of this artery can
+lead to complications, including limb loss.
+Treatments of PAAs can be performed using endovascular aneurysm repair (EVAR) or open aneurysm repair
+From the Evidence-based Practice Center, Mayo Clinic Rochester, Rochestera;
+and the Division of Vascular and Endovascular Surgery, Boston Medical Center, Boston University School of Medicine, Boston.b
+Partially funded by the Society for Vascular Surgery.
+Author conﬂict of interest: none.
+Additional material for this article may be found online at www.jvascsurg.org.
+Correspondence: M. Hassan Murad, MD, MPH, Mayo Clinic, 200 1st Street SW,
+
+(OAR). OAR typically involves bypass around the aneurysm, aneurysm ligation or aneurysmorhaphy. EVAR involves placing a stent graft across the aneurysm.
+Thrombolysis is an adjunct treatment used with both
+therapeutic strategies if acute limb ischemia is present.
+Although endovascular repair is less invasive than surgical bypass, its durability has been questioned. Therefore,
+empirical evidence comparing the long-term outcomes
+of OAR with EVAR remains unclear. Consequently, there
+is equipoise and a lack of consensus about the comparative effectiveness of either approach in managing PAAs.
+The Society for Vascular Surgery has convened a committee of experts to develop clinical practice guidelines
+on the management of PAAs.3 To support these
+guidelines, we conducted a systematic review and
+meta-analysis to summarize the best available evidence
+comparing the efﬁcacy of OAR with EVAR in the
+treatment of PAAs, as well as the natural history of PAAs.
+
+Rochester, MN 55905 (e-mail: murad.mohammad@mayo.edu).
+The editors and reviewers of this article have no relevant ﬁnancial relationships to
+disclose per the JVS policy that requires reviewers to decline review of any
+manuscript for which they may have a conﬂict of interest.
+0741-5214
+Copyright Ó 2021 by the Society for Vascular Surgery. Published by Elsevier Inc.
+https://doi.org/10.1016/j.jvs.2021.05.023
+
+METHODS
+This systematic review follows a protocol established a
+priori by a committee from the Society for Vascular
+Surgery. This report is consistent with the PRISMA
+statement.4
+121S
+
+122S
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Study eligibility data sources and search strategies.
+We included studies with 10 patients or more that
+reported outcomes of patients with PAAs treated with
+open or endovascular approaches. Studies had to be
+comparative with longitudinal follow up and evaluate an
+outcome of interest (mortality, amputation, need of reintervention, thromboembolic events, patency, length of
+hospital stay or surgical complications). Traumatic and iatrogenic aneurysms were excluded. We also included
+studies that reported the rate of complications without
+treatment (ie, natural history studies). Because some
+studies reported results per aneurysms and not per patients and to present evidence on all outcomes, we summarized data from several selected existing systematic
+reviews. Supplementary Table I (online only) includes
+details of the two clinical questions in the patients, intervention, comparison, outcomes (PICO) format.
+A comprehensive search of several databases from database inception to June 15th, 2018 was conducted without
+language restrictions. The databases included MEDLINE
+Epub Ahead of Print, Medline In-Process & Other NonIndexed Citations, MEDLINE, EMBASE, Cochrane Central
+Register of Controlled Trials, Cochrane Database of
+Systematic Reviews, and Scopus. The search strategy was
+designed and conducted by a medical reference librarian
+with input from the investigators. Controlled vocabulary
+supplemented with keywords was used to search for
+studies of open or endovascular repair of PAAs. The actual
+strategy is available in the Appendix (online only).
+Study selection, data extraction, and methodologic
+quality assessment. Studies were selected and data
+were extracted by pairs of independent reviewers. Data
+extracted included patient and setting description, procedure description, risk of bias indicators and outcome
+data. Because the studies were nonrandomized, we
+used the Newcastle Ottawa tool5 to assess the risk of
+bias. This tool evaluates three main domains: cohort
+selection, comparability, and outcome assessment. We
+did not calculate a score; rather, we made a global
+judgment about the risk of bias in each study.6
+Statistical analysis and certainty in evidence. We
+calculated the odds ratio (OR) with 95% conﬁdence interval (CI) for primary and secondary outcomes, as well as
+determined an incidence rate ratio for amputations
+across the studies. Thus, the OR of a bad outcome (amputation) in which the intervention reduces the outcome
+would be less than one and for a beneﬁcial intervention
+(patency) would be greater than one. Because of anticipated heterogeneity, the DerSimonian and Laird random
+effects model7 was used to pool estimates from the
+included studies. The I2 statistic was used to estimate
+heterogeneity. Analysis was done using R Statistical
+Computing software version 4.0.0 (The R Foundation,
+Vienna, Austria). Data were insufﬁcient to conduct
+
+ARTICLE HIGHLIGHTS
+d
+
+d
+
+d
+
+Type of Research: Systematic review and metaanalysis to support Society for Vascular Surgery
+guideline.
+Key Findings: This meta-analysis provides event rates
+for patient important outcomes after treatment of
+popliteal artery aneurysms.
+Take Home Message: The open approach for treating
+popliteal artery aneurysms is associated with higher primary patency and lower short-term occlusion, but
+longer hospital stay and more wound complications.
+There was no signiﬁcant difference in mortality or
+amputation rate between open and endovascular
+approaches.
+
+preplanned subgroup analyses (aneurysm size, extension
+to superﬁcial femoral artery, and concomitant aneurysms).
+We used the GRADE approach to evaluate certainty in the
+evidence (also called quality of evidence).8 In this approach,
+randomized trials start at high level of certainty and observational studies start at low level of certainty. Certainty can
+be graded down owing to study limitations, imprecision,
+indirectness, inconsistency, or publication bias. Certainty
+can also be increased, for example, for a large effect size.9
+
+RESULTS
+Included studies. We identiﬁed 32 original studies in 33
+publications10-42 and 4 systematic reviews1,43-45 from 2191
+candidate references. The Fig depicts the process of
+study selection. Thirty original studies in 31
+publications10-20,22-34,36-42 were included in the quantitative synthesis comparing OAR and EVAR. These
+studies included 5381 patients with mean age range of
+63 to 68 years; 91.6% of patients were male (descriptive
+data are from studies that reported outcomes per
+patient, not per aneurysm). All studies were nonrandomized,11-20,22-34,36-42 except for one randomized
+trial.10 Supplementary Table II (online only) includes the
+characteristics
+of
+original
+included
+studies.
+Supplementary Table III (online only) includes the evaluation of the risk of bias of these studies. We also identiﬁed three systematic reviews that reported the
+outcomes of reintervention rate, wound complications,
+and hospital length of stay.43-45 These analyses were
+deemed adequate and the most recent dataset43 was
+used to extract these outcomes (14 studies, 4880
+aneurysms). In terms of natural history outcomes, we
+identiﬁed an existing systematic review of 13 surgical
+case series (437 aneurysms)1 and 2 additional series with
+additional 399 aneurysms.21,35
+Comparison of open vs endovascular approaches. A
+meta-analysis showed that, compared with EVAR, OAR
+was associated with higher primary patency at 1 year (OR,
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+123S
+
+Volume 75, Number 1S
+
+Fig. The study selection process.
+
+2.10; 95% CI, 1.41-3.12). There was no statistically signiﬁcant
+difference in primary patency at 3 years, secondary patency,
+mortality, or the amputation rate. The open approach was
+associated with lower embolic and thrombotic occlusions
+at 30 days (OR, 0.41; 95% CI, 0.24, 0.68). Forest plots are in
+Supplementary Figs 1 and 2 (online only).
+Data from the systematic reviews identiﬁed in the
+search have shown that OAR was associated with lower
+reintervention rate (OR, 0.28; 95% CI, 0.17-0.45) more
+wound complications (OR, 5.18; 95% CI, 2.19-12.26), and
+longer length of stay, standardized mean difference of
+2.16 (95% CI, 1.23-3.09).43
+Studies of natural history. Studies of natural history
+suggested that complications of popliteal aneurysms
+develop at a mean observation time of 18 months.1 The
+incidence of thromboembolic complications ranged
+from 8% TO 100% across series and that in patients with
+complications, amputation rate was 25%.1 In one series
+with a longer follow-up, only 53% of patients treated
+conservatively were free of complications at 5 years.35 In a
+second case series, 36% of asymptomatic patients had
+complications at 26 months.21
+Certainty in estimates and publication bias. The risk of
+bias was in general high across studies owing to a lack of
+adjustment for prognostic risk factors. The certainty in
+the comparative estimates was low owing to the observational nature of the studies and the small sample sizes.
+Although we were unable to evaluate statistically for
+publication bias, this type of bias is likely present in a
+body of evidence that consists of smaller series that do
+not require registration. It is plausible that published
+results are more favorable than unpublished ones.
+
+DISCUSSION
+Main ﬁndings. We conducted a systematic review and
+meta-analysis to support the Society for Vascular Surgery guideline on the management of PAAs. A metaanalysis showed that, compared with the endovascular
+approach, the open surgical approach was associated
+with higher primary patency at 1 year, lower embolic and
+thrombotic occlusions at 30 days, and lower reintervention rates, but more wound complications and longer
+lengths of stay. There was no statistically signiﬁcant difference in secondary patency, mortality, or amputation
+rate. Our ﬁndings were comparable with previous literature.43 However, in contrast with Leake et al,43 our results
+do not favor OAR over EVAR in terms of primary patency
+at 3 years because no statistically signiﬁcant difference
+between the two modalities was found. Our review of the
+natural history of PAAS is consistent with the existing
+literature in demonstrating sparse data and low
+certainty. Studies of PAAs natural history suggested that
+thromboembolic
+complications
+and
+amputation
+develop at a mean observation time of 18 months and
+they are frequent. At 5 years, approximately one-half of
+the patients had complications.
+Implications. These ﬁndings suggest that open PAA
+repair may be more durable than endovascular repair,
+albeit with a higher risk of complications and resource
+use. These data need to be taken in context, because
+they have not been validated by a well-powered randomized trial comparing these two treatment strategies.
+As such, depending on patient comorbidities and
+anatomic factors such as the presence of an optimal
+conduit, both OAR and EVAR remain important tools in
+
+124S
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+the management of patients with PAAs. A systematic
+review of the natural history data of asymptomatic PAAs
+suggests that PAAs present a signiﬁcant risk of thromboembolic complications that may lead to limb loss.
+Therefore, consideration of an appropriately timed
+intervention to treat such aneurysms is an important
+strategy.
+Strengths and limitations. The current systematic review followed a rigorous approach, including searching
+multiple databases, reviewing the literature by independent pairs of reviewers, and collaboration with content
+experts from the Society for Vascular Surgery.
+A clear limitation in this body of evidence is the small
+sample size of series of a rare condition.
+The lack of anatomic variables to allow patient selection
+for the endovascular approach is another major limitation.
+A planned subgroup analyses were not feasible owing to
+the lack of available information. Particularly, we were unable to stratify the analysis comparing emergent from
+elective cases as this distinction was not explicitly made
+in many of the published series. Similarly, data on other
+patient important outcomes such as acute limb ischemia,
+late conversion from endovascular to open repair, and
+quality of life were insufﬁcient to estimate a treatment
+effect. Randomized trials of treatments of PAAS are challenging. Future research efforts could focus on establishing rigorous multicenter registries that document the
+clinical and anatomic presentations, treatment choices
+and outcomes of PAAs.
+
+AUTHOR CONTRIBUTIONS
+Conception and design: BB, TN, AF, MM
+Analysis and interpretation: BB, TN, MM
+Data collection: BB, TN, AK, AH, MA, SV
+Writing the article: BB, TN, MM
+Critical revision of the article: BB, TN, AK, AH, MA, SV, AF,
+MM
+Final approval of the article: BB, TN, AK, AH, MA, SV, AF,
+MM
+Statistical analysis: BB, TN
+Obtained funding: MM
+Overall responsibility: MM
+
+REFERENCES
+1. Dawson I, Sie RB, van Bockel JH. Atherosclerotic popliteal aneurysm.
+Br J Surg 1997;84:293-9.
+2. Henke PK. Popliteal artery aneurysms: tried, true, and new
+approaches to therapy. Semin Vasc Surg 2005;18:224-30.
+3. Farber A, Angle N, Avgerinos E, Dubois L, Eslami M, Geraghty P, et al.
+The Society for Vascular Surgery clinical practice guidelines on
+popliteal artery aneurysms. J Vasc Surg 2021 May 20. [E-pub ahead of
+print].
+4. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Preferred
+reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. J Clin Epidemiol 2009;62:1006-12.
+5. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al. The
+Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses. Available from: http://www.
+
+6.
+
+7.
+8.
+
+9.
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+ohri.ca/programs/clinical_epidemiology/oxford.asp. Accessed June
+24, 2021.
+Viswanathan M, Patnode CD, Berkman ND, Bass EB, Chang S, Hartling L,
+et al. Recommendations for assessing the risk of bias in systematic reviews of health-care interventions. J Clin Epidemiol 2018;97:26-34.
+DerSimonian R, Laird N. Meta-analysis in clinical trials Control. Clin
+Trials 1986;7:177-88.
+Hultcrantz M, Rind D, Akl EA, Treweek S, Mustafa RA, Iorio A, et al.
+The GRADE Working Group clariﬁes the construct of certainty of
+evidence. J Clin Epidemiol 2017;87:4-13.
+Murad MH. Clinical practice guidelines: a primer on development
+and dissemination. Mayo Clin Proc 2017;92:423-33.
+Antonello M, Frigatti P, Battocchio P, Lepidi S, Cognolato D,
+Dall’Antonia A, et al. Open repair versus endovascular treatment for
+asymptomatic popliteal artery aneurysm: results of a prospective
+randomized study. J Vasc Surg 2005;42:185-93.
+Antonello M; Frigatti PBPLSDAADGPGF. Endovascular treatment of
+asymptomatic popliteal aneurysms: 8-year concurrent comparison
+with open repair. J Cardiovasc Surg 2007;48:267.
+Braga AFF, Catto RC, Ribeiro MS, Piccinato CE, Joviliano EE. Open
+versus endovascular surgery for treatment of popliteal artery
+aneurysms: 5 years’ experience at the HCRP-FMRP-USP. J Vasc Bras
+2015;14:297-304.
+Buethe JY, Soriano S, Jean-Claude J, Pinault G, Kang P. Endovascular
+versus open surgical popliteal artery aneurysm repair: a single-center
+experience. J Vasc Interv Radiol 2016;27:e3.
+Cervin A, Tjarnstrom J, Ravn H, Acosta S, Hultgren R, Welander M,
+et al. Treatment of popliteal aneurysm by open and endovascular
+surgery: a contemporary study of 592 procedures in Sweden. Eur J
+Vasc Endovasc Surg 2015;50:342-50.
+Curi MA, Geraghty PJ, Merino OA, Veeraswamy RK, Rubin BG,
+Sanchez LA, et al. Mid-term outcomes of endovascular popliteal
+artery aneurysm repair. J Vasc Surg 2007;45:505-10.
+Deglise S, Van Ouwenaller F, Briner L, Dubuis C, Saucy F,
+Corpataux JM. Five years single-center experience of consecutive
+open repair and endovascular treatment of popliteal artery aneurysm. Vasa 2015;44(Suppl. 89):19.
+Del Tatto B, Lejay A, Meteyer V, Roussin M, Georg Y, Thaveau F, et al.
+Open and endovascular repair of popliteal artery aneurysms. Ann
+Vasc Surg 2018;50:119-27.
+Dorigo W, Fargion A, Masciello F, Piffaretti G, Pratesi G, Giacomelli E,
+et al. A matched case-control study on open and endovascular
+treatment of popliteal artery aneurysms. Scand J Surg 2018;107:
+236-43.
+Dorigo W, Pulli R, Pratesi C. Results of open or endovascular management of thrombosed popliteal artery aneurysms following
+successful intra-arterial thrombolysis in a multicentric registry. J Vasc
+Surg 2016;63(6 Suppl. 1):17S-8S.
+Eslami MH, Rybin D, Doros G, Farber A. Open repair of asymptomatic
+popliteal artery aneurysm is associated with better outcomes than
+endovascular repair. J Vasc Surg 2015;61:663-9.
+Farina C, Cavallaro A, Schultz RD, Feldhaus RJ, di Marzo L. Popliteal
+aneurysms. Surg Gynecol Obstet 1989;169:7-13.
+Galiñanes EL, Dombrovskiy VY, Graham AM, Vogel TR. Endovascular
+versus open repair of popliteal artery aneurysms: outcomes in the US
+Medicare population. Vasc Endovasc Surg 2013;47:267-73.
+Gladiol Z, Traina L, Acciarri P, Mascoli F. Endovascular versus open
+repair for popliteal artery aneurysm. A single center experience. It J
+Vasc Endovasc Surg 2016;23:10-6.
+Hoehn MR, McEnaney RM, Yuo TH, Chaer RA, Rhee RY, Makaroun MS,
+et al. Comparative analysis of endovascular and open popliteal artery
+aneurysm repair: midterm results. J Vasc Surg 2012;55:619.
+Huang Y, Gloviczki P, Oderich GS, Duncan AA, Kalra M, Fleming MD,
+et al. Outcomes of endovascular and contemporary open surgical
+repairs of popliteal artery aneurysm. J Vasc Surg 2014;60:631-8.e2.
+Kim BJ, Garg K, Rockman C, Jaco- bowitz GR, Maldonado T,
+Lamparello P, et al. Comparison of endovascular and open popliteal
+artery aneurysm repair. J Vasc Surg 2010;51(6 Suppl. 1):60S-1S.
+Leake AE, Avgerinos ED, Chaer RA, Singh MJ, Makaroun MS,
+Marone LK. Contemporary outcomes of open and endovascular
+popliteal artery aneurysm repair. J Vasc Surg 2016;63:70-6.
+Monaca V, Turiano SA, Tringale R, Vinciguerra D, Catalfamo S,
+Guzzo G, et al. Outcome assessment of open repair versus
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S
+
+Volume 75, Number 1S
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+endovascular treatment for popliteal artery aneurysm. Italian Journal
+of Vascular and Endovascular Surgery 2015;22:203-8.
+Pulli R, Dorigo W, Castelli P, Dorrucci V, Ferilli F, De Blasis G, et al.
+A multicentric experience with open surgical repair and endovascular exclusion of popliteal artery aneurysms. Eur J Vasc Endovasc
+Surg 2013;45:357-63.
+Pulli R, Drigo W, Fargion A, Pratesi G, Innocenti AA, Angiletta D, et al.
+Comparison of early and midterm results of open and endovascular
+treatment of popliteal artery aneurysms. Ann Vasc Surg 2012;26:
+809-18.
+Ravn H, Wanhainen A, Björck M. Surgical technique and long-term
+results after popliteal artery aneurysm repair: results from 717 legs.
+J Vasc Surg 2007;46:236-43.
+Ronchey S, Pecoraro F, Alberti V, Serrao E, Orrico M, Lachat M, et al.
+Popliteal artery aneurysm repair in the endovascular era: fourteenyears single center experience. Medicine 2015;94:e1130.
+Rosenthal D, Matsuura JH, Clark MD, Kirby LB, Knoepp LF. Popliteal
+artery aneurysms: is endovascular reconstruction durable?
+J Endovasc Ther 2000;7:394-8.
+Scarcello E, Morrone F, Conti A, Mazzei M, Piro P, Tarsitano S, et al.
+Surgical and endovascular treatment of popliteal artery aneurysms:
+single centre experience. Italian Journal of Vascular and Endovascular Surgery 2010;17:79-82.
+Schroder A, Gohlke J, Gross-Fengels W, Horstmann R. [Popliteal
+aneurysms–surgical management versus conservative procedure].
+Langenbecks Arch Chir Suppl Kongressbd 1996;113:857-63.
+Serrano Hernando FJ, Martínez López I, Hernández Mateo MM,
+Hernando Rydings M, Sánchez Hervás L, Rial Horcajo R, et al. Comparison of popliteal artery aneurysm therapies. J Vasc Surg 2015;61:
+655-61.
+Spina I, Paperetti L, Fargion A, Pulli R, Dorigo W, Pratesi C. Early and
+one-year comparison between open and endovascular treatment of
+popliteal artery aneurysms. Eur Surg Res 2010;45:260-1.
+
+38. Stone PA, Armstrong PA, Bandyk DF, Keeling WB, Flaherty SK,
+Shames ML, et al. The value of duplex surveillance after open
+and endovascular popliteal aneurysm repair. J Vasc Surg 2005;41:
+936-41.
+39. Stone PA, Jagannath P, Thompson SN, Campbell JE, Mousa AY,
+Knackstedt K, et al. Evolving treatment of popliteal artery aneurysms.
+J Vasc Surg 2013;57:1306-10.
+40. Taurino M, Filippi F, Ficarelli R, Fantozzi C, Dito R, Brancadoro D, et al.
+Different approaches in popliteal artery aneurysm management. Eur
+Surg 2013;45:221-6.
+41. Wooster M, Back M, Gaeto H, Shames M. Late longitudinal comparison of endovascular and open popliteal aneurysm repairs. Ann Vasc
+Surg 2016;30:253-7.
+42. Wrede A, Wiberg F, Acosta S. Increasing the elective endovascular to
+open repair ratio of popliteal artery aneurysm. Vasc Endovasc Surg
+2018;52:115-23.
+43. Leake AE, Segal MA, Chaer RA, Eslami MH, Al-Khoury G,
+Makaroun MS, et al. Meta-analysis of open and endovascular repair of
+popliteal artery aneurysms. J Vasc Surg 2017;65:246-56.e2.
+44. Shahin Y, Barakat H, Shrivastava V. Endovascular versus open repair
+of asymptomatic popliteal artery aneurysms: a systematic review
+and meta-Analysis. J Vasc Interv Radiol 2016;27:715-22.
+45. von Stumm M, Teufelsbauer H, Reichenspurner H, Debus ES. Two
+decades of endovascular repair of popliteal artery aneurysm–a metaanalysis. Eur J Vasc Endovasc Surg 2015;50:351-9.
+
+Submitted Feb 9, 2021; accepted May 17, 2021.
+
+Additional material for this article may be found online
+at www.jvascsurg.org.
+
+125S.e1
+
+Beuschel et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+APPENDIX (online only).
+
+Data sources and search strategies
+A comprehensive search of several databases from 1946 to
+June 15, 2018, in all languages was conducted. The databases
+of Ovid Embase, Ovid MEDLINE 1946 to Present and Epub
+Ahead of Print, In-Process & Other Non-Indexed Citations
+and Ovid MEDLINE Daily, Ovid Cochrane Central Register
+of Controlled Trials, Ovid Cochrane Database of Systematic
+Reviews, and Scopus. A complete list of search terms and
+how they are combined is available in the Appendix.
+Question 1: Endovascular approach/Open approach
+Scopus
+( ( ( TITLE-ABS-KEY ( "popliteal arter*" ) ) AND ( TITLEABS-KEY ( aneurysm* ) ) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" ) ) ) AND ( ( TITLE-ABS-KEY
+( endovascular OR intravascular OR angioplasty OR
+angioscopy ) ) OR ( TITLE-ABS-KEY ( catheteriz* W/3
+( central OR peripheral ) ) ) OR ( TITLE-ABS-KEY
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Natural history search
+SCOPUS
+( ( TITLE-ABS-KEY ( ( "brain w/3 bleed*" ) OR ( acute W/3
+limb* W/3 ischemi* ) OR ( compress* W/3 ruptur* ) OR
+( chronic W/3 ischemi* ) ) ) OR ( TITLE-ABS-KEY ( mortality
+OR morbidity OR amputat* OR thromb* OR ali OR
+"chronic ischemia" OR stroke OR "cerebrovascular accident" OR "brain vascular accident*" OR cvas OR cva OR
+"cerebral stroke*" OR "cerebrovascular stroke" ) ) OR
+( TITLE-ABS-KEY ( "cerebrovascular apoplexy" OR "heart
+attack*" OR "cardiovascular stroke*" OR "intracranial hemorrhage*" OR "intracranial haemorrhag*" OR ich OR "heart
+failure" OR "myocardial infarct*" ) ) ) AND ( ( TITLE-ABSKEY ( "popliteal arter*" AND aneurysm* ) ) OR ( TITLEABS-KEY ( "popliteal artery aneurysm*" ) ) )
+AND NOT
+( ( TITLE-ABS-KEY ( "popliteal arter*" AND aneurysm*
+) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" )
+) ) AND ( TITLE-ABS-KEY ( ( endovascular OR
+intravascular OR angioplasty OR angioscopy )
+OR ( catheteriz* W/3 ( central OR peripheral ) ) OR
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e2
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Patients, intervention, comparison, outcomes (PICOs)
+PICO 1. Which is more effective, open or endovascular repair of PAAs?
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+a
+
+Open approach
+
+Endovascular approach
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+PAAs
+
+PICO2. What is the natural history of untreated PAAs?
+a
+
+PAAs
+
+None
+
+PAA, Popliteal artery aneurysm.
+a
+Traumatic and iatrogenic aneurysms were excluded.
+
+None
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+125S.e3
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Supplementary Table II (online only). Study characteristics
+Open
+patients
+
+Endovascular
+patients
+
+Open
+aneurysms
+
+Endovascular
+aneurysms
+
+Mean
+follow-up,
+months
+
+Author, year
+
+Study design
+
+Demographics
+
+Del Tatto et al,17
+2018
+
+Retrospective
+observational
+
+126 patients
+Open: 69.4 years,
+48-89.
+4.6% female
+Endovascular:
+70.4 years, 53-86
+7.7% female
+
+87
+
+39
+
+103
+
+50
+
+46.9
+
+Dorigo et al,18
+2018
+
+Retrospective
+observational
+
+112 patients
+Open: 68.6 6
+9.7 years
+5.5% female
+Endovascular:
+74.5 6 7.8.0.0%
+female
+
+n/a
+
+n/a
+
+250
+
+59
+
+38.0
+
+Wrede et al,42
+2018
+
+Retrospective
+observational
+
+Open: 66 years, 4881
+0.0% female
+Endovascular:
+69 years, 56-87
+7.4% female
+
+n/a
+
+n/a
+
+39
+
+27
+
+31.5
+
+Leake et al,27
+2016
+
+Retrospective
+observational
+
+Open: 70.5 years
+4.2% female
+Endovascular:
+72.7 years
+3.3% female
+
+n/a
+
+n/a
+
+110
+
+76
+
+32.0
+
+Wooster et al,41
+2016
+
+Retrospective
+observational
+
+66 patients
+Open: 69.9 years,
+51-74
+2.0% female
+Endovascular:
+82 years, 66-98
+0.0% female
+
+46
+
+20
+
+52
+
+25
+
+38.3
+
+Ronchey et al,32
+2015
+
+Retrospective
+observational
+
+67 patients,
+49-97 years, 17.9%
+female
+Open: 67 years,
+Endovascular:
+71 years
+
+42
+
+25
+
+n/a
+
+n/a
+
+35.0
+
+Cervin et al,14
+2015
+
+Retrospective
+observational
+
+499 patients
+Open: 68 years,
+42-102
+3.8% female
+Endovascular:
+74 years, 46-89
+6.3% female
+
+n/a
+
+n/a
+
+473
+
+95
+
+12.0
+
+Eslami et al,20
+2015
+
+Retrospective
+observational
+
+390 patients
+Open: 68.4 6
+10.6 years
+4.5% female
+Endovascular:
+73.5 6 9.8 years
+1.8% female
+
+221
+
+169
+
+221
+
+169
+
+12.0
+
+Huang et al,25
+2014
+
+Retrospective
+observational
+
+120 patients
+Open: 71 years,
+45-92.1.1%
+female
+Endovascular:
+81 years, 64-91
+
+91
+
+35
+
+107
+
+42
+
+41.8
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e4
+
+Volume 75, Number 1S
+
+Supplementary Table II (online only). Continued.
+Open
+patients
+
+Endovascular
+patients
+
+Open
+aneurysms
+
+Endovascular
+aneurysms
+
+Mean
+follow-up,
+months
+
+Author, year
+
+Study design
+
+Demographics
+
+Pulli et al,29 2013
+
+Retrospective
+observational
+
+312 patients
+Open:
+70 years 68.9
+92.5% female
+Endovascular:
+74.9 years 67.9
+90.5% female
+
+178
+
+134
+
+n/a
+
+n/a
+
+30.4
+
+Stone et al,39 2013
+
+Retrospective
+observational
+
+72 patients
+Open: 66.0 years,
+32-85
+0.0% female
+Endovascular:
+76 years, 50-92
+5.0% female
+
+52
+
+20
+
+64
+
+24
+
+40.5
+
+Pulli et al,30 2012
+
+Prospective
+observational
+
+Open: 73.4 years.
+4.5% female
+Endovascular:
+74 years
+0.0% female
+
+n/a
+
+n/a
+
+43
+
+21
+
+22.5
+
+Curi et al,15 2007
+
+Retrospective
+observational
+
+43 patients
+Open:
+68 years 62.4
+7.0% female
+Endovascular:
+75 years 61.6
+7.0% female
+
+30
+
+13
+
+41
+
+15
+
+16.1
+
+Stone et al,38
+2005
+
+Retrospective
+observational
+
+46 patients,
+72 years, 42-92
+0.0% female
+
+n/a
+
+n/a
+
+55 total
+
+55 total
+
+20.0
+
+Rosenthal et al,30
+2000
+
+Retrospective
+observational
+
+22 patients,
+61 years, 44-81
+0.0% female
+
+12
+
+10
+
+n/a
+
+n/a
+
+13.6
+
+Monaca et al,28
+2015
+
+Retrospective
+observational
+
+56 patients
+Open: 66.7 years,
+39-87
+0.0% female
+Endovascular:
+65.3 years, 47-86
+0.0% female
+
+30
+
+26
+
+n/a
+
+n/a
+
+44.3
+
+Buethe et al,13
+2016
+
+Retrospective
+observational
+
+18 patients
+
+n/a
+
+n/a
+
+13
+
+9
+
+31.0
+
+Gladiol et al,23
+2016
+
+Retrospective
+observational
+
+41 patients
+Open: 67 years,
+54-85
+11.0% female
+Endovascular:
+77 years, 64-91
+20.0% female
+
+n/a
+
+n/a
+
+30
+
+16
+
+18.5
+
+Dorigo et al,19
+2016
+
+Retrospective
+observational
+
+31 patients
+
+18
+
+13
+
+n/a
+
+n/a
+
+42.0
+
+Braga et al,12 2015
+
+Retrospective
+observational
+
+27 patients
+Open: 71.0 years
+0.0% female
+Endovascular:
+67.6 years
+0.0% female
+
+18
+
+9
+
+21
+
+10
+
+12.0
+
+(Continued on next page)
+
+125S.e5
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Supplementary Table II (online only). Continued.
+Endovascular
+patients
+
+Open
+aneurysms
+
+Endovascular
+aneurysms
+
+Mean
+follow-up,
+months
+
+Author, year
+
+Study design
+
+Demographics
+
+Open
+patients
+
+Deglise et al,16
+2015
+
+Retrospective
+observational
+
+–
+
+n/a
+
+n/a
+
+83
+
+23
+
+24.0
+
+Taurino et al,40
+2013
+
+Prospective
+observational
+
+36 patients,
+59-80 years
+5.5% female
+
+n/a
+
+n/a
+
+33
+
+6
+
+27.0
+
+Hoehn et al,24
+2012
+
+Retrospective
+observational
+
+70.6 years
+4.0% female
+
+n/a
+
+n/a
+
+111
+
+50
+
+29.7
+
+Scarcello et al,34
+2010
+
+Retrospective
+observational
+
+73 years, 46-95
+4.8% female
+
+n/a
+
+n/a
+
+11
+
+9
+
+27.1
+
+Spina et al,37
+2010
+
+Retrospective
+observational
+
+50 patients
+
+n/a
+
+n/a
+
+39
+
+17
+
+12.0
+
+Kim et al,26 2010
+
+Retrospective
+observational
+
+45 patients
+Open: 71 6 11 years
+Endovascular:
+74 6 9 years
+
+n/a
+
+n/a
+
+29
+
+24
+
+28.0
+
+Serrano
+Hernando
+et al,36 2015
+
+Retrospective
+observational
+
+171 patients
+Open: 68.7 years,
+40-87
+0.0% female
+Endovascular:
+74.3 years, 56-88
+0.0% female
+
+139
+
+32
+
+171 total
+
+171 total
+
+49.0
+
+Galiñanes et al,22
+2013
+
+Retrospective
+observational
+
+2962 patients
+Open: 76.3 6
+6.2 years
+5.0% female
+Endovascular:
+77.9 6 7.0
+9.1% female
+
+2413
+
+549
+
+n/a
+
+n/a
+
+3.0
+
+Ravn et al,31 2007
+
+Retrospective
+observational
+
+5.3% female
+
+n/a
+
+n/a
+
+681
+
+26
+
+12.0
+
+Antonello et al,11
+2007a
+
+Prospective
+observational
+
+42 patients
+Open: 62.8 years,
+51-83
+8.7% female
+Endovascular:
+65.7 years, 51-85
+19% female
+
+n/a
+
+n/a
+
+27
+
+21
+
+97.0
+
+n/a, Not applicable.
+a
+Antonello, 2007 is a prospective nonrandomized long follow-up of Antonello et al,10 2005.
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e6
+
+Volume 75, Number 1S
+
+Supplementary Table III (online only). Study risk of bias evaluation
+Author, year
+Del Tatto et al,17 2018
+18
+
+Cohort selection
+
+Comparability
+
+Outcome assessment
+
+Overall risk of bias
+
+High risk
+
+High risk
+
+Low risk
+
+High
+High
+
+2018
+
+High risk
+
+High risk
+
+Low risk
+
+Wrede et al,42 2018
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Leake et al,27 2016
+
+Low risk
+
+High risk
+
+Low risk
+
+High
+
+Dorigo et al,
+
+Wooster et al,41 2016
+
+High risk
+
+Unclear
+
+Unclear
+
+High
+
+Ronchey et al,32 2015
+
+High risk
+
+High risk
+
+Low risk
+
+High
+High
+
+14
+
+2015
+
+Low risk
+
+High risk
+
+Low risk
+
+Eslami et al,20 2015
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Huang et al,25 2014
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Pulli et al,29 2013
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Cervin et al,
+
+39
+
+2013
+
+Low risk
+
+High risk
+
+Low risk
+
+High
+
+Pulli et al,30 2012
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Curi et al,15 2007
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Stone et al,38 2005
+
+Unclear
+
+Unclear
+
+Unclear
+
+High
+
+Rosenthal et al,30 2000
+
+High risk
+
+High risk
+
+Low risk
+
+High
+
+Monaca et al,28 2015
+
+High risk
+
+High risk
+
+Low risk
+
+High
+
+Buethe et al,13 2016
+
+Low risk
+
+Unclear
+
+Unclear
+
+High
+
+Gladiol et al,23 2016
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+High
+
+Stone et al,
+
+19
+
+2016
+
+Unclear
+
+High risk
+
+Low risk
+
+Braga et al,12 2015
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Deglise et al,16 2015
+
+Low risk
+
+Unclear
+
+Low risk
+
+Moderate
+
+Taurino et al,40 2013
+
+Low risk
+
+Unclear
+
+Low risk
+
+Moderate
+High
+
+Dorigo et al,
+
+24
+
+High risk
+
+Unclear
+
+Low risk
+
+Scarcello et al,34 2010
+
+Low risk
+
+High risk
+
+Low risk
+
+High
+
+Spina et al,37 2010
+
+Unclear
+
+High risk
+
+Low risk
+
+High
+
+Kim et al,26 2010
+
+High risk
+
+High risk
+
+Low risk
+
+High
+
+Serrano Hernando et al,36 2015
+
+High risk
+
+High risk
+
+Low risk
+
+High
+
+22
+
+Hoehn et al,
+
+2012
+
+High risk
+
+High risk
+
+Low risk
+
+High
+
+Ravn et al,31 2007
+
+Low risk
+
+Unclear
+
+Low risk
+
+Moderate
+
+Antonello et al,11 2007a
+
+Low risk
+
+Low risk
+
+Low risk
+
+Low
+
+Galiñanes et al,
+
+a
+
+2013
+
+Antonello, 2007 is a prospective nonrandomized long follow-up of Antonello et al,
+
+10
+
+2005.
+
+125S.e7
+
+Beuschel et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+Supplementary Fig 1 (online only). Forest plots for the comparison of open aneurysm repair (OAR) versus
+endovascular aneurysm repair (EVAR) in terms of (a) primary patency at 1 year, (b) primary patency at 3 years,
+(c) secondary patency at 1 year, (d) mortality at the longest follow-up, and (e) 30-day mortality.
+
+Supplementary Fig 2 (online only). Forest plots for the comparison of open aneurysm repair (OAR) versus
+endovascular aneurysm repair (EVAR) in terms of (a) occlusion at the longest follow-up, (b) occlusion at 30 days,
+and (c) amputations.
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e8
+
+Volume 75, Number 1S
+
+Question 1: Endovascular approach/Open approach
+Ovid MEDLINE(R) 1946 to Present and Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Ovid
+MEDLINE(R) Daily
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼title, abstract, original title, name
+of substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+10,442
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+146,943
+
+Advanced
+
+3
+
+1 and 2
+
+1961
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, original title, name of substance
+word, subject heading word, ﬂoating sub-heading word, keyword heading word,
+protocol supplementary concept word, rare disease supplementary concept word,
+unique identiﬁer, synonyms]
+
+412
+
+Advanced
+
+5
+
+3 or 4
+
+1961
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+45,273
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+106,278
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular
+procedure*" or "intravascular technique*" or angioplasty or angioscopy).mp.
+[mp¼title, abstract, original title, name of substance word, subject heading word,
+ﬂoating sub-heading word, keyword heading word, protocol supplementary
+concept word, rare disease supplementary concept word, unique identiﬁer,
+synonyms]
+
+90,625
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, original title, name
+of substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+21,739
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, original title, name of substance word, subject heading word, ﬂoating
+sub-heading word, keyword heading word, protocol supplementary concept
+word, rare disease supplementary concept word, unique identiﬁer, synonyms]
+
+32,946
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+157,603
+
+Advanced
+
+12
+
+5 and 11
+
+339
+
+Advanced
+
+13
+
+5 and open.ti.
+
+37
+
+Advanced
+
+14
+
+13 not 12
+
+6
+
+Advanced
+
+125S.e9
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Question 1: Endovascular approach/Open approach
+Embase <1988 to 2018 Week 24>
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/ or "popliteal arter*".mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+7850
+
+Advanced
+
+2
+
+exp ANEURYSM/ or aneurysm*.mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+155,744
+
+Advanced
+
+3
+
+1 and 2
+
+1805
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+701
+
+Advanced
+
+5
+
+3 or 4
+
+1805
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+69,835
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+30,561
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼title, abstract,
+heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+95,488
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+9324
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,177
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,435
+
+Advanced
+
+12
+
+5 and 11
+
+619
+
+Advanced
+
+13
+
+5 and open.ti.
+
+58
+
+Advanced
+
+14
+
+13 not 12
+
+7
+
+Advanced
+
+Question 1: Endovascular approach/Open approach
+Ovid Cochrane Central Register of Controlled Trials, Ovid Cochrane Database of Systematic Reviews
+#
+
+Results
+
+Type
+
+exp Popliteal Artery/ or "popliteal arter*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+490
+
+Advanced
+
+2
+
+exp ANEURYSM/ or aneurysm*.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+3790
+
+Advanced
+
+3
+
+1 and 2
+
+29
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+8
+
+Advanced
+
+5
+
+3 or 4
+
+29
+
+Advanced
+
+1
+
+Searches
+
+6
+
+endovascular.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2576
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+7387
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular
+procedure*" or "intravascular technique*" or angioplasty or angioscopy).mp.
+[mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+7627
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+1610
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼ti,
+ot, ab, sh, hw, kw, tx, ct]
+
+7223
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+16,218
+
+Advanced
+Advanced
+
+12
+
+5 and 11
+
+23
+
+13
+
+5 and open.ti.
+
+4
+
+Advanced
+
+14
+
+13 not 12
+
+0
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e10
+
+Volume 75, Number 1S
+
+Natural history search
+Ovid MEDLINE(R) 1946 to Present and Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Ovid
+MEDLINE(R) Daily
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+10,445
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼title, abstract, original title, name of substance
+word, subject heading word, ﬂoating sub-heading word, keyword heading word,
+protocol supplementary concept word, rare disease supplementary concept word,
+unique identiﬁer, synonyms]
+
+146,991
+
+Advanced
+
+3
+
+1 and 2
+
+1961
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, original title, name of substance
+word, subject heading word, ﬂoating sub-heading word, keyword heading word,
+protocol supplementary concept word, rare disease supplementary concept word,
+unique identiﬁer, synonyms]
+
+412
+
+Advanced
+
+5
+
+3 or 4
+
+1961
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+45,310
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+106,310
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼title, abstract,
+original title, name of substance word, subject heading word, ﬂoating sub-heading
+word, keyword heading word, protocol supplementary concept word, rare disease
+supplementary concept word, unique identiﬁer, synonyms]
+
+90650
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+21,743
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, original title, name of substance word, subject heading word, ﬂoating subheading word, keyword heading word, protocol supplementary concept word, rare
+disease supplementary concept word, unique identiﬁer, synonyms]
+
+32,969
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+157,678
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral
+stroke*" or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼title, abstract, original title,
+name of substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+14
+15
+16
+
+339
+
+Advanced
+
+2,037,869
+
+Advanced
+
+mortality.fx.
+
+517,821
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+446,608
+
+Advanced
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+6957
+
+Advanced
+
+(Continued on next page)
+
+125S.e11
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Continued.
+#
+
+Searches
+
+Results
+
+Type
+
+17
+
+"natural history".mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+44,966
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+156,132
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+341,189
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+2,427,068
+
+Advanced
+
+21
+
+5 and 20
+
+879
+
+Advanced
+
+22
+
+21 not 12
+
+671
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼title, abstract, original title, name of substance word,
+subject heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+406,208
+
+Advanced
+
+24
+
+22 not 23
+
+615
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts)
+
+1
+
+Advanced
+
+26
+
+24 not 25
+
+614
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e12
+
+Volume 75, Number 1S
+
+Natural history search
+Embase <1988 to 2018 Week 25>
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+7855
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+156,043
+
+Advanced
+
+3
+
+1 and 2
+
+1806
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+701
+
+Advanced
+
+5
+
+3 or 4
+
+1806
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+70,185
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+30,631
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼title, abstract,
+heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+95,568
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+9333
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,307
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,957
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral
+stroke*" or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼title, abstract, heading word,
+drug trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+620
+
+Advanced
+
+2,711,327
+
+Advanced
+
+14
+
+mortality.fx.
+
+0
+
+Advanced
+
+15
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+864,221
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+6613
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+54,565
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+2,783,610
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+288997
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+5,127,007
+
+Advanced
+
+21
+
+5 and 20
+
+1072
+
+Advanced
+
+22
+
+21 not 12
+
+622
+
+Advanced
+
+(Continued on next page)
+
+125S.e13
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Continued.
+#
+
+Searches
+
+Results
+
+Type
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+433,620
+
+Advanced
+
+24
+
+22 not 23
+
+542
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts) [Limit not valid in Embase; records were retained]
+
+542
+
+Advanced
+
+26
+
+24 not 25
+
+0
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e14
+
+Volume 75, Number 1S
+
+Natural history search
+Ovid Cochrane Central Register of Controlled Trials, Ovid Cochrane Database of Systematic Reviews
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+490
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+3790
+
+Advanced
+
+3
+
+1 and 2
+
+29
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+8
+
+Advanced
+
+5
+
+3 or 4
+
+29
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2576
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+7387
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼ti, ot, ab, sh, hw, kw, tx,
+ct]
+
+7627
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+1610
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼ti, ot, ab,
+sh, hw, kw, tx, ct]
+
+7223
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+16,218
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral stroke*"
+or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+14
+
+mortality.fx.
+
+15
+
+23
+
+Advanced
+
+156,944
+
+Advanced
+
+0
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+25,091
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp. or
+(chronic disease/and ischemi*.mp.) [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+410
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2076
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+6381
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+27,274
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+181,376
+
+Advanced
+
+21
+
+5 and 20
+
+20
+
+Advanced
+
+22
+
+21 not 12
+
+2
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+19,379
+
+Advanced
+
+24
+
+22 not 23
+
+2
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or webcasts)
+[Limit not valid in CCTR,CDSR; records were retained]
+
+0
+
+Advanced
+
+26
+
+24 not 25
+
+2
+
+Advanced
+
+

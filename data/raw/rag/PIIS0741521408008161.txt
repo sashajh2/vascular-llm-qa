@@ -1,0 +1,729 @@
+SPECIAL COMMUNICATION
+
+Management of atherosclerotic carotid artery
+disease: Clinical practice guidelines of the Society
+for Vascular Surgery
+Robert W. Hobson, II, MD,a,* William C. Mackey, MD,b Enrico Ascher, MD,c M. Hassan Murad, MD,g
+Keith D. Calligaro, MD,e Anthony J. Comerota, MD,f Victor M. Montori, MD,g Mark K. Eskandari, MD,h
+Douglas W. Massop, MD,i Ruth L. Bush, MD,j Brajesh K. Lal, MD,k and Bruce A. Perler, MD,l Newark, NJ;
+Boston, Mass; Brooklyn, NY; Rochester, Minn; Philadelphia, Pa; Toledo, Ohio; Chicago, Ill; Des Moines, Iowa; College
+Station, Tex; and Baltimore, Md
+The Society for Vascular Surgery (SVS) appointed a committee of experts to formulate evidence-based clinical guidelines
+for the management of carotid stenosis. In formulating clinical practice recommendations, the committee used systematic
+reviews to summarize the best available evidence and the GRADE scheme to grade the strength of recommendations
+(GRADE 1 for strong recommendations; GRADE 2 for weak recommendations) and rate the quality of evidence (high,
+moderate, low, and very low quality). In symptomatic and asymptomatic patients with low-grade carotid stenosis (<50%
+in symptomatic and <60% in asymptomatic patients), we recommend optimal medical therapy rather than revascularization (GRADE 1 recommendation, high quality evidence). In symptomatic patients with moderate to severe carotid
+stenosis (more than 50%), we recommend carotid endarterectomy plus optimal medical therapy (GRADE 1 recommendation,
+high quality evidence). In symptomatic patients with moderate to severe carotid stenosis (>50%) and high perioperative risk,
+we suggest carotid artery stenting as a potential alternative to carotid endarterectomy (GRADE 2 recommendation, low
+quality evidence). In asymptomatic patients with moderate to severe carotid stenosis (>60%), we recommend carotid
+endarterectomy plus medical management as long as the perioperative risk is low (GRADE 1 recommendation, high
+quality evidence). We recommend against carotid artery stenting for asymptomatic patients with moderate to severe
+(>60%) carotid artery stenosis (GRADE 1 recommendation, low quality evidence). A possible exception includes patients
+with >80% carotid artery stenosis and high anatomic risk for carotid endarterectomy. ( J Vasc Surg 2008;48:480-6.)
+
+The Society for Vascular Surgery (SVS) undertook the
+task of developing clinical practice guidelines to aid over
+2500 of its member surgeons and their patients in the
+process of decision-making. Realizing that some areas in
+vascular surgery are controversial either because of lack of
+evidence or because of the presence of inconsistent and
+imprecise evidence, the SVS designated selected topics as
+high priority areas in need of clinical practice guidelines.
+The SVS appointed committees with expertise in the questions at hand and drew on systematic reviews of the availFrom the University of Medicine and Dentistry of New Jersey, Newark,a
+New England Medical Center, Boston,b Maimonides Medical Center,
+Brooklyn,c Mayo Clinic, Rochester,d University of Pennsylvania School of
+Medicine, Philadelphia,e Jobst Vascular Center, Toledo,f Mayo Clinic
+College of Medicine, Rochester,g Northwestern University Feinberg
+School of Medicine, Chicago,h The Iowa Clinic, Des Moines,i Texas A &
+M University Health Science Center, College Station,j University of
+Medicine and Dentistry of New Jersey, Newark,k and Johns Hopkins
+Hospital, Baltimore.l
+*Deceased.
+Competition of interest: none.
+Reprint requests: Enrico Ascher, MD, Maimonides Medical Center, 4802 10th
+Avenue, Brooklyn, NY 11219 (e-mail: eascher@maimonidesmed.org).
+0741-5214/$34.00
+Copyright © 2008 by The Society for Vascular Surgery.
+doi:10.1016/j.jvs.2008.05.036
+
+480
+
+able evidence to inform its key recommendations. Results
+from systematic reviews and their quantitative pooling of
+evidence, eg, meta-analysis, offer higher precision and apply to a wider range of patients than individual trials.1 These
+committees commissioned the Knowledge and Encounter
+Unit, Mayo Clinic, Rochester, Minnesota, to search for
+relevant existing reviews and to conduct new systematic
+reviews to answer specific questions.
+One of the topics chosen by the SVS is the management
+of carotid artery stenosis. Carotid endarterectomy has long
+been considered the best surgical treatment for carotid
+disease with a proven track record in reducing mortality and
+morbidity.2,3 However, carotid stenting has emerged as an
+alternative, effective and less invasive approach that may be
+more attractive to patients at higher perioperative risk and
+patients who prefer to avoid open procedures and their
+associated morbidities. Several randomized controlled trials
+(RCTs) were conducted to compare the two procedures
+with some showing stenting to be noninferior to endarterectomy4,5 and some showing inferiority.6 When a metaanalysis pooled these studies, the pooled risk estimates were
+imprecise with very wide confidence intervals7 making inference from these trials challenging. Knowing that new
+RCTs were recently published, the carotid committee of
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 2
+
+the SVS requested an update of previous reviews to determine the current status of the research evidence about the
+treatment of carotid artery stenosis in the two clinical
+scenarios of symptomatic and asymptomatic patients.
+In issuing clinical practice guidelines, the SVS has
+adopted the GRADE system because it separates the quality
+of evidence from the strength of recommendations.8 This
+separation allows guideline users (clinicians, patients, and
+policymakers) to recognize factors other than evidence,
+such as patient values and preferences that guideline committees considered when making these recommendations.
+Hence, despite lower quality evidence, the committee may
+issue a strong recommendation if the values and preferences
+that guideline developers bring to bear are such that when
+considering even low quality evidence, they are confident
+that the benefits of an intervention outweigh its undesirable
+outcomes (or vice versa).9
+The GRADE system depicts recommendations as either strong (GRADE 1) denoted by the phrase “we recommend” or weak (GRADE 2) denoted by the phrase “we
+suggest”. Aside from the strength of recommendations, the
+quality of evidence is rated as high quality (typically derived
+from well conducted large and consistent randomized trials), moderate quality (typically derived from less rigorous
+or inconsistent randomized trials or some observational
+studies), and low or very low quality (derived from observational studies, case series, and unsystematic clinical observations).
+In this article, the carotid committee of the SVS presents five key recommendations encompassing several permutations and clinical scenarios to clarify the roles of carotid endarterectomy, carotid stenting, and best medical
+care, in the management of symptomatic and asymptomatic
+patients with low, moderate, and severe degrees of stenosis.
+Recommendations are followed by the corresponding evidence: values and preferences, which are factors other than
+evidence that the committee considered when issuing recommendations; and if needed, technical remarks, describing the committee’s consensus regarding best practices in
+medical management, carotid endarterectomy, and carotids stenting.
+RECOMMENDATION
+In symptomatic and asymptomatic patients with low
+grade carotid stenosis (stenosis ⬍50% in symptomatic patients and ⬍60% in asymptomatic patients); we recommend
+optimal medical therapy rather than revascularization
+(GRADE 1 recommendation, high quality evidence).
+Evidence
+A systematic review and meta-analysis of randomized
+trials that compared carotid endarterectomy with medical
+management in patients with ipsilateral symptomatic carotid stenosis3 pooled results from two large multicenter
+RCTs that included a total of 5950 patients, the North
+American Symptomatic Carotid Endarterectomy Trial
+(NASCET),10,11 and the European Carotid Surgery Trial
+(ECST).12 Patients with low grade stenosis (NASCET
+
+Hobson et al 481
+
+⬍50%, ECST ⬍70%) were in fact, harmed by surgery to the
+extent that endarterectomy increased the risk of disabling
+stroke or death by 20% (95% confidence interval [CI]
+0%-44%) and the number of patients needed to be operated
+on to cause one disabling stroke or death was 45 (95% CI
+22 - infinity). Despite the inadequate blinding of outcome
+assessors in NASCET and ECST (unblinded assessors presented data to a blinded outcome review board); both trials
+were well executed, used the intention-to-treat analysis,
+and had adequate allocation concealment.
+Values statement
+In formulating this recommendation, the committee
+placed a relatively higher value on preventing harms associated with carotid endarterectomy, particularly stroke,
+death and myocardial infarction, and a relatively lower
+value on the cost and side effects of medical management
+(eg, gastrointestinal bleeding with aspirin, myopathy with
+statins, and so on).
+Medical therapy
+The best medical management for stroke prevention
+was highlighted in clinical practice guidelines issued jointly
+in 2006 by the American Heart Association and the American Stroke Association, and cosponsored by the Council
+on Cardiovascular Radiology and Intervention and the
+American Academy of Neurology.13 Lowering blood pressure to a target below 120/80 mm Hg by life style interventions and antihypertensive treatment is recommended in persons who have had an ischemic stroke or transient ischemic
+attack (TIA) and are beyond the hyperacute period. Angiotensin-converting enzymes and angiotensin receptor blockers
+are recommended as first-choice medications for patients with
+diabetes. Glucose control to near-normoglycemic levels (target hemoglobin A1C ⱕ7%) is recommended among diabetics to reduce microvascular complications and, with
+lesser certainty, macrovascular complications. Patients with
+elevated cholesterol, comorbid coronary artery disease, or
+evidence of an atherosclerotic origin should be managed
+according to NCEP III guidelines, which include lifestyle
+modification and/or medications. Statin agents are recommended targeting low density lipoprotein cholesterol
+(LDL-C) of ⬍100 mg/dL for those with coronary heart
+disease (CHD) or symptomatic atherosclerotic disease and
+LDL-C of ⬍70 mg/dL for very high-risk persons with
+multiple risk factors. Patients who have smoked in the last
+year should be counseled to quit. Counseling and smoking
+cessation medications have been found to be effective in
+helping smokers to quit. Lower quality evidence suggested
+possible benefits of avoiding environmental tobacco
+smoke, reduction of alcohol consumption by heavy drinkers, weight reduction for obese patients, and increasing
+physical activity. Antiplatelet agents are recommended for
+patients with noncardioembolic ischemic stroke or TIA.
+Aspirin (50 to 325 mg/d), the combination of aspirin and
+extended-release dipyridamole, and clopidogrel are all acceptable options for initial therapy.13
+
+JOURNAL OF VASCULAR SURGERY
+August 2008
+
+482 Hobson et al
+
+RECOMMENDATION
+In symptomatic patients with moderate to severe carotid stenosis (ⱖ50%) we recommend carotid endarterectomy plus optimal medical therapy (GRADE 1 recommendation, high quality evidence).
+Evidence
+Moderate stenosis. Among symptomatic NASCET
+patients with stenosis of 50% to 69%, the 5-year rate of any
+ipsilateral stroke was 15.7% in patients treated surgically
+compared with 22.2% in those treated medically. To prevent one ipsilateral stroke during the 5-year follow up
+period, 15 patients would have to undergo carotid
+endarterectomy.11
+High-grade stenosis. Symptomatic NASCET patients with stenosis of 70% to 99% who underwent endarterectomy had a cumulative risk of any ipsilateral stroke at 2
+years of 9% compared with 26%for those who were treated
+medically. To prevent one ipsilateral stroke, six patients
+would have to undergo carotid endarterectomy. For a
+major or fatal ipsilateral stroke, the corresponding estimates
+were 2.5% and 13.1%. To prevent one major or fatal ipsilateral stroke, nine patients would have to undergo carotid
+endarterectomy.10
+Results from ECST were similarly supportive of endarterectomy in symptomatic patients with 70% to 99% stenosis. The 3-year risk of ipsilateral stroke was 2.8% in patients
+randomized to endarterectomy and16.8% in those randomized to medical therapy alone. The 3-year risk of disabling
+or fatal stroke, or surgical death was 6.0% for the surgical
+group and 11.0% for the medically treated patients. Therefore, to prevent an ipsilateral stroke or the composite
+outcome of disabling or fatal stroke or surgical death, 7 and
+20 patients had to undergo endarterectomy, respectively.12
+Carotid endarterectomy for nonhemispheric symptoms, vertebrobasilar symptoms, acute stroke, or for stroke
+or TIA with internal carotid occlusion is not supported by
+high quality evidence but rather by very low quality evidence (case series and unsystematic observations).14-17 In
+these settings, and faced with paucity of evidence, surgeon’s complication rate and patient’s values and preferences play a major role in decision making.
+The exclusion criteria for NASCET withheld endarterectomy from patients with life expectancy of less than 5 years and
+patients with significant comorbid conditions (massive stroke,
+liver, kidney or respiratory failure, or cancer). They also excluded patients over the age of 79, those who had a prior
+ipsilateral carotid endarterectomy, and those in which angiographic visualization of both carotid arteries and intracranial
+branches was not possible. The risk benefit balance in these
+populations is, therefore, unclear and our recommendation
+requires judicious and selective application. In fact, some
+observational studies support the safety and efficacy of carotid
+endarterectomy in some of these excluded groups.18,19 Case
+by case decision-making, involvement of patients’ values and
+preferences, as well as surgeons experience and surgical center
+outcomes should be considered.
+
+There are no data to suggest that carotid endarterectomy
+is less effective than medical management in any cohort of
+patients with symptomatic high-grade (ⱖ50%) carotid stenosis. In addition, no data exist to support or refute the value of
+endarterectomy for the management of symptomatic patients
+with nonstenotic but severely ulcerated plaques. While there
+could be a subset of symptomatic patients with less than 50%
+stenosis that might benefit from CEA, current published data
+do not permit identification of such a cohort.
+Values statement
+In recommending endarterectomy for symptomatic patients with moderate to severe (ⱖ50%) carotid stenosis, the
+committee placed a relatively higher value on preventing
+the outcome of stroke with the associated disability and
+morbidity and a relatively lower value on avoiding the
+downsides of endarterectomy (cost, perioperative complications such as death, and myocardial infarction).
+Carotid endarterectomy
+Through a longitudinal or transverse incision, after
+systemic heparin administration the internal, common and
+external carotid arteries are sequentially occluded with
+atraumatic vascular clamps. A longitudinal incision is made
+anteriorly in the common carotid artery proximal to the
+obviously diseased segment, and extended distally along
+the anterior surface of the internal carotid artery beyond the
+offending plaque. If a shunt is elected it is inserted at this
+time. Dividing the digastric muscle distally or the omohyoid muscle proximally may increase exposure.
+The endarterectomy is begun by carefully developing a
+subadvential plane with a freer dissector in the common
+carotid artery, completed circumferentially, feathered to a
+good end-point proximally and continued distally, everting
+the plaque out of the external carotid artery and then
+completed in the internal carotid artery where the plaque
+transitions into normal intima. Today, most evidence
+strongly supports arteriotomy closure with an autogenous
+vein, Dacron, or polytetrafluoroethylene patch using a running 6-0 polypropylene suture.
+Alternatively, eversion endarterectomy is performed by
+obliquely amputating the internal carotid artery at the
+common carotid bifurcation and rolling back the adventitial layer until normal intima is recognized distally at the
+distal endpoint. Residual plaque in the common and external carotid arteries is endarterectomized at this time. After
+completion of the endarterectomy, the internal carotid
+artery is re-anastomosed to the common carotid artery with
+a running 6-0 polypropylene suture.
+RECOMMENDATION
+In symptomatic patients with moderate to severe carotid
+stenosis (ⱖ50%) and high perioperative risk, we suggest carotid artery stenting as a potential alternative treatment to
+carotid endarterectomy. (GRADE 2 Recommendation, low
+quality evidence). High anatomic risk defined as: (1) previous
+CEA with recurrent stenosis; (2) prior ipsilateral radiation
+therapy to neck with permanent skin changes; (3) previous
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 2
+
+Hobson et al 483
+
+Table. Summary of evidence (carotid endarterectomy vs stenting)
+Quality assessment
+No of studies
+
+Design
+
+Limitations
+
+Consistency
+
+Directness
+
+Death at 30 days
+5
+
+RCTs
+
+Seriousa
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+None
+
+QQQO
+Moderate
+
+Any stroke at 30 days
+5
+RCTs
+
+Seriousa
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+Sparse or imprecise
+datab
+
+QQOO
+Low
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+None
+
+QQQO
+Moderate
+
+Non fatal myocardial infarction at 30 days
+3
+RCTs
+Seriousa
+
+Imprecision
+
+Quality
+
+a
+
+Allocation concealment was not conducted in four trials, and seven trials did not blind data collectors or outcome assessors.
+Imprecision is based on risk difference which has wide confidence interval.
+
+b
+
+ablative neck surgery (eg, radical neck dissection, laryngectomy); (4) common carotid artery stenosis below the clavicle; (5) contralateral vocal cord paralysis; and (6) presence
+of a tracheostomy stoma.
+The authors could not define “high medical risk” with
+equal precision. Dialysis dependent renal failure, extremely
+low left ventricular ejection fraction, and oxygen or steroid
+dependent chronic lung disease are examples of potentially
+useful high medical risk criteria. Data on the influence of
+such medical factors on carotid endarterectomy outcomes
+are inconsistent and generally of poor quality.
+Evidence
+Upon the request of the carotid committee of the SVS,
+a meta-analysis of randomized trials that compared carotid
+angioplasty and carotid endarterectomy was updated to
+include recent trials.20 This review pooled results from ten
+RCTs that included a total of 3182 patients with carotid
+stenosis over 50%. The majority of patients were symptomatic and in one of the trials they were designated as being at
+high risk for carotid endarterectomy.5 Allocation concealment and blinding of outcome assessors were adequate in
+6/10 and 2/10 trials, respectively. At 30 days and compared with endarterectomy, carotid angioplasty was associated with nonsignificant reduction in the risk of death (risk
+ratio [RR] 0.61 [0.27-1.37]; 95% CI 0.43, 1.66; I2 ⫽ 0 %);
+nonsignificant reduction in the risk of non-fatal myocardial
+infarction (RR 0.43 [0.17-1.11]; CI 0.16, 0.96; I2 ⫽ 0%);
+and nonsignificant increase in the risk of any stroke (RR
+1.29 [0.37-2.26]; CI 0.82, 2.31; I2 ⫽ 40%). Considering
+that these procedures are performed to prevent stroke, the
+statistically nonsignificant increase in strokes associated
+with stenting is perhaps clinically significant. In terms of
+comparing stenting with medical management, only two
+trials are available.21,22 Pooled estimate of odds ratio of the
+outcome of death or any stroke was imprecise and associated with high heterogeneity (OR 0.28; 95% CI 0.02-3.23;
+I ⫽70%).23 Hence, the evidence for stenting appears to be
+derived solely from comparisons with endarterectomy. The
+Table summarizes the evidence comparing endarterectomy
+and stenting using relative and absolute risk measures.
+
+Values statement
+Patients who place high value on avoiding surgical scar
+or perioperative morbidity and mortality may opt for stenting, whereas stroke-averse patients may opt for carotid
+endarterectomy. Guideline developers placed a relatively
+higher value on avoiding the outcome of stroke and a
+relatively lower value on statistically significant but perhaps
+clinically trivial increases in perioperative complications.
+Carotid artery stenting
+Carotid artery stenting is performed under local anesthesia with mild or no sedation. Patients are placed on
+clopidogrel and aspirin. Arterial access is achieved through
+a retrograde femoral artery approach. Brachial, radial, or
+direct CCA approaches have been used in some instances.
+Noninvasive or angiographic arch assessment assists in
+guiding the optimal approach to the CCA. Patients are
+heparinized to an activated clotting time (ACT) of 250300 seconds. The CCA is selectively cannulated with a 5F
+directional catheter over a 0.035-inch guidewire. Currently
+available stents are deployed through a 6F sheath or an 8F
+guiding catheter placed in the CCA within a few centimeters of the lesion. The use of one of several embolic protection devices (EPD) is recommended. It seems unlikely that
+a randomized trial will be performed to determine their
+neurologic efficacy. Distal filters or occlusive balloons have
+been most commonly used and are approved in the United
+States (US). Angioplasty is performed with a 3 to 4 mm
+balloon to ensure safe passage of the stent. Atropine may be
+given prior to angioplasty or selectively, to prevent vasovagal
+complications. Current rapid-exchange stent platforms work
+over the 0.014-inch wires of the EPDs. Self-expanding nitinol
+stents are preferred; open and closed cell designs, as well as
+tubular and tapered shapes have been approved for use in
+the US. Reliable comparative studies are still required to
+guide selection of one stent design over the other.
+Post-stenting angioplasty is performed with a balloon
+undersized by 20% to 40% of CA diameter and the stent
+length. A moderate residual stenosis (20% to 30%) is generally acceptable since continued expansion of nitinol stents
+
+JOURNAL OF VASCULAR SURGERY
+August 2008
+
+484 Hobson et al
+
+Table. Continued.
+Summary of findings (per 1000 patients)
+Relative risk (95% CI)
+
+Endarterectomy median event rate
+
+Stenting calculated event rate
+
+RR 0.61 (0.27 to 1.37)
+
+13.7
+
+8.4
+
+RR 1.29 (0.37 to 2.26)
+
+27.0
+
+34.8
+
+RR 0.43 (0.17 to 1.11)
+
+9.8
+
+4.2
+
+In asymptomatic patients with moderate to severe carotid
+stenosis (ⱖ60%), we recommend carotid endarterectomy plus
+medical management as long as perioperative risk is low.
+(GRADE 1 recommendation, high quality evidence).
+
+including trial-eligible patients cared for in centers with not
+as good surgical outcomes, requires judgment that considers the potential benefits and harms of the alternative
+courses of action as well as the values and preferences of the
+patient and their clinical circumstances; if applying our
+recommendations to these contexts, clinicians should consider these as suggestions (GRADE 2). Similarly, newer
+medical therapies (statins, more potent antiplatelet agents,
+and improved management for diabetes and hypertension)
+might favorably alter the outcome of medical management
+sufficiently to diminish the strength of this recommendation. Newer therapies were included in ACST and their use
+in that study did not result in a diminution of the benefit of
+endarterectomy from that seen in ACAS.
+
+Evidence
+
+Values statement
+
+The efficacy of carotid endarterectomy in asymptomatic
+patients was evaluated in a systematic review and meta-analysis
+that pooled results from three RCTs.2 These trials included
+5223 patients with asymptomatic moderate to severe carotid
+stenosis. The degree of stenosis was ⱖ50% in the Veteran
+Affairs Cooperative Study24 and ⱖ60% in the Asymptomatic
+Carotid Atherosclerosis Study (ACAS) and the Asymptomatic
+Carotid Surgery Trial (ACST).25,26 All three trials had high
+methodological quality including allocation concealment,
+blinded outcome assessment and applied intention-to-treat
+analysis. The incidence of 30-day perioperative stroke or death
+was 2.8%. Patients who underwent carotid endarterectomy
+fared better than those treated medically. The relative risk of
+perioperative stroke, death or any subsequent stroke was 0.69
+(0.57 to 0.83) and the relative risk of perioperative stroke,
+death, or subsequent ipsilateral stroke was 0.71 (0.55 to
+0.90), both favoring endarterectomy. There was no important
+inconsistency in results across trials (I2 ⫽ 0). For the outcome
+of any stroke or death, there was a nonsignificant trend towards fewer events in the surgical group (RR 0.92, 95% CI
+0.83 to 1.02).
+The exclusion criteria for ACAS and ACST were similar
+to those for NASCET, and participating surgeons in both
+studies were preselected for good surgical results. The
+application of our recommendation to excluded groups,
+
+The committee placed a relatively higher value on
+preventing the outcome of stroke with the associated disability and morbidity and a relatively lower value on avoiding the downsides of endarterectomy (cost, perioperative
+complications such as death and myocardial infarction).
+
+may show additional luminal recruitment over time. Finally, the EPD is removed over a retrieval catheter. The
+completion angiogram must visualize the extra- and intracranial circulation in two or more views. The sheath is
+removed when the ACT is ⱕ150 seconds; arterial closure
+devices can be used to obviate the need for normalization of
+the ACT. Patients are placed on clopidogrel for at least 4
+weeks and on aspirin indefinitely.
+RECOMMENDATION
+
+RECOMMENDATION
+We recommend against carotid artery stenting for asymptomatic patients with carotid artery stenosis. (GRADE 1, low
+quality evidence).
+Evidence
+Paucity of evidence hampers the evaluation of carotid
+artery stenting in the management of patients with asymptomatic carotid disease. No RCTs have been published comparing
+carotid stenting with medical management in asymptomatic
+patients. In terms of comparing stenting with endarterectomy
+in asymptomatic patients, the systematic review by Murad et
+al20 included two trials that reported this comparison.5,27
+There were insufficient data to evaluate the effect of therapy
+on individual outcomes. The effect of therapy on the composite outcome of death, stroke, and nonfatal myocardial infarction was very imprecise (RR0.52; 95% CI 0.20 to 1.33) due to
+the small number of patients (323) and events (18). All the
+events were in the SAPHIRE trial whereas Brooks et al did not
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 2
+
+contribute to the pooled estimate because it was a zero-event
+trial, ie, none of the patients in either study arm had a death,
+stroke, or myocardial infarction. Hence, the committee is
+unable to determine whether stenting is noninferior to endarterectomy or best medical management. One possible exception to this recommendation is the asymptomatic patient
+with low medical risk, compelling carotid disease, and highrisk anatomy (as defined above). For these patients the committee suggests that practitioners consider carotid artery stenting as a potential alternative to medical management or
+carotid endarterectomy if the carotid artery stenosis is ⱖ80%.
+Values statement
+In making this recommendation, guideline developers
+placed a relatively high value on avoiding the potential
+downsides of an invasive procedure in the clinical context of
+low risk patients with unclear risk-to-benefit ratio. In these
+patients, medical therapy may provide sufficient reduction
+in the risk of events at a favorable risk-to-benefit ratio.
+Furthermore, in medically high-risk patients it seems likely
+that in the absence of symptoms, medical therapy will be
+safer than either surgical or endovascular treatments.
+SUMMARY AND CONCLUSIONS
+Using the best available evidence, we have made recommendations for the management of commonly encountered carotid disease patients. We have applied the GRADE
+system to these recommendations in order to indicate the
+strength of the data supporting our guidelines and the
+strength of our convictions in offering these guidelines.
+Factors other than data (eg, experience, values, surgeon, or
+patient preferences) often play a role in decision making,
+especially when supporting data are imperfect. The
+strength of a recommendation may not be solely a function
+of the strength of the supporting data. To summarize our
+recommendations in order of their strength and the quality
+of supporting data, we offer the following:
+Strong Recommendations ⫹ High Quality Evidence:
+a) We recommend optimal medical therapy without revascularization in symptomatic patients with ⬍50% stenosis.
+b) We recommend optimal medical therapy without revascularization in asymptomatic patients with ⬍60% stenosis.
+c) We recommend carotid endarterectomy plus optimal
+medical therapy in symptomatic patients with ⱖ50%
+carotid stenosis.
+d) We recommend carotid endarterectomy plus optimal
+medical management in asymptomatic patients with
+ⱖ60% stenosis and low perioperative risk.
+Weak Recommendation ⫹ Low Quality Evidence:
+e) We suggest carotid stenting as a potential alternative
+treatment to carotid endarterectomy in symptomatic
+patients with ⱖ50% stenosis and high operative perioperative risk.
+f) We suggest that carotid artery stenting is inappropriate for
+asymptomatic patients with carotid artery stenosis. Possible
+exceptions may include patients with acceptable medical
+
+Hobson et al 485
+
+risk who present with severe carotid artery stenoses (ⱖ80%)
+and high anatomic risk for carotid endarterectomy (as
+defined above) but with compelling anatomy for stenting.
+Practice guidelines can be only as robust as their evidence basis. In the absence of high quality, reliable data,
+clinical decisions must be based on lower quality data and
+on clinical experience, judgment, values, and preferences.
+The GRADE system allows us to separate the strength of
+our recommendations from the quality of our supporting
+data. The authors of this article recognize that the data
+from which these guidelines were formulated are imperfect
+and that our values played a significant role in guideline
+formulation. Furthermore, the huge variability among patients with cerebrovascular disease, both in their anatomic
+and physiologic features, makes application of guidelines
+problematic. Often patients do not mesh cleanly with the
+criteria established for clinical trial eligibility.
+We also recognize that the very criteria used to define
+patient cohorts are subject to change. For example, we have
+used degree of stenosis to define various patient cohorts
+throughout. Symptomatic patients with ⬍50% stenosis are
+determined to be best served by medical therapy alone,
+while those with ⱖ50% stenosis are deemed to require
+surgery. Asymptomatic patients with ⱖ60% stenosis are
+deemed candidates for endarterectomy, while in those with
+⬍60% stenosis, medical therapy is preferred. The severity of
+stenosis may not be the best predictor of plaque behavior,
+but it is reproducibly quantifiable and currently used as the
+measure of disease severity in all clinical trials. We recognize
+that in the future these guidelines will be revised if new
+methodologies can better predict the clinical behavior of
+atherosclerotic plaques.
+Consensus eluded the authors in several areas. We could
+not completely agree on the role of carotid stenting in asymptomatic patients. We did agree that data supporting stenting in
+this setting were of poor quality because of the absence of a
+medically managed control group. A majority felt that patients
+with acceptable medical risk, high anatomic risk, and compelling carotid pathology should be considered candidates for
+stenting. A minority felt that in the absence of trials comparing
+medical therapy with stenting in this cohort, such a recommendation, even as GRADE 2 was ill advised.
+We also failed to reach consensus over many details in
+the technical performance of endarterectomy and stenting.
+Originally we had hoped to present technical guidelines using
+the GRADE system, but we found both that supporting data
+were inconsistent and generally of low quality and that all
+recommendations were GRADE 2 (at best). For example, the
+authors could not reach consensus on whether protamine
+reversal of heparin after carotid declamping should be recommended or not recommended. Some small scale prospective
+randomized trials support protamine use and others support
+its avoidance. Similarly, we could not reach consensus on
+optimal cerebral monitoring and protection during endarterectomy or on the preferred patch for use in carotid
+closure. Since each of us has strong, though not necessarily
+fully evidence-based, opinions on these and other technical
+
+486 Hobson et al
+
+points and since each of us is reputed to be expert in
+endarterectomy and/or stenting, we felt that we must
+report our inability to reach consensus and conclude that
+each surgeon must establish his/her own preferred technique, monitor his/her results carefully, and modify the
+chosen technique if problems are identified or compelling
+new data become available.
+We are hopeful that these guidelines will be useful to carotid
+surgeons, will promote a uniform, evidence based, effective and
+safe approach to carotid disease management, and will serve the
+best interests of those patients who seek our help.
+This article is dedicated to Dr Robert Hobson in recognition of his leading role in bringing scientific discipline
+to the study of carotid disease management.
+AUTHOR CONTRIBUTIONS
+Conception and design: RH, WM, EA, MM, KC, AC, VM,
+ME, DM, RB, BP
+Analysis and interpretation: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Data collection: RH, WM, HM,VM, BP
+Writing the article: RH, WM, EA, MM, KC, BL, BP
+Critical revision of the article: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Final approval of the article: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Statistical analysis: MM, VM
+Obtained funding: Not applicable
+Overall responsibility: RH, WM, EA, KC, AC, ME, DM,
+RB, BL, BP
+REFERENCES
+1. Oxman A, Guyatt G, Cook D, Montori V. Summarizing the evidence.
+In: Guyatt G, Rennie D, editors. Users’ guides to the medical literature:
+a manual for evidence-based clinical practice. Chicago: AMA Press;
+2002. p. 55-173.
+2. Chambers BR, Donnan GA. Carotid endarterectomy for asymptomatic
+carotid stenosis.[update of Cochrane Database Syst Rev 2000;(2):
+CD001923; PMID: 10796451]. Cochrane Database of Syst Rev
+2005(4):CD001923.
+3. Cina CS, Clase CM, Haynes RB. Carotid endarterectomy for symptomatic carotid stenosis. Cochrane Database Syst Rev 2000(2):CD001081.
+4. CAVATAS Investigators. Endovascular versus surgical treatment in
+patients with carotid stenosis in the Carotid and Vertebral Artery
+Transluminal Angioplasty Study (CAVATAS): a randomized trial. Lancet 2001;357:1729-37.
+5. Yadav JS, Wholey MH, Kuntz RE, Fayad P, Katzen BT, Mishkel GJ, et
+al. Protected carotid-artery stenting versus endarterectomy in high-risk
+patients. N Engl J Med 2004;351:1493-1501.
+6. Space Collaborative Group, Ringleb PA, Allenberg J, Brückmann H,
+Eckstein HH, Fraedrich G, et al. 30 day results from the SPACE trial of
+stent-protected angioplasty versus carotid endarterectomy in symptomatic
+patients: a randomized noninferiority trial. Lancet 2006;368:1239-47.
+7. Coward LJ, Featherstone RL, Brown MM. Safety and efficacy of endovascular treatment of carotid artery stenosis compared with carotid
+endarterectomy: a Cochrane systematic review of the randomized evidence. Stroke 2005;36:905-11.
+8. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al.
+Grading quality of evidence and strength of recommendations. BMJ
+2004;328:1490.
+9. Swiglo B, Murad M, Schünemann H, Kunz R, Vigersky RA, Guyatt GH, et
+al. A case for clarity, consistency, and helpfulness: state-of-the-art clinical
+
+JOURNAL OF VASCULAR SURGERY
+August 2008
+
+practice guidelines in endocrinology using the GRADE system. J Clin
+Endocrin Metab 2008; Epub (doi:10.1210/jc.2007-1907):PMID:
+18171699.
+10. North American Symptomatic Carotid Endarterectomy Trial Collaborators. Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade carotid stenosis. N Engl J Med 1991;
+325:445-53.
+11. Barnett HJ, Taylor DW, Eliasziw M, Fox AJ, Ferguson GG, Haynes RB, et
+al. Benefit of carotid endarterectomy in patients with symptomatic moderate or severe stenosis. North American Symptomatic Carotid Endarterectomy Trial Collaborators. N Engl J Med 1998;339:1415-25.
+12. European Carotid Surgery Trialists’ Collaborative Group. MRC European Carotid Surgery Trial: interim results for symptomatic patients
+with severe (70%-99%) or with mild (0%-29%) carotid stenosis. Lancet
+1991;337:1235-43.
+13. Sacco RL, Adams R, Albers G, Alberts MJ, Benavente O, Furie K, et al.
+Guidelines for prevention of stroke in patients with ischemic stroke or
+transient ischemic attack: a statement for healthcare professionals from
+the American Heart Association/American Stroke Association Council
+on Stroke: cosponsored by the Council on Cardiovascular Radiology
+and Intervention: the American Academy of Neurology affirms the
+value of this guideline. Stroke 2006;37:577-617.
+14. Ouriel K, May AG, Ricotta JJ, DeWeese JA, Green RM. Carotid
+endarterectomy for nonhemispheric symptoms: predictors of success. J
+Vasc Surg 1984;1:339-45.
+15. Ricotta JJ, O’Brien MS, DeWeese JA. Carotid endarterectomy for
+non-hemispheric ischemia: long-term follow-up. Cardiovasc Surg
+1994;2:561-6.
+16. Illuminati G, Calio FG, Papaspyropoulos V, Montesano G, D’Urso A.
+Revascularization of the internal carotid artery for isolated, stenotic, and
+symptomatic kinking. Arch Surg 2003;138:192-7.
+17. Paty PSK, Darling RC 3rd, Feustel PJ, Bernardini GL, Mehta M,
+Ozsvath KJ, et al. Early carotid endarterectomy after acute stroke. J Vasc
+Surg 2004;39:148-54.
+18. Gasparis AP, Ricotta L, Cuadra SA, Char DJ, Purtill WA, Van Bemmelen PS, et al. High-risk carotid endarterectomy: fact or fiction. J Vasc
+Surg 2003;37:40-6.
+19. Reed AB, Gaccione P, Belkin M, Donaldson MC, Mannick JA, Whittemore AD, et al. Preoperative risk factors for carotid endarterectomy:
+defining the patient at high risk. J Vasc Surg 2003;37:1191-9.
+20. Murad MH, Flynn DN, Elamin MB, et al. Endarterectomy vs angioplasty for patients with carotid stenosis. A systematic review and metaanalysis. [in preparation]
+21. Ederle J, Featherstone R, Dobson J, Brown M. Endovascular treatment
+vs medical care in patients with carotid artery stenosis: long-term results
+from CAVATAS. Cerebrovasc Dis 2007;23(Suppl 2):55.
+22. Zhao X, Jia J, Ji X, Peng M, Ling F. A follow-up: stroke in patients with
+bilateral severe carotid stenosis after intervention treatment. Chin J Clin
+Rehabil 2003;7:2714-5.
+23. Ederle J, Featherstone RL, Brown MM. Percutaneous transluminal
+angioplasty and stenting for Carotid artery stenosis. Cochrane Database
+Syst Rev 2007;4.
+24. Role of carotid endarterectomy in asymptomatic carotid stenosis. A
+Veterans Administration Cooperative Study. Stroke 1986;17:534-9.
+25. Endarterectomy for asymptomatic carotid artery stenosis. Executive
+Committee for the Asymptomatic Carotid Atherosclerosis Study.
+JAMA 1995;273:1421-8.
+26. Halliday A, Mansfield A, Marro J, Peto C, Peto R, Potter J, et al.
+Prevention of disabling and fatal strokes by successful carotid endarterectomy in patients without recent neurological symptoms: randomised
+controlled trial [erratum appears in Lancet 2004;31:416]. Lancet 2004;
+363:1491-1502.
+27. Brooks WH, McClure RR, Jones MR, Coleman TL, Breathitt L.
+Carotid angioplasty and stenting versus carotid endarterectomy for
+treatment of asymptomatic carotid stenosis: a randomized trial
+in a community hospital. Neurosurgery 2004;54:318-24; discussion
+324-15.
+
+Submitted Apr 22, 2008; accepted May 14, 2008.
+
+
