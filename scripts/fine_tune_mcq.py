@@ -9,7 +9,8 @@ from transformers import (
 )
 from datasets import Dataset
 from utils.formatting import format_mcq_example
-
+import random
+from retriever.retrieval import retrieve_docs
 
 def load_dataset_from_jsonl(jsonl_path):
     """Load and parse a JSONL dataset for instruction fine-tuning."""
@@ -17,19 +18,24 @@ def load_dataset_from_jsonl(jsonl_path):
         data = [json.loads(line) for line in f]
     return Dataset.from_list(data)
 
-
-def tokenize_function(example, tokenizer):
-    """Format example as instruction-style prompt, then tokenize."""
-    prompt, target = format_mcq_example(example)
-    full_text = prompt + target
+def process_example(example, tokenizer, P=0.8):
+    # Randomly decide to include golden doc or only distractors
+    include_golden = random.random() < P
+    context_chunks = retrieve_docs(example["question"], include_golden)
+    
+    # Format prompt/target using retrieved docs
+    prompt, target = format_mcq_example(example, context_chunks, include_golden)
+    
+    # Tokenize
     tokenized = tokenizer(
-        full_text,
+        prompt + target,
         truncation=True,
         padding="max_length",
         max_length=512,
     )
     tokenized["labels"] = tokenized["input_ids"].copy()
     return tokenized
+
 
 
 def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
@@ -39,7 +45,7 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
 
     # Load and tokenize dataset
     dataset = load_dataset_from_jsonl(data_path)
-    tokenized_dataset = dataset.map(lambda x: tokenize_function(x, tokenizer))
+    tokenized_dataset = dataset.map(lambda x: process_example(x, tokenizer))
 
     # Setup trainer
     training_args = TrainingArguments(
