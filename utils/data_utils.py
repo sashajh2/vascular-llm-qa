@@ -1,8 +1,6 @@
-# For data conversion helper functions
 import pandas as pd
 import json
 import re
-
 
 def extract_answer_choices(question_text):
     pattern = r"([A-Z])\.\s+([^\n]+)"
@@ -34,14 +32,15 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
         
         raw_answers = str(row['answer'])
         answer_letters = re.split(r"[,\s]+", raw_answers.strip())
-        
+
         explanation = row.get("explanation", "")
         source = row.get("source", "")
 
-        if pd.isna(explanation) or explanation == "":
-            explanation = "[explanation]"
-        if pd.isna(source) or source == "":
-            source = "[source]"
+        # FIX: Do not inject placeholders here
+        if pd.isna(explanation):
+            explanation = ""
+        if pd.isna(source):
+            source = ""
     
         example = {
             "question": question_stem,
@@ -55,5 +54,3 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
     with open(output_path, "w") as f:
         for ex in examples:
             f.write(json.dumps(ex) + "\n")
-
-### RAG conversion Functions

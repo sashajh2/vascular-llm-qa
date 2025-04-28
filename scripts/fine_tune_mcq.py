@@ -18,36 +18,49 @@ def load_dataset_from_jsonl(jsonl_path):
         data = [json.loads(line) for line in f]
     return Dataset.from_list(data)
 
-def process_example(example, tokenizer, P=0.8):
-    # Randomly decide to include golden doc or only distractors
-    include_golden = random.random() < P
-    context_chunks = retrieve_docs(example["question"], include_golden)
-    
-    # Format prompt/target using retrieved docs
-    prompt, target = format_mcq_example(example, context_chunks, include_golden)
-    
-    # Tokenize
-    tokenized = tokenizer(
-        prompt + target,
-        truncation=True,
-        padding="max_length",
-        max_length=512,
-    )
-    tokenized["labels"] = tokenized["input_ids"].copy()
-    return tokenized
+def generate_dataset(dataset, tokenizer):
+    """Generate golden and distractor examples for each question."""
+    examples = []
+
+    for example in dataset:
+        # Golden + distractors version
+        context_chunks_golden = retrieve_docs(example["question"], include_golden=True)
+        prompt_golden, target_golden = format_mcq_example(example, context_chunks_golden, include_golden=True)
+        tokenized_golden = tokenizer(
+            prompt_golden + target_golden,
+            truncation=True,
+            padding="max_length",
+            max_length=512,
+        )
+        tokenized_golden["labels"] = tokenized_golden["input_ids"].copy()
+        examples.append(tokenized_golden)
+
+        # Distractors only version
+        context_chunks_distractor = retrieve_docs(example["question"], include_golden=False)
+        prompt_distractor, target_distractor = format_mcq_example(example, context_chunks_distractor, include_golden=False)
+        tokenized_distractor = tokenizer(
+            prompt_distractor + target_distractor,
+            truncation=True,
+            padding="max_length",
+            max_length=512,
+        )
+        tokenized_distractor["labels"] = tokenized_distractor["input_ids"].copy()
+        examples.append(tokenized_distractor)
+
+    return examples
 
 
 
 def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
-    # Load tokenizer and model
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
-    # Load and tokenize dataset
     dataset = load_dataset_from_jsonl(data_path)
-    tokenized_dataset = dataset.map(lambda x: process_example(x, tokenizer))
 
-    # Setup trainer
+    # NEW: Generate full training set
+    tokenized_examples = generate_dataset(dataset, tokenizer)
+    tokenized_dataset = Dataset.from_list(tokenized_examples)
+
     training_args = TrainingArguments(
         output_dir=output_dir,
         per_device_train_batch_size=4,
@@ -57,7 +70,7 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
         logging_dir=f"{output_dir}/logs",
         logging_steps=50,
         save_total_limit=2,
-        eval_strategy="no",
+        evaluation_strategy="no",
         fp16=True,
         report_to="none",
     )
@@ -70,10 +83,10 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
         data_collator=DataCollatorForLanguageModeling(tokenizer, mlm=False),
     )
 
-    # Train and save
     trainer.train()
     model.save_pretrained(output_dir)
     tokenizer.save_pretrained(f"{output_dir}/tokenizer")
+
 
 
 if __name__ == "__main__":

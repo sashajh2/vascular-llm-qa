@@ -1,5 +1,5 @@
 import argparse
-from utils.data_utils import convert_xlsx_to_jsonl
+from data_utils import convert_xlsx_to_jsonl
 
 def main(input_path, output_path):
     print(f"Converting {input_path} to {output_path}...")
