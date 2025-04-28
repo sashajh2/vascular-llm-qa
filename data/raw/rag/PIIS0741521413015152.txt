@@ -1,0 +1,1709 @@
+SOCIETY FOR VASCULAR SURGERYÒ DOCUMENT
+
+The Society for Vascular Surgery Lower Extremity
+Threatened Limb Classiﬁcation System: Risk
+stratiﬁcation based on Wound, Ischemia, and foot
+Infection (WIfI)
+Joseph L. Mills, Sr, MD,a Michael S. Conte, MD,b David G. Armstrong, DPM, MD, PhD,a
+Frank B. Pomposelli, MD,c Andres Schanzer, MD,d Anton N. Sidawy, MD, MPH,e and
+George Andros, MD,f on behalf of the Society for Vascular Surgery Lower Extremity Guidelines
+Committee, Tucson, Ariz; San Francisco and Van Nuys, Calif; Brighton and Worcester, Mass; and
+Washington, D.C.
+Critical limb ischemia, ﬁrst deﬁned in 1982, was intended to delineate a subgroup of patients with a threatened lower
+extremity primarily because of chronic ischemia. It was the intent of the original authors that patients with diabetes be
+excluded or analyzed separately. The Fontaine and Rutherford Systems have been used to classify risk of amputation and
+likelihood of beneﬁt from revascularization by subcategorizing patients into two groups: ischemic rest pain and tissue
+loss. Due to demographic shifts over the last 40 years, especially a dramatic rise in the incidence of diabetes mellitus and
+rapidly expanding techniques of revascularization, it has become increasingly difﬁcult to perform meaningful outcomes
+analysis for patients with threatened limbs using these existing classiﬁcation systems. Particularly in patients with diabetes, limb threat is part of a broad disease spectrum. Perfusion is only one determinant of outcome; wound extent and
+the presence and severity of infection also greatly impact the threat to a limb. Therefore, the Society for Vascular Surgery
+Lower Extremity Guidelines Committee undertook the task of creating a new classiﬁcation of the threatened lower
+extremity that reﬂects these important considerations. We term this new framework, the Society for Vascular Surgery
+Lower Extremity Threatened Limb Classiﬁcation System. Risk stratiﬁcation is based on three major factors that impact
+amputation risk and clinical management: Wound, Ischemia, and foot Infection (WIfI). The implementation of this
+classiﬁcation system is intended to permit more meaningful analysis of outcomes for various forms of therapy in this
+challenging, but heterogeneous population. (J Vasc Surg 2014;59:220-34.)
+
+Critical limb ischemia (CLI) was ﬁrst deﬁned in published form in 1982.1 The authors’ expressed intent was
+that the term be only applied to patients without diabetes
+From the Division of Vascular and Endovascular Surgery, Southern Arizona
+Limb Salvage Alliance, University of Arizona Health Sciences Center,
+Tucsona; the University of California San Francisco, San Franciscob; the
+St. Elizabeth’s Medical Center, Brightonc; the University of Massachusetts Medical School, Worcesterd; the George Washington University
+School of Medicine and Health Sciences, Washington, D.C.e; and the
+Amputation Prevention Center, Valley Presbyterian Medical Center,
+Van Nuys.f
+Author conﬂict of interest: none.
+Additional material for this article may be found online at www.jvascsurg.org.
+Reprint requests: Joseph L. Mills, Sr, MD, Division of Vascular and Endovascular Surgery, Southern Arizona Limb Salvage Alliance, University of
+Arizona Health Sciences Center, Tucson, AZ 85724 (e-mail: jmills@u.
+arizona.edu).
+Independent peer-review and oversight has been provided by members of
+the SVS Document Oversight Committee (Peter Gloviczki, MD (chair),
+Thomas Forbes, MD, William D. Jordan Jr, MD, Glenn LaMuraglia,
+MD, Michel Makaroun, MD, Greg Moneta, MD, Amy Reed, MD, Russell H. Samson MD, Timur Sarac, MD, and Thomas W. Wakeﬁeld, MD).
+0741-5214/$36.00
+Copyright Ó 2014 by the Society for Vascular Surgery.
+http://dx.doi.org/10.1016/j.jvs.2013.08.003
+
+220
+
+whose major threat to limb was chronic ischemia. CLI was
+deﬁned as an ankle pressure (AP) <40 mm Hg in the presence of rest pain and <60 mm Hg in the presence of tissue
+necrosis. Toward the end of this brief document, the authors
+emphasized: “It was generally agreed that diabetic patients
+who have a varied clinical picture of neuropathy, ischemia
+and sepsis make deﬁnition even more difﬁcult and it is desirable that these patients be excluded.or should be clearly
+deﬁned as a separate category to allow the analysis of the
+results in the nondiabetic patients.”1 Over the last 40 years,
+the use of the term CLI has been widely and inappropriately
+applied to a much broader spectrum of patients than originally intended. In part because of this overly liberal application of the term CLI, efforts to measure and compare
+outcomes of different treatment options have been problematic, especially as revascularization options and other
+treatment approaches have rapidly expanded.
+For a disease staging system to be clinically relevant, it
+must achieve two primary goals: (1) accurately provide risk
+stratiﬁcation of patients with respect to disease natural
+history, and (2) accurately stratify patients with sufﬁcient
+granularity to allow meaningful comparison of different
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+treatment strategies. Because it must be descriptive and
+predictive, a key guiding principle in developing an
+improved classiﬁcation of chronic ischemia and the threatened limb is that disease stages should correlate with their
+natural history or risk of major amputation if treated
+conservatively. It is our expressed purpose to refocus the
+approach to the patient with a threatened limb and
+a component of chronic ischemia according to disease
+severity rather than arterial lesion characteristics.
+There are two major problems with current classiﬁcation systems: (1) the validity and natural history of the
+concept of CLI, and (2) the failure of most existing systems
+to assess and grade the major factors that inﬂuence both
+risk of limb loss and clinical management.
+As presently deﬁned, CLI is associated with decreased
+quality of life, increased risk for amputation, and increased
+mortality. The 5-year mortality for CLI patients is 50% to
+60%, with coronary events and strokes accounting for at
+least 70% of the deaths.2-7 However, efforts to understand
+the natural history and compare outcomes of alternative
+therapies have been hindered by inconsistencies in the deﬁnition and the heterogeneity of clinical presentation.
+The term CLI implies that a speciﬁc cutoff value exists
+below which limb perfusion is inadequate and that without
+revascularization, the limb will inevitably be lost. The precise
+level of perfusion deﬁcit that deﬁnes “critical ischemia” is
+unclear. There have been minor modiﬁcations of the original proposed hemodynamic cutoff measurements, with
+Rutherford Classiﬁcation,8 the TransAtlantic Inter-Society
+Consensus (TASC),9 and the European Consensus10 statements proposing similar deﬁnitions for CLI based on the
+presence or absence of tissue necrosis, with the addition of
+toe pressure (TP) and transcutaneous oxygen measurements
+(TcPO2). AP criteria range from <40 to 70 mm Hg with TP
+and TcPO2 <30 to 50 mm Hg; lower values are required for
+patients with rest pain, and higher ones for patients presenting with tissue loss (ulceration or gangrene).
+CLI implies a poor limb outcome without intervention.
+Observations from the Circulase trial11 raise serious doubts
+about this very concept. Only patients with rest pain (Fontaine III) and ischemic ulcers or gangrene (Fontaine IV)
+who met strict hemodynamic criteria were enrolled. In the
+placebo arm of this trial, the amputation rate at 6 months
+was only 13%, nearly all of which were judged to result
+from complications of ischemia, “with untreatable infection
+the most common indication.”11 Marston reported a series
+of 142 patients with wounds and severe limb ischemia
+(ankle-brachial index [ABI] <0.7 or TP <50 mm Hg)
+who were treated at a comprehensive wound care center
+with meticulous wound care but without revascularization.12 The amputation rates were 19% at 6 months and
+23% at 12 months. Wound healing with conservative
+management was reported in 52% of patients at 12 months.
+A recent study by Elgzyri and colleagues evaluated 602
+patients with diabetic foot ulcers who had either a systolic
+TP <45 mm Hg or an AP <80 mm Hg who were not revascularized and reported that 50% healed primarily with
+wound care or with minor amputation; 17% healed, but
+
+Mills et al 221
+
+only after requiring a major amputation; and 33% died
+with limbs intact but with unhealed wounds. The authors
+concluded by stating that “diabetic patients with ischemic
+foot ulcers not available for revascularization are not
+excluded from healing without major amputation.Our
+ﬁndings reinforce the need for a classiﬁcation system considering these factors at decision.”13 These observations highlight the challenges in interpreting limb salvage and
+amputation-free survival outcomes in the literature, particularly when making comparisons between different reports or
+non-randomized groups.
+CURRENT CLASSIFICATION SYSTEMS
+In modern practice, patients with a threatened lower
+extremity present with a broad spectrum of underlying
+contributory factors of which ischemia is just one component, albeit an important one, in determining whether
+that limb can be salvaged. Existing CLI classiﬁcation
+systems fail to adequately categorize the extent of tissue
+loss or the presence and severity of infection. The clinical
+classiﬁcation systems that include the broad categories of
+rest pain, ischemic ulceration, and gangrene (Rutherford
+4, 5, and 68; Fontaine III, IV14), while adequate for identifying patients at increased risk for major limb amputation
+and death, are not sufﬁciently detailed to stratify the range
+of risk or determine best therapy across this heterogeneous
+spectrum of patients. Controversies over revascularization
+approaches (open bypass vs endovascular therapy),15-17
+and nonrevascularization approaches (local wound care vs
+hyperbaric oxygen therapy vs cell-based therapy)18-22
+cannot be resolved without more precise stratiﬁcation of
+the patients being treated. In addition, recent trends have
+focused excessively on anatomic extent of disease and arteriographic ﬁndings without sufﬁcient emphasis on the
+physiologic state of the limb.
+The marked demographic shift over the last quarter
+century because of the global epidemic of diabetes has
+made the admonition of the original drafters of the term
+CLI increasingly relevant. The rising incidence of diabetes
+and diabetic foot ulcers (DFUs) as well as an increased
+incidence of peripheral artery disease (PAD) in patients
+with diabetes further mandates a reconsideration of the
+concept of CLI.23 In many modern series, the prevalence
+of diabetes in reports of patients undergoing revascularization for limb salvage is as high as 50% to 80%. The diabetes
+prevalence was 58% in the Bypass vs Angioplasty in Severe
+Ischaemia of the Leg (BASIL) trial,24-26 64% in the Project
+of Ex-Vivo Vein Graft Engineering via Transfection III
+(PREVENT III) trial,27 and exceeds 70% to 80% in many
+specialized vascular centers.28,29 Although tradition teaches
+that the initiating cause of foot ulceration in patients with
+diabetes is primarily neuropathy (loss of protective sensation and foot deformity from motor neuropathy), DFUs
+may be broadly categorized into three groups: purely
+neuropathic, purely ischemic, and neuroischemic (mixed).
+Based on recent studies, the prevalence of neuroischemic
+ulcers has steadily risen from approximately 20%-25% in
+the 1990s to over 50% of patients currently.23 Thus,
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+222 Mills et al
+
+Table I. Summary and comparison of existing diabetic foot ulcer, wound, and lower extremity ischemia classiﬁcation
+systems
+Classiﬁcation system
+
+Ischemic rest pain
+
+Ulcer
+
+Gangrene
+
+Rutherford8
+
+Yes, category 4/6
+
+Category 5, minor tissue loss, nonhealing ulcer,
+focal gangrene with diffuse pedal ischemia
+
+Category 6, major tissue loss extending
+above TM level, functional foot no longer
+salvageable (although in practice often refers to
+extensive gangrene, potentially salvageable foot
+with signiﬁcant efforts)
+
+Fontaine14
+
+Yes, class III/IV
+
+Class IV/IV, ulcer and gangrene grouped
+together
+
+Class IV/IV, ulcer and gangrene grouped together
+
+PEDIS43
+
+No
+
+No
+
+UT34
+
+No
+
+Yes, grades 1-3;
+Grade 1: superﬁcial full-thickness ulcer, not
+penetrating deeper than the dermis;
+Grade 2: deep ulcer, penetrating below the
+dermis to subcutaneous structures involving
+fascia, muscle or tendon;
+Grade 3: All subsequent layers of the foot
+involved including bone and/or joint (exposed
+bone, probing to bone)
+Yes, grades 0-3 ulcers;
+Grade 0: pre- or postulcerative completely
+epithelialized lesion;
+Grade 1: superﬁcial, not involving tendon,
+capsule, or bone;
+Grade 2: penetrating to tendon/capsule;
+Grade 3: penetrating to bone or joint
+
+Wagner35,36
+
+No
+
+Ulcer and gangrene grouped together; gangrene
+due to infection not differentiated from
+gangrene due to ischemia; also includes
+osteomyelitis
+
+S(AD) SAD system40
+
+No
+
+Saint Elian39
+
+No
+
+IDSA42
+
+No
+
+Grade 0: pre- or postulcerative lesion;
+Grade 1: partial/full thickness ulcer;
+Grade 2: probing to tendon or capsule;
+Grade 3: deep ulcer with osteitis;
+Grade 4: partial foot gangrene;
+Grade 5: whole foot gangrene
+Yes, grades 0-3 based on area and depth;
+Grade 0: skin intact;
+Grade 1: superﬁcial, <1 cm2;
+Grade 2: penetrates to tendon,
+periosteum, joint capsule, 1-3 cm2;
+Grade 3: lesions in bone or joint space, >3 cm2
+Yes, grades 1-3 based on depth;
+Grade 1: superﬁcial wound disrupting entire
+skin;
+Grade 2: moderate or partial depth,
+down to fascia, tendon or muscle but not
+bone or joints;
+Grade 3: severe or total, wounds with bone or
+joint involvement, multiple
+categories including area, ulcer
+number, location and topography
+No
+
+No
+
+SVS Lower Extremity
+Threatened Limb
+Classiﬁcation
+
+Yes, wound/clinical
+class 0-3
+
+Yes, grades 0-3;
+Grouped by depth, location and size and
+magnitude of ablative/wound coverage
+procedure required to achieve healing
+
+Yes, grades 0-3;
+Grouped by extent, location and size and
+magnitude of ablative or wound coverage
+procedure required to achieve healing
+
+No
+
+No
+
+No
+
+ABI, Ankle-brachial index; AP, ankle pressure; CLI, critical limb ischemia; DFUs, diabetic foot ulcers; IDSA, Infectious Disease Society of America; PAD,
+peripheral artery disease; PEDIS, perfusion, extent/size, depth/tissue loss, infection, sensation; PVR, pulse volume recording; SAD, sepsis, arteriopathy,
+denervation; SVS, Society for Vascular Surgery; TcPO2, transcutaneous oxygen pressure; TP, toe pressure; UT, University of Texas.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 223
+
+Table I. Continued.
+Ischemia
+
+Infection
+
+Yes, cutoffs for CLI;
+Category 4: Resting AP <40 mm Hg; Flat or
+barely pulsatile ankle or forefoot PVR;
+TP <30 mm Hg
+Category 5/6: AP <60 mm Hg; ﬂat or
+barely pulsatile ankle or forefoot PVR;
+TP <40 mm Hg
+
+No
+
+Cutoff values for CLI based on European
+consensus document:
+Ischemic rest pain >2 weeks with AP <50 mm
+Hg or TP <30 mm Hg ulcer and gangrene;
+AP <50 mm Hg, TP <30 mm Hg, absent pedal
+pulses in patient with diabetes
+Yes, 3 grades; CLI cutoff
+Grade 1: no PAD symptoms, ABI >0.9, TBI
+>0.6, TcPO2 >60 mm Hg;
+Grade 2: PAD symptoms, ABI <0.9, AP
+>50 mm Hg, TP >30 mm Hg, TcPO2 3060 mm Hg;
+Grade 3: AP <50 mm Hg, TP <30 mm Hg,
+TcPO2 <30 mm Hg
+
+No
+
+Comments
+Pure ischemia model PAD classiﬁcation system
+includes milder forms of PAD (categories 1-3);
+Categories 4-6 based on cutoff values for CLI;
+No spectrum of ischemia, does not
+acknowledge potential need for
+revascularization with <CLI cutoff depending
+on wound extent/infection; Not intended for
+patients with diabetes; Wound classes not
+sufﬁciently detailed; Omits infection as a trigger
+Pure ischemia model; No clear deﬁnitions of
+spectrum of hemodynamics; Minimal
+description of wounds; Infection omitted
+
+Yes, grades 1-4; see IDSA classiﬁcation (Table II)
+
+Primarily intended for DFUs; Ulcer grades
+validated; Includes perfusion assessment, but
+with cutoff for CLI; Gangrene not separately
+categorized; Includes validated IDSA infection
+categories
+
+Yes 6 based on ABI <0.8
+
+Yes, 6 wounds with frank purulence or >2 of the
+following (warmth, eythema, lymphangitis,
+edema, lymphadenopathy, pain, loss of
+function) considered infected
+
+Primarily intended for DFUs; Includes validated
+ulcer categories; PAD and infection included,
+but only as 6 with no grades/spectrum
+
+No
+
+No for soft tissue component; included only as
+osteomyelitis
+
+Orthopedic classiﬁcation intended for diabetic feet;
+No hemodynamics; Gangrene from infection
+not differentiated from that due to ischemia;
+Osteomyelitis included; Soft tissue infection not
+separated from bone infection
+
+Pulse palpation only, no hemodynamics
+
+Yes, 1 ¼ no infection; 2 ¼ cellulitis; 3 ¼
+osteomyelitis
+
+Intended for DFUs; Also includes neuropathy;
+Does not mention gangrene; No hemodynamic
+information; Perfusion assessment based on
+pulse palpation only
+
+Yes, grades 0-3;
+Grade 0: AP >80 mm Hg, ABI 0.9-1.2;
+Grade 1: AP 70-80 mm Hg, ABI 0.7-0.89, TP
+55-80 mm Hg;
+Grade 2: AP 55-69 mm Hg, ABI 0.5-0.69, TP
+30-54 mm Hg;
+Grade 3: AP <55 mm Hg, ABI <0.5,
+TP <30 mm Hg
+
+Yes, grades 0-3;
+Grade 0: none;
+Grade 1: mild. erythema 0.5-2 cm, induration,
+tenderness, warmth and purulence;
+Grade 2: moderate, erythema >2 cm, abscess,
+muscle tendon, joint, or bone infection;
+Grade 3: severe, systemic response (similar to
+IDSA)
+
+Detailed system intended only for DFUs; Detailed
+comprehensive ulcer classiﬁcation system and
+hemodynamic categories for gradation of
+ischemia; Gangrene not considered separately
+Infection system similar to IDSA
+
+No
+
+Yes, uninfected, mild, moderate, and severe
+(Table II)
+
+Yes, ischemia grades 0-3;
+Hemodynamics with spectrum of perfusion
+abnormalities; No cutoff value for CLI;
+Grade 0: unlikely to require revascularization
+
+Yes, IDSA system (Table II)
+
+Validated system for risk of amputation related to
+foot infection, but not designed to address
+wound depth/complexity or degree of ischemia
+Includes PAD þ diabetes with spectrum of
+wounds, ischemia and infection, scaled from 03; No cutoff for CLI. Need for revascularization
+depends on degree of ischemia, wound and/or
+infection severity; Ulcers/gangrene categorized
+based on extent and complexity of anticipated
+ablative surgery/coverage
+
+224 Mills et al
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+neuroischemia is now the most common etiology of DFUs
+in most western countries. The estimated current prevalence rates of neuropathic, ischemic, and neuroischemic
+ulcers in patients with diabetes are 35%, 15%, and 50%,
+respectively.30
+An adequate classiﬁcation system that risk stratiﬁes
+patients and aids in clinical decision-making represents an
+enormous unmet need in the ﬁeld of chronic limb
+ischemia. While limb perfusion and arterial anatomy are
+key factors in predicting amputation risk, so too are wound
+depth and presence and extent of infection. The presence
+of neuropathy also has an important impact on risks of
+ulcer recurrence and amputation. Classiﬁcation systems
+published to date have been of limited utility in clinical
+decision-making because of their overly narrow focus on
+speciﬁc aspects of the lower extremity at risk for amputation. TASC I,9 TASC II,31 the Bollinger32 system, and
+the Graziani morphologic categorization,33 for example,
+address only arterial anatomy, but fail to quantify the index
+wound or baseline perfusion status. Most DFU classiﬁcations lack adequate assessment of perfusion because
+ischemia is included only as a dichotomized variable (based
+on a cutoff ABI of 0.8), with no gradations for severity, or
+they mistakenly apply CLI hemodynamic criteria that were
+never intended to be applied to patients with DFUs.34-49
+The existing major wound classiﬁcation systems (Table I)
+are primarily ulcer classiﬁcations, and generally do not
+distinguish ulcers from gangrene. The Infectious Disease
+Society of America (IDSA) clinical classiﬁcation system42,46
+works well for infection, strongly correlates with amputation risk and has been validated, but does not address
+wound type or perfusion status. Consequently, none of
+these systems is sufﬁciently comprehensive to allow accurate, baseline patient classiﬁcation and stratiﬁcation to serve
+as the foundation for subsequent comparison of outcomes
+among centers, patient subgroups, and revascularization
+procedures. This issue is especially important in the setting
+of diabetic foot ulcers.42-60
+
+“CLI” criteria. Other patients with “CLI” may heal with
+wound care alone, without revascularization, or may be
+managed with analgesics for long periods of time while
+retaining a functional limb. The new system we have developed dispenses with the term CLI and instead creates an
+objective classiﬁcation of the threatened limb based on
+the degree of ischemia, wound extent, gangrene, and infection. This updated Society for Vascular Surgery (SVS)
+Lower Extremity Threatened Limb Classiﬁcation System
+is intended to deﬁne the disease burden, analogous to
+the tumor, node, metastasis (TNM) system for cancer
+staging. It is not intended or designed to inﬂuence or
+dictate treatment method, especially since treatment
+modalities continue to evolve. The primary purpose of
+this classiﬁcation is to provide more precise description of
+the disease burden to allow accurate outcomes assessments
+and comparisons between similar groups of patients and
+alternative therapies. In addition, going forward, an
+updated risk factor/comorbidity index and a simpler
+anatomic classiﬁcation system will need to be added to
+this disease burden classiﬁcation to aid in selection of the
+best therapy for any given patient.
+The need to reconsider how we classify the threatened
+limb is clear. Ischemia, while of fundamental importance, is
+but one component among a triad of major factors that
+place a limb at risk for amputation. The proposed SVS
+Lower Extremity Threatened Limb Classiﬁcation System
+is based simply on grading each of the three major factors
+(Wound, Ischemia, and foot Infection [WIfI]). This classiﬁcation system is hereinafter referred to as SVS WIfI. It is
+based on a scale from 0 to 3, where 0 represents none, 1
+mild, 2 moderate, and 3 severe (Table II). This classiﬁcation represents a synthesis of multiple previously published
+classiﬁcation schemes that merges systems focused on diabetic foot ulcers and pure ischemia models. A brief description of its derivation and underlying rationale follows. The
+terms grades, classes, and stages as used in this document
+are clariﬁed in Table III.
+
+JUSTIFICATION FOR AN UPDATED
+CLASSIFICATION SYSTEM
+
+THE SVS WIfI CLASSIFICATION SYSTEM
+
+An improved understanding of the underlying disease
+and advances in therapy, particularly endovascular procedures, has rendered existing classiﬁcation schemes obsolete
+while simultaneously highlighting the need for a more
+comprehensive system. The concept of a single dichotomous hemodynamic cutoff point for CLI no longer applies
+to the majority of patients encountered in current clinical
+practice; various degrees of ischemia may prove “critical”
+depending on the overall status of the limb. It has become
+clear that limb ischemia does not have sharp cutoff points
+but consists of a gradual spectrum in the pattern of
+a sigmoidal curve (Fig). Wound healing, thus, depends
+not only on the degree of ischemia, but also on the extent
+and depth of the wound and the presence and severity of
+infection. Thus, some patients with moderate ischemia
+may heal faster with revascularization or even require it
+to heal large wounds, although they do not meet current
+
+With respect to wound categorization, both the Fontaine14 and Rutherford8 classiﬁcations of lower extremity
+ischemia lack sufﬁcient detail. DFU classiﬁcations such as
+perfusion, extent/size, depth/tissue loss, infection, sensation (PEDIS),43 University of Texas (UT),34 variants
+of sepsis, arteriopathy, denervation (SAD),37,38,40,41 and
+St Elian39 offer the beneﬁt of having been validated.
+However, most DFU systems fail to provide sufﬁcient
+detail with regard to perfusion status and are ulcer systems,
+with no speciﬁc mention of gangrene. Gangrene increases
+risk of amputation compared with ulceration.44,45,56,58,61-65
+Although the Wagner classiﬁcation35,36 includes gangrene, it does not differentiate gangrene because of infection from that resulting from ischemia. It also fails to
+characterize the degree of infection, ischemia, or wound
+extent. Table I summarizes multiple existing classiﬁcation
+systems; strengths and limitations of each system are
+noted in the comments column.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Fig. Hemodynamics and probability of healing of a diabetic foot
+ulcer modiﬁed by Joseph Mills and George Andros. Adapted from:
+http://iwgdf.org/consensus/peripheral-arterial-disease-and-diabetes/
+CA Andersen. Noninvasive assessment of lower extremity hemodynamics in individuals with diabetes mellitus. J Vasc Surg
+2010;52(Suppl):76S-80S.
+
+Mills et al 225
+
+spectrum, patients with signiﬁcant wounds and a systolic
+AP <50 mm Hg or an ABI <0.4 are quite likely to require
+revascularization to achieve wound healing and limb
+salvage. These patients have ischemia grade 3, a level of
+ischemia strongly associated with increased amputation
+risk.26,44 However, especially in patients with diabetes
+and wounds complicated by infection, correction of intermediate perfusion deﬁcits (0.4 <ABI <0.8) may speed
+healing of smaller wounds, or even be required to heal
+extensive wounds. Patients in this intermediate perfusion
+range were classiﬁed as ischemia grades 1 and 2. If the
+ABI is unreliable or incompressible, TP or TcPO2 measurements must be performed to stratify the degree of ischemia.
+The latter measurements are preferred in patients with
+diabetes mellitus or the elderly, when ABI measurements
+may be falsely elevated because of medial calcinosis. Toe
+pressures are mandatory in all patients with diabetes mellitus66-69 and alternate perfusion measurements that may
+be especially applicable to patients with foot wounds,
+and a spectrum of ischemia may help quantify the degree
+of ischemia including pulse volume recordings, skin
+perfusion pressures and quantitative indocyanine green
+angiography.70
+
+WOUND GRADES
+
+INFECTION GRADES
+
+In the SVS WIfI classiﬁcation system (Table II),
+wounds are stratiﬁed or graded from grade 0 through
+grade 3 based on size, depth, severity, and anticipated difﬁculty achieving wound healing (see clinical description in
+Table II). A grade 0 patient does not have a wound. Grades
+1, 2, and 3 are blended from published DFU classiﬁcation
+systems, but gangrene is also included and stratiﬁed by
+extent. In contrast to previous systems, WIfI also considers
+the anticipated complexity of the procedure(s) required to
+achieve wound healing. As shown in Table II, grade 1
+wounds are characterized by minor tissue loss salvageable
+with simple digital amputation or skin coverage. Grade 2
+wounds are more advanced, but potentially salvageable
+with multiple digital amputations or at most, a standard
+transmetatarsal amputation. Extensive tissue loss that will
+require amputation proximal to the level of a standard
+transmetatarsal amputation (Chopart or Lisfranc) or will
+require a free ﬂap or a large full thickness heel ulcer are
+assigned the highest class of severity, grade 3. Advanced
+gangrene upon presentation that precludes salvage of
+a functional foot is excluded from classiﬁcation (stage 5;
+Tables IV-VI).
+
+The presence and severity of infection and its threat to
+limb has been systematically ignored by many classiﬁcation
+systems. The risk of amputation correlates directly with
+increasing infection severity. Especially in patients with diabetes, infection is often the major event that prompts
+hospitalization and leads to amputation; infection in the
+presence of PAD dramatically increases risk.34,53,54 The
+IDSA classiﬁcation system is a clinical one that does not
+require complex imaging.42 A longitudinal study of 1666
+persons with diabetes conﬁrmed increased risk for amputation (P < .001), higher-level amputation (P < .001), and
+lower extremity-related hospitalization (P < .001) with
+increasing infection severity based on IDSA classiﬁcation.46
+IDSA class 2 and 3 infections in particular markedly
+increased hospitalization and amputation rates from negligible to the 50%-80% range. Both the Eurodiale53,54 and
+Circulase trial11 data conﬁrm that infection is frequently
+the trigger to amputation in patients with a threatened
+limb. Infection appears to be especially detrimental in
+patients with PAD compared with those with normal
+perfusion. In fact, the combination of infection and PAD
+in the Eurodiale study tripled the likelihood of wound nonhealing.54 Infection can augment the need for perfusion
+both by increased metabolic activity and small vessel
+thrombosis attributable to angiotoxic enzymes. Worsening
+severity of ischemia likely further increases amputation risk
+in the presence of infection, although the severity of
+ischemia was not speciﬁed in Eurodiale. Despite the clear
+importance of infection in the pathway toward major
+limb amputation in patients with lower extremity wounds
+and PAD, infection is not even mentioned in the TASC,
+Rutherford, or Fontaine classiﬁcation systems. Therefore,
+we adapted the IDSA system into WIfI (Table II). The
+
+ISCHEMIA GRADES
+Ischemia in many DFU schemes is deﬁned as an
+ABI <0.8 and is considered as a simpliﬁed 6 variable
+without gradations of severity. Multiple studies suggest
+that patients with ABI >0.8 are at lower risk for amputation and unlikely to require revascularization to achieve
+healing.34,44,54 In these patients, wound and infection
+severity are the major determinants of amputation risk.
+Patients with ABI >0.8 were therefore classiﬁed as
+ischemia grade 0. At the other end of the perfusion
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+226 Mills et al
+
+Table II. Society for Vascular Surgery Lower Extremity Threatened Limb (SVS WIfI) classiﬁcation system
+I. Wound
+II. Ischemia
+III. foot Infection
+W I fI score
+W: Wound/clinical category
+SVS grades for rest pain and wounds/tissue loss (ulcers and gangrene):
+0 (ischemic rest pain, ischemia grade 3; no ulcer) 1 (mild) 2 (moderate) 3 (severe)
+
+Grade
+
+Ulcer
+
+Gangrene
+
+0
+No ulcer
+Clinical description: ischemic rest pain (requires typical symptoms þ ischemia grade 3); no wound.
+
+No gangrene
+
+1
+
+Small, shallow ulcer(s) on distal leg
+No gangrene
+or foot; no exposed bone, unless limited
+to distal phalanx
+Clinical description: minor tissue loss. Salvageable with simple digital amputation (1 or 2 digits) or skin coverage.
+2
+
+Deeper ulcer with exposed bone, joint or
+Gangrenous changes limited to digits
+tendon; generally not involving the heel;
+shallow heel ulcer, without calcaneal involvement
+Clinical description: major tissue loss salvageable with multiple ($3) digital amputations or standard TMA 6 skin coverage.
+3
+
+Extensive, deep ulcer involving forefoot and/or
+Extensive gangrene involving forefoot
+midfoot; deep, full thickness heel ulcer 6
+and /or midfoot; full thickness
+heel necrosis 6 calcaneal involvement
+calcaneal involvement
+Clinical description: extensive tissue loss salvageable only with a complex foot reconstruction or nontraditional TMA (Chopart or Lisfranc);
+ﬂap coverage or complex wound management needed for large soft tissue defect
+TMA, Transmetatarsal amputation.
+I: Ischemia
+Hemodynamics/perfusion: Measure TP or TcPO2 if ABI incompressible (>1.3)
+SVS grades 0 (none), 1 (mild), 2 (moderate), and 3 (severe).
+
+Grade
+0
+1
+2
+3
+
+ABI
+$0.80
+0.6-0.79
+0.4-0.59
+#0.39
+
+Ankle systolic pressure
+
+TP, TcPO2
+
+>100 mm Hg
+70-100 mm Hg
+50-70 mm Hg
+<50 mm Hg
+
+$60 mm Hg
+40-59 mm Hg
+30-39 mm Hg
+<30 mm Hg
+
+ABI, Ankle-brachial index; PVR, pulse volume recording; SPP, skin perfusion pressure; TP, toe pressure; TcPO2, transcutaneous oximetry.
+Patients with diabetes should have TP measurements. If arterial calciﬁcation precludes reliable ABI or TP measurements, ischemia should be documented by
+TcPO2, SPP, or PVR. If TP and ABI measurements result in different grades, TP will be the primary determinant of ischemia grade.
+Flat or minimally pulsatile forefoot PVR ¼ grade 3.
+fI: foot Infection:
+SVS grades 0 (none), 1 (mild), 2 (moderate), and 3 (severe: limb and/or life-threatening)
+SVS adaptation of Infectious Diseases Society of America (IDSA) and International Working Group on the Diabetic Foot (IWGDF) perfusion, extent/size,
+depth/tissue loss, infection, sensation (PEDIS) classiﬁcations of diabetic foot infection
+
+Clinical manifestation of infection
+
+SVS
+
+IDSA/PEDIS
+infection severity
+
+No symptoms or signs of infection
+Infection present, as deﬁned by the presence of at least 2 of the following
+items:
+d Local swelling or induration
+d Erythema >0.5 to #2 cm around the ulcer
+d Local tenderness or pain
+d Local warmth
+d Purulent discharge (thick, opaque to white, or sanguineous secretion)
+______________________________________________________________
+Local infection involving only the skin and the subcutaneous tissue
+(without involvement of deeper tissues and without systemic signs as
+described below).
+Exclude other causes of an inﬂammatory response of the skin (eg, trauma,
+gout, acute Charcot neuro-osteoarthropathy, fracture, thrombosis,
+venous stasis)
+
+0
+
+Uninfected
+
+1
+
+Mild
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 227
+
+Table II. Continued.
+Clinical manifestation of infection
+
+SVS
+
+IDSA/PEDIS
+infection severity
+
+Local infection (as described above) with erythema >2 cm, or involving
+structures deeper than skin and subcutaneous tissues (eg, abscess,
+osteomyelitis, septic arthritis, fasciitis), and
+No systemic inﬂammatory response signs (as described below)
+Local infection (as described above) with the signs of SIRS, as manifested
+by two or more of the following:
+d Temperature >38 or <36 C
+d Heart rate >90 beats/min
+d Respiratory rate >20 breaths/min or PaCO2 <32 mm Hg
+d White blood cell count >12,000 or <4000 cu/mm or 10% immature
+(band) forms
+
+2
+
+Moderate
+
+3
+
+Severea
+
+PACO2, Partial pressure of arterial carbon dioxide; SIRS, systemic inﬂammatory response syndrome.
+a
+Ischemia may complicate and increase the severity of any infection. Systemic infection may sometimes manifest with other clinical ﬁndings, such as hypotension, confusion, vomiting, or evidence of metabolic disturbances, such as acidosis, severe hyperglycemia, new-onset azotemia.
+From Lipsky et al.42
+
+Table II. a, Key summary points for use of Society for Vascular Surgery Lower Extremity Threatened Limb (SVS WIfI)
+classiﬁcation system
+1. Table II, the full system, is to be used for initial, baseline classiﬁcation of all patients with ischemic rest pain or wounds within the
+spectrum of chronic lower limb ischemia when reporting outcomes, regardless of form of therapy. The system is not to be employed for
+patients with vasospastic and collagen vascular disease, vasculitis, Buerger’s disease, acute limb ischemia, or acute trauma (mangled
+extremity).
+2. Patients with and without diabetes mellitus should be differentiated into separate categories for subsequent outcomes analysis.
+a. Presence of neuropathy (6) should be noted when possible in patients with diabetes in long-term studies of wound healing, ulcer
+recurrence, and amputation, since the presence of neuropathy (loss of protective sensation and motor neuropathic deformity)
+inﬂuences recurrence rate.
+3. In the Wound (W) classiﬁcation, depth takes priority over size. Although we recommend that a wound, if present, be measured,
+a shallow, 8-cm2 ulcer with no exposed tendon or bone would be classiﬁed as grade 1.
+a. If a study of wound healing vs Wound (W) grade were performed, wounds would be classiﬁed by depth, and could also be
+categorized by size: small (<5 cm2), medium (5-10 cm2), and large (>10 cm2)
+4. TPs are preferred for classiﬁcation of ischemia (I) in patients with diabetes mellitus, since ABI is often falsely elevated. TcPO2, SPP, and
+ﬂat forefoot PVRs are also acceptable alternatives if TP is unavailable. All reports of outcomes with or without revascularization therapy
+require measurement and classiﬁcation of baseline perfusion.
+5. In reporting the outcomes of revascularization procedures, patients should be restaged after control of infection, if present, and/or after
+any debridement, if performed, prior to revascularization (Table IV).
+a. Group a patients: no infection within 30 days, or simple infection controlled with antibiotics alone
+b. Group b patients: had infection that required incision and drainage or debridement/partial amputation to control
+ABI, Ankle-brachial index; PVR, pulse volume recording; SPP, skin perfusion pressure; TcPO2, transcutaneous oximetry; TP, toe pressure.
+
+four grades are based on simple clinical observations. This
+system has been validated and correlates with amputation
+risk. It should be noted that grade 3 infections are characterized by systemic or metabolic toxicity and are associated
+with a very high risk of early amputation.
+CLINICAL APPLICATION OF SVS WIfI
+CLASSIFICATION SYSTEM: TARGET PATIENT
+POPULATION
+The intent of this new WIfI classiﬁcation system is for it to
+be applied to patients across a broad spectrum of lower
+extremity atherosclerotic occlusive disease of varying severity
+and distribution (Table II, a). It includes patients with ischemic
+rest pain in addition to tissue loss with coexisting chronic PAD.
+The following conditions are excluded: patients with pure
+venous ulcers; acute limb ischemia; acute “trash” foot; or
+ischemia due to emboli, acute trauma/mangled extremity;
+
+and those with wounds related to nonatherosclerotic conditions such as vasculitis, collagen vascular disease, Buerger’s
+disease, neoplasm, dermatoses, and radiation.
+The target population for this system includes any
+patient with:
+Ischemic rest pain, typically in the forefoot with conﬁrmatory, objective hemodynamic studies (ABI <0.40,
+AP <50, TP <30, TcPO2 <20)
+d A diabetic foot ulcer
+d Nonhealing lower limb or foot ulceration of at least
+2 weeks duration
+d Gangrene involving any portion of the foot or lower
+limb.
+d
+
+Since each of the three categories (wound, ischemia,
+and foot infection) has four grades of severity, the system
+
+228 Mills et al
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+Table III. Deﬁnition of terms
+I. Components: The Society for Vascular Surgery Lower Extremity Threatened Limb (SVS WIfI) classiﬁcation system has three
+components:
+Wound
+Ischemia
+Foot Infection
+II. Grades: Each component is graded on a spectrum from 0 (none) to 1 (mild) to 2 (moderate) to 3 (severe) according to the criteria
+outlined in Table II.
+III. Classes: Based on grades assigned to each of the three individual components, a WIfI class is assigned.
+Example 1: A patient with ischemic rest pain, an ABI of 0.30, no wound, and no signs of infection would be classiﬁed as Wound 0 Ischemia
+3 foot Infection 0 or WIfI 030.
+Example 2: A 55-year-old man with diabetes, dry gangrene of two toes, and a <2-cm rim of cellulitis at the base of the toes, but without
+systemic or metabolic toxicity has absent pedal pulses. The ABI is 1.5. The toe pressure is 35 mm Hg. He would be classiﬁed as Wound 2
+Ischemia 2 foot Infection 1 or WIfI 221.
+IV. Stages: The four clinical stages were derived by Delphi Consensus (Table IV) and will require prospective validation. This process is
+intended to be iterative and is meant to reduce the number of clinical stages to a manageable and meaningful number; the stages should
+correlate with amputation risk (natural history of limb with that given clinical stage in the absence of revascularization). Using the same
+patient examples as above:
+Example 1: A patient with ischemic rest pain, an ABI of 0.30, no wound, and no signs of infection would be classiﬁed as: Wound
+0 Ischemia 3 foot Infection 0 or WIfI 030. The consensus clinical stage is 2 (low) with respect to risk of major limb amputation at one
+year.
+Example 2: A 55-year-old man with diabetes, dry gangrene of two toes, and a <2-cm rim of cellulitis at the base of the toes, but without
+systemic or metabolic toxicity has absent pedal pulses. The ABI is 1.5. The toe pressure is 35 mm Hg. He would be classiﬁed as Wound 2
+Ischemia 2 foot Infection 1 or WIfI 221. The clinical stage would be 4 (high risk of amputation).
+ABI, Ankle-brachial index.
+
+produces a grid with 64 theoretically possible clinical
+combinations (WIfI classes). To deﬁne initially the system’s
+potential clinical applicability, a Delphi consensus process
+was carried out by members of the SVS Lower Extremity
+Guidelines Committee and recognized experts in the ﬁeld
+of chronic limb ischemia. This 12-member group was
+instructed to use the classiﬁcation system to address two
+questions. First, what is the perceived risk of amputation
+for each possible combination? Second, what is the
+perceived beneﬁt from revascularization for each possible
+combination? This exercise was designed to deﬁne stages
+of disease that might subsequently be useful for clinical
+decision-making and prospective studies.
+
+AMPUTATION RISK ACCORDING TO WIfI
+CATEGORY
+Each member of the Delphi Consensus group was asked
+to assign a limb threat clinical stage to each of the 64 theoretical patient combinations that would correlate with risk of
+amputation (stage 1 - very low; stage 2 - low; stage 3 moderate; and stage 4 - high). The results of this Delphi
+Consensus process are depicted in Table IV, a, which represents the consensus of the 12-member panel with respect to
+their assessments of the one-year risk of amputation with
+medical therapy alone for each of the 64 possible presentations. In general, risk of amputation was believed to increase
+as one proceeds down and to the right (increasing severity of
+each of the individual WIfI score components). Lesser grades
+of ischemia (below that which corresponds to the current
+deﬁnition of CLI) were uniformly believed to contribute
+to an increased risk of amputation as wound complexity
+and degree of infection increased. Inter-rater reliability was
+assessed by the intraclass correlation (ICC) using a twoway random effects model evaluating absolute agreement.71
+
+The ICC was high with a single measures coefﬁcient of .81
+and an average measures coefﬁcient of .98.
+REVASCULARIZATION BENEFIT ACCORDING
+TO WIfI CATEGORY
+Distinct from the anticipated risk of amputation, an
+important question for the vascular specialist is to assess
+the potential beneﬁt from successful revascularization,
+which is strongly inﬂuenced by the degree of perfusion
+beneﬁt as well as the hemodynamic requirements for
+successful foot salvage. To address this question, we had
+to assume that any infection, if present, had been
+controlled. This question differs from the risk of amputation, since large complex wounds and severe infection
+may lead to amputation even in the absence of signiﬁcant
+ischemia. Conversely, minor wounds or wounds with
+mild/moderate ischemia may heal with adequate debridement and wound care alone. Accordingly, we undertook
+a similar Delphi process to classify the WIfI combinations
+into four groups (very low, low, moderate, and high) based
+on projected beneﬁt from anatomic revascularizationd
+from no (or very low) beneﬁt to greatest potential beneﬁt.
+In this process, certain presentations at the extremes of
+amputation risk (eg, rest pain alone vs extensive infection
+without ischemia) are classiﬁed quite differently than in
+the disease staging system above (Table IV, a) that focused
+on amputation risk. Table IV, b is quite informative for
+determining the likelihood a given patient will require
+revascularization. As with amputation risk, the ICC71 was
+slightly lower but still quite acceptable with a single
+measures coefﬁcient of .76 and an average measures coefﬁcient of .97.
+The 16 possible combinations in ischemia 0 are
+unlikely to require revascularization. The spectrum of
+ischemia requiring vascular intervention is, thus, reduced
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 229
+
+Table IV. a and b, Risk/beneﬁt: Clinical stages by expert consensus
+a, Estimate risk of amputation at 1 year for each combination
+
+W-0
+W-1
+W-2
+W-3
+
+Ischemia – 0
+VL VL L
+VL VL L
+L
+L
+M
+M M H
+fI- fI- fI0
+1
+2
+
+M
+M
+H
+H
+fI3
+
+Ischemia – 1
+VL L M
+VL L M
+M M H
+H
+H H
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+L M H
+M H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+H
+H
+H
+H
+fI3
+
+Ischemia – 3
+L M M
+M M H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+b, Estimate likelihood of benefit of/requirement for revascularization (assuming
+infection can be controlled first)
+
+W-0
+W-1
+W-2
+W-3
+
+Ischemia – 0
+VL VL VL
+VL VL VL
+VL VL VL
+VL VL VL
+f-0 fI- fI1
+2
+
+VL
+VL
+VL
+VL
+fI3
+
+Ischemia – 1
+VL L L
+L
+M M
+M M H
+M M M
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+M H H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+M
+M
+H
+H
+fI3
+
+M
+H
+H
+H
+fI3
+
+Ischemia – 3
+M H H
+H H H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+fI, foot Infection; I, Ischemia; W, Wound.
+Premises:
+1. Increase in wound class increases risk of amputation (based on PEDIS, UT, and
+other wound classification systems)
+2. PAD and infection are synergistic (Eurodiale); infected wound + PAD increases
+likelihood revascularization will be needed to heal wound
+3. Infection 3 category (systemic/metabolic instability): moderate to high-risk of
+amputation regardless of other factors (validated IDSA guidelines)
+Four classes: for each box, group combination into one of these four classes
+Very low = VL = clinical stage 1
+Low = L = clinical stage 2
+Moderate = M = clinical stage 3
+High = H = clinical stage 4
+Clinical stage 5 would signify an unsalvageable foot
+
+IDSA, Infectious Disease Society of America; PAD, peripheral artery disease; PEDIS, perfusion, extent/size, depth/tissue loss, infection, sensation; UT,
+University of Texas.
+
+to 48 possibilities. Quick perusal will note that many theoretically possible combinations are clinically unlikely, so the
+actual number of probable scenarios is far more limited.
+Most of the patients in the ischemia 1 and 2 blocks of 16
+combinations suffer from “situational ischemia.” As wound
+complexity and infection severity increase (a shift down and
+to the right in each box of 16), the likelihood that revascularization will be required increases. In the ischemia 3 category, small wounds without infection may not always
+require vascular intervention, but such an intervention
+may speed healing. Again, shifts down and to the right
+within this box increase the odds that vascular intervention
+will be required; it likely will be mandatory for W 2 and
+W 3 patients, especially in the presence of infection.
+Since this is a new, updated system, we emphasize that
+these consensus-based clinical stages will require rigorous
+validation in large datasets that are generalizable to the
+
+broad heterogeneous chronic limb ischemia population.
+Such validation could be done as part of a registry, and
+plans are underway to begin this process within the SVS
+Vascular Quality Initiative.72 We anticipate that within
+2 years, we will be able to conﬁrm or re-assign patients
+by WIfI classiﬁcation to the appropriate limb threat clinical
+stage based on such registry data. It is expected that validated limb threat stages will be found to correlate with
+amputation risk (Supplementary Fig 1, online only).
+APPLICATION OF WIfI STRATIFICATION
+The following examples demonstrate the application of
+WIfI in the clinical setting.
+Example 1. A patient with ischemic rest pain, an ABI
+of 0.30, no wounds, and no signs of infection would be
+classiﬁed as Wound 0 Ischemia 3 foot Infection 0 or
+WIfI 030. The consensus clinical stage is 2 (low) with
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+230 Mills et al
+
+Table V. Wound, Ischemia, and foot Infection (WIfI) reclassiﬁcation after debridement and control of infection (if
+required)
+The complete WIfI system is used to classify the patient at the time of initial presentation. In some patients with severe infection, the patient
+might require urgent drainage and debridement prior to objective documentation of foot perfusion. In such cases, the initial ischemia
+status would be listed as U (Unknown). The ischemia grade would be added after drainage of infection. If ischemia was detected and
+measured, but urgent drainage of infection was nonetheless required, the patient must be reclassiﬁed after control of infection prior to
+revascularization. This process could be simpliﬁed as follows:
+Group a: No infection within 30 days or simple infection controlled with antibiotics alone
+Group b: Infection controlled, but required incision and drainage, open toe or partial forefoot amputation
+
+Wound 0
+Wound 1
+Wound 2
+Wound 3
+
+Ischemia 0
+
+Ischemia 1
+
+Ischemia 2
+
+VL
+VL
+
+VL
+
+VL
+
+Ischemia 3
+a
+
+VL, Very low beneﬁt from revascularization (unlikely to require revascularization).
+a
+W0 I3 (Wound 0, Ischemia 3) patients ¼ rest pain, no tissue loss; most such patients would beneﬁt from revascularization.
+
+W0 I1, 2 ¼ have no wound, no rest pain, and do not require revascularization
+The remaining 11 possible patient scenarios may require revascularization.
+Some of W2 and W3 patients with I “0” may have regional perfusion abnormalities (eg, heel ulcer in patient with CKD and normal toe
+pressure, but arch incomplete and heel ischemic).
+Examples:
+1. Patient Alpha presents with a noninfected, full-thickness, dorsal foot wound with exposed tendon and an ABI of 0.45 with a TP of
+38 mm Hg.
+Initial WIfI ¼ W2 I2 fI 0
+The patient does not respond to simple wound care, so a revascularization is planned.
+Simpliﬁed reclassiﬁcation prior to revascularization is:
+W2 I2 (a)
+2. Patient Beta presents with ABI 0.45, TP 38 mm Hg, and what appears to be a shallow dorsal foot ulcer with induration and >2 cm of
+peri-wound cellulitis. Purulence is expressed from the wound and at exploration, an abscess in the tendon sheath requires open drainage,
+debridement:
+Initial WIfI ¼ W1 I2 fI 2
+The cellulitis and purulence resolve after incision, drainage and 3 days of antibiotic therapy, but the wound is now full thickness with
+exposed tendon:
+Simpliﬁed reclassiﬁcation prior to revascularization is:
+W2 I2 (b)
+ABI, Ankle-brachial index; CKD, chronic kidney disease; TP, toe pressure.
+
+respect to risk of major limb amputation at one year. The
+anticipated beneﬁt of revascularization, however, is high.
+Example 2. A 55-year-old man with diabetes, dry
+gangrene of two toes and a <2-cm rim of cellulitis at the
+base of the toes, but without systemic or metabolic toxicity
+has absent pedal pulses. The ABI is 1.5. The TP is 35 mm
+Hg. He would be classiﬁed as Wound 2 Ischemia 2 foot
+Infection 1 or WIfI 221. The clinical stage would be 4
+(high risk of amputation); the anticipated beneﬁt of
+revascularization is also high.
+Example 3. A 44-year-old woman without a previous
+diagnosis of diabetes presents to the emergency room with
+systemic sepsis, a fever of 39.5 C, an elevated white blood
+cell count of 26,000, and serum blood glucose of 600. She
+has a 6-cm full thickness wound on the plantar aspect of the
+forefoot with crepitus. The dorsalis pedis pulse is palpable,
+and the ABI is 1.08. She would be classiﬁed as follows: W2
+I0 fI 3 or WIfI 203. The clinical stage is 4 (high risk of
+amputation), but the anticipated beneﬁt of revascularization is low.
+In this exercise we also emphasize that clinicians should
+reclassify the limb at the time of planned revascularization,
+
+since control of sepsis or prior foot debridement may have
+altered the WIfI classiﬁcation from the time of initial presentation. The reclassiﬁcation process after surgical debridement can be simpliﬁed (Table V). It is important to note
+that this process is quite similar to the restaging that occurs
+during and after evaluation and treatment for cancer. Thus,
+a small superﬁcial wound (W 1) could be reclassiﬁed as a W
+2 or W 3 after surgical debridement, but before revascularization is attempted. Two patient scenarios in Table V illustrate this process. Supplementary Fig 2 (online only)
+provides clinical examples of wound grades.
+SUGGESTED NEXT STEPS
+The SVS WIfI classiﬁcation system is a ﬁrst critical step
+toward re-examining the evaluation and treatment of
+patients with a spectrum of lower extremity arterial disease.
+It is intended to be an iterative process with the goal of
+more precisely stratifying patients according to their initial
+disease burden, analogous to TNM cancer staging, but not
+to dictate therapy.
+One important potential application of this system is
+for improved clinical trials design. Appropriate stratiﬁcation
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 231
+
+Table VI. Clinical stages (major limb amputation risk)
+based on Wound, Ischemia, and foot Infection (WIfI)
+classiﬁcation
+Risk of
+amputation
+
+Proposed
+clinical stages
+
+Very low
+
+Stage 1
+
+Low
+
+Stage 2
+
+Moderate
+
+Stage 3
+
+High
+
+Stage 4
+
+WIfI spectrum score
+W0 I0 fI0,1
+W0 I1 fI0
+W1 I0 fI0,1
+W1 I1 fI 0
+W0 I0 fI2
+W0 I1 fI1
+W0 I2 fI0,1
+Wo I3 fI0
+W1 I0 fI2
+W1 I1 fI1
+W1 I2 ﬁ0
+W2 I0 fI0/1
+W0 I0 fI3
+W0 I2 fI1,2
+W0 I3 fI1,2
+W1 I0 fI3
+W1 I1 fI2
+W1 I2 fI1
+W1 I3 fI0,1
+W2 I0 fI2
+W2 I 1 fI0,1
+W2 I2 ﬁ0
+W3 I0 ﬁ0,1
+W0 I1,2,3 fI3
+W1 I1 fI3
+W1 I2,3 fI2,3
+W2 I0 ﬁ3
+W2 I1 fI2,3
+W2 I2 ﬁ1,2,3
+W2 I3 fI0,1,2,3
+W3 I0 fI2,3
+W3 I1,2,3 fI0,1,2,3
+
+Clinical stage 5 would signify an unsalvageable foot (most often because of
+wound extent or severity of infection).
+
+of patients by clinical stage should yield a better platform for testing the impact of new therapies in
+randomized trials.73 For example, trials targeting reduction
+in amputation within 1 year as a primary end point of
+a revascularization strategy might be focused on the
+subjects who overlap clinical class 4 and moderate/high
+anticipated beneﬁt for revascularization.
+The WIfI classiﬁcation system is not meant to function
+as a stand-alone clinical decision-making tool. Patient risk
+factors and comorbidities also play a major part in selecting
+the best therapy. Existing proposed comorbidity indices
+based on the Prevent III trial,27 the FinnVasc registry,63
+the Eurodiale study,54,55 the BASIL trial,24-26 the Greenville LEGS score,62 and other sources need to be carefully
+analyzed and resynthesized to create a comorbidity index
+that could be used to guide appropriate therapy. Such
+a comorbidity index could also be validated by utilizing
+the strengths of the SVS Vascular Quality Initiative.72
+Additionally, as we move forward, the need for a new
+and simpler anatomic classiﬁcation system that correlates
+with outcomes after open bypass or endovascular therapy
+will become increasingly clear. The scheme would need
+
+to correlate with outcomes and not practice patterns. We
+envision that clinical decision making and outcomes
+comparisons between alternative treatments would be facilitated by deﬁning subgroups of patients across three
+distinct coordinatesdlimb severity (SVS WIfI), patient
+risk (comorbidity index), and anatomic severity. Such
+a properly stratiﬁed, three-dimensional matrix would lead
+to improved clinical trial designs73 and ultimately better
+evidence-based care for patients with chronic lower
+extremity ischemia and/or tissue compromise.
+Finally, attention should be directed toward redeﬁning
+outcomes. Patency, limb salvage, and amputation-free
+survival are not the only criteria for success. The SVS has
+initiated this process with the publication of objective performance goals.74 Many authors have also begun to examine
+what outcomes would look like from a patient-centered viewpoint (ie, functional outcome).29,75-88 However, these
+outcome measures will only prove applicable if the initial
+disease burden has been adequately characterized and
+stratiﬁed.
+The authors wish to gratefully acknowledge the efforts
+of Thomas Biester and Andrew Jones (psychometricians at
+the American Board of Surgery) for performing the ICC
+statistics, as well as the following members of the SVS
+Lower Extremity Guidelines Committee and other invited
+limb salvage experts for reviewing the basis for this document during its conception and preparation and for
+contributing to the Delphi Consensus process: Daniel
+Clair, Jack Cronenwett, Patrick J. Geraghty, Robert Hinchliffe, James F. McKinsey, Gregory L. Moneta, Richard
+J. Powell, Amy B. Reed and Spence M. Taylor.
+AUTHOR CONTRIBUTIONS
+Conception and design: JM, MC, DA, ANS, GA
+Analysis and interpretation: JM, MC, DA, FP, AS, ANS,
+GA
+Data collection: JM, MC, DA
+Writing the article: JM, MC
+Critical revision of the article: JM, MC, DA, FP, AS, ANS,
+GA
+Final approval of the article: JM, MC, DA, FP, AS, ANS,
+GA
+Statistical analysis: JM
+Obtained funding: Not applicable
+Overall responsibility: JM
+REFERENCES
+1. Bell PRF, Charlesworth D, DePalma RG, Eastcott HHG, Eklöf B,
+Jamieson CW, et al. The deﬁnition of critical ischemia of a limb.
+Working Party of the International Vascular Symposium. Br J Surg
+1982;69(Suppl):S2.
+2. Criqui MH. Peripheral arterial disease and subsequent cardiovascular
+mortality: a strong and consistent association. Circulation 1990;82:
+2246-7.
+3. Caro J, Migliaccio-Walle K, Ishak KJ, Proskorovsky I. The morbidity
+and mortality following a diagnosis of peripheral arterial disease:
+long-term follow-up of a large database. BMC Cardiovasc Disord
+2005;5:14.
+
+232 Mills et al
+
+4. Brownrigg JRW, Davey J, Hoilt PJ, Davis WA, Thompson MM,
+Ray KK, et al. The association of ulceration of the foot with cardiovascular and all-cause mortality in patients with diabetes: a metaanalysis. Diabetologia 2012;55:2906-12.
+5. Criqui MH, Langer RD, Fronek A, Feigelson HS, Klauber MR,
+McCann TJ, et al. Mortality over a period of 10 years in patients with
+peripheral arterial-disease. N Engl J Med 1992;326:381-6.
+6. McDermott MM, Feinglass J, Slavensky R, Pearce WH. The anklebrachial index as a predictor of survival in patients with peripheral
+arterial disease. J Gen Intern Med 1994;9:445-9.
+7. McGrath MA, Graham AR, Hill DA, Lord RSA, Tracy GD. The
+natural history of chronic leg ischemia. World J Surg 1983;7:314-8.
+8. Rutherford RB, Baker JD, Ernst C, Johnston KW, Porter JM, Ahn S,
+et al. Recommended standards for reports dealing with lower extremity
+ischemia: revised version. J Vasc Surg 1997;26:517-38.
+9. Dormandy JA, Rutherford RB. Management of peripheral arterial
+disease (PAD). TASC Working Group: TransAtlantic Inter-Society
+Consensus (TASC). J Vasc Surg 2000;31(Suppl):S1-296.
+10. Setacci C, Ricco JB, Apelqvist J, Becker F, Cao P. Management of
+critical limb ischemia and diabetic foot. Eur J Vas Endovas Surg
+2011;42(S2):S1-90.
+11. Brass EP, Anthony R, Dormandy J, Hiatt WR, Jiao J, Nakanishi A,
+et al. Parenteral therapy with lipo-ecraprost, a lipid-based formulation
+of a PGE1 analog, does not alter six-month outcomes in patients with
+critical leg ischemia. J Vasc Surg 2006;43:752-9.
+12. Marston WA, Davies SW, Armstrong B, Farber MA, Mendes RC,
+Fulton JJ, et al. Natural history of limbs with arterial insufﬁciency and
+chronic ulceration treated without revascularization. J Vasc Surg
+2006;44:108-14.
+13. Elgzyri T, Larsson J, Thörne J, Eriksson KF, Apelqvist J. Outcome of
+ischemic foot ulcer in diabetic patients who had no invasive vascular
+intervention. Eur J Vasc Endovasc Surg 2013;46:110-7.
+14. Fontaine R, Kim M, Kieny R. [Surgical treatment of peripheral circulation disorders.] Helv Chir Acta 1954;21:499-533.
+15. Mills JL. Open bypass and endoluminal therapy: complementary
+techniques for revascularization in diabetic patients with critical limb
+ischemia. 5th International Symposium on the Diabetic Foot. Diabetes/Metabolism, Research and Reviews. Diabetes Metab Res Rev
+2008;24(Suppl 1):S34-9.
+16. Ihnat DM, Mills JL. Current assessment of endovascular therapy for
+infrainguinal arterial occlusive disease in patients with diabetes. J Vasc
+Surg 2010;52:92S-5S.
+17. Hinchliffe RJ, Andros J, Apelqvist J, Bakker K, Fiedrichs S, Lammer J,
+et al. A systematic review of the effectiveness of revascularization of the
+ulcerated foot in patients with diabetes and peripheral arterial disease.
+Diabetes Metab Res Rev 2012;28(Suppl 1):179-217.
+18. Powell RJ, Simons M, Mendelsohn FO, Daniel G, Henry TD, Koga M,
+et al. Results of a double-blind, placebo-controlled study to assess the
+safety of intramuscular injection of hepatocyte growth factor plasmid to
+improve limb perfusion in patients with critical limb ischemia. Circulation 2008;118:58-65.
+19. Tateishi-Yuyama E, Matsubara H, Murohara T, Ikeda U, Shintani S,
+Masaki H, et al. Therapeutic angiogenesis for patients with limb
+ischaemia by autologous transplantation of bone-marrow cells: a pilot
+study and a randomised controlled trial. Lancet 2002;360:427-35.
+20. Benoit E, O’Donnell TF, Iafrati MD, Ascher E, Bandyk DF,
+Hallett JW, et al. The role of amputation as an outcome measure in
+cellular therapy for critical limb ischemia: implications for clinical trial
+design. JTM 2011;9:165.
+21. Powell RJ. Update on clinical trials evaluating the effect of biologic
+therapy in patients with critical limb ischemia. J Vasc Surg 2012;56:264-6.
+22. Taylor SM, York JW, Cull DL, Kalbaugh CA, Cass AL, Langan EM.
+Clinical success using patient-oriented outcome measures after lower
+extremity bypass and endovascular intervention for ischemic tissue loss.
+J Vasc Surg 2009;50:534-41.
+23. Armstrong DG, Cohen K, Courric S, Bharara M, Marston W. Diabetic
+foot ulcers and vascular insufﬁciency: our population has changed, but
+our methods have not. J Diabetes Sci Technol 2011;52:1591-5.
+24. Bradbury AW, Ruckley CV, Fowkes FGR, Forbes JF, Gillespie I,
+Adam DJ, et al. Bypass versus Angioplasty in Severe Ischemia of the
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+Leg (BASIL): multicentre, randomised controlled trial. Lancet
+2005;366:1925-34.
+25. Bradbury AW, Adams DJ, Bell J, Forbes JF, Gillespie I, Ruckley CV,
+et al. Bypass versus Angioplasty in Severe Ischemia of the Leg (BASIL)
+trial: a survival prediction model to facilitate clinical decision making.
+J Vasc Surg 2010;51(5 Suppl):52S-68S.
+26. Bradbury AW, Adam DJ, Bell J, Forbes JF, Fowkes FG, Gillespie I, et al.
+Bypass versus Angioplasty in Severe Ischemia of the Leg (BASIL) trial:
+an intention-to-treat analysis of amputation-free and overall survival in
+patients randomized to a bypass surgery-ﬁrst or a balloon angioplastyﬁrst revascularization strategy. J Vasc Surg 2010;51(5 Suppl):5S-17S.
+27. Conte MS, Bandyk DF, Clowes AW, Moneta GL, Seely L, Lorenz TJ,
+et al. Results of PREVENT III: a multicenter, randomized trial of
+edifoligide for the prevention of vein graft failure in lower extr rgery.
+J Vasc Surg 2006;43:742-50.
+28. Faglia E, Dalla Paola L, Clerici G, Clerissi J, Graziani L, Fusaro M,
+et al. Peripheral angioplasty as the ﬁrst-choice revascularizatuion
+procedure in diabetic patients with critical limb ischemia: prospective
+study of 993 consecutive patients hospitalized and followed between
+1999 and 2003. Eur J Vasc Endovasc Surg 2005;29:620-7.
+29. Goshima KR, Mills JL, Hughes JD. A new look at outcomes following
+infrainguinal bypass surgery: Traditional reporting standards systematically underestimate the expenditure of effort required to attain limb
+salvage. J Vasc Surg 2004;39:330-5.
+30. Ndip A, Jude EB. Emerging evidence for neuroischemic diabetic foot
+ulcers: model of care and how to adapt practice. Int J Low Ext Wounds
+2009;8:82-94.
+31. Norgren L, Hiatt WR, Dormandy JA, Nehler MR, Harris KA,
+Fowkes FG. Inter-Society Consensus for the Management of
+Peripheral Arterial Disease (TASC II). J Vasc Surg 2007;45(Suppl S):
+S5-67.
+32. Bollinger A, Breddin K, Hess H, Heystraten FM, Kollath J, Kontilla A,
+et al. Semiquantitative assessment of lower limb atherosclerosis from
+routine angiographic images. Atherosclerosis 1981;38:339-46.
+33. Graziani L, Silvestro A, Bertone V, Manara E, Adreini R, Sigala A, et al.
+Vascular involvement in diabetic subjects with ischemic foot ulcer:
+a new morphologic categorization of disease severity. Eur J Vas
+Endovasc Surg 2007;33:453-60.
+34. Armstrong DG, Lavery LA, Harkless LB. Validation of a diabetic
+wound classiﬁcation system. The contribution of depth, infection, and
+ischemia to risk of amputation. Diabetes Care 1998;21:855-9.
+35. Meggitt B. Surgical management of the diabetic foot. Br J Hosp Med
+1976;16:227-32.
+36. Wagner FW Jr. The dysvascular foot: a system for diagnosis and
+treatment. Foot Ankle 1981;2:64-122.
+37. Treece KA, Macfarlane RM, Pound N, Game FL, Jeffcoate WJ. Validation of a system of foot ulcer classiﬁcation in diabetes mellitus. Diabet
+Med 2004;21:987-91.
+38. Beckert S, Witte M, Wicke C, Königsrainer A, Coerper S. A new
+wound-based severity score for diabetic foot ulcers: a prospective
+analysis of 1000 patients. Diabetes Care 2006;29:988-92.
+39. Martinez-de Jesús FR. A checklist to score healing progress of diabetic
+foot ulcers. Int J Low Extrem Wounds 2010;9:74-83.
+40. Macfarlane RM, Jeffcoate WJ. Classiﬁcation of diabetic foot ulcers: the
+S(AD) SAD system. Diabetic Foot 1999;2:123-31.
+41. Beckert S, Pietsch AM, Küper M, Wicke C, Königsrainer A, Coerper S.
+M.A.I.D.: a prognostic score estimating probability of healing in
+chronic lower extremity wounds. Ann Surg 2009;249:677-81.
+42. Lipsky BA, Berendt AR, Cornia PB, Pile JC, Peters EJG,
+Armstrong DG, et al. 2012 IDSA clinical practice guideline for the
+diagnosis and treatment of diabetic foot infections. Clin Infect Dis
+2012;54:e132-73.
+43. Schaper NC. Diabetic foot ulcer classiﬁcation system for research
+purposes: a progress report on criteria for including patients in research
+studies. Diabet Metab Res Rev 2004;20:S90-5.
+44. Apelqvist J, Elgzyri T, Larrson J, Löndahl M, Nyberg P, Thörne J.
+Factors related to outcome of neuroischemic/ischemic foot ulcer in
+diabetic patients. J Vasc Surg 2011;53:1582-8.
+45. Gershater MA, Löndahl M, Nyberg P, Larsson J, Thörne J,
+Eneroth M, et al. Complexity of factors related to outcome of
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+neuropathic and neuroischemic/ischemic diabetic foot ulcers: a cohort
+study. Diabetologia 2009;52:398-407.
+46. Lavery LA, Armstrong DG, Murdoch DP, Peters EJ, Lipsky BA.
+Validation of the Infectious Diseases Society of America’s diabetic foot
+infection classiﬁcation system. Clin Infect Dis 2007;44:562-5.
+47. Varu VN, Hogg ME, Kibbe MR. Critical limb ischemia. J Vasc Surg
+2010;51:230-41.
+48. Virkkunen J, Heikkinen M, Lepantalo M, Metsanoja R, Salenius JP.
+Diabetes as an independent risk factor for early postoperative complications in critical limb ischemia. J Vasc Surg 2004;40:761-7.
+49. Abbott JD, Lomardrero MS, Barsness GW, Pena-Sing I, Buitrón LV,
+Singh PS, et al. Ankle-brachial index and cardiovascular outcomes in
+the bypass angioplasty revascularization investigation 2 diabetes trial.
+Am Heart J 2012;164:585-590.e4.
+50. Schaper NC, Andros G, Apelqvist J, Bakker K, Lammer J,
+Lepantalo M, et al. Diagnosis and treatment of peripheral arterial
+disease in diabetic patients with a foot ulcer. A progress report of the
+International Working Group on the Diabetic Foot. Diabetes Metab
+Res Rev 2012;28(Suppl 1):218-24.
+51. Schaper NC, Andros G, Apelqvist J, Bakker K, Lammer J,
+Lepantalo M, et al. Speciﬁc guidelines for the diagnosis and treatment
+of peripheral arterial disease in a patient with diabetes and ulceration of
+the foot. Diabetes Metab Res Rev 2012;28(Suppl 1):236-7.
+52. Dick F, Diehm N, Galimanis A, Husmann M, Schmidli J,
+Baumgartner I. Surgical or endovascular revascularization in patients
+with critical limb ischemia: inﬂuence or diabetes mellitus on clinical
+outcome. J Vasc Surg 2007;45:751-61.
+53. Prompers L, Huijberts M, Apelqvist J, Jude E, Piaggesi A, Bakker K,
+et al. High prevalence of ischaemia, infection and serious comorbidity
+in patients with diabetic foot disease in Europe. Baseline results from
+the Eurodiale study. Diabetolgia 2007;50:18-25.
+54. Prompers L, Schaper N, Apelqvist J, Edmonds M, Jude E, Mauricio D.
+Prediction of outcome in individuals with diabetic foot ulcers: focus on
+the differences between individuals with and without peripheral arterial
+disease. The EURODIALE Study. Diabetologia 2008;51:747-55.
+55. Lipsky BA. A report from the international consensus on diagnosing
+and treating the infected diabetic foot. Diabetes Metab Res Rev
+2004;20(Suppl 1):S68-77.
+56. Schanzer A, Conte MS. Critical limb ischemia. Curr Treat Options
+Cardiovasc Med 2010;12:214-29.
+57. Feringa HH, Bax JJ, Hoeks S, van WV, Elhendy A, Karagiannis S, et al.
+A prognostic risk index for long-term mortality in patients with
+peripheral arterial disease. Arch Intern Med 2007;167:2482-9.
+58. Wolfe JHN, Wyatt MG. Critical and sub critical ischemia. Eur J Vasc
+Endovasc Surg 1997;13:578-82.
+59. White JV, Rutherford RB, Ryjewski C. Chronic subcritical ischemia:
+a poorly recognized stage of critical limb ischemia. Semin Vasc Surg
+2007;20:62-7.
+60. Karthikesalingam A, Holt PJ, Moxey P, Jones KG, Thompson MM,
+Hinchliffe RJ. A systematic review of scoring systems for diabetic foot
+ulcers. Diabet Med 2010;27:544-9.
+61. Schanzer A, Goodney PP, Li Y, Eslami M, Cronenwett J, Messina L,
+et al. Validation of the PIII CLI risk score for the prediction of
+amputation-free survival in patients undergoing infrainguinal autogenous vein bypass for critical limb ischemia. J Vasc Surg 2009;50:
+769-75.
+62. Taylor SM, Kalbaugh CA, Gray BH, Mackrell PJ, Langan EM,
+Cull DL, et al. The LEGS score: a proposed grading system to direct
+treatment of chronic lower extremity ischemia. Ann Surg 2003;237:
+812-8; discussion: 818-9.
+63. Kechagias A, Perala J, Ylonen K, Mahar MA, Biancari F. Validation of
+the Finnvasc score in infrainguinal percutaneous transluminal angioplasty for critical lower limb ischemia. Ann Vasc Surg 2008;22:547-51.
+64. Albäck A, Biancari F, Saarinen O, Lepäntalo M. Prediction of the
+immediate outcome of femoropopliteal saphenous vein bypass by
+angiographic runoff score. Eur J Vas Endovasc Surg 1998;15:220-4.
+65. Taylor SM, Kalbaugh CA, Blackhurst DW, Cass AL, Trent EA,
+Langan EM, et al. Determinants of functional outcome after revascularization for critical limb ischemia: an analysis of 1000 consecutive
+vascular interventions. J Vasc Surg 2006;44:747-55.
+
+Mills et al 233
+
+66. Kalani M, Brismar K, Fagrell B, Ostergren J, Jorneskog G. Transcutaneous oxygen tension and toe blood pressure as predictors for outcome
+of diabetic foot ulcers. Diab Care 1999;22:147-51.
+67. DeGraaff JC, Ubbink DT, Legemate DA, Tijssen JGP, Jacobs MJHM.
+Evaluation of toe pressures and transcutaneous oxygen measurements
+in management of chronic critical leg ischemia: a diagnostic randomized clinical trial. J Vasc Surg 2003;38:528-34.
+68. Castronuovo JJ, Adera HM, Smiell JM, Price RM. Skin perfusion
+pressure measurement is valuable in the diagnosis of critical limb
+ischemia. J Vasc Surg 1997;26:629-37.
+69. Ballard JL, Eke CC, Bunt TJ, Killeen JD. A prospective evaluation
+of transcutaneous oxygen measurements in the management of
+diabetic foot problems. J Vasc Surg 1995;22:485-90; discussion:
+490-2.
+70. Braun JD, Trinidad-Hernandez M, Perry D, Armstrong DG, Mills JL.
+Early quantitative evaluation of indocyanine green angiography in
+patients with critical limb ischemia. J Vasc Surg 2013;57:1213-8.
+71. McGraw KO, Wong SP. Forming inferences about some intraclass
+correlation coefﬁcients. Psychol Methods 1996;1:30-46.
+72. Cronenwett JL, Likosky DS, Russell MT, Eldrup-Jorgensen J,
+Stanley AC, Nolan BW, et al. A regional registry for quality assurance
+and improvement: the Vascular Study Group of Northern New
+England (VSGNNE). J Vasc Surg 2007;46:1093-101.
+73. Subherwal S, Anstrom KJ, Jones WS, Felker MG, Misra S, Conte MS,
+et al. Use of alternative methodologies for evaluation of composite end
+points in trials of therapies for critical limb ischemia. Am Heart J
+2012;164:277-84.
+74. Conte MS, Geraghty PJ, Bradbury AW, Hevelone ND, Lipsitz SR,
+Moneta GL, et al. Suggested objective performance goals and clinical
+trial design for evaluating catheter-based treatment of critical limb
+ischemia. J Vasc Surg 2009;50:1462-73.
+75. Bertele V, Roncaglioni MC, Pangrazzi J, Terzian E, Tognoni G.
+Clinical outcome and its predictors in 1560 patients with critical leg
+ischaemia. Eur J Vasc Endovasc Surg 1999;18:401-10.
+76. Chung J, Bartelson BB, Hiatt WR, Peyton BD, McLafferty RB,
+Hopley CW, et al. Wound healing and functional outcomes after
+infrainguinal bypass with reversed saphenous vein for critical limb
+ischemia. J Vasc Surg 2006;43:1183-90.
+77. AbouZamzam AM, Lee RW, Moneta GL, Taylor LM, Porter JM.
+Functional outcome after infrainguinal bypass for limb salvage. J Vasc
+Surg 1997;25:287-95.
+78. Owens CD, Ho KJ, Kim S, Schanzer A, Lin J, Matros E, et al.
+Reﬁnement of survival prediction in patients undergoing lower
+extremity bypass surgery: stratiﬁcation by chronic kidney disease classiﬁcation. J Vasc Surg 2007;45:944-52.
+79. Thorsen H, McKenna J, Tennant A, Holstein P. Nottingham health
+proﬁle scores predict the outcome and support aggressive revascularization for critical limb ischemia. Eur J Vasc Endovasc Surg 2002;23:
+495-9.
+80. Nguyen L, Lipsitz SR, Bandyk DF, Clowes AW, Moneta GL,
+Belkin M, et al. Resource utilization in the treatment of critical limb
+ischemia: the effect of tissue loss, comorbidities, and graft related
+events. J Vasc Surg 2006;44:971-5.
+81. Biancari F, Salenius JP, Heikkinen M, Luther M, Ylonen K,
+Lepantalo M. Risk-scoring method for prediction of 30-day postoperative outcome after infrainguinal surgical revascularization for
+critical lower-limb ischemia: a Finnvasc registry study. World J Surg
+2007;31:217-27.
+82. Arvela E, Söderström M, Korhonen M, Halmesmäki K, Albäck A,
+Lepäntolo M, et al. Finnvasc score and modiﬁed Prevent III score
+predict long-term outcome after infrainguinal surgical and endovascular revascularization for critical limb ischemia. J Vasc Surg 2010;52:
+1218-25.
+83. Schanzer A, Mega J, Meadows J, Samson RH, Bandyk DF, Conte MS.
+Risk stratiﬁcation in critical limb ischemia: derivation and validation of
+a model to predict amputation-free survival using multicenter surgical
+outcomes data. J Vasc Surg 2008;48:1464-71.
+84. Nicoloff AD, Taylor LM, McLafferty RB, Moneta GL, Porter JM.
+Patient recovery after infrainguinal bypass grafting for limb salvage.
+J Vasc Surg 1998;27:256-63.
+
+234 Mills et al
+
+85. Landry GJ. Functional outcome of critical limb ischemia. J Vasc Surg
+2007;45:141A-8A.
+86. Goodney PP, Likosky DS, Cronenwett JL. Predicting ambulation
+status one year after lower extremity bypass. J Vasc Surg 2009;49:
+1431-9.
+87. Pomposelli FB Jr, Arora S, Gibbons GW, Frykberg R, Smakowski P,
+Campbell DR, et al. Lower extremity arterial reconstruction in the
+very elderly: successful outcome preserves not only the limb but also
+residential status and ambulatory function. J Vasc Surg 1998;28:
+215-25.
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+88. Nguyen LL, Moneta GL, Conte MS, Bandyk DF, Clowes AW,
+Seely BL. Prospective multicenter study of quality of life before and
+after lower extremity vein bypass in 1404 patients with critical limb
+ischemia. J Vasc Surg 2006;44:977-83.
+Submitted Aug 7, 2013; accepted Aug 13, 2013.
+
+Additional material for this article may be found online
+at www.jvascsurg.org.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Supplementary Fig 1 (online only). Estimated 1-year amputation risk (%) by Society for Vascular Surgery (SVS) threatened limb
+clinical stage.
+
+Mills et al 234.e1
+
+234.e2 Mills et al
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+Supplementary Fig 2 (online only). Clinical examples of Society for Vascular Surgery Lower Extremity Threatened
+Limb (SVS WIfI) classiﬁcation system. A, W 1 e shallow neuroischemic ulcer. B, W 1 e shallow neuroischemic mal
+perforans ulcer over ﬁrst metatarsal head. C, W 2 e deep lateral ankle ulcer with exposed tendon. D, W 2 e deep ulcer
+with exposed bone and tendon after debridement and control of infection. E, W 2 e digital gangrene (salvaged with
+revascularization and great toe amputation). F, W 2 e forefoot wound classiﬁed after debridement and control of
+infection. G, Successful transmetatarsal amputation after control of infection and tibial bypass (same patient as F). H,
+W 3 e gangrene into midfoot, ultimately salvaged with dorsalis pedis bypass and modiﬁed transmetatarsal amputation.
+I, W 3 e complex, deep, full-thickness heel ulcer. J, W 3 e complex heel ulcer, prior to debridement. K, W 3 e
+intraoperative view during debridement (same patient as J). L, Clinical stage 5 e unsalvageable extremity, W 3, and fI 3
+with systemic inﬂammatory response syndrome.
+
+

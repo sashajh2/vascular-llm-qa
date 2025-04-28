@@ -1,0 +1,3673 @@
+SOCIETY FOR VASCULAR SURGERY DOCUMENT
+The intersocietal IWGDF, ESVS, SVS guidelines on
+peripheral artery disease in people with diabetes
+mellitus and a foot ulcer
+Robert Fitridge,a Vivienne Chuter,b Joseph Mills,c Robert Hinchliffe,d Nobuyoshi Azuma,e
+Christian-Alexander Behrendt,f Edward J. Boyko,g Michael S. Conte,h Misty Humphries,i Lee Kirksey,j
+Katharine C. McGinigle,k Sigrid Nikol,l Joakim Nordanstig,m Vincent Rowe,n David Russell,o
+Jos C. van den Berg,p Maarit Venermo,q and Nicolaas Schaper,r Campbelltown, Australia; Houston, TX; Bristol, UK;
+Hokkaido, Japan; Hamburg, Germany; Seattle, WA; CA, USA; Sacramento, CA; Cleveland, OH; Chapel Hill, NC; Hamburg,
+Germany; Gothenburg, Sweden; Los Angeles, CA; Leeds, UK; Helsinki, Finland; The Netherlands
+
+Abstract: Diabetes related foot complications have become a major cause of morbidity and are implicated in most major
+and minor amputations globally. Approximately 50% of people with diabetes and a foot ulcer have peripheral artery
+disease (PAD) and the presence of PAD signiﬁcantly increases the risk of adverse limb and cardiovascular events.
+The International Working Group on the Diabetic Foot (IWGDF) has published evidence based guidelines on the
+management and prevention of diabetes related foot complications since 1999. This guideline is an update of the 2019
+IWGDF guideline on the diagnosis, prognosis, and management of peripheral artery disease in people with diabetes
+mellitus and a foot ulcer. For this updated guideline, the IWGDF, the European Society for Vascular Surgery, and the
+Society for Vascular Surgery decided to collaborate to develop a consistent suite of recommendations relevant to clinicians in all countries.
+This guideline is based on three new systematic reviews. Using the Grading of Recommendations, Assessment,
+Development and Evaluation framework clinically relevant questions were formulated, and the literature was systematically reviewed. After assessing the certainty of the evidence, recommendations were formulated which were weighed
+against the balance of beneﬁts and harms, patient values, feasibility, acceptability, equity, resources required, and when
+available, costs.
+Through this process ﬁve recommendations were developed for diagnosing PAD in a person with diabetes, with and
+without a foot ulcer or gangrene. Five recommendations were developed for prognosis relating to estimating likelihood
+of healing and amputation outcomes in a person with diabetes and a foot ulcer or gangrene. Fifteen recommendations
+were developed related to PAD treatment encompassing prioritisation of people for revascularisation, the choice of a
+procedure and post-surgical care. In addition, the Writing Committee has highlighted key research questions where
+current evidence is lacking.
+The Writing Committee believes that following these recommendations will help healthcare professionals to provide
+better care and will reduce the burden of diabetes related foot complications. (J Vasc Surg 2023;78:1101-31.)
+Keywords: Chronic limb threatening ischaemia; Critical limb ischaemia; Diabetes mellitus; Diabetes related foot ulcer;
+Endovascular intervention; Peripheral artery disease
+
+From the Faculty of Health and Medical Sciences, University of Adelaide and
+Vascular and Endovascular Service, Royal Adelaide Hospital Adelaide, Aus-
+
+Hospital, University of Helsinki, Helsinki, Finlandq; the and the Division of
+Endocrinology, Dept. Internal Medicine, MUMC+, The Netherlands.r
+
+traliaa; the School of Health Sciences, Western Sydney University, Campbell-
+
+Additional material for this article may be found online at www.jvascsurg.org.
+
+town, Australiab; the Baylor College of Medicine, Houston, TX, USAc; the
+
+Correspondence: Robert Fitridge (e-mail: robert.ﬁtridge@adelaide.edu.au).
+
+Bristol Centre for Surgical Research, University of Bristol, Bristol, UKd; the Asa-
+
+Independent peer review and oversight has been provided by the members of
+
+hikawa Medical University, Hokkaido, Japane; the Department of Vascular
+
+the SVS Document Oversight Committee (Marc Schermerhorn, Chair, Britt
+
+and Endovascular Surgery, Asklepios Clinic Wandsbek, Asklepios Medical
+
+Tonnessen, Vice Chair, Mohammad Eslami, Raul Guzman, Peter Henke, Vik-
+
+School, Hamburg, Germanyf; the University of Washington, Seattle, WA,
+
+ram Kashyap, Ahmed Kayssi, Chris Kwolek, Erika Mitchell, Patrick Muck, Wil-
+
+USAg; the University of California, San Francisco Medical Centre, CA, USAh;
+
+liam Robinson, Evan Ryer, Palma Shaw, Chris Smolock, Chandu Vemuri, Greg
+
+the UC Davis Medical Centre, Sacramento, CA, USAi; The Cleveland Clinic,
+
+Westin, and Karen Woo).
+
+Cleveland, OH, USAj; the University of North-Carolina, Chapel Hill, NC, USAk;
+
+0741-5214
+
+the Clinical and Interventional Angiology, Asklepios Klinik, St Georg,
+
+Ó The Author(s). Published by Elsevier Inc. on behalf of the Society for Vascular
+
+Hamburg, Germanyl; the Sahlgrenska University Hospital, Gothenburg, Swe-
+
+Surgery. Elsevier B.V on behalf of European Society for Vascular Surgery and
+
+denm; the David Geffen School of Medicine, UCLA, Los Angeles, CA, USAn;
+
+John Wiley & Sons Ltd. This is an open access article under the CC BY license
+
+the Leeds Teaching Hospitals NHS Trust, Leeds, UKo; the CENTRO VASCO-
+
+(http://creativecommons.org/licenses/by/4.0/).
+
+LARE TICINO Ospedale Regionale di Lugano, sede Civico and Universitätsin-
+
+https://doi.org/10.1016/j.jvs.2023.07.020
+
+stitut für Diagnostische, Interventionelle und Pädiatrische Radiologie
+Inselspital, Universitätsspital Bern Switzerlandp; the Helsinki University
+
+1101
+
+1102
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+LIST OF RECOMMENDATIONS
+Summary of recommendations
+Chapter
+Diagnosis
+
+Recommendation
+
+1. In a person with diabetes without a foot ulcer, take a relevant
+history for peripheral artery disease, examine the foot for signs of
+ischaemia and palpate the foot pulses at least annually, or with
+any change in clinical status of the feet.
+2. In a person with diabetes without a foot ulcer, if peripheral artery
+disease (PAD) is suspected, consider performing pedal Doppler
+waveforms in combination with ankle brachial index (ABI) and
+toe brachial index (TBI). No single modality has been shown to be
+optimal for the diagnosis of PAD and there is no value above
+which PAD can be excluded. However, PAD is less likely in the
+presence of ABI 0.9 e 1.3; TBI $ 0.70; and triphasic or biphasic
+pedal Doppler waveforms.
+3. In a person with diabetes and a foot ulcer or gangrene, take a
+relevant history for peripheral artery disease, examine the person
+for signs of ischaemia and palpate the foot pulses.
+4. In a person with diabetes and a foot ulcer or gangrene, evaluate
+pedal Doppler waveforms in combination with ankle brachial
+index (ABI) and toe brachial index (TBI) measurements to identify
+the presence of peripheral artery disease (PAD).
+No single modality has been shown to be optimal for the diagnosis
+of PAD, and there is no value above which PAD can be excluded.
+However, PAD is less likely in the presence of ABI 0.9 e 1.3; TBI $
+0.70; and triphasic or biphasic pedal Doppler waveforms.
+5. In a person with diabetes without a foot ulcer in whom a
+non-emergency invasive foot procedure is being considered,
+peripheral artery disease should be excluded by performing
+assessment of pedal Doppler waveforms in combination with
+ankle brachial index and toe brachial index.
+
+Prognosis
+
+6. In a person with diabetes and a foot ulcer or gangrene, consider
+performing ankle pressures and ankle brachial index (ABI)
+measurements to assist in the assessment of likelihood of healing
+and amputation.
+Ankle pressure and ABI are weak predictors of healing. A low
+ankle pressure (e.g., < 50 mmHg) or ABI (e.g., < 0.5) may be
+associated with a greater likelihood of impaired healing and
+greater likelihood of major amputation.
+7. In a person with diabetes and a foot ulcer or gangrene, consider
+performing a toe pressure measurement to assess likelihood of
+healing and amputation.
+A toe pressure $ 30 mmHg increases the pre-test probability of
+healing by up to 30% and a value < 30 mmHg increases the
+pre-test probability of major amputation by approximately 20%.
+8. In a person with diabetes and a foot ulcer or gangrene, if a toe
+pressure cannot be performed, consider performing a transcutaneous oxygen pressure (TcPO2) measurement or a skin perfusion
+pressure (SPP) to assess likelihood of healing.
+A TcPO2 $ 25 mmHg increases the pre-test probability of healing
+by up to 45% and value < 25 mmHg increases the pre-test probability of major amputation by approximately 20%. An SPP $ 40
+mmHg increases the pre-test probability of healing by up to 30%.
+
+Grade
+
+Certainty of
+evidence
+
+Strong
+
+Low
+
+Conditional
+
+Low
+
+Strong
+
+Low
+
+Strong
+
+Low
+
+Best Practice Statement
+
+Conditional
+
+Low
+
+Conditional
+
+Low
+
+Conditional
+
+Low
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1103
+
+Volume 78, Number 5
+
+Continued.
+Chapter
+
+Recommendation
+
+9. In a person with diabetes and a foot ulcer or gangrene, it is
+suggested that the presence of peripheral artery disease and
+other causes of poor healing should always be assessed. Diabetes
+related micro-angiopathy should not be considered the primary
+cause of foot ulceration, gangrene, or poor wound healing
+without excluding other causes.
+
+Grade
+
+Certainty of
+evidence
+
+Conditional
+
+Low
+
+Conditional
+
+Low
+
+10. In a person with diabetes, peripheral artery disease and a foot
+ulcer or gangrene, consider using the Wound/Ischaemia/foot
+Infection (WIfI) classiﬁcation system to estimate healing
+likelihood and amputation risk.
+Treatment
+
+11. In a person with diabetes, peripheral artery disease, and a foot ulcer
+or gangrene who is being considered for revascularisation, evaluate
+the entire lower extremity arterial circulation (from aorta to foot)
+with detailed visualisation of the below knee and pedal arteries.
+
+Best Practice Statement
+
+Best Practice Statement
+
+12. In a person with diabetes, peripheral artery disease, a foot ulcer, and
+clinical ﬁndings of ischaemia, a revascularisation procedure should
+be considered. Findings of ischaemia include absent pulses, monophasic or absent pedal Doppler waveforms, ankle pressure < 100
+mmHg or toe pressure < 60 mmHg. Consult a vascular specialist
+unless major amputation is considered medically urgent.
+Best Practice Statement
+
+13. In a person with diabetes, peripheral artery disease, a foot ulcer, and
+severe ischaemia i.e., an ankle brachial index < 0.4, ankle pressure <
+50 mmHg, toe pressure < 30 mmHg or transcutaneous oxygen
+pressure < 30 mmHg or monophasic or absent pedal Doppler
+waveforms, urgently consult a vascular specialist regarding possible
+revascularisation.
+Best Practice Statement
+
+14. In a person with diabetes, peripheral artery disease, and a foot ulcer
+with infection or gangrene involving any portion of the foot, urgently
+consult a vascular specialist in order to determine the timing of a
+drainage procedure and a revascularisation procedure.
+Best Practice Statement
+
+15. In a person with diabetes and a foot ulcer, when the wound deteriorates or fails to signiﬁcantly improve (e.g., a less than 50% reduction
+in wound area within four weeks) despite appropriate infection and
+glucose control, wound care, and ofﬂoading, reassess the vascular
+status and consult with a vascular specialist regarding possible
+revascularisation.
+Best Practice Statement
+
+16. In a person with diabetes, peripheral artery disease, and a foot ulcer
+or gangrene, avoid revascularisation when the riskebeneﬁt ratio for
+the probability of success of the intervention is clearly unfavourable.
+(Continued on next page)
+
+1104
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+Continued.
+Chapter
+
+Recommendation
+
+Grade
+
+Certainty of
+evidence
+
+Conditional
+
+Moderate
+
+17. In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene who has an adequate single segment
+saphenous vein in whom infrainguinal revascularisation is
+indicated and who is suitable for either approach, consider bypass
+in preference to endovascular therapy.
+Best Practice Statement
+
+18. A person with diabetes, peripheral artery disease (PAD), and a foot ulcer or gangrene, should be treated in a centre with expertise in, or
+rapid access to, endovascular and surgical bypass revascularisation.
+In this setting, consider making treatment decisions based on the
+risk to and preference of the individual, limb threat severity,
+anatomical distribution of PAD, and the availability of autogenous
+vein.
+Best Practice Statement
+
+19. In a person with diabetes, peripheral artery disease, and a foot ulcer
+or gangrene, revascularisation procedures should aim to restore in
+line blood ﬂow to at least one of the foot arteries.
+Conditional
+
+Very low
+
+20.In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene undergoing an endovascular procedure,
+consider targeting the artery on angiography that supplies the
+anatomical region of the ulcer, when possible or practical.
+Best Practice Statement
+
+21. In a person with diabetes and either a foot ulcer or gangrene who
+has undergone revascularisation, objectively assess adequacy of
+perfusion e.g., using non-invasive bedside testing.
+Best Practice Statement
+
+22. A person with diabetes, peripheral artery disease, and either a foot ulcer or gangrene should be treated by a multidisciplinary team as
+part of a comprehensive care plan.
+Best Practice Statement
+
+23. In a person with diabetes and peripheral artery disease the following
+target levels should be:
+HbA1c < 8% (< 64 mmol/mol), but higher target HbA1c value may be
+necessary depending on the risk of severe hypoglycaemia.
+Blood pressure < 140/ 90 mmHg but higher target levels may be
+necessary depending on the risk of orthostatic hypotension and
+other side effects.
+Low density lipoprotein target of < 1.8 mmol/L (< 70 mg/dL) and
+reduced by at least 50% of baseline. If high intensity statin therapy
+(with or without ezetimibe) is tolerated, target levels < 1.4 mmol/L (55
+mg/dL) are recommended.
+Best Practice Statement
+
+24. In a person with diabetes and symptomatic peripheral artery disease:
+treatment with single antiplatelet therapy should be used,
+treatment with clopidogrel should be considered as ﬁrst choice in
+preference to aspirin,
+combination therapy with aspirin (75 mg to 100 mg once daily) plus
+low dose rivaroxaban (2.5 mg twice daily) should be considered for
+people without a high bleeding risk.
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1105
+
+Volume 78, Number 5
+
+Continued.
+Chapter
+
+Recommendation
+
+Grade
+
+Certainty of
+evidence
+
+Best Practice Statement
+
+25. In a person with type 2 diabetes and peripheral artery disease:
+with an eGFR > 30 mL/min/1.73m2, a sodium glucose cotransporter-2
+(SGLT-2) inhibitor or a glucagon like peptide 1 receptor agonist with
+demonstrated cardiovascular disease beneﬁt should be considered,
+irrespective of the blood glucose level.
+SGLT-2 inhibitors should not be started in drug naïve people with a
+diabetes related foot ulcer or gangrene and temporary discontinuation should be considered in people already using these drugs, until
+the affected foot is healed.
+
+DISCLAIMER
+The Society for Vascular Surgery (SVS) develops evidenced-based clinical practice guidelines as a resource
+to assist members in the practice of vascular surgery.
+The guideline recommendations contained herein are
+based on a recent review of published evidence. They
+reﬂect the available body of evidence, and their applicability reﬂects the limitations of that data and are subject
+to reassessment and revision as new knowledge emerges.
+Given these limitations, clinical practice guidelines do not
+represent a statement of the standard of care, nor do they
+substitute for clinician judgment or supplant patient preference or shared decision-making. The Society of Vascular
+Surgery recognizes that departure from guidelines may
+be warranted when, in the reasonable judgment of the
+treating clinician, such course of action is indicated by
+the clinical presentation of the patient, limitations of available resources, advances in knowledge or technology, or
+patient preference. The reader must rely solely on their
+own judgment to determine what practices and procedures, whether included in this practice guideline or not,
+are appropriate for them, their patient, their institution,
+or their practice.
+
+EXTERNAL EXPERTS, PATIENT
+REPRESENTATIVES AND REVIEW PROCESS
+The review process had several steps, in which six
+external experts, four patient representatives, and guideline reviewers of the International Working Group on the
+Diabetic Foot (IWGDF), European Society for Vascular
+Surgery (ESVS), and Society for Vascular Surgery (SVS)
+were involved. The external experts and patient representatives were from various countries and continents
+(Singapore, Japan, South Africa, China, Hong Kong,
+Colombia, Bulgaria, Australia, England, the USA). The process started with review of the clinical questions that the
+Writing Committee proposed to address, which were
+subsequently adjusted, and which formed the basis of
+the guideline development. The ﬁrst preliminary version
+of the guideline was reviewed by the IWGDF, ESVS, and
+members of the SVS Document Oversight Committee.
+
+The revised text was then reviewed by the external experts and patient representatives, and subsequently a
+new version was submitted for review to the three organisations. The Writing Committee met for the ﬁrst time in
+late 2020 and the ﬁrst draft of the guideline was sent out
+for review in December 2022.
+
+METHODOLOGY
+This guideline is also part of a set of guidelines (and
+their supporting systematic reviews) of the IWGDF on
+the management of diabetes related foot ulcers, which
+all used the same Grading of Recommendations, Assessment, Development and Evaluation (GRADE) methodology. These guidelines address the other aspects of
+management and are published separately. The IWGDF
+editorial board had the task of ensuring that there would
+not be too much overlap between these documents and
+that they were consistent with each other. The ESVS and
+SVS Executive Board agreed with this approach. The
+methodology used is described in detail in a separate
+IWGDF document (https://doi.org/10.1002/dmrr.3656);
+here a summary is provided.1
+In brief, the GRADE system was followed.2,3 GRADE is
+structured by the development of clinical questions and selection of critical outcomes, which are subsequently translated in the PICO (Population, Intervention, Comparison,
+Outcome) format. The Writing Committee developed the
+clinical questions to be investigated after consultation
+with the external experts and patient representatives. Critically important outcomes for clinical questions were voted
+upon by the Writing Committee members. Subsequently,
+the PICOs were created and voted on for inclusion by
+Writing Committee members. The PICOs to be included
+were then reviewed by the external experts, patient representatives, and the guideline committee of the societies
+involved. The systematic reviews of the literature to address
+the clinical questions were performed according to the
+preferred reporting items for systematic reviews and
+meta-analyses (PRISMA) guideline.4 The process of identifying and evaluating the available evidence, with its main
+conclusions, resulted in three systematic reviews on
+
+1106
+
+Fitridge et al
+
+Journal of Vascular Surgery
+November 2023
+
+Diagnosis, on Prognosis, and on Management of Peripheral
+Arterial Disease in Diabetes Mellitus. These systematic reviews are published separately (https://doi.org/10.1002/
+dmrr.3683, https://doi.org/10.1002/dmrr.3701, https://doi.
+org/10.1002/dmrr.3700).5-7 The population of interest was
+people with diabetes mellitus (with or without a foot ulcer
+or gangrene, depending on the clinical question). For diagnosis, the intervention was any non-invasive bedside test
+and the comparator an objective imaging study; for prognosis the intervention was any non-invasive bedside test
+and for treatment the interventions were bypass (open)
+and direct revascularisation and the comparators endovascular and indirect revascularisation, respectively. The primary outcomes were wound healing, minor and major
+amputation and adverse events, limb salvage, and wound
+healing. After the literature search all abstracts and subsequently selected articles were reviewed by two authors, as
+described in the systematic reviews. Included studies had
+at least 80% of participants with diabetes or in which the results of the participants with diabetes were reported separately. All included studies were assessed for quality and risk
+of bias with the following instruments, depending on the
+type of study: Quality in Prognosis Studies, the revised quality appraisal tool for studies of diagnostic reliability,
+ROBINS-I (for assessing risk of bias in non-randomised
+studies of interventions), the Newcastle-Ottawa Scale (for
+non-randomised studies, including observational and
+cohort studies where details regarding allocation to intervention groups was not provided), and the Cochrane risk
+of bias 2 tool for randomised controlled trials.8e13 For each
+PICO the quality of evidence was graded for risk of bias,
+inconsistency, imprecision, publication bias, and overall
+quality. The certainty of the evidence was then rated as
+high, moderate, low, or very low.
+The GRADE evidence to decision approach was subsequently used for the development of the recommendations during online discussions of the Writing Committee
+(which were all recorded and available for later review
+from the Secretary). In developing each recommendation
+and its strength the following aspects were taken into account: beneﬁts, harms, effect size, and certainty; balance
+of beneﬁts and harms; resource use; acceptability; feasibility; equity. The strength of each recommendation was
+graded as Strong or Conditional. All Writing Committee
+members voted on each recommendation. For a Strong
+Recommendation at least 75% and for a Conditional
+Recommendation at least 60% had to agree. After each
+recommendation, a rationale is provided for how each
+recommendation was determined.1,14
+There were situations where sufﬁcient direct evidence
+supporting the formulation of a recommendation could
+not be identiﬁed, but performing the actions recommended would very likely result in clear beneﬁt, or not performing the test or intervention in marked harm. In these
+situations, an ungraded Best Practice Statement was
+formulated with a rationale explaining how the statement
+
+was arrived at and how GRADE criteria for developing such
+a statement were considered, as advised in a recent publication of the GRADE group on this topic.15 According to
+GRADE, such recommendations should be formulated as
+actionable statements when they are deemed necessary
+for practice and when the desirable effects of an intervention clearly outweigh its undesirable effects. Although in
+these cases direct evidence is lacking, they should be supported by indirect evidence. For the clinical question on
+the use of current medical therapies to reduce cardiovascular risk or lower limb events in people with diabetes and
+symptomatic peripheral artery disease (PAD), the authors
+did not perform a systematic review or develop graded recommendations, as recent high quality guidelines on these
+topics already exist.16e23 However, to give the reader a complete overview a summary of these existing guidelines was
+created, where relevant for the clinical question, and adapted to the person with diabetes mellitus and symptomatic
+PAD. These recommendations were also formulated as
+Best Practice Statements. It is acknowledged that for
+certain recommendations high quality evidence exists, as
+summarised in other guidelines of organisations such as
+ESVS, SVS and American Diabetes Association, but for
+others there is only lesser quality evidence. In order not to
+repeat all these evidence based guidelines already developed by other relevant organisations, ungraded Best Practice Statements were made, with references provided to
+the relevant guidelines. Finally, the Writing Committee
+considered topics for future research and voted to focus
+on ﬁve key topics, which are discussed at the end of the
+guideline.
+The recommendations and corresponding rationales
+were reviewed by the same international external experts and committees responsible for guideline development of the three aforementioned societies. Further
+details are provided in the IWGDF guidelines methodology document.1 The summary of judgements tables that
+were the basis for formulating each recommendation
+and Best Practice Statement, can be found in the
+Supplementary material for this article. These systematic
+reviews provide the evidence for the graded recommendations made in this guideline.
+
+TARGET POPULATION AND TARGET AUDIENCE
+Poorly healing foot ulcers or gangrene in people with diabetes mellitus are frequently caused by several factors
+acting in concert. The primary target population of this
+guideline is people with diabetes mellitus with a foot ulcer
+or gangrene on any portion of the foot (with or without neuropathy) in whom the presence of PAD could have contributed to the development of the ulcer and or its poor healing
+potential. The secondary target group is people with diabetes mellitus in whom the presence of PAD was considered or needed to be excluded. People with pure venous
+ulcers, ulcers above the ankle, acute limb ischaemia,
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1107
+
+Volume 78, Number 5
+
+embolic disease, and non-atherosclerotic chronic vascular
+conditions of the lower extremity were excluded.
+The primary target audience of this guideline is vascular
+specialists and all other healthcare professionals who are
+involved in the diagnosis, management, and prevention
+of diabetes related foot ulcers and gangrene, who work
+in primary, secondary, and tertiary care.
+Patient representatives will be approached to discuss
+which elements of the guideline should be included in
+the Information for Patients. This will result in a list of
+items that should be addressed in this information. Given
+cultural and language differences, the ﬁnal text should
+be produced on a national or local level.
+
+GUIDELINE WRITING GROUP CONFLICT OF
+INTEREST POLICY
+The three organisations participating in this guideline
+are committed to developing trustworthy clinical practice guidelines through transparency and full disclosure
+by those participating in the process of guideline development. To prevent a major Conﬂict of Interest (COI),
+members of the Writing Committee were not allowed
+to serve as an ofﬁcer, board member, trustee, owner, or
+employee of a company directly or indirectly involved
+in the topic of this guideline. Before the ﬁrst and last
+meeting of the Writing Committee, members were
+asked to report any COI in writing. In addition, at the
+beginning of each meeting this question was also asked
+and if answered yes, the members were asked to submit
+an updated COI form. These COIs included income
+received from biomedical companies, device manufacturers, pharmaceutical companies, or other companies
+producing products related to the ﬁeld. In addition, industry relationships had to be disclosed each time and
+these included: ownerships of stocks or options or bonds
+of a company, any consultancy, scientiﬁc advisory committee membership, or lecturer for a company, research
+grants, or income from patents. These incomes could
+either be personal or obtained by an institution with
+which the member had a relationship. All disclosures
+were reviewed by the three organisations, and these
+can be found at IWGDFguidelines.org/. No company
+was involved in the development or review of the guideline. Nobody else involved in the guideline received any
+payment or remuneration of any costs.
+
+DEFINITIONS AND TERMINOLOGY AS USED IN
+THIS DOCUMENT
+The deﬁnitions and criteria for diabetes related foot disease were standardised by the IWGDF and in parallel to
+this guideline an update is published.24 In addition, in
+this guideline the following terminology was used:
+Bedside testing: any non-invasive test assessing for PAD
+in the lower limb using a measure of blood ﬂow that
+could be conducted at the bedside.
+
+Chronic limb threatening ischaemia: a clinical syndrome
+deﬁned by the presence of peripheral artery disease in combination with rest pain, gangrene, or foot ulcer of at least
+two
+weeks’
+duration.
+Venous,
+embolic,
+nonatherosclerotic, and traumatic aetiologies are excluded.
+Diabetes related micro-angiopathy: pathological structural and functional changes in the microcirculation of
+people with diabetes mellitus, which can occur in any
+part of the body as a consequence of the disease.
+Diabetes related foot ulcer: a break of the skin of the foot
+that involves, as a minimum, the epidermis and part of
+the dermis in a person with diabetes and usually accompanied by neuropathy and or PAD in the lower extremity.
+Diabetes related foot gangrene: a condition that occurs
+when body tissue dies because of insufﬁcient blood supply, infection, or injury.
+Foot perfusion: tissue perfusion strictly means the volume
+of blood that ﬂows through a unit of tissue and is often
+expressed in mL blood/100 g of tissue. With respect to clinical assessment of the foot, perfusion is traditionally
+measured by the surrogate markers of systolic arterial pressure at the level of the ankle and toe arteries. Pressure measurements may be misleading in people with diabetes due
+to the frequent presence of medial calciﬁcation. This has led
+to the development of a number of alternative clinically
+used means of assessing tissue perfusion, including TcPO2
+(transcutaneous pressure of oxygen), SPP (skin perfusion
+pressure), PAT (pedal acceleration time), and near infrared
+spectrophotometry (NIRS).
+Multidisciplinary team: a group of people from relevant
+clinical disciplines, whose interactions are guided by speciﬁc team functions and processes to achieve team and
+person deﬁned favourable outcomes.
+Peripheral artery disease (PAD): obstructive atherosclerotic vascular disease of the arteries from aorta to foot
+with clinical symptoms, signs, or abnormalities on noninvasive or invasive vascular assessment, resulting in
+disturbed or impaired circulation in one or more
+extremities.
+
+INTRODUCTION
+The incidence of diabetes continues to increase in all
+countries. Recent estimates are that 537 million people
+are affected by diabetes (1 in 11 adults worldwide) and that
+783 million individuals will be affected by 2045.25 Diabetes
+is associated with signiﬁcant risk of foot complications
+including ulceration, gangrene, and amputation. Development of diabetes related foot ulceration (DFU) precedes
+up to 85% of non-traumatic amputations, with an annual
+incidence of ulceration of approximately 2% and lifetime
+incidence of DFU up to 34%.26 Diabetes related complications in the lower limb, including peripheral neuropathy
+and PAD, typically precede the development of DFU.27
+Collectively, these complications are a leading global cause
+of disability, hospitalisation, and amputation, with a high
+mortality rate following amputation.28
+
+1108
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+Diabetes is a signiﬁcant risk factor for development of
+PAD. In a recent systematic review, Stoberock et al.29 found
+that the prevalence of PAD was 10 e 26% in the general
+adult population and 20 e 28% in those with diabetes. In
+those with DFU, the prevalence of PAD was 50%, which is
+consistent with the ﬁndings of the multicentre Eurodiale
+study.29,30 PAD in people with diabetes is characterised by
+a disease pattern that is frequently multisegmental and
+bilateral with impaired collateral formation, often long
+segment tibial artery occlusions, and is more distally distributed in the lower limb including frequent presentation of
+infragenicular arterial occlusive disease, with an increased
+risk of amputation.31e33 The diagnosis of PAD and chronic
+limb threatening ischaemia (CLTI) is frequently complicated by the absence of classical symptoms of PAD such
+as intermittent claudication and rest pain, probably due
+to factors such as sedentary lifestyle and loss of pain sensation due to diabetes related peripheral neuropathy, which
+is present in the majority of people with an (ischaemic)
+DFU.30,32 Co-existent medial artery calciﬁcation (MAC),
+which is also associated with peripheral neuropathy, is
+common and can affect the accuracy of non-invasive tests
+such as the ankle brachial index (ABI) by causing elevation
+of ankle and, to a lesser extent, digital pressures.34
+In people with diabetes early diagnosis of PAD is essential.29 The disease process is associated with greater likelihood of delayed or non-healing of DFU, gangrene, and
+amputation in addition to increased rates of cardiovascular morbidity and mortality.35 The prognosis of a person with diabetes, PAD, and foot ulceration requiring
+amputation is worse than for many common cancers,
+up to 50% of people will not survive ﬁve years.26,36 PAD
+places the person at very high risk of adverse cardiovascular events and thus optimal medical management of
+cardiovascular risk factors should be ensured.32 Early
+and adequate assessment of foot perfusion is necessary
+to ensure that elevated risk of delayed or poor wound
+healing and amputation is identiﬁed early so this can
+be addressed without treatment delay.
+Despite the severity of the outcomes of PAD in people with diabetes, and particularly for those with DFU,
+there are few practice guidelines that speciﬁcally
+address the diagnosis and management of PAD in
+this population. Formulating recommendations for
+this speciﬁc population should take into account the
+multisystem nature of diabetes and the impact of
+other diabetes complications on the utility of diagnostic tests, wound healing, amputation, and survival
+outcomes. One of the guidelines that speciﬁcally
+addressed these topics has been that of the IWGDF,
+with the last version produced in 2019.37 Instead of
+making a new updated version, the IWGDF together
+with the ESVS and the SVS decided to collaborate in
+writing this new, intersociety, practice guideline on
+PAD in diabetes mellitus, with emphasis on people
+with diabetes related foot ulcers or gangrene. The
+
+aim is to provide evidence based recommendations
+on the diagnosis, prognosis (i.e., the prognostic value
+of different non-invasive tests), and treatment of PAD
+in people with a foot ulcer and diabetes. Each of these
+topics is discussed in the different sections below. It is
+not the intention to detail the speciﬁc roles, tasks, and
+responsibilities of each medical specialty involved as
+these vary markedly between and within countries
+and this guideline is a multinational initiative. However,
+emphasis is given to which expertise should be present, in terms of knowledge, skills, and competence,
+to manage people according to the expected standards of care.
+Related guidelines. This guideline is also part of the
+IWGDF guidelines on the prevention and management
+of diabetes related foot disease. Management of PAD in
+these people without addressing the other aspects of
+DFU treatment will frequently result in suboptimal outcomes. The reader is therefore referred to the other IWGDF
+guidelines for these aspects. This IWGDF, ESVS, SVS intersocietal guideline on PAD in people with diabetes mellitus is
+also part of the IWGDF guidelines on the management of
+diabetes related foot complications with additional chapters on Classiﬁcation (https://doi.org/10.1002/dmrr.3648),38
+Prevention
+(https://doi.org/10.1002/dmrr.3651),39
+Offloading (https://doi.org/10.1002/dmrr.3647),40 Infection
+(https://doi.org/10.1002/dmrr.3687),104 Charcot (https://doi.
+org/10.1002/dmrr.3646),41 and Wound healing (https://doi.
+org/10.1002/dmrr.3644).42 These guidelines are summarised for daily clinical use in the Practical Guidelines on the
+Prevention and Management of Diabetes Related Foot
+Disease (https://doi.org/10.1002/dmrr.3657).43 This guideline
+builds on a previous version of the IWGDF guideline on
+peripheral artery disease in patients with foot ulcers and
+diabetes, and integrates with the Global Vascular Guidelines (GVG) on the management of Chronic Limb Threatening Ischaemia.20,37
+
+DIAGNOSIS
+Clinical question. In a person with diabetes with or
+without a foot ulcer, does medical history and clinical examination (including pulse palpation) compared with a
+reference test (imaging - digital subtraction angiography
+[DSA], magnetic resonance angiography [MRA],
+computed tomography angiography [CTA], colour
+Duplex ultrasound [CDUS]) accurately identify and reliably diagnose PAD?
+Clinical question. In a person with diabetes with or
+without a foot ulcer, which non-invasive bedside testing
+alone or in combination compared with reference tests
+(imaging - digital subtraction angiography [DSA], magnetic resonance angiography [MRA], computed tomography angiography [CTA], colour Duplex ultrasound
+[CDUS]) should be performed to accurately and reliably
+diagnose PAD?
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1109
+
+Volume 78, Number 5
+
+Recommendation 1
+In a person with diabetes without a foot ulcer, take a relevant
+history for peripheral artery disease, examine the foot for signs
+of ischaemia and palpate the foot pulses at least annually, or
+with any change in clinical status of the feet.
+Grade
+Strong
+
+Certainty of evidence
+Low
+
+Recommendation 2
+In a person with diabetes without a foot ulcer, if peripheral
+artery disease (PAD) is suspected, consider performing pedal
+Doppler waveforms in combination with ankle brachial index
+(ABI) and toe brachial index (TBI). No single modality has been
+shown to be optimal for the diagnosis of PAD and there is no
+value above which PAD can be excluded. However, PAD is less
+likely in the presence of ABI 0.9 e 1.3; TBI $ 0.70; and triphasic
+or biphasic pedal Doppler waveforms.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. Diagnosis and treatment of PAD is critical
+due to the increased risk of developing DFU as well as
+the increased rate of complications from co-existent
+cardiovascular disease including myocardial infarction
+and stroke.35 Evidence for the diagnostic accuracy of
+pulse palpation for PAD in people with diabetes without
+DFU is limited with two studies of low quality demonstrating that although presence of pulses does not
+exclude disease, there is a small increase in ability to rule
+disease in where a foot pulse is absent or weak (positive
+likelihood ratio [PLR] 1.84 e 2.46).44,45 The PLR gives the
+change in odds of experiencing an outcome if the test is
+positive, whereas the negative likelihood ratio (NLR) expresses a change in odds of experiencing an outcome if
+the test is negative. A PLR or NLR of 1.0 means that the
+test does not change the probability of the outcome over
+and above the pre-test probability and therefore is not a
+useful diagnostic test. However, it is important to recognise that pulse palpation should be performed, and results considered in the context of other clinical
+examinations that may be associated with PAD
+including hair loss, muscle atrophy, and reduced peripheral skin temperature. It should be noted that these
+clinical examinations are highly subjective and such
+ﬁndings may also be associated with neuropathy. PAD
+may also be asymptomatic or have an atypical presentation in people with diabetes as in other elderly or at risk
+populations.27,46,47 For example, peripheral neuropathy
+can mask pain symptoms and autonomic neuropathy
+can result in a warm foot, meaning that the widely recognised signs and symptoms of PAD may not be
+present.48
+
+These recommendations are applicable to all people
+with diabetes. When DFU is absent, but there are clinical
+signs and symptoms of PAD or PAD is suspected, for
+example due to long standing diabetes, chronic hyperglycaemia, other diabetes complications such as peripheral neuropathy, or the presence of atherosclerotic
+disease in other vascular beds, more frequent screening
+vascular assessment including additional bedside testing
+is necessary. These recommendations are consistent with
+other (inter)national guidelines on the management of
+diabetes, endorsing annual clinical assessment for PAD
+(and for other foot complications) in people with
+diabetes.49e52
+Although based on low quality evidence, data demonstrating increased likelihood of PAD in those with weak
+or absent pulses and elevated risk of cardiovascular
+morbidity and mortality support the preference of a person with diabetes for clinical examination including
+pulse palpation to be performed.5,35 The non-invasive nature of clinical examination and pulse palpation suggest
+that these assessments would be valued by people with
+diabetes as initial diagnostic tests. As equipment is not
+required, the Writing Committee considered pulse
+palpation and other forms of clinical examination as having low resource requirements, which can be applied on
+a broad scale by a range of practitioners, and offer a
+method to increase equity of healthcare access that is
+both feasible for healthcare providers and acceptable
+for people with diabetes. This Strong Recommendation
+is therefore made, based on low certainty of evidence
+and expert opinion.
+Bedside testing techniques that provide objective measurement of peripheral blood ﬂow in the lower extremity
+(e.g., ankle brachial index [ABI], toe brachial index [TBI],
+and pedal Doppler waveforms) have been shown to be
+useful to diagnose and exclude PAD in people with diabetes. The systematic review demonstrates that multiple
+bedside testing techniques that offer objective measurement of the peripheral circulation in the lower limb are
+useful as a means to rule disease in or out for people
+with diabetes without a DFU but who are suspected of
+having PAD.5
+Forty studies investigating the diagnostic accuracy of
+non-invasive bedside tests in populations with diabetes
+were identiﬁed.5 Twenty eight of the studies used prospective recruitment and the remainder were retrospective. Overall, the studies were of low quality and evidence
+was judged as being of low certainty. Although it was not
+possible to identify the absolute threshold or normal
+values of bedside tests, it is suggested that PAD is more
+likely to be present in this population with an ABI < 0.9
+or > 1.3, a TBI < 0.70, and presence of one or more monophasic Doppler waveforms from assessment of pedal arteries with continuous wave Doppler (CWD).5 In people
+without DFU, an ABI of < 0.90 is associated with a moderate to large increase in likelihood of PAD with PLRs
+
+1110
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+ranging from 4.17 to 17.91; however, the ability to rule disease out is variable (NLR 0 e 0.54) (Supplementary
+Table S1). A TBI < 0.70 has a moderate ability to diagnose
+and exclude PAD (PLR 2.0 e 3.55, NLR 0.25 e 0.44), and
+the presence of a visual monophasic pedal Doppler
+waveform (compared with a biphasic or triphasic
+Doppler waveform where the waveform crosses the
+zero ﬂow baseline and contains both forward and reverse
+velocity components)53 has a moderate ability to diagnose and exclude PAD (PLR 7.09, NLR 0.19).
+Non-invasive bedside tests are therefore likely to be
+beneﬁcial for people without a DFU; however, high quality studies of diagnostic accuracy are required. A summary of results is provided in Supplementary Table S1.
+When calculating the ABI in the leg of a person with and
+without DFU for the purposes of diagnosing PAD, it is
+advised to use the lower systolic blood pressure of either
+the dorsalis pedis or posterior tibial artery as this improves
+the diagnostic accuracy of the test.5 For PAD affecting arteries below the knee, this calculation method identiﬁes
+the most severe disease while using the higher pressure
+identiﬁes the least affected artery. Use of three tests (ABI,
+TBI, and pedal Doppler waveforms) is recommended.
+This is because the accuracy of the tests may be affected
+by the presence of other diabetes related complications.
+Due to the use of bedside measures to monitor PAD status
+over time, reliability (or reproducibility) of the tests is important in determining their clinical effectiveness. The systematic review showed that the reliability of both the ABI and
+TBI was good to excellent. However, these tests are limited
+by wide margins of error, which affect the amount of
+change required for this to be considered a true change
+rather than related to error in the measurement. For
+example, an ABI measured by the same rater requires a
+change of 0.15 to be considered a true change.54 Therefore,
+care should be taken in performing the measurement to
+control for factors that may introduce error including incorrect positioning of the person being tested (this should be
+horizontal supine) and incorrect testing procedures (e.g.,
+pre-test exercise, caffeine consumption, etc.).
+The recommendation identiﬁes the need to perform
+bedside testing in people with diabetes in whom PAD is
+suspected. In people with diabetes without a DFU, the presence of PAD will increase the risk of a future DFU and amputation. The presence of PAD will inﬂuence the frequency of
+screening and the measures that can be safely taken to
+reduce the risk of amputation, as described in the Prevention Guidelines of the IWGDF (https://doi.org/10.1002/
+dmrr.3651).39 It is therefore critical that, apart from the history and foot examination, risk factors for PAD are also
+considered such as long standing or poorly controlled diabetes or diagnosis of atherosclerosis in other vascular
+beds. Considering the beneﬁts and harms of this recommendation it is judged to be essential to diagnose or
+exclude PAD in this population given the large impact of
+untreated disease, the low burden of the tests to the person
+
+undergoing testing, and the high likelihood that diagnosis
+will be valued by them. All aforementioned bedside tests
+(ABI, TBI, CWD) should be performed by trained healthcare
+professionals in a standardised manner and these tests can
+be applied by a wide range of practitioners, after having
+received adequate training. From the perspective of middle
+or high income countries the resources required to undertake bedside testing are relatively low compared with other
+methods of diagnosing PAD such as CDUS, CTA, MRA, and
+angiography. It is likely that many people will value the
+knowledge that their feet need more intensive care to prevent amputation, but this has not been studied in a sufﬁciently large cohort. Based on the uncertainty of the
+evidence a Conditional Recommendation was made for
+additional non-invasive testing in this group of people
+with asymptomatic disease. The role of additional testing
+in those with intermittent claudication is outside the scope
+of this guideline.
+Recommendation 3
+In a person with diabetes and a foot ulcer or gangrene, take a
+relevant history for peripheral artery disease, examine the
+person for signs of ischaemia and palpate the foot pulses.
+Grade
+Strong
+
+Certainty of evidence
+Low
+
+Recommendation 4
+In a person with diabetes and a foot ulcer or gangrene, evaluate pedal Doppler waveforms in combination with ankle
+brachial index (ABI) and toe brachial index (TBI) measurements to identify the presence of peripheral artery disease
+(PAD).
+No single modality has been shown to be optimal for the
+diagnosis of PAD, and there is no value above which PAD can
+be excluded. However, PAD is less likely in the presence of ABI
+0.9 e 1.3; TBI $ 0.70; and triphasic or biphasic pedal Doppler
+waveforms.
+Grade
+Strong
+
+Certainty of evidence
+Low
+
+Rationale. PAD is present in approximately half of the
+people with a DFU.29,30 Therefore, in any person with
+diabetes and a foot ulcer or gangrene, PAD should be
+considered and should be excluded with the appropriate diagnostic strategies. Subsequently, once diagnosed the second question is whether the PAD is of
+sufﬁcient severity to contribute to delayed wound healing and increased risk of amputation. This will inform
+whether further investigation or intervention is required.
+In addition, although cardiovascular risk factor modiﬁcation is always indicated in people with diabetes, those
+with symptomatic PAD (i.e., including those with a DFU)
+belong to the very high cardiovascular risk category and
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1111
+
+Volume 78, Number 5
+
+need more intensive risk treatment, as described in the
+‘Treatment’ section.
+Apart from taking a clinical history, all people with a DFU
+or gangrene should undergo a complete physical examination, including palpation of the lower limb pulses which
+can help to determine the presence of arterial disease.55 In
+the systematic review on diagnosis, one low quality study
+that assessed the diagnostic accuracy of pedal pulse
+assessment in a population where all participants had a
+DFU was identiﬁed.56 Pulse palpation had a PLR of 1.38
+and a NLR 0.75 for PAD in people presenting with a foot ulcer.56 These likelihood ratios represent a very small ability
+of the test to identify or exclude disease. Pulse palpation
+should be seen as the ﬁrst step in a systematic evaluation
+of the affected limb and foot, but when DFU is present
+further diagnostic procedures should be performed with
+non-invasive bedside testing techniques as clinical examination is not sufﬁcient to exclude PAD. Although of
+limited value it should not be discarded as in the early
+phase of management other tests are sometimes unavailable, or ﬁndings may be difﬁcult to interpret. The evidence
+base is small with low certainty but as previously discussed
+this form of testing has low resource requirements, can be
+applied on a broad scale by a range of practitioners, is
+feasible, and may increase equity of healthcare access.
+This Strong Recommendation is therefore made, based
+on low certainty of evidence and expert opinion. However,
+a systematic foot examination for signs of ischaemia
+should be the starting point of a systematic evaluation,
+as failure to diagnose and treat this condition may have
+dire consequences in many people. When DFU is present
+further diagnostic testing using bedside testing techniques in the ﬁrst instance should be performed as palpation of foot pulses and clinical examination alone are not
+sufﬁcient to exclude PAD.
+The systematic review identiﬁed eight studies56e63 of
+diagnostic accuracy of bedside testing that included participants with active DFU, with the proportion of the study
+population affected ranging from 6.6% to 100%.56,57 One
+study demonstrated a visual pedal Doppler waveform
+evaluation to be diagnostic (PLR $ 10), with a moderate
+ability of the test to exclude PAD. In a second study
+with z 40% of the participants having a foot ulcer, the
+PLR was lower (3.04) and the NLR similar (0.35).61 In studies
+in which the majority of the study population had DFU, an
+ABI < 0.90 increased the pre-test probability of disease by
+a small amount (PLR 1.69 e 2.40) with limited ability of the
+test to exclude disease (NLR 0.53 e 0.75).56,59,62,63 Similarly,
+data for the TBI were limited and variable with the PLR in
+both mixed populations (with and without DFU) and DFU
+only, ranging from 1.62 (indicating limited ability to diagnose disease) to being diagnostic (PLR $ 10) and indicating the test has small to moderate ability to exclude
+disease (NLR 0.30 e 0.47).56,59,61,62
+All the aforementioned non-invasive bedside tests (ABI,
+TBI, CWD) can be applied by a wide range of
+
+practitioners, in particular in settings where people are
+treated in secondary care or specialised outpatient foot
+clinics. These tests have low resource requirements relative to other methods of diagnosing PAD such as CDUS
+and angiography. These factors are likely to increase equity in healthcare access and make the tests feasible and
+acceptable for both the person having the tests and
+healthcare providers. Given the large potential beneﬁcial
+effect and its impact on subsequent treatment a Strong
+Recommendation for this population has been made,
+although the limitations of the evidence base are
+acknowledged.
+Recommendation 5
+In a person with diabetes without a foot ulcer in whom a nonemergency invasive foot procedure is being considered, peripheral artery disease should be excluded by performing
+assessment of pedal Doppler waveforms in combination with
+ankle brachial index and toe brachial index.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale. Except when required as an emergency to
+control severe infection, all people with diabetes who
+require foot surgery should have vascular testing consisting of pedal Doppler waveforms in combination with ABI
+and toe pressure (TP) or TBI. Non-emergency invasive
+procedures, such as elective surgery, may be indicated in
+people with diabetes without a DFU with the intent to
+address painful foot conditions. Particularly in those with
+peripheral neuropathy,64 prophylactic procedures could
+be considered to address risk factors for foot ulceration,
+such as foot deformity and elevated localised plantar
+pressures. Prior to any surgical procedure on the foot in a
+person with diabetes, PAD status should be established,
+and this ﬁnding should contribute to determination of
+the suitability of an individual for the procedure. The
+decision to perform the elective surgery should be made
+in a shared decision making process that will be inﬂuenced by balancing the beneﬁt of the operation against
+the potential harm, such as the risk of poor wound
+healing based on the non-invasive assessments.
+As discussed above, bedside testing generally has moderate ability to diagnose PAD or to exclude this disease in
+people with diabetes mellitus. Any abnormal test result
+should be considered indicative of PAD. Therefore, it is
+suggested this recommendation will reduce the risk of
+undiagnosed severe PAD which would potentially negatively affect post-surgical outcomes and it is likely that
+people will value this approach. Feasibility and the
+impact of these tests on resource use are discussed in
+Recommendation 4. No randomised controlled trials
+(for ethical reasons) or observational studies of sufﬁcient
+quality have been performed on the added value of
+
+1112
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+performing bedside tests prior to any surgical procedure
+in the foot. Given the indirect evidence discussed above,
+the major clinical implications of missing the diagnosis
+of PAD and the limited harm and additional costs, a
+Best Practice Statement was made.
+
+PROGNOSIS
+Clinical question. In a person with diabetes, suspected
+PAD, and a foot ulcer or gangrene, which non-invasive
+bedside tests, alone or in combination, at any time
+point (including after revascularisation procedures), predict DFU healing, healing after minor amputation, and
+major amputation?
+
+Recommendation 6
+In a person with diabetes and a foot ulcer or gangrene,
+consider performing ankle pressures and ankle brachial index
+(ABI) measurements to assist in the assessment of likelihood
+of healing and amputation.
+Ankle pressure and ABI are weak predictors of healing. A low
+ankle pressure (e.g., < 50 mmHg) or ABI (e.g., < 0.5) may be
+associated with greater likelihood of impaired healing and
+greater likelihood of major amputation.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Recommendation 7
+In a person with diabetes and a foot ulcer or gangrene,
+consider performing a toe pressure measurement to assess
+likelihood of healing and amputation.
+A toe pressure $ 30 mmHg increases the pre-test probability
+of healing by up to 30% and a value < 30 mmHg increases the
+pre-test probability of major amputation by approximately
+20%.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Recommendation 8
+In a person with diabetes and a foot ulcer or gangrene, if a toe
+pressure cannot be performed, consider performing a transcutaneous oxygen pressure (TcPO2) measurement or a skin
+perfusion pressure (SPP) to assess likelihood of healing.
+A TcPO2 $ 25 mmHg increases the pre-test probability of
+healing by up to 45% and value < 25 mmHg increases the
+pre-test probability of major amputation by approximately
+20%. An SPP $ 40 mmHg increases the pre-test probability of
+healing by up to 30%.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The presence of PAD constitutes a substantially increased risk of failure to heal and major lower
+
+limb amputation for people with a diabetes related
+foot ulcer or gangrene. Bedside testing results are an integral component of determining the severity of
+ischaemia and, to that end, to determine the need for,
+and urgency of, further investigations. Non-invasive
+bedside tests including AP, ABI, and TP should be performed in a person with a DFU or gangrene to guide
+further management as they can help to predict the
+chance of healing and or major amputation. TcPO2 and
+skin perfusion pressure (SPP) give additional information
+on healing potential and are useful for measuring
+perfusion following forefoot amputations when TP are no
+longer possible. However, in the authors’ opinion these
+are secondary tests due to greater expense and less
+availability of the equipment and the time and expertise
+required to apply them.
+Assessment of the pedal arterial Doppler waveforms
+combined with measurement of the AP and subsequent
+calculation of the ABI, are usually the ﬁrst steps in the
+assessment of PAD. Although relevant for its diagnosis,
+as discussed in the Rationales of Recommendations 1
+and 2, it was not possible to identify sufﬁcient data on
+the capacity for Doppler arterial waveform analysis to
+predict wound healing in populations with DFU.5 Two
+low quality studies were identiﬁed which concluded
+that abnormal or absent Doppler waveforms were associated with a small (15%) increase in the likelihood of major amputation,65,66 further limiting its use. Similarly,
+there are currently insufﬁcient data to support the use
+of TBI to predict healing or amputation outcomes; however, TP (as a component of TBI) has been more widely
+investigated and is therefore included in the
+recommendation.
+The predictive capacity of APs and ABI for wound healing was inconsistent in the 15 studies included in the systematic review.5 Thresholds for AP and ABI which were
+associated with increased probability of healing could
+not be identiﬁed; however, a very low ankle pressure
+(e.g., < 50 mmHg) or ABI (e.g., < 0.5) was associated
+with a greater likelihood of delayed healing. According
+to current guidelines revascularisation should be considered when such values are measured in people with PAD
+and an ulcer or gangrene.20 AP and ABI values > 50
+mmHg or > 0.5, respectively, should not be used in isolation to predict likelihood of ulcer healing given their uncertainty, but detailed clinical examination and further
+vascular testing is needed, as stated in Recommendation
+6. Regarding amputation risk, the probability of major
+amputation was increased by approximately 45% with
+an ABI < 0.4 based on one study in people who had undergone transmetatarsal amputation. However, an ABI
+threshold < 0.9 was not associated with any probability
+increase.5,67 Thresholds used for AP were highly variable
+in the literature and it was not possible to determine
+which threshold was optimal.5 Other research has
+demonstrated that an elevated ABI (> 1.3) is associated
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1113
+
+Volume 78, Number 5
+
+with both greater likelihood of amputation and worse
+amputation free survival outcomes and therefore should
+be recognised as a risk factor for poor DFU outcomes.
+The same observations were made in people without
+diabetes, and an elevated ABI is therefore seen as a
+marker for more severe cardiovascular disease with an
+elevated risk of amputation.68,69
+TP and TBI can assess blood ﬂow distal to the forefoot
+and in toes, where most DFUs occur.70 Based on 10
+studies of low quality it was found that with TP $ 30
+mmHg the pre-test probability of healing was
+increased by up to 30%.71 Regarding major amputation, a value < 30 mmHg increases the probability of
+major amputation by approximately 20%, which suggests a (somewhat) lower predictive capacity
+compared with the ABI. In the three studies identiﬁed,
+there was inconsistent and insufﬁcient evidence for the
+use of the TBI to predict either healing or major
+amputation.
+TcPO2 and SPP are additional tests that have the
+advantage of measuring perfusion at tissue level and
+therefore reﬂect both macrovascular and microvascular
+function. In the systematic review the majority of available studies (n ¼ 7) which were of low quality, reported
+that TcPO2 can be used to predict the likelihood of
+DFU healing,71e80 although there is variability in the
+thresholds used. With a TcPO2 $ 25 mmHg the pre-test
+probability of healing is increased by up to 45%, which
+was higher than reported for the other tests in the
+included studies. Regarding amputation, a value < 25
+mmHg increases the probability of major amputation
+by approximately 20%, a predictive value that seems
+lower than that of the ABI when the different studies
+were compared. An SPP ($ 40 mmHg) was shown to increase the pre-test probability of healing by up to 30% in
+one study of low quality.81 There are insufﬁcient data
+investigating the relationship between SPP and amputation outcomes to formulate a recommendation.
+In summary, when comparing different studies, the ABI
+seemed to have the best predictive capacity for major
+amputation, while the TP and TcPO2 seemed to have a
+better predictive capacity for wound healing. It was noteworthy that there was insufﬁcient evidence for the use of
+the TBI to predict either healing or amputation outcomes. The number of prospective studies and the number of participants included in the aforementioned
+studies were relatively low, the populations studied
+differed, and results of the tests performed were
+frequently not blinded. Moreover, comparison of studies
+was hampered by the fact that different studies used
+different thresholds for disease and thus combining
+data for analysis was not possible.
+When bedside testing is not performed the risks of a
+poor clinical outcome or unnecessary, more costly, investigations are large. As discussed earlier, most bedside
+tests are of low burden to both the person and the
+
+healthcare system, although training and expertise are
+necessary. If these tests are not performed, the clinician
+must rely only on clinical judgement and on imaging investigations. Although imaging will provide details of the
+arterial anatomy, the non-invasive bedside tests will
+inform the clinician about the perfusion in the foot. However, absolute perfusion thresholds applicable for all people cannot be provided as the outcome of the DFU is
+determined not only by the degree of ischaemia. Other
+factors such as infection, extent of tissue loss, and ulcer
+depth, can have a major effect on healing potential
+and amputation risk, as discussed below. For this reason
+and the uncertainty of the evidence, a Conditional
+Recommendation for use of AP, ABI, and TP to predict
+the likelihood of healing and amputation was made.
+TcPO2 and SPP tests require more expensive equipment and greater expertise for application than other
+bedside testing, which may be a barrier for centres in
+low or middle income countries. Although healthcare expenditures may increase with each of these measurements, incorrect assessment of the severity of PAD can
+result in inadequate treatment and poorer outcomes
+with ultimately an increase in costs. Importantly, all the
+aforementioned bedside tests have varying capacity to
+predict likelihood of healing and of amputation, as summarised in the systematic review.6 Based on current evidence no test has convincingly been shown to perform
+better than other tests as a prognostic indicator of both
+healing and amputation. In the opinion of the Writing
+Committee multiple tests should be used. Given the
+limited available evidence on TcPO2 and SPP and their
+higher costs, a Conditional Recommendation on these
+two tests was made.
+
+Recommendation 9
+In a person with diabetes and a foot ulcer or gangrene, it is
+suggested that the presence of peripheral artery disease and
+other causes of poor healing should always be assessed. Diabetes related micro-angiopathy should not be considered the
+primary cause of foot ulceration, gangrene, or poor wound
+healing without excluding other causes.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The deﬁnition of microvascular disease in
+DFU and its role in wound healing are not well understood. Many clinicians have assumed that microvascular
+disease is present in a high proportion of people with
+DFU and that it is a major cause of delayed wound healing, often despite a lack of thorough investigation of
+large vessel arterial disease. As discussed elsewhere in
+this guideline, people with diabetes and a DFU
+frequently have distal, lower leg obstructive atherosclerotic disease, often with involvement of the pedal
+
+1114
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+arteries, which due to their smaller size can be difﬁcult to
+image. However, advances in imaging and technology
+have shown that tibial and pedal arteries are potentially
+treatable by endovascular and open surgical techniques.
+The term microvascular disease describes abnormalities affecting the arteriolar, capillary and venular vessels. Several studies have reported microvascular
+abnormalities in the skin and subcutaneous tissues in
+people with diabetes. These abnormalities can be structural, i.e. occlusive disease and alterations in the blood
+vessel wall, and functional, such as impaired vasodilatory responses to endogenous or noxious stimuli.82
+However, in the systematic review on this topic it was
+not possible to identify studies of sufﬁcient quality
+showing that such abnormalities contribute to
+impaired wound healing (Supplementary material).
+One prospective study did report that microvascular
+changes observed in skin biopsies in the feet in people
+with diabetes and neuro-ischaemia were associated
+with poorer wound healing after revascularisation.83
+However, both these microvascular changes and poorer
+wound healing could be due to tissue damage caused
+by ischaemia and not by pre-existing diabetes related
+micro-angiopathy. If perfusion of the foot ulcer is
+adequate but the ulcer fails to heal, other causes of
+poor wound healing should be sought and treated,
+such as infection, insufﬁcient protection from biomechanical stress, oedema, poor glycaemic control, poor
+nutritional state, and underlying co-morbidities.43
+Based on the lack of studies showing that diabetes
+related micro-angiopathy contributes to poor wound
+healing in DFU and the potential harm if this is
+assumed, a Conditional Recommendation based on
+low certainty of evidence was made.
+
+Recommendation 10
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene, consider using the Wound/Ischaemia/foot
+Infection (WIfI) classiﬁcation system to estimate healing likelihood and amputation risk.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The Wound, Ischaemia and Foot infection
+(WIfI) classiﬁcation system was developed to guide the
+clinician in estimating the risk of amputation and potential beneﬁt of revascularisation in people with a
+foot ulcer or gangrene, and is recommended by the
+Global Vascular Guideline for limb staging (relating to
+severity of limb threat) in people with chronic limb
+threatening ischaemia (CLTI).20 This system was developed by an interdisciplinary panel of experts and stages
+the limb based on the presence of, and severity of, the
+
+foot wound, ischaemia, and infection. A Delphi
+consensus process was used to allocate these combinations into four clinical stages based on very low (stage
+1), low (stage 2), moderate (stage 3), and high (stage 4)
+predicted one year risk of major amputation. Consistent
+with all other commonly used limb staging systems, the
+individual’s co-morbidities which are likely to inﬂuence
+wound healing and amputation risk are not incorporated into WIfI. A second distinct aspect of the WIfI
+system is the predicted likelihood of beneﬁt from
+revascularisation.84
+A recent systematic review concluded that in people
+undergoing a revascularisation procedure, the likelihood of an amputation after one year increases with
+higher WIfI stages. The estimated one year major amputation rates from four studies comprising 569 participants were 0%, 8% (95% CI 3 e 21%), 11% (95% CI 6 e
+18%), and 38% (95% CI 21 e 58%), for WIfI clinical stages
+1e4, respectively.85 For the population of people with a
+DFU, the WIfI system was evaluated in the IWGDF systematic review on classiﬁcation systems, that is published in parallel to this guideline. In summary, in
+people with diabetes, PAD, and a foot ulcer, this systematic review identiﬁed seven studies, with low certainty of
+evidence, demonstrating that a high WIfI limb clinical
+stage
+is
+associated
+with
+longer
+time
+to
+healing and increased likelihood of non-healing at six
+and 12 months.86e92 Higher WIfI clinical stages are also
+associated with increased likelihood of major amputation, with one study reporting an amputation rate of
+64% for stage 4.93 Similarly, higher WIfI clinical stages
+have been linked to high rates of minor amputation
+and lower rates of amputation free survival at 12
+months.88,89,92,94e99 For prediction of revascularisation
+beneﬁt there are few data available and inadequate evidence to determine whether WIfI revascularisation
+beneﬁt staging predicts healing or amputation outcomes in people undergoing revascularisation.
+The WIfI tool (Tables 1e5) has demonstrated predictive
+capacity for the key outcomes of wound healing and
+amputation in people with DFU.88,89,92,94e99 It uses clinical grading of infection and wound characteristics in
+combination with non-invasive bedside testing to determine the severity of ischaemia and it has wide availability, also as an online tool (https://apps.apple.com/us/app/
+svs-ipg/id1014644425). Moreover, it can be used by a wide
+range of practitioners making its application in clinical
+practice feasible, its costs are relatively limited, and it is
+expected to be acceptable to practitioners as well as being of value to people receiving the care. It is likely to
+stimulate a standardised access to a form of vascular
+assessment, which is also relevant for low income countries where invasive testing may not be widely available.
+Due to the observational and often retrospective nature
+of most of the current evidence, this recommendation
+was made Conditional.
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1115
+
+Volume 78, Number 5
+
+TREATMENT
+Clinical question
+In which persons with diabetes, PAD, and a foot ulcer or
+gangrene using clinical ﬁndings, perfusion test ﬁndings,
+and or classiﬁcation systems, should revascularisation
+be considered?
+
+Table 1. Wound Ischaemia foot Infection Classiﬁcation
+System: Wound clinical category adapted from Mills et al.
+(reference 84)
+Grade
+
+Clinical description
+
+0
+
+Ischaemic rest pain; without ulcer
+or gangrene
+
+1
+
+Minor tissue loss: small shallow
+ulceration on foot or distal leg. No
+gangrene.
+Salvageable with simple skin
+coverage or # 2 toe amputations
+
+2
+
+Major tissue loss: deeper ulceration(s)
+with exposed bone, joint or tendon
+not involving calcaneus.
+Gangrenous changes limited to
+digits.
+Salvageable with extensive forefoot
+surgery
+
+3
+
+Extensive ulcer or gangrene involving
+forefoot or midfoot; full thickness
+heel ulcer 6 calcaneal
+involvement.
+Salvageable with complex foot
+reconstruction and/or complex
+wound management
+
+intervention in people with diabetes and a foot ulcer.20
+Modalities that can be used to obtain anatomical information include CDUS, CTA, MRA, or DSA (including
+anteroposterior and lateral views of the foot). The
+Writing Committee considered that each of the imaging techniques have their advantages and disadvantages, and their use will depend heavily on the
+availability of equipment and local expertise, preferences of the individual clinician, and associated costs.
+For these reasons a Best Practice Statement was
+formulated. Regarding their use in people with diabetes, the utility of some these techniques, such as
+CDUS and CTA, can be affected by (severe) MAC, which
+is frequently present in the smaller arteries of the leg in
+people with DFU. MRA images are incapable of
+deﬁning the extent of calciﬁcation which may be
+important when planning revascularisation.20 Finally,
+as stated in the GVG, catheter DSA, represents the
+gold standard imaging technique, especially for the
+Table 2. Wound Ischaemia foot Infection Classiﬁcation
+System: Ischaemia category adapted from Mills et al.
+(reference 84)
+Grade
+
+ABI
+
+Ankle SP e mmHg
+
+TP, TcPO2 e mmHg
+
+0
+
+$0.8
+
+>100
+
+$60
+
+1
+
+0.6e0.79
+
+70e100
+
+40e59
+
+2
+
+0.40e0.59
+
+50e69
+
+30e39
+
+3
+
+<0.40
+
+<50
+
+<30
+
+ABI ¼ ankle brachial index; SP ¼ systolic pressure; TP ¼ toe pressure;
+TcPO2 ¼ transcutaneous oxygen pressure.
+
+Table 3. Wound Ischaemia foot Infection Classiﬁcation
+System: foot Infection category adapted from Mills et al.
+(reference 84)
+
+Recommendation 11
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene who is being considered for revascularisation, evaluate the entire lower extremity arterial circulation
+(from aorta to foot) with detailed visualisation of the below
+knee and pedal arteries.
+Grade
+
+Clinical description
+
+IDSA
+
+IWGDF
+Class
+
+0
+
+Wound without purulence or
+manifestations of infection
+
+Uninfected
+
+1
+
+1
+
+> 2 manifestations of
+infection, erythema (< 2 cm),
+pain or tenderness, warmth,
+induration or purulent
+discharge
+
+Mild
+
+2
+
+2
+
+Local infection in a patient
+who is systemically stable as
+described above with
+erythema > 2cm, or involving
+subcutaneous structures e.g.,
+abscess, osteomyelitis, septic
+arthritis or fasciitis
+
+Moderate
+
+3
+
+3
+
+Infection in patient with
+systemic or metabolic
+toxicity (systematic
+inﬂammatory response
+syndrome/ sepsis)
+
+Severe
+
+4
+
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+As per Recommendations 1 e 4, clinical examination
+and bedside testing should be the ﬁrst line testing undertaken to diagnose the presence of PAD. When
+revascularisation is being considered further anatomical information on the arteries of the lower limb
+should be obtained to assess the presence, severity,
+and distribution of arterial stenoses or occlusions. In
+this process, adequate imaging of the tibial and pedal
+vessels is of critical importance, particularly in planning
+
+IDSA ¼ The Infectious Diseases Society of America; IWGDF ¼ International Working Group on the Diabetic Foot.
+
+1116
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+below knee and foot arteries.20 In many centres DSA is
+typically used when MRA or CTA are not available, fail
+to adequately deﬁne the arterial anatomy, or when
+an endovascular intervention is planned. Arterial imaging should allow complete anatomical staging from
+aorta to foot using, for example, TASC for aorto-iliac
+disease and the Global Anatomic Staging System
+(GLASS), described in the GVG, for infrainguinal and
+pedal disease.20
+
+people with end stage renal disease, who have a 5%
+peri-operative mortality rate, 40% one year mortality
+rate, and one year limb salvage rate of around 70%.101
+People with signs of ischaemia, e.g., as deﬁned by WIfI
+and the GVG; absent pulses and monophasic or absent
+pedal Doppler waveforms, ankle pressure < 100 mmHg
+or toe pressure < 60 mmHg, are very likely to have significant PAD that could impact wound healing potential
+and amputation risk.20,84 The certainty of evidence in
+the systematic review on the effects of revascularisation
+on wound healing and amputation risk was judged to
+be very low, as many important factors that can affect
+outcomes were not reported, such as the availability of
+vein conduit, wound care, ofﬂoading, and sufﬁcient
+anatomical details about the extent and severity of the
+lesions treated. Factors that inﬂuence the decision to
+revascularise include the degree of limb threat (e.g.,
+WIfI classiﬁcation), the amount of tissue loss, presence
+of infection, co-morbidities, feasibility of the different
+revascularisation options, and their risks.
+As discussed in other parts of the IWGDF guidelines,
+restoration of perfusion in the foot is only part of the
+treatment required to optimise wound healing and to
+prevent or limit tissue loss, which should be provided
+by a multidisciplinary team.43 Any revascularisation procedure should be part of a comprehensive care plan
+that addresses other important issues including: prompt
+treatment of concurrent infection, regular wound
+debridement, biomechanical ofﬂoading, control of blood
+glucose, assessment and improvement of nutritional status, as well as treatment of oedema and co-morbidities.43 The decision to perform a revascularisation
+procedure and which procedure is preferred depends
+therefore on several factors and in each individual the
+balance should be made between expected beneﬁts,
+potential risks, harms and costs, in a shared decision
+making process. For these reasons a Best Practice
+Recommendation was made. The care of persons with
+a DFU is frequently managed by healthcare professionals
+who are not speciﬁcally trained in the treatment of PAD.
+Care for people with PAD is differently organised in many
+countries, with different medical disciplines involved,
+
+Recommendation 12
+In a person with diabetes, peripheral artery disease, a foot
+ulcer, and clinical ﬁndings of ischaemia, a revascularisation
+procedure should be considered. Findings of ischaemia
+include absent pulses, monophasic or absent pedal Doppler
+waveforms, ankle pressure < 100 mmHg or toe pressure < 60
+mmHg. Consult a vascular specialist unless major amputation
+is considered medically urgent.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+The natural history of people with diabetes, PAD, and a
+DFU or gangrene remains poorly deﬁned, but in two
+studies reporting the outcomes of participants with diabetes and limb ischaemia who were not revascularised,
+the limb salvage rate was around 50% at one year.73,100
+Analysis of the evidence for revascularisation suggests
+that revascularisation in appropriately selected people
+with diabetes and haemodynamically signiﬁcant PAD,
+can improve perfusion, expedite wound healing, and
+reduce major limb amputations.6 After a revascularisation procedure, most studies report limb salvage rates
+of 80 e 85% and ulcer healing in > 60% at 12 months.101
+On the other hand, performing a revascularisation is not
+without risks. As summarised in the systematic review
+performed by the IWGDF in 2019,101 the peri-operative
+or 30 day mortality rate was around 2% in people with
+diabetes undergoing either endovascular or surgical
+revascularisation.101 The highest risk group includes
+
+Table 4. Wound Ischaemia foot Infection Classiﬁcation System: estimated risk of amputation at one year adapted from
+Mills et al. (reference 84)
+Ischaemia e 0
+
+Ischaemia e 1
+
+Ischaemia e 2
+
+Ischaemia e 3
+
+W-0
+
+VL
+
+VL
+
+L
+
+M
+
+VL
+
+L
+
+M
+
+H
+
+L
+
+L
+
+M
+
+H
+
+L
+
+M
+
+M
+
+W-1
+
+VL
+
+VL
+
+L
+
+M
+
+VL
+
+L
+
+M
+
+H
+
+L
+
+M
+
+H
+
+H
+
+M
+
+M
+
+H
+
+H
+
+W-2
+
+L
+
+L
+
+M
+
+H
+
+M
+
+M
+
+H
+
+H
+
+M
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+W-3
+
+M
+
+M
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+VL ¼ Very Low ¼ Class or Clinical Stage 1
+L ¼ Low ¼ Class or Clinical Stage 2
+M ¼ Moderate ¼ Class or Clinical Stage 3
+H ¼ High ¼ Class or Clinical Stage 4
+
+H
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1117
+
+Volume 78, Number 5
+
+Table 5. Wound Ischaemia foot Infection Classiﬁcation System: estimated likelihood of beneﬁt of or requirement for
+revascularisation adapted from Mills et al. (reference 84)
+Ischaemia e 0
+
+Ischaemia e 1
+
+Ischaemia e 2
+
+Ischaemia e 3
+
+W-0
+
+VL
+
+VL
+
+VL
+
+VL
+
+VL
+
+L
+
+L
+
+M
+
+L
+
+L
+
+M
+
+M
+
+M
+
+H
+
+H
+
+H
+
+W-1
+
+VL
+
+VL
+
+VL
+
+VL
+
+L
+
+M
+
+M
+
+M
+
+M
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+W-2
+
+VL
+
+VL
+
+VL
+
+VL
+
+M
+
+M
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+W-3
+
+VL
+
+VL
+
+VL
+
+VL
+
+M
+
+M
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+fI-0
+
+fI-1
+
+fI-2
+
+fI-3
+
+VL ¼ Very Low ¼ Class or Clinical Stage 1
+L ¼ Low ¼ Class or Clinical Stage 2
+M ¼ Moderate ¼ Class or Clinical Stage 3
+H ¼ High ¼ Class or Clinical Stage 4
+
+such as vascular surgeons, angiologists, interventional radiologists, nephrologists, cardiac surgeons, and cardiologists. For this reason, the term vascular specialist
+consultation is used in the recommendation, but whatever the organisation of care all people with diabetes
+and PAD should have access to both bypass surgery
+and endovascular procedures.
+
+Recommendation 14
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer with infection or gangrene involving any portion of the
+foot, urgently consult a vascular specialist in order to determine the timing of a drainage procedure and a revascularisation procedure.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+Recommendation 13
+In a person with diabetes, peripheral artery disease, a foot
+ulcer, and severe ischaemia i.e., an ankle brachial index < 0.4,
+ankle pressure < 50 mmHg, toe pressure < 30 mmHg or
+transcutaneous oxygen pressure < 30 mmHg or monophasic
+or absent pedal Doppler waveforms, urgently consult a
+vascular specialist regarding possible revascularisation.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+Severe ischaemia is deﬁned in the GVG as an ABI <
+0.4, AP pressure < 50 mmHg, TP < 30 mmHg or
+TcPO2 < 30 mmHg or monophasic or absent pedal
+Doppler waveforms.20,84 Such perfusion deﬁcits are,
+as also stated in the GVG, an indication for revascularisation, unless contraindicated or technically not
+possible. There is retrospective evidence demonstrating that a delay in revascularisation of more than
+two weeks in people with diabetes results in increased
+risk of limb loss.102 This is supported by observational
+research demonstrating that a shorter time to revascularisation (< 8 weeks) is associated with a higher probability of DFU healing and lower likelihood of limb
+loss.74 As shorter time to revascularisation was associated with higher probability of DFU healing and lower
+likelihood of limb loss, a Best Practice Statement supporting urgent referral for vascular consultation in people with DFU and evidence of severe ischaemia was
+made (Fig. 1).
+
+Rationale
+In the presence of PAD and infection or gangrene, an
+urgent revascularisation should be considered. In the
+prospective Eurodiale study, participants with the combination of a foot infection and PAD had a one year major amputation rate as high as 44%.103 In addition,
+participants with higher WIfI infection grade had higher
+risk of amputation in several observational studies, as
+summarised in the IWGDF systematic review on Classiﬁcation Systems (https://onlinelibrary.wiley.com/doi/10.1
+002/dmrr.3645).38 Delay in treatment can lead to rapid
+tissue destruction and life threatening sepsis as
+described in the IWGDF/IDSA Guidelines on Management of Diabetic Foot Infections.104 In a person with a
+foot abscess or infection of a deep foot compartment
+that needs immediate drainage, or where there is
+gangrene that must be removed to control the infection,
+immediate surgery should be considered ﬁrst.104 This
+should be accompanied by broad spectrum antibiotic
+therapy, which is subsequently tailored according to tissue culture results, as “time is tissue” in these people.
+Once the sepsis is controlled and the person is stabilised,
+evaluation of the arterial tree should lead to consideration for prompt revascularisation (i.e., within a few
+days) in people with substantial perfusion deﬁcits. Once
+blood ﬂow is improved and infection is controlled, a
+deﬁnitive operation may be required to create a functional foot, which may require soft tissue and bone
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1118
+
+November 2023
+
+Figure 1. Assessment and management pathway for a person with diabetes, peripheral artery disease, and a foot
+ulcer with ﬁndings of ischaemia, infection, or gangrene. Yellow ¼ Conditional Recommendation; green ¼ Strong
+Recommendation; gray ¼ Best Practice Recommendation; ABI ¼ ankle brachial index; IWGDF ¼ International
+Working Group on the Diabetic Foot; TBI ¼ toe brachial index; TP ¼ toe pressure; PAD ¼ peripheral artery disease;
+WIfI ¼ Wound Ischaemia foot Infection classiﬁcation system
+
+reconstruction.105 Due to the risk of amputation in this
+clinical scenario, the likelihood that the person will value
+avoidance of amputation, and the need for appropriate
+prioritisation of intervention strategies to achieve this,
+the Writing Committee formulated a Best Practice
+Statement.
+
+Recommendation 15
+In a person with diabetes and a foot ulcer, when the wound
+deteriorates or fails to signiﬁcantly improve (e.g., a less than
+50% reduction in wound area within four weeks) despite
+appropriate infection and glucose control, wound care, and
+ofﬂoading, reassess the vascular status and consult with a
+vascular specialist regarding possible revascularisation.
+Grade
+
+Certainty of evidence
+
+presentation is predictive of healing at 12 weeks.106e109
+This has been shown to be the case independent of
+the ulcer size at baseline and supports review of treatment protocols where adequate wound reduction is
+not being achieved in the four week timeframe. Presence of suspected CLTI or a DFU that is failing to
+adequately heal despite best practice care requires
+prompt consultation with a vascular specialist and
+assessment of whether a revascularisation procedure is
+indicated. There is no direct evidence supporting the
+recommendation which is a pragmatic statement based
+on indirect evidence and expert opinion. Given the risk of
+poor outcomes when PAD is left untreated in a person
+with a poorly healing ulcer, a Best Practice Statement
+has been made.
+
+Best Practice Statement
+
+Rationale
+Multiple factors may contribute to delayed or nonhealing of DFU, including presence of infection, wound
+size and depth, elevated foot pressures at the wound
+site, and inadequate wound care. A number of studies
+have demonstrated that a reduction in percentage of
+wound area of more than 50% by four weeks after
+
+Recommendation 16
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene, avoid revascularisation when the risk
+ebeneﬁt ratio for the probability of success of the intervention
+is clearly unfavourable.
+Grade
+Best Practice Statement
+
+Certainty of evidence
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1119
+
+Volume 78, Number 5
+
+Rationale
+Revascularisation should not be performed if there is
+no realistic chance of wound healing, when major
+amputation is inevitable, a functional foot is unlikely
+to be achieved, or when life expectancy is short and
+there is unlikely to be beneﬁt to the person. The
+Writing Committee considered that in such persons
+any revascularisation procedure is unlikely to be of
+beneﬁt to the person and may cause harm. Many
+affected individuals pose high peri-procedural risk
+because of comorbidities. In particular, the following
+people may not be suitable for revascularisation: those
+who are very frail, have short life expectancy, have
+poor functional status, are bed bound, and or have a
+large area of tissue destruction that renders the foot
+functionally unsalvageable and those who cannot realistically be expected to mobilise following revascularisation. There are occasional situations where an
+arterial inﬂow procedure is performed to improve
+the likelihood of healing of a major limb amputation
+(below or above knee).
+There is evidence from several observational studies
+of a 50% healing rate for ischaemic DFU in people
+with diabetes unsuitable for revascularisation and this
+should also be considered in determining choice of
+care.74,100 The decision to proceed to primary amputation, or to adopt a palliative approach, should be made
+in conjunction with the person and the multidisciplinary team110 including a vascular specialist unless
+an emergency procedure is indicated as discussed
+earlier. The Writing Committee considered that in
+these circumstances where healing is improbable a
+person is unlikely to value the outcomes from revascularisation over no revascularisation. Similarly in such circumstances the beneﬁt of revascularisation will not
+outweigh the potential harms.
+Clinical question
+In people with diabetes, PAD, and either a foot ulcer or
+gangrene, how does endovascular revascularisation
+compare with open or hybrid revascularisation?
+
+Recommendation 17
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene who has an adequate single segment
+saphenous vein in whom infrainguinal revascularisation is
+indicated and who is suitable for either approach, consider
+bypass in preference to endovascular therapy.
+Grade
+Conditional
+
+Certainty of evidence
+Moderate
+
+Recommendation 18
+A person with diabetes, peripheral artery disease (PAD) and a
+foot ulcer or gangrene, should be treated in a centre with
+expertise in, or rapid access to, endovascular and surgical
+bypass revascularisation. In this setting, consider making
+treatment decisions based on the risk to and preference of
+the individual, limb threat severity, anatomical distribution of
+PAD, and the availability of autogenous vein.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+Once the decision to revascularise has been made, the
+next decision is whether an endovascular, an open (i.e.,
+bypass or endarterectomy) procedure, or a combination
+of both (i.e., hybrid procedure) should be performed.
+Recommendation 18 highlights the complementary
+role of open and endovascular techniques in contemporary vascular practice. In particular, endovascular techniques have largely replaced open surgery in the
+management of aorto-iliac disease and also allow treatment of foot and pedal arch disease.
+The majority of studies identiﬁed in the systematic review on endovascular and bypass surgical outcomes
+were observational and retrospective case series, with a
+high risk of bias.7 The BEST CLI trial was a large randomised clinical trial with low risk of bias comparing an
+endovascular ﬁrst with a surgical ﬁrst approach. People
+with CLTI who were deemed appropriate for revascularisation for infrainguinal arterial occlusive disease were
+included.111 The primary outcome was above ankle
+amputation of the index limb or a major reintervention in the index limb (new bypass, vein graft
+interposition revision, thrombectomy or thrombolysis)
+or death. It was designed in two parallel cohort trials:
+Cohort 1 people who had an adequate single segment
+great saphenous vein (GSV) available for use as a bypass
+conduit, and Cohort 2 people without an adequate single segment GSV who required an alternate conduit.
+Treatment with a GSV bypass ﬁrst approach was superior
+to endovascular therapy ﬁrst for the primary outcome
+(hazard ratio [HR], 0.68; 95% conﬁdence interval [CI]
+0.59 e 0.79; p < .001). In Cohort 2 the primary outcomes
+were similar between the two groups. Subgroup analysis
+of people in Cohort 1 favoured surgery in people with diabetes (HR 0.72; CI 0.61 e 0.86) with beneﬁt comparable
+with those without diabetes (HR 0.57; CI 0.41 e 0.78). At
+the time of writing this guideline, further results of this
+study have not been published. Of note, whole group
+data for Cohort 1 demonstrated a higher rate of major
+amputation in those undergoing an endovascular
+
+1120
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+procedure compared with those having surgery (Surgery:
+74/709 [10.4%] Endovascular: 106/711 [14.9%]). Further
+subanalysis may demonstrate this is relevant to those
+with diabetes and therefore this may affect an individual’s preference for intervention. From the perspective
+of the person receiving treatment, the difference in
+length of hospital stay should be taken into account,
+which in the systematic review was longer in the bypass
+publications than in endovascular publications. In addition, people might prefer to have an endovascular
+approach given the more invasive approach of bypass
+surgery.
+Considering costs, there are probably no major differences except the length of hospital stay; however, this
+is yet to be determined and may be an additional
+outcome of the BEST-CLI study. Subsequent analyses
+are also awaited to shed more light on the anatomical
+patterns and extent of disease treated, as well as which
+patterns of disease were not well represented or
+excluded. As BEST-CLI is currently the only randomised
+controlled trial (RCT) in this area, the certainty of the evidence for the recommendation was moderate. Given
+the important differences in outcomes in the BEST-CLI
+trial it is recommended to consider bypass surgery as
+the ﬁrst option in people with a suitable saphenous
+vein. It is acknowledged that this recommendation
+may lead to some major changes in the policy of the
+many centres, which currently have an endovascular ﬁrst
+approach for everyone.
+The recommendation may not be feasible in the short
+term in all countries due to the lack of equipment and
+expertise. Finally, it should be noted that in the BESTCLI study, endovascular procedures could be performed
+in the iliac and common femoral artery to ensure
+optimal inﬂow into the bypass, emphasising that a
+centre treating PAD in people with a DFU should have
+the expertise to perform both endovascular and bypass
+procedures. In addition, in some centres the immediate
+availability of an endovascular approach might be a
+reason to opt for this treatment when an urgent revascularisation is needed or when the surgical risk is deemed
+too high. For these reasons and the moderate certainty
+of the evidence a Conditional Recommendation was
+made.
+In people with diabetes in whom a revascularisation is
+considered but who do not have a suitable single
+segment GSV for bypass surgery, the results in BEST-CLI
+were similar for endovascular and surgical bypass. This
+statement is in line with the results of the systematic review, in which the non-randomised and observational
+studies showed that the evidence was inadequate to
+establish whether an endovascular, open, or hybrid revascularisation technique is superior. Each of these techniques has its advantages and disadvantages. A
+successful distal venous bypass can result in a marked
+
+increase of blood ﬂow to the foot, but general, spinal,
+or epidural anaesthesia is usually necessary and a suitable vein, as a bypass conduit, should be present, as in
+the BEST-CLI trial. An endovascular procedure has
+several logistical advantages, but sometimes, very complex interventions are necessary to obtain adequate
+blood ﬂow in the foot and a failed endovascular intervention may lead to worse outcomes when an open procedure is performed subsequently.112 Over the past few
+decades, there have been signiﬁcant advances in endovascular techniques; however, parallel to this, there
+have been improvements in anaesthesia and perioperative care that have helped improve surgical outcomes. As there is no one size ﬁts all approach to treatment for people with diabetes, PAD, and foot
+ulceration or gangrene, it is important that a treating
+centre has the expertise and facilities to provide a range
+of treatment options with availability of both endovascular and open techniques. It is recommended that for
+each person requiring lower limb revascularisation, all
+revascularisation techniques should be considered
+(Fig. 2).
+Clinical question
+In people with diabetes, PAD, and either a foot ulcer or
+gangrene, how does direct angiosome revascularisation
+compare with indirect angiosome revascularisation?
+
+Recommendation 19
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene, revascularisation procedures should aim to
+restore in line blood ﬂow to at least one of the foot arteries.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+In people with diabetes and a foot ulcer or gangrene
+in whom revascularisation is required, optimising
+blood ﬂow to the foot is important to maximise the
+chance of healing the foot and avoiding amputation.
+Incomplete revascularisation (including treating inﬂow
+disease when distal disease is present or bypassing into
+blind segment arteries with no runoff), can result in
+delayed or non-wound healing and a substantial risk of
+amputation.
+Bypass surgery is ideally performed to an outﬂow vessel
+that runs into the foot. However, bypasses performed to
+the peroneal artery (which rely on collateralisation to
+the foot) are most effective when there is good collateralisation to the foot and a patent pedal arch is present.99
+Pedal arch patency also seems to be associated with
+improved wound healing and reduced risk of major
+amputation.113
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1121
+
+Volume 78, Number 5
+
+Recommendation 20
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene undergoing an endovascular procedure,
+consider targeting the artery on angiography that supplies
+the anatomical region of the ulcer, when possible or practical.
+Grade
+Conditional
+
+Certainty of evidence
+Very low
+
+Rationale
+Angiosomes are three dimensional regions of tissue
+and skin supplied by a source artery. The six angiosomes
+of the foot and ankle are supplied by the posterior tibial
+artery (n ¼ 3), peroneal artery (n ¼ 2), and anterior tibial
+artery (n ¼ 1) (Fig. 3). Communications between angiosomes include direct arterial to arterial connections, as
+well
+as
+choke
+vessels
+which
+link
+adjacent
+angiosomes.113e115 The effect or inﬂuence of angiosome
+based revascularisation on wound healing and prevention of amputation (major and minor) in the management of diabetes related foot complications remains
+controversial.
+Direct revascularisation involves revascularisation of the
+tibial artery supplying the angiosome in which the tissue
+loss has occurred. The alternative to this is indirect revascularisation where the tibial artery treated is the artery in
+which successful in line ﬂow to the foot is most likely to
+be achieved by endovascular techniques or is deemed
+the best tibial outﬂow vessel for anastomosis in bypass
+surgery but does not directly supply the affected area
+of tissue loss. The systematic review found that open
+
+vascular reconstruction procedures were equally effective whether direct or indirect revascularisation to the
+affected foot angiosome was performed.7
+In addition, healing and amputation outcomes for
+direct and indirect endovascular revascularisation show
+that if direct revascularisation is possible, DFU healing
+time and major amputation may be reduced compared
+with indirect revascularisation. There is inadequate evidence to determine whether direct revascularisation is
+superior to indirect revascularisation to prevent minor
+amputation.116 Indirect revascularisation with collaterals
+was associated with wound healing and limb salvage
+outcomes which were similar to direct revascularisation
+outcomes and notably better than the indirect revascularisation without collateral cohorts.117e121
+The majority of studies included in the systematic review used endovascular procedures with data probably
+favouring direct revascularisation. For bypass procedures
+there was little difference in healing and amputation
+outcomes at 12 months between direct and indirect
+revascularisation.121e124 These studies had a high risk of
+bias, lacked randomisation (and it is unlikely that this
+will ever be possible), and were mostly retrospective.
+Baseline variables such as wound and foot staging (e.g.,
+by WIfI) and extent of tissue loss were reported infrequently. Heterogeneity of the included studies was
+found to be high, preventing meta-analysis of data. This
+is likely to be due to high variability in participants and
+wound stage (extent of tissue loss, severity of ischaemia,
+presence of infection). Comparison of primary outcomes
+(healing and amputation) or adverse events is therefore
+problematic. Based on the available data it appears
+
+Figure 2. Approach to vascular intervention for a person with diabetes and a foot ulcer or gangrene. Yellow ¼
+Conditional Recommendation; gray ¼ Best Practice Recommendation; PAD ¼ peripheral artery disease; CT ¼
+computed tomography; GSV ¼ great saphenous vein; MR ¼ magnetic resonance; DS ¼ digital subtraction.
+
+1122
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+Figure 3. Angiosome distribution in the lower leg and foot.
+
+direct revascularisation may have improved outcomes
+and therefore it was considered that this procedure is
+likely to be preferred by people receiving treatment to
+improve healing and prevent amputation. However, the
+Writing Committee considered there is likely to be
+important variability in patient values due to the lack of
+clear beneﬁt of one approach over the other.
+Factors such as the severity of ischaemia and tissue loss
+(e.g., WIfI staging) and patient suitability for the procedure and presence of comorbidities, as well as the availability of expertise and costs of the procedures (which
+may vary between locations and countries) drives decision making in relation to the type of procedure considered appropriate with these factors also impacting.
+Several studies have noted that only a minority of foot
+and ankle wounds in their series corresponded to one
+angiosome. Kret et al.125 found that only 36% of wounds
+in their series corresponded to a single distinct angiosome. Similarly, Aerden et al.126 found it difﬁcult to allocate people to direct revascularisation versus indirect
+revascularisation due to the presence of multiple
+wounds and large wounds that had more than one
+angiosome supplying them. In such cases it is the
+opinion of the Writing Committee that the best quality
+artery should preferentially be targeted. Many clinicians
+
+will consider attempting to treat the second vessel supplying the wound as well, although there is a lack of evidence to support this approach.7
+Clinical question
+In people with DFU, do revascularisation perfusion outcomes predict healing, major amputation, or the need
+for further revascularisation?
+
+Recommendation 21
+In a person with diabetes and either a foot ulcer or gangrene
+who has undergone revascularisation, objectively assess adequacy of perfusion e.g., using non-invasive bedside testing.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+There are few available data examining the predictive
+capacity of post-revascularisation perfusion measures
+for healing or amputation outcomes or for the need for
+further revascularisation in people with diabetes. However, adequate perfusion is essential for wound healing and
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1123
+
+Volume 78, Number 5
+
+Recommendation 22
+A person with diabetes, peripheral artery disease, and either a
+foot ulcer or gangrene should be treated by a multidisciplinary team as part of a comprehensive care plan.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+clinical examination is often too unreliable. Diabetes
+related PAD is characterised by atherosclerotic plaque
+formation that is long and diffuse in nature and more
+likely to involve distal vascular beds. Frequently, long
+term patency is not achieved in endovascular treatment
+of tibial lesions.127
+Regular assessment of perfusion post-revascularisation
+should therefore be undertaken due to the risk of occlusion and restenosis after intervention. This should be conducted in combination with regular assessment of the
+foot lesion to determine whether healing is indeed taking place. It is recommended that revascularisation
+should aim to improve perfusion to the foot as much
+as possible, which will vary according to the individual.
+Due to the lack of data available determining the optimum time frame for follow up and the likelihood that
+this may vary depending on the testing methods being
+used, a Best Practice Statement based on indirect evidence and expert opinion has been made.
+Rationale
+As discussed in several parts of this guideline and in
+other IWGDF guidelines on the diagnosis and management of DFU, restoration of perfusion in the foot is only
+part of the treatment, which should be provided by a
+multidisciplinary care team.43 Lack of access to specialist
+care is associated with worse foot outcomes. In rural and
+remote locations and areas where specialist access is
+challenging, referral pathways that address care access
+(e.g., through virtual referral pathways) are essential to
+establish to provide multidisciplinary care.128 Any revascularisation procedure should therefore be part of a
+comprehensive care plan that addresses other important
+issues including: prompt treatment of concurrent infection, regular wound debridement, biomechanical offloading, control of blood glucose, cardiovascular risk
+reduction, and treatment of co-morbidities.128 Moreover,
+once the ulcer has healed the risk of recurrence is up to
+50% over ﬁve years in several studies so preventive measures need to be taken and many people need long term
+follow up by a dedicated foot complication prevention
+team.26
+Clinical question
+In a person with diabetes, PAD, and a foot ulcer, which
+medical treatments should be advised to prevent major
+
+adverse cardiovascular events (MACE), major adverse
+limb events (MALE), and death?
+MACE is deﬁned as a composite of non-fatal stroke,
+non-fatal myocardial infarction, and cardiovascular
+death.
+d MALE is deﬁned as the development of severe lower
+leg ischaemia leading to a vascular intervention or a
+major lower leg amputation.
+d These deﬁnitions vary slightly between studies.
+d
+
+People with diabetes and PAD (with or without a foot
+ulcer) are at a very high cardiovascular risk. Cardiovascular risk factor goals should always be individualised, taking life expectancy, expected beneﬁt, treatment
+burden, potential drug interactions, and undesirable
+treatment effects into account. While taking these considerations into account, the Writing Committee suggests the following treatment targets to reduce the
+risk of future major adverse limb and cardiovascular
+events.
+
+Recommendation 23
+In a person with diabetes and peripheral artery disease, the
+following target levels should be:
+
+HbA1c < 8% (< 64 mmol/mol), but higher target HbA1c
+value may be necessary depending on the risk of severe
+hypoglycaemia.
+Blood pressure < 140/90 mmHg but higher target levels
+may be necessary depending on the risk of orthostatic
+hypotension and other side effects.
+Low density lipoprotein target of < 1.8 mmol/L (< 70 mg/
+dL) and reduced by at least 50% of baseline. If high intensity statin therapy (with or without ezetimibe) is
+tolerated, target levels < 1.4 mmol/L (55 mg/dL) are
+recommended.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Recommendation 24
+In a person with diabetes and symptomatic peripheral artery
+disease:
+
+treatment with single antiplatelet therapy should be
+used,
+treatment with clopidogrel should be considered as ﬁrst
+choice in preference to aspirin,
+combination therapy with aspirin (75 mg to 100 mg once
+daily) plus low dose rivaroxaban (2.5 mg twice daily)
+should be considered for people without a high bleeding
+risk.
+Grade
+Best Practice Statement
+
+Certainty of evidence
+
+1124
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+Recommendation 25
+In a person with type 2 diabetes and peripheral artery disease:
+
+with an eGFR > 30 mL/min/1.73m2, a sodium glucose
+cotransporter-2 (SGLT-2) inhibitor or a glucagon like
+peptide 1 receptor agonist with demonstrated cardiovascular disease beneﬁt should be considered, irrespective of the blood glucose level.
+SGLT-2 inhibitors should not be started in drug naïve
+people with a diabetes related foot ulcer or gangrene
+and temporary discontinuation should be considered in
+people already using these drugs, until the affected foot
+is healed.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+The Writing Committee decided to not write their own
+guidelines on pharmacological interventions in people
+with diabetes, PAD, and a foot ulcer or gangrene in order
+to reduce cardiovascular risk or to prevent major limb
+events as deﬁned above. There are already a number of
+guidelines on cardiovascular risk prevention in people
+with diabetes and cardiovascular disease, and thus
+another guideline would have little added value. It was
+decided to base the Best Practice Statements on the
+GVG for CLTI produced by the ESVS, SVS, and World
+Federation of Vascular Societies (WFVS),20 as these
+address the speciﬁc population of people with CLTI.
+However, it was also felt that some of the recommendations of the CLTI guidelines should be adapted to the
+speciﬁc population of people with diabetes. When it
+was felt applicable, the guidelines of the American Diabetes Association (ADA), the European Association for
+the Study of Diabetes (EASD) and other guidelines on peripheral artery disease (European Society of Cardiology
+[ESC]-ESVS, European Society of Vascular Medicine
+[ESVM], and ESC-EASD, ESC- European Atherosclerosis
+Society [EAS]) were used.16e19,22,23,129
+PAD runs a more aggressive course in those with diabetes mellitus compared with those without diabetes,
+with an elevated risk of lower leg amputation. In addition, the combination of diabetes and PAD is associated
+with a high risk of developing complications in other
+vascular beds. As discussed previously, persons with an
+ischaemic diabetes related foot ulcer have an overall
+ﬁve year cardiovascular mortality of around 50%.130
+Therefore, according to the international guidelines of
+several major vascular and diabetes associations, these
+individuals should be considered as having a very high
+cardiovascular risk and should be treated as such. On
+the other hand, they usually have, in addition to peripheral neuropathy, other diabetes related complications
+as well as several co-morbidities, resulting in a high
+
+burden of diseases and multiple medications.30 Many
+affected persons are elderly, frail, and are living in vulnerable socio-economic circumstances with a low quality of
+life.131,132 It is therefore essential that cardiovascular risk
+factor management in these people should be individualised, tailored, and should be part of a shared decision
+making process, taking life expectancy, diabetes related
+complications and co-morbidities, expected beneﬁt,
+treatment burden, drug interactions, and undesirable
+treatment effects into account. This care should be provided by healthcare worker(s) with sufﬁcient expertise
+in treating cardiovascular risk factors and glycaemia,
+preferably by person(s) who are part of the multidisciplinary team for diabetes related foot care.
+Glycaemic goals. As stated in the ADA and ESC-EASD
+guidelines, near normal glycaemia with HbA1c level
+below 7.0% (53 mmol/mol) will decrease microvascular
+complications.18,22 Tighter glucose control initiated early
+in the course of diabetes in younger individuals leads to a
+reduction in macrovascular complications, i.e., cardiovascular outcomes, over a 20 year timescale. Such
+glucose control can have beneﬁcial effects on microvascular complications in a shorter period of time. However,
+when blood glucose lowering agents are used that have
+the risk of severe hypoglycaemia, this can increase the
+risk of cardiovascular events and death, as detailed in the
+ADA and ESC-EASD guidelines.18,129 As many people with
+a DFU and PAD also have atherosclerotic disease in other
+vascular beds, tight glucose control can be harmful. The
+risk of hypoglycaemia is markedly lower when people are
+only treated with metformin, a sodium glucose
+cotransporter-2 inhibitor or a glucagon like peptide 1
+receptor agonist. Tight glucose control is often not indicated in people with PAD and a DFU due to the risk of
+hypoglycaemia outweighing the potential beneﬁt. The
+ADA recommends in the 2022 Standards of Care to aim
+for an HbA1c < 8% (< 64 mmol/mol) in such persons and
+the ESC-EASD 2019 guideline for levels below 8 e 9%
+(< 64 e 75 mmol/l).18,129 However, the target chosen will
+depend on factors such as age, duration of diabetes,
+complications, co-morbidities, and risk of hypoglycaemia. These target HbA1c levels are higher than the
+level formulated in the GVG for CLTI (< 7.0%, 53 mmol/
+mol), but as discussed above it is concluded that the risk
+of such tight blood glucose control is too high in this
+speciﬁc population.
+Blood pressure goals. The ESC-EASD guidelines state
+that RCTs have demonstrated the beneﬁt (reduction of
+stroke, coronary events, and kidney disease) of lowering
+systolic BP to < 140 mmHg and diastolic BP to < 90
+mmHg.18 Usually, multiple drugs are necessary to reach
+these levels in people with diabetes. In younger people
+(e.g., younger than 65 years) levels below 130/80 mmHg
+can be considered if there are no contraindications for
+such tight blood pressure control and the risk of orthostatic hypotension is low. Both the ADA and ESC-EASD
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1125
+
+Volume 78, Number 5
+
+stress the importance of individualised treatment as
+overly aggressive blood pressure lowering is not without
+risk in the usually elderly with a DFU and those with
+multiple diabetes related complications and comorbidities. Therefore, in these people blood
+pressures < 140/90 mmHg are recommended, but in
+younger individuals (e.g., < 65 years) and with a small risk
+of adverse effects of the treatment, lower target levels
+might be considered.
+Lipid goals. The ADA and EASD guidelines recommend in persons with diabetes and atherosclerotic cardiovascular disease an LDL target of < 1.8 mmol/L (70
+mmol/L).21 In line with the lower the better approach,
+recent trials suggest that lower levels of LDL of < 1.4
+mmol/L (55 mg/dL) can be beneﬁcial in persons with a
+very high cardiovascular risk. Therefore, the recent ESCEASD and ESC-EAS guidelines recommend that such
+very low LDL levels should be the target in these individuals.18,19 In those with recurrent events within two
+years, even LDL levels < 1.0 mmol/L (40 mg/dL) are suggested as target in ESC-EAS guidelines.19 With statin
+therapy such as rosuvastatin 20 e 40 mg or atorvastatin
+40 e 80 mg, marked reductions of LDL cholesterol can
+be achieved if these relatively simple treatments are
+tolerated. When the target is not reached ezetimibe can
+be added, which is available in combination tablets with
+both statins. These treatments have limited side effects
+in most (but not all) people and are relatively inexpensive. According to the recent ESC-EASD and ESC-EAS
+guidelines, an LDL level below 1.0 mmol/L (40 mg/dL)
+can be the target in people with recurrent cardiovascular
+events (within two years), based on a limited number of
+RCTs in which relatively few participants with CLTI and
+diabetes were included. To reach the aforementioned
+very low LDL levels, additional treatment with a PCSK9
+inhibitor will be necessary in a proportion of people.
+PCSK9 inhibitors are monoclonal antibodies that have
+limited side effects but have the drawback of high costs,
+parenteral administration, and at present there is very
+limited evidence of the cost effectiveness of PCSK9 inhibitors in people with diabetes, PAD, and a foot ulcer or
+gangrene. In addition, the use of these expensive drugs is
+a problem for many countries in the world, and for these
+reasons a recommendation on LDL level below 1.0 mmol/
+L (40 mg/dL) for this speciﬁc population was not
+included, but it is acknowledged that in several countries
+PCSK9 inhibitors are used to reach these goals in those
+with recurrent cardiovascular events.
+In line with the other cardiovascular risk reduction interventions in these usually frail, multimorbid individuals,
+treatment and its goals should be based on shared decision making and should be individualised after careful
+weighting of the beneﬁts, harms, and costs. The LDL
+(and other) treatment targets in the recommendation
+should not be interpreted as absolute goals but more
+as desired goals. Even if the goal is only partially met, it
+
+can result in a marked reduction in cardiovascular events
+in these very high risk people. Although very low LDL
+levels are perhaps not achievable in all, LDL reductions
+of up to 50% can be achieved in many with the aforementioned potent statins (and ezetimibe), with marked
+reduction in cardiovascular risk.16
+Additional therapies
+Antithrombotic therapy. The subsequent advice on
+antiplatelet therapy is in line with the recent ESVS antithrombotic guidelines.137 All guidelines strongly recommend treatment with a single antiplatelet agent in
+persons with symptomatic cardiovascular disease, or
+more speciﬁcally chronic limb threatening ischaemia
+(CLTI). These drugs reduce the risk of cardiovascular
+events; for the increased risk of gastric bleeding in aspirin
+treated individuals, a proton pump inhibitor as additional treatment should be considered. There is less
+consensus regarding which drug to choose, clopidogrel
+or aspirin. The ADA and ESC-EASD guideline advises
+aspirin as ﬁrst choice in persons with diabetes and a
+cardiovascular event but did not specify for the presence
+of PAD.18,21 In the recent ESVM, ESC-ESVS, and GVG
+guidelines, clopidogrel is considered as the antiplatelet
+agent of choice in those with PAD. This recommendation
+is in particular based on The Clopidogrel versus Aspirin in
+Patients at Risk for Ischaemic Events (CAPRIE) trial, in
+which clopidogrel was more effective in reducing cardiovascular risk without an increased risk of bleeding.133
+It should be noted that only a subset of participants in
+this trial had PAD, of which only 21% had diabetes. Also, a
+meta-analysis did not show any beneﬁt from aspirin for
+those with PAD.134 A post hoc subanalysis of the CAPRIE
+trial showed that clopidogrel was superior to aspirin in
+reducing recurrent ischaemic events in those with diabetes.135 The relative risk reduction was comparable with
+those without diabetes, but due to the greater number
+of events among people with diabetes, the absolute risk
+reduction was even larger. Given the potential beneﬁt, it
+is suggested in a Conditional Recommendation that
+clopidogrel should be considered as ﬁrst choice, in line
+with the aforementioned guidelines.
+As an additional alternative to single antiplatelet therapy, combination therapy with aspirin (100 mg once
+daily) plus low dose rivaroxaban (2.5 mg twice daily)
+should be considered for those with low bleeding risk
+to prevent cardiovascular events as well as reduce extremity ischaemic events in those with CLTI, as suggested
+by the GVG, ESVM, and ESC-EASD guidelines and the
+2023 ADA Standards of Care.16,20,23,129 This suggestion is
+based on the COMPASS trial in which this combination
+therapy was more effective than aspirin but was also
+associated with an increased risk of clinically relevant
+bleeding, mostly gastrointestinal.136 In this trial approximately 38% had diabetes mellitus and the beneﬁt of
+the combination therapy seemed similar in those with
+
+1126
+
+Fitridge et al
+
+Journal of Vascular Surgery
+November 2023
+
+and without diabetes. Given this limited evidence base
+and the added treatment burden for this frequently
+vulnerable cohort, a Best Practice Statement in line
+with the ESVS and ADA recommendations was
+made.129,137 It should be noted that in the COMPASS trial
+in addition to a high bleeding risk of rivaroxaban, other
+exclusion criteria included end stage renal disease, severe heart failure, recent stroke, history of haemorrhagic
+or lacunar stroke, and poor life expectancy.138 A network
+meta-analysis showed no superiority for aspirin with
+rivaroxaban over clopidogrel alone for the primary composite endpoint in the chronic PAD subgroups of CAPRIE
+and COMPASS.139 Therefore in the absence of a RCT
+directly comparing the two, both clopidogrel alone and
+aspirin with rivaroxaban are reasonable choices for secondary cardiovascular prevention for patients with
+chronic symptomatic PAD, but the risk of bleeding and
+contraindications should be taken into account when
+discussing the options with the patient.137 The ESVS
+antithrombotic guidelines recommend that those not
+at high risk of bleeding who undergo an endovascular
+intervention for lower extremity PAD may be considered
+for a one to six month course of dual antiplatelet therapy
+(aspirin plus clopidogrel) to reduce the risk of MACE and
+MALE followed by single antiplatelet therapy.137 Similarly,
+those undergoing endovascular intervention who are not
+at high risk of bleeding should be considered for aspirin
+(75 e 100 mg daily) and low dose rivaroxaban (2.5 mg
+twice daily) to reduce the risk of MACE and MALE.137,140
+If the bleeding risk is considered to be high, single antiplatelet therapy should be used post-intervention. If clopidogrel is used in addition to aspirin and low dose
+rivaroxaban after endovascular intervention, clopidogrel
+should only be used for < 30 days as with longer term
+use the bleeding risk is likely to outweigh the
+beneﬁt.137,141
+The ESVS antithrombotic guidelines recommend that
+those undergoing infrainguinal endarterectomy or bypass
+surgery who are not at high risk of bleeding should be
+considered for aspirin (75 e 100 mg daily) and low dose
+rivaroxaban (2.5 mg twice daily) to reduce the risk of
+MACE and MALE. Those persons undergoing infrainguinal
+bypass surgery with autogenous vein who are not at high
+bleeding risk may be considered for treatment with
+vitamin K antagonist to improve graft patency.137,142
+Those undergoing infrainguinal bypass with a prosthetic graft may be considered for single antiplatelet
+therapy. Persons at high risk of bleeding undergoing
+lower extremity bypass surgery using an autogenous or
+prosthetic conduit may be considered for single antiplatelet therapy to improve graft patency.137
+Arterial duplex scanning post-autologous vein bypass
+surgery is generally advised post-procedure to detect
+graft stenoses. The beneﬁts of post-procedure surveillance following endovascular intervention remain uncertain; following local protocols is suggested.
+
+Glucose lowering therapies. In recent years it has
+become increasingly clear that several sodium glucose
+cotransporter-2 (SGLT-2) inhibitors and glucagon like
+peptide 1 receptor (GLP-1) agonists, which were originally
+developed to lower blood glucose levels, can also have
+beneﬁcial cardiovascular effects in persons with type 2
+diabetes.21 These effects are independent of their blood
+glucose lowering effect. To what extent this beneﬁt can
+also be observed in those with type 1 diabetes mellitus, in
+whom glucose management with these drugs only has a
+limited (SGLT-2 inhibitors) or no (GLP-1 agonists) role to
+play, remains to be established. In individuals with an
+eGFR < 30 mL/min/1.73m2, these drugs are contraindicated. Therefore, it is advised to consider these drugs
+in type 2 diabetes mellitus and peripheral artery disease
+with an eGFR > 30 mL/min/1.73m2 after careful review
+and possibly adjustment of other blood glucose lowering
+medication to prevent hypoglycaemia, but for SGLT-2
+inhibitors there are additional caveats.
+The SGLT-2 inhibitor canagliﬂozin was associated with
+an increased risk of amputation in an RCT. This was not
+a pre-speciﬁed endpoint and was not observed in the
+other SGLT-2 inhibitor trials143 or in long term prospective
+studies, as concluded in the ADA-EASD 2022 consensus
+report.144 In addition, in post hoc analyses, these drugs
+had beneﬁcial cardiovascular and renal effects in people
+with peripheral artery disease.145 However, individuals
+with foot ulcers were frequently excluded in SGLT-2 inhibitor trials and there is a second caveat to be considered.
+Diabetes related ketoacidosis is a rare but serious side effect of SGLT-2 inhibitors and prolonged fasting, acute
+illness and the peri-operative period predispose to developing ketoacidosis. In these situations, the ADA-EASD
+recommend temporary discontinuation of the medication, i.e., three days prior to surgery.144 Like those with
+PAD, a diabetes related foot ulcer or gangrene have a
+high risk of developing a foot infection or to undergo
+one or more (urgent) surgical procedures, it is suggested
+for pragmatic reasons that SGLT-2 inhibitors should not
+be started in drug naïve individuals and that temporary
+discontinuation should be considered in those already using these drugs, until the affected foot is healed.
+Postscript
+The targets discussed in this text are based on reduction of cardiovascular events, but it should be noted
+that this is a composite endpoint and the deﬁnition between trials differs. MALE is also sometimes differently
+deﬁned and the evidence for reducing lower limb events
+in persons with diabetes, PAD, and a foot ulcer by pharmacological treatment is scarce. For this reason, a speciﬁc recommendation on this topic could not be made.
+
+FUTURE RESEARCH PRIORITIES
+One of the main limitations of this guideline is the lack
+of prospective randomised trials, inconsistency of
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1127
+
+Volume 78, Number 5
+
+classiﬁcation and outcomes reported, and lack of separation of outcome for people with CLTI with and without
+diabetes. Data reporting on PAD in relation to diagnosis,
+prognosis, and management overwhelmingly relate to
+the general population. There is a paucity of high level
+evidence for diagnosis and management of those with
+DFU or gangrene, with studies frequently including only
+persons with intact feet or inadequately detailing (or
+controlling for) confounding factors including presences
+of neuropathy, ulcer, infection, or other contributors to
+poor outcomes. Moreover, few studies in CLTI cohorts
+provide subanalysis for those with diabetes, although
+they are likely to make up the majority of the included
+population. As such, there is clearly a need for further
+research into this unique subgroup of individuals with
+diabetes, so that outcomes around the world can be
+improved. The Writing Committee considers there are a
+number of priority areas for future research. The systematic review of the prognostic capacity of bedside vascular
+testing to predict DFU healing and amputation outcomes demonstrated a lack of investigations of sufﬁcient
+quality for several widely available tests including TBI and
+TcPO2, with inconsistent use of measurement thresholds
+and a lack of data examining the effect of combining
+test outcomes. New technologies to develop optimal
+tools and measures of foot perfusion for people with
+DFU and PAD to guide revascularisation therapies would
+be invaluable in guiding revascularisation strategies for
+individuals and for determining when more aggressive
+strategies are indicated.
+Further questions. Which group of people with diabetes and a DFU, tissue loss, or gangrene most beneﬁt
+from urgent revascularisation, and who may beneﬁt
+from an initial expectant management?
+The Writing Committee has made a Best Practice
+Statement attempting to deﬁne which people are likely
+to beneﬁt most from urgent vascular assessment and
+revascularisation. Further studies to clarify person and
+limb related factors are needed and such predictions
+may be facilitated by new prediction methods such as
+machine learning.146
+Do newer endovascular revascularisation adjuncts and
+techniques developed for infrapopliteal revascularisation
+positively impact on patency rates and person centred
+endpoints (amputation free survival, improved wound
+healing, and health related quality of life) in those with
+diabetes, PAD, and a foot ulcer?
+A number of new technologies have been developed to
+enhance patency of endovascular interventions,
+including drug eluting balloons and stents, and bioresorbable vascular scaffolds and stents. Atherectomy
+and lithotripsy devices have been developed to deal
+with heavily calciﬁed lesions. Venous arterialisation has
+also been introduced to attempt to revascularise those
+with no option for revascularisation.147,148 The role and
+
+indications for these interventions in the general population with CLTI, and in particular those with diabetes, remains to be clariﬁed.
+Identify effective regenerative therapies (e.g., cell or
+gene based) to improve foot perfusion in persons with
+DFU and PAD who are not candidates for standard
+revascularisation.
+Angiogenesis (formation of new blood vessels from
+existing ones) is important for the development of arterial collateral formation in response to arterial occlusion
+and also for wound healing. Diabetes and hyperglycaemia are associated with impaired angiogenesis. A number of cell, gene, and protein based therapeutic
+approaches have, and are, being trialled for both no option CLTI and wound healing in diabetes. There are
+currently no therapies that have proven beneﬁcial and
+trials are ongoing.149
+
+CONTRIBUTION OF AUTHORS
+The Writing Committee was chaired by R.F. (on behalf
+of the IWGDF), with R.H. (on behalf of the ESVS) and
+J.L.M (on behalf of the SVS) as co-chairs and supported
+by N.S. (on behalf of the IWGDF). V.C. acted as scientiﬁc
+secretary. The three organisations involved were each
+tasked to select six well recognised experts to create an
+international, multidisciplinary, writing committee of 18
+members in total. Care was taken to have a global, multidisciplinary group that included disciplines such as
+vascular surgery, angiology, interventional radiology,
+vascular medicine, endocrinology, epidemiology, and
+podiatry.
+All members of the Writing Committee were involved
+in summarising the available evidence in the supporting
+systematic reviews, that are published separately, and in
+writing this guideline. Several members (the chairs, scientiﬁc secretary, N.S, and M.S.C.) were assigned to write
+individual sections of the guideline, and all authors
+reviewed and discussed the evidence obtained, the evidence to decision items according to GRADE, and each
+recommendation during group meetings. All authors
+reviewed and agreed with the ﬁnal document before societal review and subsequent submission for endorsement. All members of the working group undertook
+Level 1 GRADE training, and the several working group
+members undertook Guideline Methodology training
+(McMaster University).
+
+ACKNOWLEDGEMENTS
+We would like to thank the following external experts
+for their review of our PICOs for clinical relevance and
+the guideline document: Sriram Narayanan (Singapore),
+Rica Tanaka (Japan), Ismail Cassimjee (South Africa), Xu
+Jun (China), Heidi Corcoran (Hong Kong), Yamile Jubiz
+(Colombia), Tsvetalina Tankova (Bulgaria), and our patient representatives. Production of the 2023 IWGDF
+Guidelines was supported by unrestricted grants from:
+
+1128
+
+Fitridge et al
+
+Journal of Vascular Surgery
+November 2023
+
+Advanced Oxygen Therapy Inc., Essity, Mölnlycke, Reapplix, and Urgo Medical. These sponsors did not have
+any communication related to the systematic reviews
+of the literature or related to the guidelines with working
+group members during the writing of the guidelines and
+have not seen any guideline or guideline-related document before publication.
+
+REFERENCES
+1. Bus SA. Standards for the development and methodology of the
+2023 International Working Group on the Diabetic Foot guidelines.
+Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.3267. [Online
+ahead of print].
+2. Guyatt GH, Oxman AD, Schünemann HJ, Tugwell P, Knottnerus A.
+GRADE guidelines: a new series of articles in the Journal of Clinical
+Epidemiology. J Clin Epidemiol 2011;64:380-2.
+3. Current care guidelines: peripheral arterial disease. Duodecim
+2010;126:1433-4.
+4. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items
+for systematic reviews and meta-analyses: the PRISMA statement.
+BMJ 2009;339:b2535.
+5. Chuter VH, Schaper N, Mills J, Hinchliffe R, Azuma N, Behrendt C,
+et al. Effectiveness of bedside investigations for diagnosing peripheral artery disease among people with diabetes mellitus: a
+systematic review. Diabetes Metab Res Rev 2023. [in press].
+6. Chuter VH, Schaper N, Mills J, Hinchliffe R, Azuma N, Behrendt C,
+et al. Performance of non-invasive bedside vascular testing in the
+prediction of wound healing or amputation among people with
+foot ulcers in diabetes: a systematic review. Diabetes Metab Res Rev
+2023. doi: 10.1002/dmrr.3701. [Online ahead of print].
+7. Chuter V, Schaper N, Mills J, Hinchliffe R, Russell D, Azuma N, et al.
+Effectiveness of revascularisation for the ulcerated foot in patients
+with diabetes and peripheral artery disease: A systematic review.
+Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.3700. [Online
+ahead of print].
+8. Lucas NP, Macaskill P, Irwig L, Bogduk N. The development of a
+quality appraisal tool for studies of diagnostic reliability (QAREL).
+J Clin Epidemiol 2010;63:854-61.
+ J, Berkman ND,
+9. Sterne JA, Hernán MA, Reeves BC, Savovic
+Viswanathan M, et al. ROBINS-I: a tool for assessing risk of bias in
+non-randomised studies of interventions. BMJ 2016;355:i4919.
+ J, Page MJ, Elbers RG, Blencowe NS, Boutron I,
+10. Sterne JA, Savovic
+et al. RoB 2: a revised tool for assessing risk of bias in randomised
+trials. BMJ 2019;366:I4898.
+11. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al.
+The Newcastle-Ottawa Scale (NOS) for assessing the quality of
+nonrandomised studies in meta-analyses. Oxford; 2000.
+12. Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ,
+Reitsma JB, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med 2011;155:
+529-36.
+13. Hayden JA, van der Windt DA, Cartwright JL, Côté P, Bombardier C.
+Assessing bias in studies of prognostic factors. Ann Intern Med
+2013;158:280-6.
+_
+14. Schünemann H, Brozek
+J, Guyatt G, Oxman A. The GRADE handbook. UK: Cochrane Collaboration London; 2013.
+15. Dewidar O, Lotﬁ T, Langendam MW, Parmelli E, Saz Parkinson Z,
+Solo K, et al. Good or best practice statements: proposal for the
+operationalisation and implementation of GRADE guidance. BMJ
+Evid Based Med 2023;28:189-96.
+16. Frank U, Nikol S, Belch J, Boc V, Brodmann M, Carpentier PH, et al.
+ESVM Guideline on peripheral arterial disease. Vasa 2019;48:1-79.
+17. Aboyans V, Ricco JB, Bartelink ML, Björck M, Brodmann M, Cohner T,
+et al. [2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS)]. Kardiol Polska 2017;75:1065-160.
+
+18. Cosentino F, Grant PJ, Aboyans V, Bailey CJ, Ceriello A, Delgado V,
+et al. 2019 ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD. Eur
+Heart J 2020;41:255-323.
+19. Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M, Badimon L,
+et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modiﬁcation to reduce cardiovascular risk. Eur Heart J
+2020;41:111-88.
+20. Conte MS, Bradbury AW, Kolh P, White JV, Dick F, Fitridge R, et al.
+Global Vascular Guidelines on the Management of Chronic LimbThreatening Ischemia. Eur J Vasc Endovasc Surg 2019;58:S1-109.e33.
+21. 10. Cardiovascular Disease and Risk Management: Standards
+of Medical Care in Diabetes-2022. Diabetes Care 2022;45(Suppl. 1):
+S144-74.
+22. 6. Glycemic Targets: Standards of Medical Care in Diabetes-2022.
+Diabetes Care 2022;45(Suppl. 1):S83-96.
+23. Aboyans V, Ricco JB, Bartelink MEL, Bjorck M, Brodmann M,
+Cohnert T, et al. 2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS). Rev Esp Cardiol (Engl
+Ed) 2018;71:111.
+24. van Netten JJ, Bus SA, Apelqvist J, Chen P, Chuter V, Fitridge R, et al.
+International Working Group on the Diabetic Foot. Deﬁnitions and
+criteria for diabetes-related foot disease (IWGDF 2023 update).
+Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.3654. [Epub ahead
+of print.].
+25. Sun H, Saeedi P, Karuranga S, Pinkepank M, Ogurtsova K,
+Duncan BB, et al. IDF Diabetes Atlas: Global, regional and countrylevel diabetes prevalence estimates for 2021 and projections for
+2045. Diabetes Res Clin Pract 2022;183:109119.
+26. Armstrong DG, Boulton AJM, Bus SA. Diabetic foot ulcers and their
+recurrence. New Engl J Med 2017;376:2367-75.
+27. Boyko EJ, Ahroni JH, Stensel V, Forsberg RC, Davignon DR,
+Smith DG. A prospective study of risk factors for diabetic foot ulcer.
+The Seattle Diabetic Foot Study. Diabetes Care 1999;22:1036-42.
+28. Zhang Y, Lazzarini PA, McPhail SM, van Netten JJ, Armstrong DG,
+Pacella RE. Global disability burdens of diabetes-related lower-extremity complications in 1990 and 2016. Diabetes Care 2020;43:
+964-74.
+29. Stoberock K, Kaschwich M, Nicolay SS, Mahmoud N, Heidemann F,
+Rieß HC, et al. The interrelationship between diabetes mellitus and
+peripheral arterial disease. Vasa 2021;50:323-30.
+30. Prompers L, Huijberts M, Apelqvist J, Jude E, Piaggesi A, Bakker K,
+et al. High prevalence of ischaemia, infection and serious comorbidity in patients with diabetic foot disease in Europe. Baseline results from the Eurodiale study. Diabetologia 2007;50:18-25.
+31. Jude EB, Oyibo SO, Chalmers N, Boulton AJ. Peripheral arterial
+disease in diabetic and nondiabetic patients: a comparison of
+severity and outcome. Diabetes Care 2001;24:1433-7.
+32. Golledge J. Update on the pathophysiology and medical treatment
+of peripheral artery disease. Nat Rev Cardiol 2022;19:456-74.
+33. Low Wang CC, Blomster JI, Heizer G, Berger JS, Baumgartner I,
+Fowkes FGR, et al. Cardiovascular and limb outcomes in patients
+with diabetes and peripheral artery disease: the EUCLID Trial. J Am
+Coll Cardiol 2018;72:3274-84.
+34. Ix JH, Miller RG, Criqui MH, Orchard TJ. Test characteristics of the
+ankle-brachial index and ankle-brachial difference for medial
+arterial calciﬁcation on X-ray in type 1 diabetes. J Vasc Surg 2012;56:
+721-7.
+35. Leibson CL, Ransom JE, Olson W, Zimmerman BR, O’Fallon WM,
+Palumbo PJ. Peripheral arterial disease, diabetes, and mortality.
+Diabetes Care 2004;27:2843-9.
+36. Yammine K, Hayek F, Assi C. A meta-analysis of mortality after minor amputation among patients with diabetes and/or peripheral
+vascular disease. J Vasc Surg 2020;72:2197-207.
+37. Hinchliffe RJ, Forsythe RO, Apelqvist J, Boyko EJ, Fitridge R,
+Hong JP, et al. Guidelines on diagnosis, prognosis, and management of peripheral artery disease in patients with foot ulcers and
+diabetes (IWGDF 2019 update). Diabetes Metab Res Rev
+2020;36(Suppl 1):e3276.
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1129
+
+Volume 78, Number 5
+38. Monteiro-Soares M, Hamilton EJ, Russell DA, Srisawasdi G, Boyko EJ,
+Mills JL, et al. Classiﬁcation of foot ulcers in people with diabetes: a
+systematic review. Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.
+3645. [Epub ahead of print].
+39. Bus SA, Lavery LA, Monteiro-Soares M, Rasmussen A, Raspovic A,
+Sacco IC, et al. Guidelines on the prevention of foot ulcers in persons
+with diabetes (IWGDF 2019 update). Diabetes Metab Res Rev
+2020;36(Suppl 1):e3269.
+40. Bus SA, Armstrong DG, Gooday C, Jarl G, Caravaggi C,
+Viswanathan V, et al. Guidelines on ofﬂoading foot ulcers in persons
+with diabetes (IWGDF 2019 update). Diabetes Metab Res Rev
+2020;36(Suppl 1):e3274.
+41. Wukich DK, Schaper NC, Gooday C, Bal A, Bem R, Chhabra A, et al.
+Guidelines on the diagnosis and treatment of active charcot neuroosteoarthropathy in persons with diabetes mellitus (IWGDF 2023).
+Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.3646. [Online
+ahead of print].
+42. Chen P, Vilorio NC, Dhatariya K, Jeffcoate W, Lobmann R,
+McIntosh C, et al. Guidelines on interventions to enhance healing of
+foot ulcers in people with diabetes (IWGDF 2023 update). Diabetes
+Metab Res Rev 2023. doi: 10.1002/dmrr.3644. [Online ahead of print].
+43. Schaper NC, van Netten JJ, Apelqvist J, Bus SA, Fitridge R, Game F,
+et al. Practical guidelines on the prevention and management of
+diabetes-related foot disease (IWGDF 2023 update). Diabetes
+Metab Res Rev 2023. doi: 10.1002/dmrr.3657. [Online ahead of print].
+44. Aubert CE, Cluzel P, Kemel S, Michel PL, Lajat-Kiss F, Dadon M, et al.
+Inﬂuence of peripheral vascular calciﬁcation on efﬁciency of
+screening tests for peripheral arterial occlusive disease in diabetes–a
+cross-sectional study. Diabet Med 2014;31:192-9.
+45. Williams DT, Harding KG, Price P. An evaluation of the efﬁcacy of
+methods used in screening for lower-limb arterial disease in diabetes. Diabetes Care 2005;28:2206-10.
+46. Dolan NC, Liu K, Criqui MH, Greenland P, Guralnik JM, Chan C, et al.
+Peripheral artery disease, diabetes, and reduced lower extremity
+functioning. Diabetes Care 2002;25:113-20.
+47. Hirsch AT, Criqui MH, Treat-Jacobson D, Regensteiner JG,
+Creager MA, Olin JW, et al. Peripheral arterial disease detection,
+awareness, and treatment in primary care. JAMA 2001;286:1317-24.
+48. Wang Z, Hasan R, Firwana B, Elraiyah T, Tsapas A, Prokop L, et al.
+A systematic review and meta-analysis of tests to predict wound
+healing in diabetic foot. J Vasc Surg 2016;63:29S-36S.e1e2.
+49. Gerhard-Herman MD, Gornik HL, Barrett C, Barshes NR, Corriere MA,
+Drachman DE, et al. 2016 AHA/ACC Guideline on the management
+of patients with lower extremity peripheral artery disease: a report
+of the American College of Cardiology/American Heart Association
+Task Force on Clinical Practice Guidelines. J Am Coll Cardiol 2017;69:
+e71-126.
+50. Hart T, Milner R, Cifu A. Management of a diabetic foot. JAMA
+2017;318:1387-8.
+51. Hingorani A, LaMuraglia GM, Henke P, Meissner MH, Loretz L,
+Zinszer KM, et al. The management of diabetic foot: a clinical
+practice guideline by the Society for Vascular Surgery in collaboration with the American Podiatric Medical Association and the
+Society for Vascular Medicine. J Vasc Surg 2016;63:3s-21s.
+52. National Institute for Health and Care Excellence. Guidelines.
+Diabetic foot problems: prevention and management. London: National Institute for Health and Care Excellence (NICE);
+2023.
+53. Kim ES, Sharma AM, Scissons R, Dawson D, Eberhardt RT, GerhardHerman M, et al. Interpretation of peripheral arterial and venous
+Doppler waveforms: a consensus statement from the Society for
+Vascular Medicine and Society for Vascular Ultrasound. Vasc Med
+2020;25:484-506.
+54. Casey S, Lanting S, Oldmeadow C, Chuter V. The reliability of the ankle
+brachial index: a systematic review. J Foot Ankle Res 2019;12:39.
+55. Wennberg PW. Approach to the patient with peripheral arterial
+disease. Circulation 2013;128:2241-50.
+56. Vriens B, D’Abate F, Ozdemir BA, Fenner C, Maynard W, Budge J,
+et al. Clinical examination and non-invasive screening tests in the
+diagnosis of peripheral artery disease in people with diabetesrelated foot ulceration. Diabet Med 2018;35:895-902.
+57. Babaei MR, Malek M, Rostami FT, Emami Z, Madani NH,
+Khamseh ME. Non-invasive vascular assessment in people with type
+2 diabetes: diagnostic performance of Plethysmographic-and-
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+Doppler derived ankle brachial index, toe brachial index, and
+pulse volume wave analysis for detection of peripheral arterial disease. Prim Care Diabetes 2020;14:282-9.
+Dinesh R, Vinod KV, Ramkumar G. Comparison of resting/postexercise ankle-brachial index and transcutaneous partial pressure
+of oxygen for noninvasive diagnosis of peripheral artery disease in
+type 2 diabetes mellitus. Med J Armed Forces India 2021;79:157-64.
+Fejfarova V, Matuska J, Jude E, Pithova P, Flekac M, Roztocil K, et al.
+Stimulation TcPO2 testing improves diagnosis of peripheral arterial
+disease in patients with diabetic foot. Front Endocrinol (Lausanne)
+2021;12:744195.
+Hur KY, Jun JE, Choi YJ, Lee JH, Kim DJ, Park SW, et al. Color doppler
+ultrasonography is a useful tool for diagnosis of peripheral artery
+disease in type 2 diabetes mellitus patients with ankle-brachial index 0.91 to 1.40. Diabetes Metab J 2018;42:63-73.
+Normahani P, Poushpas S, Alaa M, Bravis V, Sounderajah V, Aslam M,
+et al. Diagnostic accuracy of point-of-care tests used to detect
+arterial disease in diabetes: TEsting for Arterial Disease in Diabetes
+(TrEAD) Study. Ann Surg 2022;276:e605-12.
+Park SC, Choi CY, Ha YI, Yang HE. Utility of toe-brachial index for
+diagnosis of peripheral artery disease. Arch Plast Surg 2012;39:
+227-31.
+Potier L, Halbron M, Bouilloud F, Dadon M, Le Doeuff J, Ha Van G,
+et al. Ankle-to-brachial ratio index underestimates the prevalence
+of peripheral occlusive disease in diabetic patients at high risk for
+arterial disease. Diabetes Care 2009;32:e44.
+Bevilacqua NJ, Rogers LC, Armstrong DG. Diabetic foot surgery:
+classifying patients to predict complications. Diabetes Metab Res
+Rev 2008;24:S81-3.
+Hering J, Angelkort B, Keck N, Wilde J, Amann B. Long-term
+outcome of successful percutaneous transluminal angioplasty of
+the ﬁbular artery in diabetic foot syndrome and single-vessel calf
+perfusion depends on doppler wave pattern at the forefoot. Vasa
+2010;39:67-75.
+Tsai CY, Chu SY, Wen YW, Hsu LA, Chen CC, Peng SH, et al. The value
+of Doppler waveform analysis in predicting major lower extremity
+amputation among dialysis patients treated for diabetic foot ulcers.
+Diabetes Res Clin Pract 2013;100:181-8.
+Zhang S, Wang S, Xu L, He Y, Xiang J, Tang Z. Clinical outcomes of
+transmetatarsal amputation in patients with diabetic foot ulcers
+treated without revascularization. Diabetes Ther 2019;10:1465-72.
+Ho CY, Shanahan CM. Medial arterial calciﬁcation: An overlooked
+player in peripheral arterial disease. Arterioscler Thromb Vasc Biol
+2016;36:1475-82.
+Silvestro A, Diehm N, Savolainen H, Do DD, Vögelea J, Mahler F, et al.
+Falsely high ankle-brachial index predicts major amputation in
+critical limb ischemia. Vasc Med 2006;11:69-74.
+Pickwell KM, Siersma VD, Kars M, Holstein PE, Schaper NC. Diabetic
+foot disease: impact of ulcer location on ulcer healing. Diabetes
+Metab Res Rev 2013;29:377-83.
+Kalani M, Brismar K, Fagrell B, Ostergren J, Jörneskog G. Transcutaneous oxygen tension and toe blood pressure as predictors for
+outcome of diabetic foot ulcers. Diabetes Care 1999;22:147-51.
+Bunt TJ, Holloway GA. TcPO2 as an accurate predictor of therapy in
+limb salvage. Ann Vasc Surg 1996;10:224-7.
+Elgzyri T, Larsson J, Thörne J, Eriksson KF, Apelqvist J. Outcome of
+ischemic foot ulcer in diabetic patients who had no invasive
+vascular intervention. Eur J Vasc Endovasc Surg 2013;46:110-7.
+Elgzyri T, Larsson J, Nyberg P, Thörne J, Eriksson KF, Apelqvist J. Early
+revascularization after admittance to a diabetic foot center affects
+the healing probability of ischemic foot ulcer in patients with diabetes. Eur J Vasc Endovasc Surg 2014;48:440-6.
+Fagher K, Katzman P, Löndahl M. Transcutaneous oxygen pressure
+as a predictor for short-term survival in patients with type 2 diabetes
+and foot ulcers: a comparison with ankle-brachial index and toe
+blood pressure. Acta Diabetol 2018;55:781-8.
+Gershater MA, Löndahl M, Nyberg P, Larsson J, Thörne J, Eneroth M,
+et al. Complexity of factors related to outcome of neuropathic and
+neuroischaemic/ischaemic diabetic foot ulcers: a cohort study.
+Diabetologia 2009;52:398-407.
+Manu CA, Slim H, Huang D, Wilkins CJ, Vas PRJ, Rashid H, et al.
+Isolated low toe-brachial index is associated with increased mortality and morbidity: a retrospective cohort study. J Wound Care
+2021;30:65-73.
+
+1130
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+78. Mennes OA, van Netten JJ, van Baal JG, Slart R, Steenbergen W. The
+association between foot and ulcer microcirculation measured
+with laser speckle contrast imaging and healing of diabetic foot
+ulcers. J Clin Med 2021;10:3844.
+79. Rajagopalan C, Viswanathan V, Rajsekar S, Selvaraj B, Daniel L.
+Diabetic foot ulcers - comparison of performance of ankle-brachial
+index and transcutaneous partial oxygen pressure in predicting
+outcome. Int J Diabetes Develop Countries 2018;38:179-84.
+80. Wallin L, Björnsson H, Stenström A. Fluorescein angiography
+for predicting healing of foot ulcers. Acta Orthop Scand 1989;60:
+40-4.
+81. Faris I, Duncan H. Skin perfusion pressure in the prediction of
+healing in diabetic patients with ulcers or gangrene of the foot.
+J Vasc Surg 1985;2:536-40.
+82. Sharma S, Schaper N, Rayman G. Microangiopathy: Is it relevant to
+wound healing in diabetic foot disease? Diabetes Metab Res Rev
+2020;36:e3244.
+83. Fiordaliso F, Clerici G, Maggioni S, Caminiti M, Bisighini C, Novelli D,
+et al. Prospective study on microangiopathy in type 2 diabetic foot
+ulcer. Diabetologia 2016;59:1542-8.
+84. Mills JL, Sr, Conte MS, Armstrong DG, Pomposelli FB, Schanzer A,
+Sidawy AN, et al. The Society for Vascular Surgery Lower Extremity
+Threatened Limb Classiﬁcation System: risk stratiﬁcation based on
+wound, ischemia, and foot infection (WIfI). J Vasc Surg 2014;59:22034.e1e2.
+85. van Reijen NS, Ponchant K, Ubbink DT, Koelemay MJW. Editor’s
+Choice - The prognostic value of the WIfI classiﬁcation in patients
+with chronic limb threatening ischaemia: a systematic review and
+meta-analysis. Eur J Vasc Endovasc Surg 2019;58:362-71.
+86. Andersen CA, McLeod K, Steffan R. Diagnosis and treatment of the
+invasive extension of bacteria (cellulitis) from chronic wounds utilising point-of-care ﬂuorescence imaging. Int Wound J 2022;19:
+996-1008.
+87. Fujii M, Terashi H, Yokono K, Armstrong DG. The degree of blood
+supply and infection control needed to treat diabetic chronic limbthreatening ischemia with forefoot osteomyelitis. J Am Podiatr Med
+Assoc 2021;111:Article_4.
+88. Mathioudakis N, Hicks CW, Canner JK, Sherman RL, Hines KF,
+Lum YW, et al. The Society for Vascular Surgery Wound, Ischemia,
+and foot Infection (WIfI) classiﬁcation system predicts wound
+healing but not major amputation in patients with diabetic foot
+ulcers treated in a multidisciplinary setting. J Vasc Surg 2017;65:
+1698e705.e1.
+89. Weaver ML, Hicks CW, Canner JK, Sherman RL, Hines KF,
+Mathioudakis N, et al. The Society for Vascular Surgery Wound,
+Ischemia, and foot Infection (WIfI) classiﬁcation system predicts
+wound healing better than direct angiosome perfusion in diabetic
+foot wounds. J Vasc Surg 2018;68:1473-81.
+90. Hicks CW, Canner JK, Karagozlu H, Mathioudakis N, Sherman RL,
+Black JH, 3rd, et al. The Society for Vascular Surgery Wound,
+Ischemia, and foot Infection (WIfI) classiﬁcation system correlates
+with cost of care for diabetic foot ulcers treated in a multidisciplinary setting. J Vasc Surg 2018;67:1455-62.
+91. Robinson WP, Loretz L, Hanesian C, Flahive J, Bostrom J, Lunig N,
+et al. Society for Vascular Surgery Wound, Ischemia, foot Infection
+(WIfI) score correlates with the intensity of multimodal limb treatment and patient-centered outcomes in patients with threatened
+limbs managed in a limb preservation center. J Vasc Surg 2017;66:
+488e98.e2.
+92. Yang S, Gu Z, Lu C, Zhang T, Guo X, Xue G, et al. Neutrophil extracellular traps are markers of wound healing impairment in patients
+with diabetic foot ulcers treated in a multidisciplinary setting. Adv
+Wound Care (New Rochelle) 2020;9:16-27.
+93. Zhan LX, Branco BC, Armstrong DG, Mills JL, Sr. The Society for
+Vascular Surgery lower extremity threatened limb classiﬁcation
+system based on Wound, Ischemia, and foot Infection (WIfI) correlates with risk of major amputation and time to wound healing.
+J Vasc Surg 2015;61:939-44.
+94. Neagu C, Doran H, Buzea A, Agache A, Georgescu D, Patrascu T.
+Algorithm of medical-surgical treatment in the peripheral arterial
+disease of the diabetic patient. Maedica (Bucur) 2020;15:310.
+95. Cheun TJ, Jayakumar L, Sideman MJ, Pounds LC, Davies MG. Outcomes of isolated inframalleolar interventions for chronic limb-
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+101.
+
+102.
+
+103.
+
+104.
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+threatening ischemia in diabetic patients. J Vasc Surg 2020;71:
+1644e52.e2.
+Hicks CW, Canner JK, Karagozlu H, Mathioudakis N, Sherman RL,
+Black JH 3rd, et al. Quantifying the costs and proﬁtability of care for
+diabetic foot ulcers treated in a multidisciplinary setting. J Vasc
+Surg 2019;70:233-40.
+Hicks CW, Canner JK, Sherman RL, Black JH 3rd, Lum YW,
+Abularrage CJ. Evaluation of revascularization beneﬁt quartiles using the Wound, Ischemia, and foot Infection classiﬁcation system
+for diabetic patients with chronic limb-threatening ischemia. J Vasc
+Surg 2021;74:1232e9.e3.
+Pena G, Kuang B, Edwards S, Cowled P, Dawson J, Fitridge R. Factors associated with key outcomes in diabetes related foot disease:
+a prospective observational study. Eur J Vasc Endovasc Surg
+2021;62:233-40.
+Ricco JB, Gargiulo M, Stella A, Abualhin M, Gallitto E, Desvergnes M,
+et al. Impact of angiosome- and nonangiosome-targeted peroneal
+bypass on limb salvage and healing in patients with chronic limbthreatening ischemia. J Vasc Surg 2017;66:1479-87.
+Lepäntalo M, Mätzke S. Outcome of unreconstructed chronic critical leg ischaemia. Eur J Vasc Endovasc Surg 1996;11:153-7.
+Forsythe RO, Apelqvist J, Boyko EJ, Fitridge R, Hong JP, Katsanos K,
+et al. Effectiveness of revascularisation of the ulcerated foot in patients with diabetes and peripheral artery disease: a systematic review. Diabetes Metab Res Rev 2020;36(Suppl 1):e3279.
+Noronen K, Saarinen E, Albäck A, Venermo M. Analysis of the elective treatment process for critical limb ischaemia with tissue loss:
+diabetic patients require rapid revascularisation. Eur J Vasc Endovasc Surg 2017;53:206-13.
+Prompers L, Schaper N, Apelqvist J, Edmonds M, Jude E, Mauricio D,
+et al. Prediction of outcome in individuals with diabetic foot ulcers:
+focus on the differences between individuals with and without
+peripheral arterial disease. The EURODIALE Study. Diabetologia
+2008;51:747-55.
+Senneville E. International Working Group for the Diabetic
+Foot Infection Guideline. Diabetes Metab Res Rev; 2023. [in press].
+Fisher TK, Scimeca CL, Bharara M, Mills JL Sr, Armstrong DG.
+A stepwise approach for surgical management of diabetic foot infections. J Am Podiatr Med Assoc 2010;100:401-5.
+Lavery LA, Barnes SA, Keith MS, Seaman JW Jr, Armstrong DG.
+Prediction of healing for postoperative diabetic foot wounds based
+on early wound area progression. Diabetes Care 2008;31:26-9.
+Coerper S, Beckert S, Küper MA, Jekov M, Königsrainer A. Fifty
+percent area reduction after 4 weeks of treatment is a reliable indicator for healing–analysis of a single-center cohort of 704 diabetic
+patients. J Diabetes Complications 2009;23:49-53.
+Snyder RJ, Cardinal M, Dauphinée DM, Stavosky J. A post-hoc
+analysis of reduction in diabetic foot ulcer size at 4 weeks as a
+predictor of healing by 12 weeks. Ostomy Wound Manage 2010;56:
+44-50.
+Sheehan P, Jones P, Caselli A, Giurini JM, Veves A. Percent change in
+wound area of diabetic foot ulcers over a 4-week period is a robust
+predictor of complete healing in a 12-week prospective trial. Diabetes Care 2003;26:1879-82.
+Dunning T. Integrating palliative care with usual care of diabetic
+foot wounds. Diabetes Metab Res Rev 2016;32(Suppl 1):303-10.
+Farber A, Menard MT, Conte MS, Kaufman JA, Powell RJ,
+Choudhry NK, et al. Surgery or endovascular therapy for chronic
+limb-threatening ischemia. N Engl J Med 2022;387:2305-16.
+Meecham L, Patel S, Bate GR, Bradbury AW. Editor’s Choice - A
+comparison of clinical outcomes between primary bypass and
+secondary bypass after failed plain balloon angioplasty in the
+bypass versus angioplasty for severe ischaemia of the limb (BASIL)
+trial. Eur J Vasc Endovasc Surg 2018;55:666-71.
+Troisi N, Turini F, Chisci E, Ercolini L, Frosini P, Lombardi R, et al.
+Pedal arch patency and not direct-angiosome revascularization
+predicts outcomes of endovascular interventions in diabetic patients with critical limb ischemia. Int Angiol 2017;36:438-44.
+Taylor GI, Palmer JH. The vascular territories (angiosomes) of the
+body: experimental study and clinical applications. Br J Plast Surg
+1987;40:113-41.
+Attinger CE, Evans KK, Bulan E, Blume P, Cooper P. Angiosomes of
+the foot and ankle and clinical implications for limb salvage:
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1131
+
+Volume 78, Number 5
+
+116.
+
+117.
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+
+123.
+
+124.
+
+125.
+
+126.
+
+127.
+
+128.
+
+129.
+
+130.
+
+131.
+
+132.
+
+reconstruction, incisions, and revascularization. Plast Reconstr Surg
+2006;117:261e93s.
+Fossaceca R, Guzzardi G, Cerini P, Cusaro C, Stecco A, Parziale G,
+et al. Endovascular treatment of diabetic foot in a selected population of patients with below-the-knee disease: is the angiosome
+model effective? Cardiovasc Intervent Radiol 2013;36:637-44.
+Acín F, Varela C, López de Maturana I, de Haro J, Bleda S, RodriguezPadilla J. Results of infrapopliteal endovascular procedures performed in diabetic patients with critical limb ischemia and tissue
+loss from the perspective of an angiosome-oriented revascularization strategy. Int J Vasc Med 2014;2014:270539.
+Alexandrescu VA, Brochier S, Limgba A, Balthazar S, Khelifa H, De
+Vreese P, et al. Healing of diabetic neuroischemic foot wounds with
+vs without wound-targeted revascularization: preliminary observations from an 8-year prospective dual-center registry.
+J Endovascular Ther 2020;27:20-30.
+Bekeny JC, Alfawaz A, Day J, Naz I, Attinger CE, Fan KL, et al. Indirect
+endovascular revascularization via collaterals: a new classiﬁcation to
+predict wound healing and limb salvage. Ann Vasc Surg 2021;73:
+264-72.
+Zheng XT, Zeng RC, Huang JY, Pan LM, Su X, Wu ZH, et al. The
+use of the angiosome concept for treating infrapopliteal critical
+limb ischemia through interventional therapy and determining
+the clinical signiﬁcance of collateral vessels. Ann Vasc Surg
+2016;32:41-9.
+
+Spillerová
+K, Settembre N, Biancari F, Albäck A, Venermo M.
+Angiosome Targeted PTA is more important in endovascular
+revascularisation than in surgical revascularisation: analysis of 545
+patients with ischaemic tissue lesions. Eur J Vasc Endovasc Surg
+2017;53:567-75.
+Azuma N, Uchida H, Kokubo T, Koya A, Akasaka N, Sasajima T.
+Factors inﬂuencing wound healing of critical ischaemic foot after
+bypass surgery: is the angiosome important in selecting bypass
+target artery? Eur J Vasc Endovasc Surg 2012;43:322-8.
+Lejay A, Georg Y, Tartaglia E, Gaertner S, Geny B, Thaveau F, et al.
+Long-term outcomes of direct and indirect below-the-knee open
+revascularization based on the angiosome concept in diabetic patients with critical limb ischemia. Ann Vasc Surg 2014;28:983-9.
+Neville RF, Attinger CE, Bulan EJ, Ducic I, Thomassen M, Sidawy AN.
+Revascularization of a speciﬁc angiosome for limb salvage: does the
+target artery matter? Ann Vasc Surg 2009;23:367-73.
+Kret MR, Cheng D, Azarbal AF, Mitchell EL, Liem TK, Moneta GL, et al.
+Utility of direct angiosome revascularization and runoff scores in
+predicting outcomes in patients undergoing revascularization for
+critical limb ischemia. J Vasc Surg 2014;59:121-8.
+Aerden D, Denecker N, Gallala S, Debing E, Van den Brande P.
+Wound morphology and topography in the diabetic foot: hurdles in
+implementing angiosome-guided revascularization. Int J Vasc Med
+2014;2014:672897.
+Mustapha J, Finton SM, Diaz-Sandoval LJ, Saab FA, Miller LE.
+Percutaneous transluminal angioplasty in patients with infrapopliteal arterial disease: systematic review and meta-analysis. Circ Cardiovasc Interv 2016;9:e003468.
+McDermott KM, Srinivas T, Abularrage CJ. Multidisciplinary
+approach to decreasing major amputation, improving outcomes,
+and mitigating disparities in diabetic foot and vascular disease.
+Semin Vasc Surg 2023;36:114-21.
+ElSayed NA, Aleppo G, Aroda VR, Bannuru RR, Brown FM,
+Bruemmer D, et al. 10. Cardiovascular Disease and Risk Management:
+Standards of Care in Diabetesd2023. Diabetes Care 2023;46:S158-90.
+Hinchliffe RJ, Brownrigg JR, Andros G, Apelqvist J, Boyko EJ,
+Fitridge R, et al. Effectiveness of revascularization of the ulcerated
+foot in patients with diabetes and peripheral artery disease: a systematic review. Diabetes Metab Res Rev 2016;32(Suppl 1):136-44.
+Siersma V, Thorsen H, Holstein PE, Kars M, Apelqvist J, Jude EB, et al.
+Importance of factors determining the low health-related quality of
+life in people presenting with a diabetic foot ulcer: the Eurodiale
+study. Diabet Med 2013;30:1382-7.
+Ribu L, Hanestad BR, Moum T, Birkeland K, Rustoen T.
+A comparison of the health-related quality of life in patients with
+diabetic foot ulcers, with a diabetes group and a nondiabetes
+group from the general population. Qual Life Res 2007;16:179-89.
+
+133. A randomised, blinded, trial of clopidogrel versus aspirin in patients
+at risk of ischaemic events (CAPRIE). CAPRIE Steering Committee.
+Lancet 1996;348:1329-39.
+134. Berger JS, Krantz MJ, Kittelson JM, Hiatt WR. Aspirin for the prevention
+of cardiovascular events in patients with peripheral artery disease: a
+meta-analysis of randomized trials. JAMA 2009;301:1909-19.
+135. Bhatt DL, Marso SP, Hirsch AT, Ringleb PA, Hacke W, Topol EJ.
+Ampliﬁed beneﬁt of clopidogrel versus aspirin in patients with
+diabetes mellitus. Am J Cardiol 2002;90:625-8.
+136. Anand SS, Caron F, Eikelboom JW, Bosch J, Dyal L, Aboyans V,
+et al. Major adverse limb events and mortality in patients with
+peripheral artery disease: the COMPASS Trial. J Am Coll Cardiol
+2018;71:2306-15.
+137. Twine CP, Kakkos SK, Aboyans V, Baumgartner I, Behrendt C-A,
+Bellmunt-Montoya S, et al. European Society for Vascular Surgery
+(ESVS) 2023 Clinical Practice Guidelines on Antithrombotic Therapy
+for Vascular Diseases. Eur J Vasc Endovasc Surg 2023;65:627-89.
+138. Bosch J, Eikelboom JW, Connolly SJ, Bruns NC, Lanius V, Yuan F,
+et al. Rationale, design and baseline characteristics of participants
+in the cardiovascular outcomes for people using anticoagulation
+strategies (COMPASS) trial. Can J Cardiol 2017;33:1027-35.
+139. Ambler GK, Nordanstig J, Behrendt C-A, Twine CP. Network metaanalysis of the beneﬁt of aspirin with rivaroxaban vs. clopidogrel
+for patients with stable symptomatic lower extremity arterial disease. Eur J Vasc Endovasc Surg 2021;62:654-5.
+140. Bonaca MP, Bauersachs RM, Anand SS, Debus ES, Nehler MR,
+Patel MR, et al. Rivaroxaban in peripheral artery disease after
+revascularization. N Engl J Med 2020;382:1994-2004.
+141. Hiatt WR, Bonaca MP, Patel MR, Nehler MR, Debus ES, Anand SS,
+et al. Rivaroxaban and aspirin in peripheral artery disease lower
+extremity revascularization: impact of concomitant clopidogrel on
+efﬁcacy and safety. Circulation 2020;142:2219-30.
+142. Group DBOAoAS. Efﬁcacy of oral anticoagulants compared with
+aspirin after infrainguinal bypass surgery (The Dutch Bypass Oral
+Anticoagulants or Aspirin Study): a randomised trial. Lancet
+2000;355:346-51.
+143. Arnott C, Huang Y, Neuen BL, Di Tanna GL, Cannon CP, Oh R, et al.
+The effect of canagliﬂozin on amputation risk in the CANVAS program and the CREDENCE trial. Diabetes Obes Metab 2020;22:
+1753-66.
+144. Davies MJ, Aroda VR, Collins BS, Gabbay RA, Green J, Maruthur NM,
+et al. Management of hyperglycaemia in type 2 diabetes, 2022. A
+consensus report by the American Diabetes Association (ADA) and
+the European Association for the Study of Diabetes (EASD). Diabetologia 2022;65:1925-66.
+145. Barraclough JY, Yu J, Figtree GA, Perkovic V, Heerspink HJL,
+Neuen BL, et al. Cardiovascular and renal outcomes with canagliﬂozin in patients with peripheral arterial disease: Data from the
+CANVAS Program and CREDENCE trial. Diabetes Obes Metab
+2022;24:1072-83.
+146. Xie P, Li Y, Deng B, Du C, Rui S, Deng W, et al. An explainable
+machine learning model for predicting in-hospital amputation
+rate of patients with diabetic foot ulcer. Int Wound J 2022;19:
+910-8.
+147. Ho VT, Gologorsky R, Kibrik P, Chandra V, Prent A, Lee J, et al. Open,
+percutaneous, and hybrid deep venous arterialization technique for
+no-option foot salvage. J Vasc Surg 2020;71:2152-60.
+148. Shishehbor MH, Powell RJ, Montero-Baker MF, Dua A, MartínezTrabal JL, Bunte MC, et al. Transcatheter arterialization of deep veins
+in chronic limb-threatening ischemia. New Engl J Med 2023;388:
+1171-80.
+149. Solly EL, Psaltis PJ, Bursill CA, Tan JTM. The role of miR-181c in
+mechanisms of diabetes-impaired angiogenesis: an emerging
+therapeutic target for diabetic vascular complications. Front Pharmacol 2021;12:718679.
+
+Additional material for this article may be found online
+at www.jvascsurg.org.
+
+

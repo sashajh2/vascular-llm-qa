@@ -1,0 +1,821 @@
+SOCIETY FOR VASCULAR SURGERY DOCUMENT
+Editors’ Choice
+Guidelines for hospital privileges in vascular surgery and
+endovascular interventions: Recommendations of the
+Society for Vascular Surgery
+Keith D. Calligaro, MD,a Kwame S. Amankwah, MD,b Marcus D’Ayala, MD,c O. William Brown, MD,d
+Paul Steven Collins, MD,e Mohammad H. Eslami, MD, MPH,f Krishna M. Jain, MD,g Daniel S. Kassavin, MD,h
+Brandon Propper, MD,i Timur P. Sarac, MD,j William P. Shutze, MD,k and Thomas H. Webb, MD,l Philadelphia
+and Pittsburgh, Pa; Syracuse and Brooklyn, NY; Royal Oak and Kalamazoo, Mich; St. Petersburg, Fla; Norwalk and
+Columbus, Ohio; San Antonio and Plano, Tex; and Indianapolis, Ind
+
+ABSTRACT
+
+The Hospital Privileges Practice Guideline Writing Group of the Society for Vascular Surgery is making the following ﬁve
+recommendations concerning guidelines for hospital privileges for vascular surgery and endovascular therapy. Advanced
+endovascular procedures are currently entrenched in the everyday practice of specialized vascular interventionalists,
+including vascular surgeons, but open vascular surgery remains uniquely essential to the specialty. First, we endorse the
+Residency Review Committee for Surgery recommendations regarding open and endovascular cases during vascular
+residency and fellowship training. Second, applicants for new hospital privileges wishing to perform vascular surgery
+should have completed an Accreditation Council for Graduate Medical Education-accredited vascular surgery residency
+or fellowship or American Osteopathic Association-accredited training program before 2020 and should obtain American Board of Surgery certiﬁcation in vascular surgery or American Osteopathic Association certiﬁcation within 7 years of
+completion of their training. Third, we recommend that applicants for renewal of hospital privileges in vascular surgery
+include physicians who are board certiﬁed in vascular surgery, general surgery, or cardiothoracic surgery. These physicians
+with an established practice in vascular surgery should participate in Maintenance of Certiﬁcation programs as
+established by the American Board of Surgery and maintain their respective board certiﬁcation. Fourth, we provide
+recommendations concerning guidelines for endovascular procedures for vascular surgeons and other vascular interventionalists who are applying for new or renewed hospital privileges. All physicians performing open or endovascular
+procedures should track outcomes using nationally validated registries, ideally by the Vascular Quality Initiative. Fifth, we
+endorse the Intersocietal Accreditation Commission recommendations for noninvasive vascular laboratory
+interpretations and examinations to become a Registered Physician in Vascular Interpretation, which is included in the
+requirements for board eligibility in vascular surgery, but recommend that only physicians with demonstrated clinical
+experience in the diagnosis and management of vascular disease be allowed to interpret these studies. (J Vasc Surg
+2018;67:1337-44.)
+
+The following recommendations of the Society for
+Vascular Surgery (SVS) are meant to provide guidelines
+for granting hospital privileges to perform vascular
+
+interventions including open surgical and endovascular
+procedures of blood vessels in the body, excluding intracardiac and intracranial vessels. Of note, these
+
+From the Section of Vascular Surgery and Endovascular Therapy, Pennsylvania
+
+Committee: Thomas L. Forbes, MD (Chair), Ali AbuRahma, MD, Neal
+
+Hospital, Philadelphiaa; the Division of Vascular Surgery, Upstate Medical Uni-
+
+Barshes, MD, Ruth Bush, MD, Ronald L. Dalman, MD, Hans Henning Eck-
+
+versity, Syracuseb; the New York Presbyterian Brooklyn Methodist Hospital,
+
+stein, MD, Anil Hingorani, MD, Eva Rzucidlo, MD, Marc Schermerhorn, MD.
+
+Brooklync; the Division of Vascular Surgery, William Beaumont Hospital, Royal
+
+The Document Oversight Committee approved the ﬁnal version, and the
+
+Oakd; the St. Anthony’s Hospital, St. Petersburge; the Division of Vascular Sur-
+
+Guidelines were endorsed as an ofﬁcial SVS document by the Executive
+
+gery, University of Pittsburgh Medical Center, Pittsburghf; the Western Mich-
+
+Committee: R. Clement Darling III, MD (Chair), Ali F. AbuRahma, MD,
+
+igan University, Kalamazoog; the Department of Vascular Surgery, Cleveland
+
+Michael Belkin, MD, Ronald M. Fairman, MD, Kim J. Hodgson, MD, Michel
+
+Clinic, Norwalkh; the Division of Vascular Surgery, San Antonio Military Medi-
+
+S. Makaroun, MD, Samuel R. Money, MD, and William Shutze, MD. A pub-
+
+cal Center, San Antonioi; the Aortic Center, The Ohio State University of Med-
+
+lic consultation period followed, with these guidelines posted on the SVS
+
+icine, Columbusj; The Heart Hospital Baylor, Planok; and Vascular Surgery,
+
+website (www.vascular.org) and sent electronically to all members. Revi-
+
+Franciscan Health, Indianapolis.l
+
+sions were made by the writing group in response to comments
+
+Author conﬂict of interest: K.M.J. is an owner of National Ofﬁce Endovascular
+Labs LLC. T.P.S. holds an ofﬁcer position with TMT Systems and Peritec Biosciences. W.P.S. has been a consultant and lecturer for Medtronic.
+
+nia Hospital, 700 Spruce St, Ste 101, Philadelphia, PA 19106 (e-mail:
+
+These guidelines were reviewed and are endorsed by the Association of Program Directors in Vascular Surgery: William D. Jordan, MD (President), Jeffrey
+
+the
+
+Society
+
+for
+
+Vascular
+
+Surgery
+
+kcalligaro@aol.com).
+0741-5214
+Copyright Ó 2018 by the Society for Vascular Surgery. Published by Elsevier Inc.
+
+Jim, MD (Education Committee Chair).
+Independent peer review and oversight have been provided by members
+of
+
+received.
+Correspondence: Keith D. Calligaro, MD, Section of Vascular Surgery, Pennsylva-
+
+(SVS)
+
+Document
+
+https://doi.org/10.1016/j.jvs.2018.02.008
+
+Oversight
+
+1337
+
+1338
+
+Calligaro et al
+
+Journal of Vascular Surgery
+May 2018
+
+interventions also apply to the thoracic aorta (exclusive of
+intracardiac vessels). These guidelines are intended to be
+inclusive, applying to individuals completing Accreditation Council for Graduate Medical Education (ACGME)accredited vascular surgery training programs as well as
+individuals who have completed training in other
+catheter-based procedures, such as interventional cardiology and interventional radiology. We encourage hospitals to consider these guidelines for all specialties when
+granting endovascular privileges.
+Although the ultimate determination of who should and
+should not practice vascular surgery and endovascular
+therapy in a given hospital remains its own responsibility,
+these SVS guidelines provide a reference for credentialing
+committees regardless of the specialty of the applicant.
+The most recent guidelines for credentialing and hospital
+privileges in vascular surgery were published in 2008.1
+The specialty of vascular surgery has evolved with the creation of primary board certiﬁcation such that general surgery board certiﬁcation2 is no longer a prerequisite for
+new vascular training paradigms.
+Establishing minimum annual case volumes for every
+open and endovascular procedure for vascular surgeons
+or other interventionalists in clinical practice as a measure of competency is beyond the scope of the SVS at
+this time, and other specialties agree with this position.2
+Such guidelines for every arterial tree cannot be
+defended with existing supporting data and would be
+so subject to opinion that they would not be relevant.
+The SVS recommends that hospitals take into account
+board certiﬁcation and Maintenance of Certiﬁcation
+(MOC), irrespective of specialty, along with guidelines
+established by interventionalists practicing at a given
+hospital during the appointment process. The specialists
+performing both open surgical and endovascular procedures should also perform ongoing evaluation of outcomes of these interventions.
+
+DEFINITION OF VASCULAR SURGERY
+Vascular surgery is the specialty that deals with the
+diagnosis and management of disorders of the arterial,
+venous, and lymphatic systems, exclusive of intracardiac and intracranial vessels but including the thoracic
+aorta. We wish to emphasize that a fully trained
+“vascular surgeon” should be considered a vascular
+specialist who performs traditional open surgery but
+who also performs endovascular interventions and is
+competent to treat vascular diseases with noninterventional means. A fully trained vascular surgeon must
+have advanced knowledge and experience in the
+following six areas:
+1. Pathophysiology and natural history: Understanding of
+the pathophysiology and the natural history of vascular
+disorders to include atherosclerosis, intimal hyperplasia, nonatherosclerotic arterial disease, vasculitides,
+
+thrombophilia and thrombotic disorders, venous and
+lymphatic diseases, and vascular end-organ disorders.
+2. Clinical management: Clinical evaluation of vascular
+patients, including history, physical examination, and
+medical management including pharmacotherapy
+and risk factor reduction.
+3. Vascular diagnostic testing and imaging: Noninvasive
+and invasive diagnostic testing of vascular disease,
+including but not limited to duplex ultrasound scanning, Doppler testing, plethysmography, magnetic resonance imaging, computed tomography angiography,
+contrast angiography and venography, intravascular
+ultrasound, and other new and evolving imaging tools.
+4. Open vascular surgery: Indications for and techniques
+of open surgical treatment, including management of
+their complications, for vascular disorders involving
+arteries, veins, and lymphatic vessels throughout the
+body, exclusive of intrinsic cardiac and intracerebral
+vessels. These arteries include the carotid artery and
+its extracranial branches, vertebral arteries, upper
+extremity arteries, intrathoracic arch branches, aortic
+arch and descending thoracic aorta, abdominal aorta,
+visceral and renal arteries, and pelvic and lower
+extremity arteries. Venous2 and lymphatic disorders
+are also included. The SVS conﬁrms that vascular surgeons are the only specialists trained to treat patients
+with pathologic processes affecting all of these vessels
+with open surgical treatment while also being the
+only specialists that can effectively treat complications of said operations with appropriate endovascular and open surgical intervention.1
+5. Endovascular therapy: Indications for and techniques
+of endovascular interventions, including management of their complications, for vascular disorders
+involving all vessels listed for open surgery. Although
+vascular surgeons may not be the only specialists
+that can treat patients with these lesions with endovascular treatment, they are the only specialists that
+can offer the comprehensive and combined elements
+of medical management, endovascular therapy, or
+open surgery as effective initial treatment for all of
+these disorders affecting all of the vessels listed.
+They are also the only specialists able to effectively
+treat complications of endovascular intervention
+with appropriate endovascular and open surgical
+intervention.
+6. Critical care management: Management of patients
+including preoperative and postoperative evaluation
+and treatment of vascular patients in the intensive
+care setting. This management includes understanding indications and techniques for the insertion of
+peripheral artery, central venous, and pulmonary
+artery catheters for hemodynamic monitoring.
+In summary, it is the position of the SVS that vascular
+surgeons are the only specialists trained to treat patients
+with all of the deﬁned vascular disorders and vascular
+trees with both open and endovascular treatments while
+also being able to effectively treat complications with
+appropriate endovascular or open surgical methods.
+
+Journal of Vascular Surgery
+
+Calligaro et al
+
+1339
+
+Volume 67, Number 5
+
+TRAINING AND CERTIFICATION IN VASCULAR
+SURGERY
+Currently there are three pathways approved by the
+ACGME for training in vascular surgery that lead to board
+certiﬁcation by the American Board of Surgery (ABS), a
+member board of the American Board of Medical
+Specialties.
+1. Traditional pathway. This traditional training paradigm,
+which requires 7 years to complete, is referred to as a
+5 þ 2 pathway. This pathway remains the most common training paradigm, with 77 vascular surgery
+training programs in the Electronic Residency Application Service of the Association of American Medical
+Colleges participating in this traditional pathway
+(www.aamc.org). This pathway requires completion of
+a 5-year general surgery training program at an
+ACGME-approved site with a minimum experience of
+850 total operative procedures during this training.
+Completion of general surgery training is followed by
+2 years of vascular surgery training at an ACGMEapproved site, which can be at the same institution
+or a different one, with an operative experience requirement of at least 250 major vascular reconstructions. On
+completing this traditional 5 þ 2 pathway, the trainee is
+eligible for board certiﬁcation in both general surgery
+and vascular surgery by the ABS. Although the ABS
+initially required board certiﬁcation in general surgery
+before board certiﬁcation in vascular surgery, an ABS
+policy enacted in 2012 now requires that the candidate
+have only an approved application for the general surgery qualifying examination for eligibility for vascular
+surgery boards (www.absurgery.org).
+2. Integrated pathway. The integrated pathway, also
+referred to as a 0 þ 5 pathway, is geared to medical
+students who have decided on a career in vascular
+surgery, participate in the main National Resident
+Matching Program during medical school,3 and
+match into vascular surgery training to begin immediately after graduation from medical school. The integrated pathway was ﬁrst approved in 2006 by the
+ABS and eliminated the need for board certiﬁcation
+in general surgery before board certiﬁcation in
+vascular surgery by establishment of a primary board
+certiﬁcate in vascular surgery. Two years are devoted
+to core surgical training and 3 years to vascular surgery training, all of which must be completed at the
+same institution.3 The ACGME requires that residents
+in an integrated program complete a minimum of
+500 total operative procedures and 250 major
+vascular reconstructions. On completion of the 5year training program, these trainees are eligible for
+board certiﬁcation by the ABS only in vascular surgery.
+This integrated pathway has become increasingly
+popular among applicants, and there are presently
+50 such training programs participating with the
+Electronic Residency Application Service. Certain
+institutions offer both 5 þ 2 and 0 þ 5 pathways.
+3. Early specialization pathway. This pathway requires
+4 years of general surgery residency and 2 years of
+
+vascular surgery residency at the same institution
+and enables the trainees to obtain ABS certiﬁcation
+in both general surgery and vascular surgery. Only
+three programs currently offer an early specialization
+pathway. Trainees must complete a minimum of
+850 total operative procedures and 250 major
+vascular reconstructions during these 6 years.
+
+The ABS requires that all training programs in vascular
+surgery must be accredited by the ACGME through the
+Residency Review Committee for Surgery (RRC-S). The
+purpose of the RRC-S is to ensure that programs
+provide a broad and comprehensive exposure to the
+ﬁeld of vascular surgery and meet other educational,
+administrative, and ethical requirements. Of note, an independent RRC for vascular surgery does not currently
+exist; however, three vascular surgeons sit on the RRC-S
+at all times.3 All vascular training programs reviewed by
+the RRC-S will be reviewed by at least one vascular
+surgeon.
+On completion of any of these training programs, the
+ABS allows a period of up to 7 years for trainees to
+achieve initial board certiﬁcation in vascular surgery, during which time the candidate is considered board
+eligible. To achieve initial vascular surgery board certiﬁcation, the physician must successfully complete clinical
+training in vascular surgery through one of the three previously listed pathways, obtain a letter of attestation from
+the training program director, obtain an unrestricted
+state medical license to practice, successfully pass the
+Registered Physician in Vascular Interpretation (RPVI)
+examination before sitting for the certifying examination,
+and pass the written (qualifying) and oral (certifying) examinations administered by the Vascular Surgery Board
+of the ABS. The SVS emphasizes that graduates from
+general surgery or cardiothoracic surgery residencies
+are not eligible for ABS vascular surgery board certiﬁcation unless they have completed an ACGME-accredited
+vascular surgery residency. It is the position of the SVS
+that exposure to the ﬁeld of vascular surgery during
+these other residencies is not sufﬁcient to acquire the
+experience and judgment necessary for the independent
+practice of vascular surgery.
+After initial board certiﬁcation is achieved in vascular
+surgery, the ABS requires physician participation in a
+program for MOC, which continuously measures the
+six core competencies deﬁned by the ACGME to
+enhance patient care and to improve outcomes. A
+four-part framework is used for MOC, including professional standing, lifelong learning, cognitive expertise, and performance in practice. Key elements of
+the MOC process, although subject to change,
+currently include a minimum of 90 hours of category
+1 credits during a 3-year cycle (at least 60 of the 90
+credit
+hours
+should
+include
+self-assessment),
+
+1340
+
+Journal of Vascular Surgery
+
+Calligaro et al
+
+May 2018
+
+successful completion of a written examination at 10year intervals, and participation in a surgical outcomes database. Failure to maintain these requirements for MOC will result in loss of board
+certiﬁcation (www.absurgery.org).
+
+Table I. Residency Review Committee minimum criteria
+for endovascular and open vascular surgery cases
+Category
+
+Minimum required No.
+
+Endovascular abdominal aortic
+aneurysm repair (EVAR)
+
+20
+
+Endovascular therapeutic
+procedures
+
+80
+
+TRAINING REQUIREMENTS FOR VASCULAR
+SURGERY TRAINEES
+
+Endovascular diagnostic procedures
+
+100
+
+Complex
+
+10
+
+The recommendations for training requirements take into
+account the comprehensive specialized training in vascular
+surgery and include nonoperative medical management,
+endovascular interventions, open surgical treatment, and
+interpretation of noninvasive vascular laboratory studies.
+
+Peripheral
+
+45
+
+Cerebrovascular
+
+25
+
+Abdominal
+
+30
+
+Medical Management Requirements. Training in medical management of peripheral vascular disease is an integral part of vascular surgery training. Vascular trainees
+should have a thorough understanding of vascular disease risk factor modiﬁcation. The care of the vascular patient occurs in a continuum, and the trainee is expected
+to be able to evaluate these patients preoperatively, in
+the perioperative period including critical care management in the intensive care unit, and in the postoperative
+outpatient setting including surveillance of interventions.
+For individuals who have completed the traditional (5 þ
+2) or early specialization (4 þ 2) training programs, their
+general surgery training experience includes a minimum
+of 40 cases in surgical critical care, with at least one in
+each of seven categories: ventilator management;
+bleeding (nontrauma); hemodynamic instability; organ
+dysfunction/failure; dysrhythmias; invasive line management and monitoring; and parenteral/enteral nutrition.
+For individuals who began integrated (0 þ 5) training in
+July 2015, the minimum of 40 cases is also required
+(http://www.absurgery.org/default.jsp?certvsqe).
+
+catheterizations is 100, and the minimum number of
+interventional catheterizations is 80 (Table I).4
+It is not realistic or feasible to require minimum
+numbers to confer competency for all endovascular
+interventions because of an absence of supporting
+evidence-based research. Nonetheless, the SVS wishes
+to address three speciﬁc endovascular interventions:
+endovascular aneurysm repair (EVAR), thoracic endovascular aortic repair (TEVAR), and carotid artery stenting
+(CAS). The recommended minimum number of EVAR
+cases is 20 and represents an increase over the 2002
+RRC minimum of 5 cases as the primary operator. This
+number reﬂects the increasing percentage of EVAR vs
+open repair in the United States and speciﬁcally in
+vascular training programs. These guidelines may
+change with time to remain consistent with future
+training.
+The SVS endorses multidisciplinary guideline papers in
+which the SVS has participated concerning TEVARs.5 Requirements for TEVARs include full basic endovascular
+privileges with an experience of (1) 10 TEVARs within
+the last 2 years or (2) less than this minimum for surgeons
+with robust EVAR experience of at least 25 EVARs with 12
+as the primary operator. The term full basic endovascular
+privileges means that the operator is fully qualiﬁed as
+deﬁned by multispecialty guidelines. On completion of
+their training, vascular surgery trainees performing
+TEVAR should be skilled in the perioperative management of aortic surgical patients and are expected to
+have experience in performing adjunctive procedures
+for TEVARs, including iliac conduits, femoral artery exposure, and debranching procedures such as carotidsubclavian bypasses. By deﬁnition, vascular surgeons
+should have open thoracoabdominal aortic privileges,3
+assuming their training encompassed these operations
+(see earlier section, Deﬁnition of Vascular Surgery).
+Multidisciplinary credentialing guidelines for CAS have
+previously been published and endorsed by the SVS.6
+These guidelines specify that diagnostic and stenting
+procedures may both be counted if they are performed
+during the same procedure. However, considering the
+
+Endovascular Intervention Requirements. Open surgical training requirements were determined by the
+RRC-S, but endovascular training requirements were
+developed by the SVS in conjunction with other specialties performing these procedures. Vascular surgery
+trainees are expected to acquire sufﬁcient training to
+perform vascular catheter-based interventions, and previous guidelines have been published.3 Trainees are expected to submit their endovascular case load
+experience as part of their complete operative log, as
+veriﬁed by the program director, to the ACGME. Experience should be gained in performing diagnostic catheterizations among the various vascular beds, and at least
+half should be selective catheterizations with 75% being
+arterial and 25% venous.3 Similarly, at least 75% of the
+therapeutic procedures should be on the arterial system
+so that the majority of the endovascular experience is not
+gained primarily through arteriovenous dialysis access
+interventions.4 The minimum number of diagnostic
+
+Journal of Vascular Surgery
+
+Calligaro et al
+
+1341
+
+Volume 67, Number 5
+
+broad range of exposures to catheter-based procedures
+in vascular surgery training with a variety of platforms
+and based on the most recent recommendations of
+the Association of Program Directors in Vascular Surgery
+(personal communication), we recommend a minimum
+of 20 carotid angiograms, with half as the primary operator, and a minimum of 15 carotid stent procedures,3
+with half as the primary operator.5
+Open Vascular Surgery Requirements. The vascular
+surgery trainee is expected to have performed sufﬁcient
+numbers of open operations covering the full spectrum
+in the ﬁeld of vascular surgery. The requirement is carefully evaluated by the RRC-S. This body and the ABS
+track individual components of complex operations and
+consider all components when evaluating programs and
+trainees. Trainees are expected to submit their operative
+experience to the ACGME. Their case load is veriﬁed on
+their graduation by their program director.
+The RRC has established minimum criteria for major
+vascular reconstructive procedures performed by
+vascular surgery trainees (https://www.acgme.org/
+Portals/0/VS_CatMins.pdf). The required numbers are
+250 major vascular cases for all vascular surgery trainees,
+regardless of whether they participate in the traditional
+(5 þ 2), early specialization (4 þ 2), or integrated (0 þ 5)
+programs. These cases should reﬂect an adequate representation of current practice as well as breadth and balance of experience in the surgical care of vascular
+diseases. Although these numbers are continually subject to change, the minimum criteria for vascular procedures currently include 30 abdominal vascular
+procedures, 25 cerebrovascular, 45 peripheral, and 10
+complex vascular reconstructions (Table I).
+Noninvasive vascular laboratory diagnosis requirements. Vascular surgery training programs must
+include training in noninvasive vascular laboratory studies.
+To interpret these studies, a graduating trainee must
+demonstrate knowledge of vascular anatomy and
+physiology, as well as ultrasound physics, through the
+interpretation of noninvasive vascular studies. As suggested by the Intersocietal Accreditation Commission
+(previously the Intersocietal Commission for the Accreditation of Vascular Laboratories), a minimum number of
+supervised interpreted studies during postgraduate
+training are required for individuals desiring to apply for
+privileges in interpretation of speciﬁc individual areas of
+the vascular laboratory7 (Table II). Not all individuals
+interpreting vascular laboratory studies will wish to interpret studies in all the areas of the vascular laboratory or
+will be qualiﬁed to interpret studies in all areas outlined
+before. Individuals3 may therefore elect to pursue privileges only in those areas in which they have sufﬁcient
+qualiﬁcations and training. The SVS believes that clinical
+experience in the treatment of vascular disorders is the
+
+Table II. Intersocietal Accreditation Committee guidelines for supervised interpreted studies
+Peripheral arterial physiologic test, 100
+Peripheral arterial duplex scanning, 100
+d Peripheral venous duplex scanning, 100
+d Carotid duplex scanning, 100
+d Transcranial duplex/Doppler scanning, 100
+d Visceral vascular duplex scanning, 75
+d
+d
+
+other mandatory component of the noninvasive vascular
+laboratory experience that other specialties may not
+provide. After completing training, the practicing vascular
+surgeon who wishes to interpret these studies must provide evidence of continuing medical education (CME)
+activity speciﬁc to noninvasive vascular diagnostic studies.
+As of 2014, initial board certiﬁcation in vascular surgery by
+the Vascular Surgery Board of the ABS is predicated on
+successfully passing the RPVI examination.
+As of June 2016, the Alliance for Physician Certiﬁcation
+and Advancement (APCA) certiﬁes a physician to be an
+RPVI (previously administered by the American Registry
+of Diagnostic Medical Sonographers). The RPVI examination has speciﬁc prerequisites that must be completed
+before the vascular board examinations are taken. Successful passing of the RPVI examination ensures expertise in the interpretation of vascular laboratory studies
+among current vascular surgery trainees. An exception
+would be those individuals who successfully passed the
+Registered Vascular Technology examination before the
+creation of the RPVI examination.
+
+TRAINING REQUIREMENTS FOR NEW VASCULAR
+PROCEDURES
+Vascular surgeons are expected to acquire proﬁciency
+in new and evolving open and endovascular procedures.
+As new procedures are introduced, it is important that
+practitioners be properly credentialed to ensure excellent outcomes and patient safety, which should include
+evidence of participation in CME courses relevant to
+the topic. On- or off-site mentoring may be required,
+depending on the complexity of the new procedure
+and experience of the operator, and will need to be
+determined on a case-by-case basis. Physicians already
+trained and credentialed in endovascular interventions
+can use many new and modiﬁed devices, however,
+without additional special certiﬁcation. Proctoring for
+certain new procedures may be desirable (http://www.
+sts.org/about-sts/policies/proctoring-policy).
+The SVS proposes the following guidelines regarding
+training requirements for new open and endovascular
+vascular procedures.
+1. Training requirements for new endovascular procedures at a given hospital, including cognitive training
+in disease management and patient care, should be
+the same for all interventionalists, regardless of
+
+1342
+
+Calligaro et al
+
+Journal of Vascular Surgery
+May 2018
+
+specialty and regardless of whether they are applying
+for new vascular privileges or are already credentialed
+in vascular procedures at that hospital. We recognize
+that training requirements for certain procedures
+may vary across specialties and have addressed this
+issue in other sections.3
+2. The deﬁnition of a “new” procedure changes with time.
+Societies may accumulate data providing a basis for
+performing new procedures at later dates. For
+example, criteria were previously proposed speciﬁcally
+for TEVAR and carotid stenting at a time when these
+procedures were considered new (see earlier section,
+Training Requirements for Vascular Surgery Trainees).
+Now these procedures are performed frequently in
+many institutions and are an integral part of all
+accredited vascular surgery training programs. Other
+procedures, such as fenestrated aortic grafts, renal angioplasty and stenting, visceral artery angioplasty and
+stenting, catheter-based thrombolysis, and intravascular ultrasound-directed venous stenting, are also
+routinely performed in many hospitals. Whereas other
+societies have created criteria for credentialing for
+some of these procedures, consensus statements are
+lacking for most. There may be a role for further intersocietal criteria in the future.
+3. Training requirements should be determined by
+frequency and complexity of the new procedures,
+industry requirements, and standards set by societies
+and by individual hospitals already performing these
+procedures. There should be an initial period of monitoring and evaluation of the provider’s performance of
+the new procedure.
+4. Individual hospitals should establish guidelines determined by all accredited interventionalists practicing
+these newer procedures. These guidelines should
+include ongoing evaluation of outcomes for these
+new vascular surgical and endovascular procedures
+(see later section, Renewal of Privileges).
+The SVS continues to support past recommendations
+by multidisciplinary writing groups, which included SVS
+participation, regarding TEVAR and CAS.4,5 The same
+numbers mentioned for vascular residents entering practice apply to credentialed surgeons already in practice
+(see earlier section, Training Requirements for Vascular
+Surgery Trainees). For credentialed vascular surgeons in
+practice, a minimum of 10 hours of CME activity should
+be devoted to TEVAR every 2 years. For those performing
+CAS, 20 hours of CME activity speciﬁc to percutaneous
+therapeutic endovascular intervention and cerebrovascular disease should be required, 10 of which should be
+relevant to cervical or extracranial carotid angioplasty
+and stenting every 3 years.8 Successful completion of
+an industry-sponsored course by credentialed surgeons
+in practice may also be desirable to ensure familiarity
+with the nuances of various new devices; however, this
+should not be equated with having achieved competency in the overall procedure. As suggested earlier, proctoring for certain procedures may be considered.
+
+REQUIREMENTS FOR HOSPITAL PRIVILEGES IN
+VASCULAR SURGERY AND ENDOVASCULAR
+INTERVENTIONS AND NONINVASIVE VASCULAR
+LABORATORY INTERPRETATION
+New applicants. Regarding initial open vascular surgical privileges, hospital credentialing committees must
+recognize the high level of training and expertise previously outlined and offer new privileges only to boardeligible or board-certiﬁed vascular surgeons. Regarding
+initial endovascular privileges, the SVS also ﬁrmly recommends that hospital committees recognize the high
+level of training required by board-eligible and boardcertiﬁed vascular surgeons, which we have also previously detailed. We recognize that physicians from other
+specialties may be qualiﬁed to perform endovascular
+procedures if they have received sufﬁcient training from
+their own ACGME-approved training programs. We agree
+with the recommendations of Reed and Gornik9 that
+1 year of training devoted to peripheral vascular interventions, in addition to 1 year of coronary intervention
+training, be required for interventional cardiologists to be
+granted peripheral endovascular privileges. The SVS
+recommends that the criteria used in each facility to
+grant initial privileges in endovascular procedures be
+designed to provide vascular care that is safe and
+centered on the best possible patient outcomes using
+evidence-based guidelines. As part of the credentialing
+process, we recommend that hospitals should have
+criteria in place to certify practitioners from different
+specialties when performing similar procedures.
+Of note, The Joint Commission (www.jointcommission.
+org) holds all health care facilities responsible for credentialing physicians to the same standards, irrespective of
+the physician’s specialty. Case volumes have been used
+as a surrogate for competence for these procedures
+with the realization that it is an imperfect standard.2,7
+The SVS believes that speciﬁc privileging criteria
+including minimum number of cases are not feasible
+for endovascular interventions for each vascular tree.
+However, speciﬁc criteria have been developed for endovascular interventions for thoracic aortic disease, carotid
+artery disease, and others that have been previously
+mentioned.
+In addition, in accordance with The Joint Commission,
+the SVS recommends that credentialing of new applicants should also require veriﬁcation of licensure and
+an assessment of the physician’s current competence
+to perform the requested privileges.
+Renewal of privileges. Renewal of privileges should be
+granted to physicians with existing privileges in (1) open
+vascular surgery, namely, vascular surgeons, general surgeons, or cardiothoracic surgeons, and (2) endovascular
+interventions, namely, vascular surgeons, interventional
+cardiologists, and interventional radiologists who have
+completed appropriate training programs and on the
+
+Journal of Vascular Surgery
+
+Calligaro et al
+
+1343
+
+Volume 67, Number 5
+
+Table III. Summary of guidelines for hospital privileges in vascular surgery and endovascular therapy
+New hospital privileges
+Completion of ACGME-approved vascular surgery residency with passing of ABS vascular certiﬁcation within 7 years of
+completion of training
+This training includes the open surgical and endovascular experience inherent in these approved programs, along with
+passing the RPVI examination and gaining knowledge of medical management of these patients
+Renewal of existing vascular privileges for vascular surgeons
+Passage of ABS recertifying examination in vascular surgery within 10 years
+Completion of MOC by the ABS
+Outcome analysis based on regional or local registries (eg, SVS VQI)
+Passing the RPVI examination or appropriate CME in the noninvasive vascular laboratory
+Renewal of existing vascular privileges for nonvascular surgeons
+Passage of recertifying examination in the physician’s specialty within 10 years
+Completion of MOC
+Outcome analysis based on regional or local registries
+Passing the RPVI examination or appropriate CME in the noninvasive vascular laboratory
+ABS, American Board of Surgery; ACGME, Accreditation Council for Graduate Medical Education; CME, continuing medical education; MOC,
+Maintenance of Certiﬁcation; RPVI, Registered Physician in Vascular Interpretation; SVS, Society for Vascular Surgery; VQI, Vascular Quality Initiative.
+
+basis of maintenance of board certiﬁcation and MOC
+requirements.
+Credentialing committees in each hospital should
+deﬁne case volumes and outcomes for recredentialing.
+Renewal of privileges in vascular surgery and endovascular procedures for surgeons and other interventionalists
+who already have privileges to perform these procedures
+should be granted on the basis of an analysis of their
+patient outcomes in comparison to local, regional, and
+national standards. The SVS strongly encourages hospitals
+and their credentialing bodies to have access to a
+nationally validated registry of vascular surgery and endovascular procedures for all physicians performing these
+procedures, regardless of the physician’s specialty or the
+location where they are performed (eg, cardiac catheterization laboratory, interventional radiology suite, and
+hybrid or conventional vascular operating rooms). The
+SVS endorses participation in the Vascular Quality Initiative (VQI; www.vascularqualityinitiative.org) to improve
+regional benchmarking by assessing the quality, safety,
+effectiveness, and cost of vascular procedures. By collecting, analyzing, and sharing data on preprocedure risk factors, intraprocedural variables, postprocedural outcomes,
+and 1-year follow-up data, outcome analysis can be performed. The SVS recommends that a procedure not reported in the VQI or other validated registries should not
+be referred to in terms of establishing minimum numbers
+for privileges but instead be reviewed with the goal being
+to demonstrate competent decision-making.
+The SVS also endorses Ongoing Professional Practice
+Evaluation and Focused Professional Practice Evaluation
+processes as directed by The Joint Commission for
+newly credentialed physicians, newly credentialed
+procedures, and physician probationary periods (www.
+jointcommission.org). Ongoing Professional Practice
+Evaluation can be used as a performance enhancement
+
+tool to avoid adverse outcomes. Quality measures
+selected by the hospital’s credentialing committee
+within the ﬁeld of vascular surgery should be established
+and met during a predetermined time period immediately after initial appointment of a vascular surgeon or
+other endovascular specialist. These quality indicators,
+which can mirror ongoing VQI data collection, may be
+compared with peer or benchmark data and used to
+validate competence within the ﬁeld and to determine
+the maintenance or alteration of privileges. More important, this valuable measure can allow early identiﬁcation
+of negative trends and lead to timely proactive education, training, or collegial intervention. Similarly, Focused
+Professional Practice Evaluation can be instituted for
+vascular surgeons requiring additional review during probationary periods or for newly credentialed procedures.
+Meaningful quality measures should be established for
+all new procedures based on review of available data in
+the literature and input from a multidisciplinary group
+of peers. Prospective review of these indicators will
+ensure safe and proﬁcient implementation of the new
+procedure for each qualifying vascular surgeon or endovascular interventionalist.
+Mechanisms of audit, morbidity and mortality review,
+and corrective actions in each hospital fall under the purview of a peer review committee, credentialing committee, or designated subcommittee with input from a
+multidisciplinary quality assurance committee.
+In regard to credentialing for interpretation of noninvasive vascular laboratory studies, whether for new privileges or for renewal of privileges, RPVI credentialing
+from the APCA should be construed as having fulﬁlled
+the requirements for vascular laboratory credentialing if
+the physicians have also demonstrated a commitment
+to treating vascular disorders. The APCA requires a speciﬁc number of cases and experience before allowing
+
+1344
+
+Calligaro et al
+
+Journal of Vascular Surgery
+May 2018
+
+physicians to take the examination (see earlier section,
+Training Requirements for Vascular Surgery Trainees).
+Vascular surgeons who completed an ACGMEapproved vascular surgery training program since 2014
+are required to obtain an RPVI certiﬁcate to become
+board eligible and therefore are qualiﬁed to have privileges for interpretation of noninvasive vascular laboratory
+studies because they also have fulﬁlled criteria of thorough training in treating vascular disease. We recommend that other specialists follow these same
+guidelines. The SVS ﬁrmly recommends that physicians
+not be allowed to interpret noninvasive vascular laboratory studies, even if the candidate passes the
+examination, unless the applicant also has completed
+or is in the process of completing a residency or fellowship dedicated to the comprehensive management of
+vascular disease, such as vascular surgery, vascular medicine, cardiology, or radiology. This additional requirement prohibits physicians who do not have thorough
+training in the diagnosis and treatment of vascular disorders from being allowed to interpret these studies.
+Obtaining certiﬁcation from the American Society of
+Neuroimaging is acceptable for physicians who wish to
+interpret extracranial and intracranial examinations only.
+The SVS, in agreement with The Joint Commission standards, believes that the decision to grant or to deny hospital privileges in vascular surgery to new applicants or to
+those with established practices, irrespective of specialty,
+should be an objective evidence-based process.
+A summary of guidelines for hospital privileges in
+vascular and endovascular surgery is provided in Table III.
+
+REFERENCES
+1. Calligaro KD, Toursarkissian B, Clagett GP, Towne J,
+Hodgson K, Moneta G, et al. Guidelines for hospital privileges
+in vascular and endovascular surgery: recommendations of
+the Society for Vascular Surgery. J Vasc Surg 2008;47:1-5.
+
+2. Bashore TM, Balter S, Barac A, Byrne JG, Cavendish JJ,
+Chambers CE, et al. 2012 American College of Cardiology
+Foundation/Society for Cardiovascular Angiography and
+Interventions expert consensus document on cardiac
+catheterization laboratory standards update: a report of
+the American College of Cardiology Foundation Task
+Force on Expert Consensus documents developed in
+collaboration with the Society of Thoracic Surgeons and
+Society for Vascular Medicine. J Am Coll Cardiol 2012;59:
+2221-305.
+3. Creager MA, Gornik HL, Gray BH, Hamburg NM, Iobst WF,
+Mohler ER 3rd, et al. COCATS 4 Task Force 9: training in
+vascular medicine: endorsed by the Society for Vascular
+Medicine. Vasc Med 2015;20:384-94.
+4. White RA, Hodson KJ, Ahn SS, Robson RW II, Veith FJ. Endovascular interventions training and credentialing for vascular
+surgeons. J Vasc Surg 1999;29:177-86.
+5. Hodgson KJ, Matsumura JS, Ascher E, Dake MD, Sacks D,
+Krol K, et al. Clinical competence statement on thoracic
+endovascular aortic repair (TEVAR)dmultispecialty consensus
+recommendations. A report of the SVS/SIR/SCAI/SVMB
+Writing Committee to Develop a Clinical Competence Standard for TEVAR. J Vasc Surg 2006;43:858-62.
+6. Rosenﬁeld KM; SCAI/SVMB/SVS Writing Committee. Clinical
+competence statement on carotid stenting: training and
+credentialing for carotid stenting. Multispecialty consensus
+recommendations. A report of the SCAI/SVMB/SVS writing
+committee to develop a clinical competence statement on
+carotid interventions. J Vasc Surg 2005;41:160-8.
+7. IAC standards and guidelines for vascular testing accreditation. Available at: http://www.intersocietal.org/vascular/
+standards/IACVascular.testing.standards2018.pdf. Accessed
+January 2018.
+8. The IAC standards for carotid stenting accreditation.
+Available at: http://www.intersocietal.org/carotid/standards/
+IACCarotidStentingStandards2014.pdf. Accessed December
+2016.
+9. Reed GW, Gornik HL. Training pathways in peripheral vascular
+disease for FITs. Available at: http://www.acc.org/membership/
+sections-and-councils/fellows-in-training-section/ﬁt-informationhub/career-development/2016/01/18/10/16/training-pathwaysin-peripheral-vascular-disease-for-ﬁts. Accessed December
+2016.
+
+

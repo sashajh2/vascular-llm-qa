@@ -1,0 +1,200 @@
+i An update to this article is included at the end
+
+EDITORIAL
+Global Vascular Guidelines for patients with chronic
+limb-threatening ischemia
+The Global Vascular Guidelines (GVGs) published in this
+month’s supplement of the Journal of Vascular Surgery1
+are the most comprehensive clinical practice guidelines
+ever published on the management of patients with
+chronic limb-threatening ischemia (CLTI). Combined
+with a new systematic review and meta-analysis,2 these
+documents represent 5 years of work by an international
+team of vascular specialists, each with recognized expertise in peripheral arterial disease (PAD). The guidelines
+considered evidence on all therapies currently available
+throughout the world to treat this important global
+problem and the end result is a monumental work of
+exceptional quality.
+CLTI, a new term used in the guidelines instead of critical limb ischemia, is deﬁned as advanced PAD with rest
+pain, gangrene, or ulceration of >2 weeks duration. The
+methodology used by the writing group is critical to its
+acceptance–the authors met strict standards for conﬂict
+of interest and used relevant data from peer-reviewed
+journals, without industry involvement, to write the
+recommendations. The guidelines are evidence-based,
+many supported by systematic reviews and metaanalyses, and represent the research and consensus of
+all important specialties: vascular surgery; interventional
+radiology; vascular medicine; interventional cardiology;
+and angiology, who treat patients with CLTI. As such, in
+2019, these guidelines are the gold standard document
+for the management of CLTI.
+Edited by Michael S. Conte, Andrew W. Bradbury, and
+Philippe Kolh and authored by 48 experts, this allinclusive, 123-page document is based on data from
+676 references and includes 114 recommendations on
+deﬁnition, risk factors, diagnosis, staging, strategies for
+revascularization, medical, endovascular, and surgical
+management, nonrevascularization treatments, amputations, postprocedural care, and surveillance of
+patients with CLTI. Since important studies expected
+to provide level 1 evidence on management of CLTI
+are still being conducted in the U.S.3 and in England,4
+only nine recommendations are strong (Grade I),
+supported by a high level (A) of evidence. Still, the
+guidelines include important recommendations for all
+physicians, health care professionals, and third-party
+payors who are involved with the care of patients
+with CLTI.
+Author conﬂict of interest: none.
+J Vasc Surg 2019;69:1S-2S
+0741-5214
+Copyright Ó 2019 by the Society for Vascular Surgery. Published by Elsevier Inc.
+https://doi.org/10.1016/j.jvs.2019.04.469
+
+What did we learn that should now be the standard of
+care for CLTI?
+First, we learned that the diagnosis of CLTI requires a
+thorough history and physical examination by an experienced vascular physician, as well as combination of tests,
+including noninvasive physiologic studies, followed by
+either duplex imaging or cross-sectional imaging using
+computed tomography angiography or magnetic
+resonance angiography. Catheter angiography and intravascular ultrasound, in most cases, should be reserved to
+document anatomy before treatment and should not be
+used for making the diagnosis. There are many patients
+with noncritical PAD and coexisting diabetes, vasculitis,
+or degenerative arthritis that masquerade as CLTI; therefore, the initial evaluation should be performed in an
+accredited vascular laboratory equipped with objective
+hemodynamic tests to establish the diagnosis using
+segmental limb and toe pressures and ankle-brachial
+indices. Once the initial assessment is completed, the
+guidelines endorse the Society for Vascular Surgery
+Threatened Limb Classiﬁcation system that is based on
+grading of Wound, Ischemia, and foot Infection (WIfI); it
+provides the most accurate staging of CLTI.5
+Second, we learned that all patients with CLTI should
+receive best medical therapy, including antithrombotic,
+lipid-lowering, antihypertensive and glycemic control
+medications, preventive foot care and counseling on
+smoking cessation, a low-fat and low-sodium diet, and
+appropriate exercise.
+Third, we learned that Evidence-Based Revascularization (EBR) depends on Patient risk, Limb severity, and
+ANatomic complexity (PLAN). The proposed new Global
+Anatomic Staging System (GLASS) replaces previously
+used classiﬁcations; it deﬁnes a preferred target artery
+path (TAP), estimates limb-based patency (LBP), and
+establishes stages of complexity for interventions. GLASS
+is used to determine the likelihood of limb salvage and
+the best route to achieve it.
+Fourth, we learned that access to perform both invasive
+treatments, endovascular procedures and open surgery,
+is required to appropriately treat these patients. The old
+adage “when your only tool is a hammer, the whole
+world looks like a nail” certainly applies to the management of CLTI. Considering only one approach may
+reduce the likelihood of successful treatment and it
+may even expose patients to ineffective or inappropriately invasive procedures. Having an autogenous saphenous vein available favors surgical bypass in advanced
+CLTI, while endovascular interventions are preferred
+for high-risk patients with less complex anatomy.
+1S
+
+2S
+
+Journal of Vascular Surgery
+
+Lawrence and Gloviczki
+
+June Supplement 2019
+
+Long-term limb surveillance after any revascularization is
+strongly recommended.
+Fifth, the guidelines address the current lack of
+evidence supporting nonrevascularization therapies,
+including cell-based and gene therapies, spinal cord
+stimulation, pneumatic compression, prostanoids, and
+hyperbaric oxygen treatment.
+Finally, since most patients with CLTI have tissue loss,
+either from an ischemic ulcer or gangrene, many
+patients are not fully ambulatory and are deconditioned.
+They often require wound care, amputations, and rehabilitation after revascularization. Consequently, vascular
+specialists who manage CLTI must have an understanding of wound care and amputations and either be able
+to perform these procedures or have immediate access
+to them.
+The authors of this study, representing the Society for
+Vascular Surgery, the European Society for Vascular Surgery, and the World Federation of Vascular Societies, are
+to be congratulated for conducting a comprehensive
+review of the literature, adhering to established principles of writing evidence-based recommendations, and
+providing a document that should be used by all
+vascular specialists who treat patients with CLTI, irrespective of their specialty. The authors and all sponsoring
+societies need to be committed to revising and updating
+
+the document as new procedures and information
+become available, particularly after the multidisciplinary
+prospective randomized trials that are in progress are
+completed.
+
+Peter F. Lawrence, MD
+Peter Gloviczki, MD
+Editors, Journal of Vascular Surgery Publications
+
+REFERENCES
+1. Conte MS, Bradbury AW, Kolh P, White JV, Dick F, Fitridge R,
+et al. Global vascular guideline on the management of chronic
+limb-threatening ischemia. J Vasc Surg 2019;69(Suppl):3S-125S.
+2. Almasri J, Adusumalli J, Asi N, Lakis S, Alsawas M, Prokop LJ,
+et al. A systematic review and meta-analysis of revascularization outcomes of infrainguinal chronic limb-threatening
+ischemia. J Vasc Surg 2018;68:624-33.
+3. Farber A, Rosenﬁeld K, Siami S, Strong S, Menard M. The BESTCLI trial is nearing the ﬁnish line and promises to be worth the
+wait. J Vasc Surg 2019;69:470-81.
+4. Popplewell MA, Davies H, Jarrett H, Bate G, Grant M, Patel S,
+et al. Bypass versus angioplasty in severe ischaemia of the leg
+- 2 (BASIL-2) trial: study protocol for a randomised controlled
+trial. Trials 2016;17:11. doi: 10.1186/s13063-015-1114-2.
+5. Mills JL, Conte MS, Armstrong DG, Pomposelli F, Schanzer A,
+Sidawy AN, et al. The Society for Vascular Surgery Lower Extremity Threatened Limb Classiﬁcation System: risk stratiﬁcation based on Wound, Ischemia and foot Infection (WIfI).
+J Vasc Surg 2014;59:220-34.
+
+Update
+Journal of Vascular Surgery
+Volume 70, Issue 2, August 2019, Page 662
+DOI: https://doi.org/10.1016/j.jvs.2019.06.101
+
+CORRECTION
+In the July 2018 issue of the Journal of Vascular Surgery, the article by Jun Yan Wee et al (Jun Yan Wee I, Mohamed
+IH, Patel A, Choong AMTL. A systematic review and meta-analysis of one-stage versus two-stage brachiobasilic arteriovenous ﬁstula creation. J Vasc Surg 2018;68:285-97) requires some text updates as listed below in boldface.
+Abstract
+Results: The systematic search revealed a total of 242 publications for possible inclusion. On the basis of title and
+abstract review, two randomized controlled trials and nine case-cohort series ﬁt our inclusion criteria. There were
+no statistically signiﬁcant differences in failure rates (pooled risk ratio [RR], 1.10; 95% conﬁdence interval [CI],
+0.79-1.55; P ¼ .25), 1-year primary patency rates (RR, 1.31; 95% CI, 0.83-2.06; P ¼ 0.24), 1-year secondary patency rates
+(RR, 0.97; 95% CI, 0.54-1.77), 2-year primary patency rates (RR, 1.68; 95% CI, 0.99-2.83; P [ .05), and 2-year secondary patency rates (RR, 1.19; 95% CI, 0.54-2.63; P ¼ .67) between both groups. However, the two-stage procedure had
+signiﬁcantly improved 2-year primary patency rates (RR, 2.50; 95% CI, 1.66-3.74; P < .00001). There were no differences in steal syndrome, hematoma, infection, pseudoaneuryms, or stenosis, although there was a trend toward
+an increased incidence of postoperative thrombosis (RR, 1.81; 95% CI, 0.95-3.45; P ¼ .07) in one-stage procedures.
+Conclusions
+With improved 2-year primary patency rates that trend towards statistical signiﬁcance and the absence of signiﬁcant
+differences in complications, this study suggests potential beneﬁt of a two-stage over a one-stage procedure for brachiobasilic AVF creation. However, rather than being a deﬁnitive answer, our results merely highlight the continuing need for
+an adequately powered, well- designed, randomized controlled trial to interrogate this question further.
+Main text, Results (Effects of intervention, primary outcomes, paragraph 2):
+The meta-analysis was extended to evaluate the patency outcomes for both procedures. There were no differences
+detected between the one- and two-stage procedures in 1-year primary patency rates (pooled RR, 1.34; 95% CI, 0.901.99; P ¼ .15; nine studies; N ¼ 854), 1-year secondary patency rates (RR, 1.11; 95% CI, 0.63- 1.93; P ¼ .72; eight studies;
+N ¼ 812), 2-year primary patency rates (RR, 1.68; 95% CI, 0.99-2.83; P [ .05), and 2-year secondary patency rates
+(RR, 1.31; 95% CI, 0.69-2.46, P ¼ .41; eight studies; N ¼ 812).
+Discussion (ﬁrst paragraph):
+Twelve studies were included in this review, with a total of 1136 patients who underwent either a one-stage or
+two-stage procedure. In terms of primary outcomes, the pooled evidence from the meta-analyses showed no
+differences in primary ﬁstula failure rates, 1-year primary patency rates, 1-year secondary patency rates, 2-year
+primary patency rates, and 2-year secondary patency rates.
+Discussion (second to last paragraph):
+Although there is a slight difference in the range of studies included in both reviews, the evidence from our review
+agrees with prior conclusions.
+
+CORRECTION
+In the June 2019 regular and supplement issues of the Journal of Vascular Surgery, the editorials by Drs Lawrence
+and Gloviczki that published in each issue contained an error in the use of the term “critical limb-threatening
+ischemia”. The correct term is “chronic limb-threatening ischemia”. The error has been corrected in the title and
+in the ﬁrst paragraph of both of these editorials.
+
+CORRECTION
+In the June 2019 supplement of the Journal of Vascular Surgery, the article by Conte et al (Conte MS, Bradbury AW,
+Kolh P, White JV, Dick F, Fitridge R, et al. Global vascular guidelines on the management of chronic limbthreatening ischemia. J Vasc Surg 2019;69:3S-125S) contained a typo in the name of one of the co-authors. Dr Mauro
+Gargiulo’s name incorrectly printed as “Mauro Garguilo.” The correct surname is Gargiulo.
+
+662
+
+
