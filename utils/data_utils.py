@@ -30,6 +30,7 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
             print(f"Error parsing choices for question: {full_question_text}")
             raise e
         
+        question_id = str(row['question_id'])
         raw_answers = str(row['answer'])
         answer_letters = re.split(r"[,\s]+", raw_answers.strip())
 
@@ -43,6 +44,7 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
             source = ""
     
         example = {
+            "id": question_id,
             "question": question_stem,
             "choices": answer_choices,
             "correct_answer": answer_letters,
