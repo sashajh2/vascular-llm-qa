@@ -1,0 +1,1584 @@
+CLINICAL PRACTICE GUIDELINES
+The Society for Vascular Surgery clinical practice guidelines on
+popliteal artery aneurysms
+Alik Farber, MD, MBA,a Niren Angle, MD,b Efthymios Avgerinos, MD,c Luc Dubois, MD,d
+Mohammad Eslami, MD,e Patrick Geraghty, MD,f Mounir Haurani, MD,g Jeffrey Jim, MD, MPHS,h
+Erika Ketteler, MD,i Raffaele Pulli, MD,j Jeffrey J. Siracuse, MD, MBA,a and M. Hassan Murad, MD, MPH,k Boston,
+Mass; Danville, Calif; Pittsburgh, Pa; London, Ontario, Canada; St. Louis, Mo; Columbus, Ohio; Minneapolis and Rochester,
+Minn; Albuquerque, NM; and Bari, Italy
+
+ABSTRACT
+The Society for Vascular Surgery clinical practice guidelines on popliteal artery aneurysms (PAAs) leverage the work of a
+panel of experts chosen by the Society for Vascular Surgery to review the current world literature as it applies to PAAs to
+extract the most salient, evidence-based recommendations for the treatment of these patients. These guidelines focus on
+PAA screening, indications for intervention, choice of repair strategy, management of asymptomatic and symptomatic
+PAAs (including those presenting with acute limb ischemia), and follow-up of both untreated and treated PAAs. They offer
+long-awaited evidence-based recommendations for physicians taking care of these patients. (J Vasc Surg 2022;75:109S-20S.)
+Keywords: Acute limb ischemia; Guidelines; Popliteal artery aneurysms; Thrombolysis
+
+SUMMARY OF RECOMMENDATIONS
+1. We recommend that patients who present with a
+PAA are screened for both a contralateral PAA and
+an AAA. Level of recommendation: grade 1 (strong);
+quality of evidence: B (moderate)
+2. We recommend that patients with an asymptomatic PAA $20 mm in diameter should undergo
+repair to reduce the risk of thromboembolic complications and limb loss. Level of recommendation:
+grade 1 (strong); quality of evidence: B (moderate).
+For selected patients at higher clinical risk, repair
+can be deferred until the PAA has become
+$30 mm, especially in the absence of thrombus.
+Level of recommendation: grade 2 (weak); quality
+of evidence: C (low)
+
+3. We suggest that for patients with a PAA <20 mm, in
+the presence of thrombus and clinical suspicion of embolism or imaging evidence of poor distal runoff, repair
+should be considered to prevent thromboembolic
+complications and possible limb loss. Level of recommendation: grade 2 (weak); quality of evidence: C
+(low)
+4. For asymptomatic patients, with a life expectancy of
+$5 years, we suggest open PAA repair, provided that
+an adequate saphenous vein is present. For patients
+with a diminished life expectancy, if intervention is
+indicated, endovascular repair should be considered.
+Level of recommendation: grade 2 (weak); quality
+of evidence: C (low)
+5. We recommend that intervention for thrombotic and/
+or embolic complications of PAA be stratiﬁed by the
+
+From the Boston Medical Center, Boston University School of Medicine, Bos-
+
+Correspondence: Alik Farber, MD, MBA, Boston Medical Center, 1 Boston Medi-
+
+tona; the John Muir Medical Center, Danvilleb; the Clinic of Vascular and
+
+cal Center Place, Ste D506, Collamore, Boston, MA 02118 (e-mail: alik.farber@
+
+Endovascular Surgery, Athens Medical Group, University of Athens, Athensc;
+
+bmc.org).
+
+the London Health Sciences Center, Western University, Londond; the Univer-
+
+Independent peer review and oversight has been provided by members of the
+
+sity of Pittsburgh Medical Center, University of Pittsburgh, Pittsburghe; the
+
+Society for Vascular Surgery Document Oversight Committee (Ruth Bush, Chair,
+
+School of Medicine, Washington University, St Louisf; The Ohio State Univer-
+
+Marc Schermerhorn, Vice-Chair, Keith Calligaro, Yazan Duwayri, Raul Guzman,
+
+sity Medical Center, Columbusg; the Minneapolis Heart Institute, Abbott
+
+Gregory Landry, Mahmoud Malas, Katherine McGinigle, J. Sheppard Mondy,
+
+Northwestern Hospital, Minneapolish; the New Mexico Veterans Affairs Health
+
+John Rectenwald, William Robinson, Britt Tonnessen, and Greg Westin).
+
+Care System, Albuquerquei; the University of Barij; and the Evidence-Based
+
+0741-5214
+
+Practice Center, Mayo Clinic, Rochester.k
+
+Copyright Ó 2021 by the Society for Vascular Surgery. Published by Elsevier Inc.
+
+Author conﬂict of interest: none.
+
+https://doi.org/10.1016/j.jvs.2021.04.040
+
+109S
+
+110S
+
+Farber et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+severity of ALI at presentation. We recommend that patients with mild to moderate ALI (Rutherford grade I
+and IIa) and severely obstructed tibiopedal arteries undergo thrombolysis or pharmacomechanical intervention to improve runoff status, with prompt transition
+to deﬁnitive PAA repair. We recommend that patients
+with severe ALI (Rutherford grade IIb) undergo prompt
+surgical or endovascular PAA repair, with the use of
+adjunctive surgical thromboembolectomy or pharmacomechanical intervention to maximize tibiopedal
+outﬂow. Nonviable limbs (Rutherford grade III) require
+amputation. Level of recommendation: grade 1
+(strong); quality of evidence: B (moderate)
+6. We recommend that patients who undergo OPAR or
+EPAR should be followed up using clinical examination, ABI, and DUS at 3, 6, and 12 months during the
+ﬁrst postoperative year and, if stable, annually thereafter. In addition to DUS evaluation of the repair, the
+aneurysm sac should be evaluated for evidence of
+enlargement. If abnormalities are found on clinical examination, ABI, or DUS, appropriate clinical management according to the lower extremity endovascular
+or open bypass guidelines should be undertaken.
+Level of recommendation: grade 1 (strong); quality
+of evidence: B (moderate). If compressive symptoms
+or symptomatic aneurysm sac expansion are noted,
+we suggest surgical decompression of the aneurysm
+sac. Level of recommendation: grade 1 (strong);
+quality of evidence: C (low)
+7. We suggest that patients with an asymptomatic PAA
+who are not offered repair should be monitored annually for changes in symptoms, pulse examination,
+extent of thrombus, patency of the outﬂow arteries,
+and aneurysm diameter. Level of recommendation:
+grade 2 (weak); quality of evidence: C (low)
+
+Popliteal artery aneurysms (PAAs) are the most common peripheral arterial aneurysms, deﬁned as aneurysms outside the aortoiliac system or the brain,
+accounting for 70% of all peripheral arterial aneurysms.1
+They are more common in men (95%)2,3 and tend to
+occur in the sixth and seventh decades of life.1 Few modern studies have been performed on the natural history
+of PAAs, and many of these were retrospective reviews
+of surgical patients. As such, the timing and details of
+PAA management remain nuanced.
+The popliteal artery begins as the superﬁcial femoral artery emerges from the adductor hiatus. It courses behind
+the knee enveloped in a sheath and surrounded by a fat
+pad.4 The popliteal artery gives off genicular branches
+that surround the knee, acting as important pathways
+for collateral circulation, and divides into the anterior tibial
+artery and the tibioperoneal trunk in the proximal calf.
+The normal popliteal artery measures 5 to 9 mm in diameter and is generally larger in men by 1 to 2 mm.5-8 It is
+generally considered aneurysmal when its diameter exceeds 15 mm or when it is 1.5 larger than its normal
+diameter.1,9-11 Asymptomatic PAAs that are <20 mm in
+
+diameter can be expected to have a growth rate of 0.3
+to 1.5 mm annually.12-14 The rate of growth for aneurysms
+>20 mm in diameter is variable from no
+growth reported for most patients to #3 mm/y in
+others.9,13,15 Independent factors associated with PAA
+growth include the initial aneurysm diameter and the
+presence of mural thrombus.16 A prospective analysis
+showed that the initial PAA size inﬂuenced the rate of
+subsequent growth. When stratiﬁed by the initial size,
+PAAs <20 mm grew at 1.5 mm/y, PAAs 20 to 30 mm
+grew 3 mm/y, and those >30 mm grew 3.7 mm/y. The
+most recent retrospective analysis of 87 asymptomatic
+PAAs demonstrated that smaller size aneurysms may
+demonstrate a slower growth rate for a number of years
+before an accelerated growth phase occurs,16 conﬁrming
+previous observations that PAAs with greater diameters
+will enlarge more rapidly than those with smaller diameters.12-14,16,17
+Most patients with PAAs will be asymptomatic at the
+time of detection. In a review of multiple studies, totaling
+>4000 patients, ~40% of patients were asymptomatic at
+repair.2 Among asymptomatic patients with PAAs, 14%
+to 24% will become symptomatic within 1 to 2 years and
+31% to 68% will develop complications during the patient’s lifetime.15,18-20 Symptoms usually result from acute
+or chronic limb ischemia caused by distal embolism to the
+tibial runoff vessels with or without associated aneurysm
+thrombosis.21 The progression to PAA thrombosis has
+been associated with inﬂow and/or outﬂow occlusion.22
+Patients presenting with a thrombosed PAA can have severe limb ischemia owing to disruption of the collateral
+circulation and loss of outﬂow vessels owing to chronic silent thromboemboli that often precede the acute event.
+These patients require an expeditious diagnosis and treatment to prevent limb loss. In a systematic review of 895
+cases of acute limb ischemia (ALI) due to PAA, the early
+amputation rate was 14%.23 Patients presenting with
+chronic symptoms can be clinically indistinguishable
+from those presenting with atherosclerotic arterial occlusive disease. A high index of suspicion is, therefore, necessary to distinguish patients with chronically symptomatic
+PAAs from those with symptoms due to peripheral arterial
+occlusive disease (PAD). PAAs can also present with
+rupture, although this is rare.1 Compressive symptoms
+resulting in venous congestion, leg swelling, deep vein
+thrombosis, and/or neuropathy have also been reported
+but are very uncommon.1,2
+Frequently, the patient history will not be diagnostic
+and the physical examination ﬁndings will be insensitive
+even when detecting a prominent popliteal artery. The
+diagnosis of PAA, therefore, requires conﬁrmatory imaging studies, which will also be helpful in treatment
+planning.24
+Duplex ultrasound (DUS) has been shown to be highly
+sensitive and speciﬁc for the detection of PAAs, with a reported accuracy close to 100%.24,25 Computed
+
+Journal of Vascular Surgery
+
+Farber et al
+
+111S
+
+Volume 75, Number 1S
+
+Table. Society for Vascular Surgery clinical practice guidelines on popliteal artery aneurysms: recommendations
+Investigator
+
+Population
+
+Interventions
+
+Outcomes
+
+Methodologic quality
+
+Recommendation 1:We recommend that patients who present with a PAA are screened for both a contralateral PAA and an AAA (grade 1B)
+Dawson et al,1
+1997
+
+Patients with PAAs (review of
+literature)
+
+Variable
+
+For >1600 cases reported, average rate
+of bilateral PAA was 50%, and
+average rate of associated AAAs was
+36%
+
+Mix of mostly
+retrospective and a
+few prospective
+studies
+
+Tsilimparis et al,2
+2013
+
+Tabular review of series of
+PAA patients
+
+Variable
+
+In >2600 patients from studies
+reported in previous 25 years, average
+rate of bilateral PAA was 48% and of
+concomitant AAA was 38%
+
+Mix of mostly
+retrospective and a
+few prospective
+studies
+
+Recommendation 2:We recommend that patients with an asymptomatic PAA >20 mm in diameter should undergo repair to reduce the
+risk of thromboembolic complications and limb loss (grade 1B). For selected patients at higher clinical risk, repair can be deferred until
+the PAA has become >30 mm, especially in the absence of thrombus (grade 2C)
+Cousins et al,16
+2018
+
+Asymptomatic PAAs treated
+for $1 year of medical and
+observational
+management before repair
+
+Variable
+
+87 PAAs in 65 patients were evaluated;
+mean initial diameter at diagnosis
+was 16.9 mm; multivariable analysis
+determined that initial diameter (OR,
+5.53; P ¼ .007) and presence or
+development of mural thrombus
+(OR, 4.00; P ¼ .008) independently
+predicted for PAA diameter growth
+
+Retrospective study
+
+Lowell et al,17
+1994
+
+Consecutive patients with
+symptomatic or
+asymptomatic PAAs
+
+Variable
+
+161 PAAs in 106 patients were followed
+up for a mean of 6.7 years (range,
+3 days to 12.1 years); 15 limbs
+presented with acute symptoms, 52
+with chronic symptoms, and 94 were
+asymptomatic; $1 of 3 risk factors
+(size, >2 cm, thrombus, poor runoff)
+was initially present in 11 of 12 limbs
+(91.7%) compared with 9 of 24 control
+limbs (37.5%) that remained
+asymptomatic (P < .05)
+
+Retrospective study
+
+Galland et al,29
+2005
+
+Consecutive patients with
+symptomatic or
+asymptomatic PAA
+
+Variable
+
+116 PAAs in 73 patients, 39 (34%) with
+acute ischemia; size and distortion
+were greater in PAAs presenting with
+acute ischemia than in
+asymptomatic PAAs (P < .01); degree
+of distortion differentiated
+symptomatic from asymptomatic
+PAAs (P ¼ .0066); size was not
+signiﬁcantly different between these
+2 groups; for PAA $3 cm in diameter
+with $45 distortion, sensitivity,
+speciﬁcity, and positive and negative
+predictive values for thrombosis were
+90%, 89%, 83%, and 94%, respectively
+
+Prospective study
+
+Recommendation 3: We suggest that for patients with a PAA <20 mm, in the presence of thrombus and clinical suspicion of embolism or
+imaging evidence of poor distal runoff, repair should be considered to prevent thromboembolic complications and possible limb loss
+(grade 2C)
+Ascher et al,30
+2003
+
+34 PAAs in 25 patients; 14
+(41%) had no symptoms
+(group 1) and 20 (59%) had
+symptoms (group 2)
+
+Bypass surgery
+
+PAA diameter averaged 2.8 6 0.7 cm
+(range, 1.8-4.5 cm) in group 1 and
+2.2 6 0.8 cm (range, 1.3-4.0 cm) in
+group 2 (P < .03); PAA thrombosis
+was present in 7 of 20 limbs in group
+2; 4 of these patients had ipsilateral
+SFA thrombosis; evaluation of
+infrapopliteal arteries in group 1
+showed 3-vessel runoff in 7 limbs, 2vessel runoff in 3 limbs, 1-vessel runoff
+in 2 limbs, and no vessel runoff in 2
+limbs; all infrapopliteal arteries were
+either occluded or signiﬁcantly
+stenotic in 14 limbs (70%); in group 2,
+1-vessel runoff was observed in 5
+limbs, and 2-vessel runoff in 1 limb
+
+Retrospective study
+
+(Continued on next page)
+
+112S
+
+Journal of Vascular Surgery
+
+Farber et al
+
+January Supplement 2022
+
+Table. Continued.
+Investigator
+Dawson et al,20
+1994
+
+Population
+
+Interventions
+
+Outcomes
+
+Methodologic quality
+
+Asymptomatic PAAs
+
+Observation
+
+42 Patients with mean PAA diameter of
+3.1 cm (range, 1.8-8.0 cm); 1 or both
+ankle pulses were absent in 18/42
+limbs; during follow-up, 25/42
+asymptomatic PAAs under
+observation had complications at
+mean observation of 18 months
+(range, 1 day to 65 months); absent
+ankle pulses at initial examination
+signiﬁcantly predicted for natural
+history of asymptomatic PAA; risk of
+complications was also greater with
+increasing diameter ($2 cm)
+
+Retrospective study
+
+Recommendation 4: For asymptomatic patients with a life expectancy of $5 years, we suggest open PAA repair, provided that an adequate
+saphenous vein is present; for patients with a diminished life expectancy, if intervention is indicated, endovascular repair should be
+considered (grade 2C)
+Garg et al,31 2012
+
+21 PAA patients
+
+EPAR
+
+3 Graft failures of 20 procedures; open
+thrombectomy (n ¼ 2) and
+femorotibial bypass (n ¼ 1);
+signiﬁcantly increased graft failure
+rate with 1-compared with 2- or 3vessel runoff
+
+Retrospective study;
+moderate
+methodologic quality
+
+Serrano
+Hernando
+et al,32 2015
+
+171 PAAs in 142 men; 53.3%
+asymptomatic
+
+139 OPAR, 32 EPAR
+
+27 Occlusions (14.4% OPAR, 21.8%
+EPAR); only variable associated with
+patency on multivariate analysis was
+poor runoff
+
+Retrospective study;
+moderate
+methodologic quality
+
+Beuschel et al,33
+2020
+
+e
+
+e
+
+Eslami et al,34
+2015
+
+Asymptomatic PAAs in VQI
+from 2010 to 2013
+
+221 OPAR, 169 EPAR; OPAR patients had signiﬁcantly greater
+MALE, loss of primary
+MALE-free survival (95% vs 80%;
+P < .001) and MALE-PODefree
+patency, and MALEsurvival (93% vs 80%; P < .001) rates at
+free survival were
+1 year after procedure; OPAR was
+compared
+associated with lower hazard of
+MALE (HR, 0.35; 95% CI, 0.15-0.86;
+P < .05), MALE-POD (HR, 0.28; 95% CI,
+0.13-0.63; P < .05), and primary
+patency loss (HR, 0.25; 95% CI,
+0.10-0.58; P < .05)
+
+Retrospective, multiinstitutional registry
+study; moderate
+methodologic quality
+
+Galinanes et al,35
+2013
+
+PAA repair in Medicare
+beneﬁciaries, 2005-2007
+
+Comparison of 2962
+Greater LOS and hospital charges for
+Medicare patients
+OPAR; greater 30- and 90-day
+after OPAR (n ¼ 2413)
+reinterventions for
+and EPAR (n ¼ 549);
+EPAR (4.6% vs 2.1%; P ¼ .001;
+reintervention rates,
+11.8% vs 7.4%; P ¼ .0007, respectively)
+LOS, and charges
+
+Retrospective
+administrative
+database; moderate
+to low methodologic
+quality
+
+Systematic review of 1
+Meta-analysis of mainly
+high risk of bias RCT
+nonrandomized studies (1 small RCT)
+and observational
+showed that, compared with EPAR,
+studies
+OPAR was associated with greater
+primary patency at 1 year (OR, 2.13;
+95% CI, 1.45-3.14) and 3 years (OR, 1.41;
+95% CI, 0.99-2.01), lower occlusion
+rate at 30 days (OR, 0.41; 95% CI,
+0.24-0.68), and fewer reinterventions
+but longer hospital stay and more
+wound complications; no signiﬁcant
+difference was found in mortality
+(OR, 0.28; 95% CI, 0.06-1.36 at 30 days;
+OR, 0.49; 95% CI, 0.21-1.17 at longest
+follow up), secondary patency (OR,
+1.59; 95% CI, 0.92-3.07 at 1 year), or
+amputation rate (OR, 0.85; 95% CI,
+0.56-1.31) between OPAR and EPAR;
+certainty for these estimates was, in
+general, low
+
+Journal of Vascular Surgery
+
+Farber et al
+
+113S
+
+Volume 75, Number 1S
+
+Table. Continued.
+Investigator
+
+Population
+
+Interventions
+
+Outcomes
+
+Methodologic quality
+
+Pulli et al,36 2012
+
+PAA repair
+
+Pulli et al,37 2013
+
+PAA repair
+
+Comparison of 178
+OPAR and 134 EPAR
+outcomes, including
+primary patency and
+limb loss
+
+Similar outcomes noted between
+OPAR and EPAR
+
+Retrospective multiinstitution analysis;
+moderate
+methodologic quality
+
+Leake et al,38
+2017
+
+PAA repair
+
+Meta-analysis of 14
+studies, including
+4880 PAA repairs
+(OPAR, 3915; EPAR,
+1210)
+
+OPAR had longer LOS (SMD, 2.158; 95%
+CI, 1.225-3.090; P < .001) and fewer
+reinterventions (OR, 0.275; 95% CI,
+0.166-0.454; P < .001); primary
+patency was better for OPAR at 1 and
+3 years (RR, 0.607 [P ¼ .01]; RR, 0.580
+[P ¼ .006], respectively); no difference
+in secondary patency at 1 and 3 years
+(RR, 0.770 [P ¼ .458]; RR, 0.642
+[P ¼ .073], respectively)
+
+Systematic review of
+one low-quality RCT
+and observational
+studies
+
+Patients with PAA
+
+15 OPAR, 15 EPAR,
+comparison of
+outcomes
+
+Similar outcomes between OPAR and
+EPAR
+
+Single-center,
+prospective
+randomized trial of
+low power but
+appropriate method
+
+Antonello et al,39
+2005
+
+Comparison of 43 OPAR Equal outcomes across all compared
+and 21 EPAR
+between OPAR and EPAR
+outcomes
+
+Retrospective singleinstitution analysis;
+moderate
+methodologic quality
+
+Recommendation 5: We recommend that intervention for thrombotic and/or embolic complications of PAA be stratiﬁed by the severity of
+ALI at presentation. We recommend that patients with mild to moderate ALI (Rutherford grade I and IIa) and severely obstructed
+tibiopedal arteries undergo thrombolysis or pharmacomechanical intervention to improve runoff status, with prompt transition to
+deﬁnitive PAA repair. We recommend that patients with severe ALI (Rutherford grade IIb) should undergo prompt surgical or
+endovascular PAA repair, with the use of adjunctive surgical thromboembolectomy or pharmacomechanical intervention to maximize
+tibiopedal outﬂow. Nonviable limbs (Rutherford grade III) require amputation (grade 1B)
+Marty et al,40
+2002
+
+12 Patients with ALI,
+Rutherford grade IIa; 1 with
+ALI, Rutherford grade IIb
+
+All patients received
+preoperative
+thrombolysis
+
+Thrombolysis failures (3/13) predicted
+for bypass failure and AKA;
+thrombolysis for ALI IIb resulted in
+rhabdomyolysis and death
+
+Retrospective study;
+moderate
+methodologic quality
+
+Pulli et al,41 2006
+
+17 Patients with ALI,
+Rutherford grade I-IIa; 19
+with ALI, Rutherford grade
+IIb
+
+11/17 Thrombolysis patients (64.5%) had
+17 Patients with
+Rutherford grade I-IIa restoration of patency of PAA and $1
+tibial vessel
+received preoperative
+lysis; 19 with
+Rutherford grade IIb
+underwent open
+repair
+
+Retrospective study;
+moderate
+methodologic quality
+
+Kropman et al,23
+2010
+
+895 Patients with ALI (122
+with Rutherford grade
+noted: 101, IIa; 18, IIb; 3, III)
+
+313, Lysis (255
+preoperatively); 551,
+OPAR; 31, primary
+amputation
+
+Pre- and intraoperative thrombolysis
+plus bypass yielded improved graft
+patency rates at 1 year but no change
+in amputation rates compared with
+surgical thrombectomy plus bypass
+
+Systematic review (8
+prospective, 25
+retrospective); good
+methodologic quality
+
+Pulli et al,37 2013
+
+51 Patients with ALI: 40,
+Rutherford grade I-IIa; 11, IIb
+
+Patients with I-IIa
+At 48 months, limb salvage was 81.5%
+received lysis then
+repair (30 OPAR; 10
+EPAR); patients with
+IIb received OPAR
+
+Multicenter
+retrospective study;
+moderate
+methodologic quality
+
+Dorigo et al,42
+2002
+
+24 Patients with ALI,
+Rutherford grade I-IIa
+
+10 Patients received
+OPAR; 14, lysis
+followed by OPAR
+
+Perioperative (30-day) limb salvage was
+70% for OPAR, which improved to
+86% with addition of thrombolysis
+
+Retrospective
+comparative study;
+moderate
+methodologic quality
+
+Dorigo et al,43
+2018
+
+13 Patients with ALI (8 with
+Rutherford grade I-IIa)
+
+8 Patients treated with
+lysis
+
+6/8 (75%) Successful
+
+Retrospective
+multicenter study;
+moderate
+methodologic quality
+
+Huang et al,44
+2007
+
+358 Cases of PAA in 289
+74 Patients with ALI; 24 30-Day primary patency for ALI grade II Retrospective, singlepatients; 74 (21%) with ALI
+received preoperative
+patients increased with lysis (96% 6
+center study;
+lysis
+4% vs 80% 6 9%)
+moderate
+methodologic quality
+
+(Continued on next page)
+
+114S
+
+Journal of Vascular Surgery
+
+Farber et al
+
+January Supplement 2022
+
+Table. Continued.
+Investigator
+
+Population
+
+Interventions
+
+Outcomes
+
+Methodologic quality
+
+Recommendation 6: We recommend that patients who undergo OPAR or EPAR should be followed up using clinical examination, ankle
+brachial index (ABI), and DUS at 3, 6, and 12 months during the ﬁrst postoperative year and, if stable, annually thereafter. In addition to
+DUS evaluation of the repair, the aneurysm sac should be evaluated for evidence of enlargement. If abnormalities are found on clinical
+examination, ABI, or DUS, appropriate clinical management according to the lower extremity endovascular or open bypass guidelines
+should be undertaken (grade 1B). If compressive symptoms or symptomatic aneurysm sac expansion are noted, we suggest surgical
+decompression of the aneurysm sac (grade 1C)
+Zierler et al,45
+2018
+
+SVS review of multiple
+endovascular and open
+lower extremity
+revascularization
+procedures
+
+DUS, ABI, and physical
+examination
+surveillance
+recommended at 1, 6,
+and 12 months, then
+annually
+
+Stone et al,46
+2005
+
+55 Patients with PAAs
+
+DUS at discharge, every One third of PAAs repaired by OPAR or Retrospective review;
+3 months for 2 years,
+EPAR required secondary
+moderate
+then every 6 months
+intervention within 2 years
+methodologic quality
+
+Piazza et al,47
+2014
+
+46 EPARs
+
+Davies et al,48
+2010
+
+48 Patients with 63 PAAs
+
+Numerous studies ($2300) have
+demonstrated that identifying and
+repairing graft-threatening lesions
+prolongs bypass patency
+
+DUS surveillance at 1, 6, 11 Stent-graft failures; 63% within ﬁrst
+12 months, then
+year
+annually
+
+Retrospective and
+meta-analysis
+
+Retrospective review;
+moderate
+methodologic quality
+
+DUS surveillance but no 5 PAAs with ﬂow into sac and aneurysm Retrospective review;
+schedule reported
+growth
+moderate
+methodologic quality
+
+Recommendation 7: We suggest that patients with an asymptomatic PAA who are not offered repair should be monitored annually for
+changes in symptoms, pulse examination, extent of thrombus, patency of the outﬂow arteries, and aneurysm diameter (grade 2C)
+Dawson et al,20
+1994
+
+42 Patients with
+asymptomatic PAAs
+
+Ascher et al,30
+2003
+
+34 Patients identiﬁed
+retrospectively with PAA
+
+Variable
+
+Size did not accurately predict for
+complications; aneurysms <2 cm still
+posed risk of thrombosis and
+complications
+
+Retrospective case
+series
+
+Dawson et al,1
+1997
+
+Review of 13 retrospective
+case series; 437 aneurysms
+total
+
+Variable
+
+Complications developed at a mean
+observation time of 18 months;
+complication rate varied, 8%-100%;
+amputation rate with complications,
+25%
+
+Retrospective case
+series
+
+Schröder et al,49 Retrospective review of 217
+1996
+patients
+
+Variable
+
+53% of patients treated conservatively
+were free of symptoms at 5 years
+
+Retrospective case
+series
+
+Farina et al,50
+1989
+
+Variable
+
+36% of 14 patients treated
+conservatively had complications at a
+mean of 26 months
+
+Retrospective case
+series
+
+Retrospective review of 50
+aneurysms
+
+Monitored for symptoms 24% Developed complications within
+and complications
+1 year, and 68% developed
+complications due to PAAs within
+5 years; absence of ankle pulses was a
+strong predictor of complications
+
+Retrospective case
+series
+
+AAA, Abdominal aortic aneurysm; ABI, ankle brachial index; AKA, above the knee amputation; ALI, acute limb ischemia; CI, conﬁdence interval; DUS,
+duplex ultrasound; EPAR, endovascular popliteal artery aneurysm repair; HR, hazard ratio; LOS, length of stay; MALE, major adverse limb events; OPAR,
+open popliteal artery aneurysm repair; OR, odds ratio; PAA, popliteal artery aneurysm; POD, perioperative death; RCT, randomized controlled trial; RR,
+relative risk; SFA, superﬁcial femoral artery; SMD, standardized mean difference; SVS, Society for Vascular Surgery; VQI, Vascular Quality Initiative.
+
+tomography angiography and magnetic resonance angiography can be used to identify the proximal and distal
+extent of the PAA, assess arterial inﬂow and outﬂow, and
+to plan the repair. Catheter-directed digital subtraction
+angiography has mainly been used for ALI when thrombolytic therapy is needed, when evaluating for concurrent
+endovascular repair, or to better assess a distal arterial
+target for open repair using lower extremity bypass.
+Although very few PAA-speciﬁc studies have been reported on the optimal medical management, given
+that PAAs and atherosclerotic occlusive disease often
+occur together, the risk modiﬁcation strategies and
+guidelines established for asymptomatic PAD or aortic
+
+aneurysmal disease are often followed for patients with
+PAAs.26,27 Thus, patients with a PAA who smoke should
+be counseled to cease smoking and be medically
+treated to control hypertension, hyperlipidemia, and diabetes, as part of an atherosclerotic factor control strategy.
+Although statins and antiplatelet agents may be indicated for that purpose, they have not been deﬁnitively
+shown to affect the natural history of PAAs. The only
+study that evaluated the effect of medication (eg, statins,
+anticoagulant agents, b-blockers, and antiarrhythmic
+agents) on PAA growth found no correlation, although
+the sample size was too small for meaningful
+conclusions.16
+
+Journal of Vascular Surgery
+
+Farber et al
+
+115S
+
+Volume 75, Number 1S
+
+When surgical treatment of a PAA is indicated, both
+open and endovascular approaches can be used. Endovascular PAA repair (EPAR) is a less invasive procedure in
+which a stent-graft is deployed across the PAA. In open
+PAA repair (OPAR), if the medial approach is used, the
+aneurysm should be bypassed with proximal and distal
+ligation of the aneurysm sac. Sac obliteration is desirable
+but can be technically difﬁcult to complete. If the posterior approach is used, bypass and aneurysmorrhaphy
+should be performed. In patients with very large PAAs
+and compressive symptoms, the posterior approach is advantageous because it allows for complete decompression of the aneurysm sac. In some patients with PAA
+who present with ALI, thrombolysis has been used as an
+adjunct to EPAR or OPAR.
+The reported data on PAAs were exhaustively evaluated
+by a working group of experts appointed by the Document Oversight Committee of the Society for Vascular
+Surgery (SVS). This working group identiﬁed seven guidelines from the available reported data using the Grading
+of Recommendations Assessment, Development, and
+Evaluation (GRADE) approach28 that represent the most
+salient elements surrounding the treatment of patients
+with PAAs and in the present report has presented these
+guidelines, the evidence table (Table), and the
+relevant literature to support their use. It is important to
+note that in the management of PAAs, a dearth of highquality evidence is available to guide clinical decisionmaking. Rigorous well-controlled studies are badly
+needed to establish further clarity in this clinical area. As
+such, experienced clinicians can exercise considerable
+latitude in their approach to treating these complex
+patients.
+
+METHODS
+Guideline framework. Our expert panel used the
+GRADE approach to rate the quality of the available evidence and to grade the strength of the recommendations. This system, adopted by many other organizations,
+categorizes the recommendations as strong GRADE 1 or
+weak GRADE 2 according to the quality of the evidence,
+the balance between desirable and undesirable effects,
+the patient’s values and preferences, and the required resources, feasibility and acceptability. GRADE 1 recommendations are meant to identify clinical practices for which
+the associated beneﬁt clearly outweighs the risk. These
+recommendations can be made by clinicians and
+accepted by patients with a high degree of conﬁdence.
+GRADE 2 recommendations are made when the beneﬁts
+and risks are more closely matched and, as such, are more
+dependent on speciﬁc clinical scenarios. In general,
+clinician and patient preferences will play a more important role in the decision-making process in such circumstances. The SVS adjusted the GRADE rubric such that the
+level of evidence to support the recommendation is
+divided into three categories: A, high quality; B, moderate
+
+quality; and C, low quality. Conclusions based on highquality evidence are unlikely to change with further
+investigation. In contrast, those based on moderatequality evidence are more likely to be affected by future
+research. Finally, those based on low-quality evidence are
+the least supported by the current data and the most
+likely to be subject to change in the future. On occasion, a
+GRADE 1 recommendation can be made from low-quality
+(C) evidence.28 The expert panel reached a consensus for
+all the recommendations and their level of supporting
+evidence. These guidelines represent a “living document,”
+because new evidence is continually being collected and,
+as such, will require periodic updates as more is learned
+about the evaluation and management of PAAs.
+Evidence to decision framework (decisional factors).
+Little is known about the values and preferences of patients with PAAs owing to the rarity of the condition.
+Therefore, the guideline committee members used their
+clinical expertise and assumed patient values from interactions with their patients. Most patients consider mortality and amputation as the most critical outcomes,
+followed by reintervention and patency. Patients would
+likely prefer an endovascular approach, unless it was
+clearly inferior in terms of its effect on these outcomes.
+This is consistent with the patient values derived from
+other similar contexts in vascular surgery, such as abdominal aortic aneurysms (AAAs).51 Interviews with patients
+with small AAAs have demonstrated that they cared the
+most about postoperative morbidity and mortality
+compared with the need for surveillance and the risk of
+long-term problems with endovascular repair.51 In terms
+of cost, an evaluation of the Centers for Medicare and
+Medicaid Services Inpatient claims (2005-2007) suggested that the medical and surgical supply charges for
+endovascular repair of PAAs ($15,029) are considerably
+greater than those for open surgery ($3188). However,
+open repair overall costs more than the endovascular
+approach ($43,180 vs $35,540, respectively).35 In contrast, a
+decision analysis suggested that traditional open repair
+with great saphenous vein (GSV) bypass might be the
+preferred treatment for 65-year-old asymptomatic patients with PAAs when all outcomes are considered.52 The
+guidelines committee did not conduct a formal costeffectiveness analysis, and cost was not considered a
+major factor in making the recommendations. Endovascular and open approaches were both considered
+acceptable by patients and feasible in most settings if
+surgical expertise is available.
+Evidence synthesis. The expert panel commissioned a
+systematic review of the MEDLINE, Embase, and
+Cochrane databases and Scopus that focused on evaluating two seminal research questions that relate to the
+management of PAAs. The ﬁrst question evaluated the
+natural history of PAAs in an attempt to assess the timing
+
+116S
+
+Farber et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+of intervention. The second question appraised and
+compared the efﬁcacy of OPAR and EPAR. The Mayo
+Clinic Evidence-Based Practice Center conducted the
+reviews. The search strategy identiﬁed 2191 references, of
+which 33 original studies and 4 systematic reviews were
+included. One systematic review of 13 studies and two
+additional original studies (836 PAAs) had evaluated the
+natural history question, and 3 meta-analyses and 31
+studies (5381 patients and >5000 PAAs) had evaluated
+the comparative question. The methodology group performing the systematic review independently selected
+and appraised the studies and subsequently collaborated with the expert panel to integrate evidence into
+recommendations.33
+Guidelines. Recommendation 1:We recommend that
+patients who present with a PAA are screened for
+both a contralateral PAA and an AAA (grade 1B)
+The incidence of PAAs in the general population is relatively low, ranging from 0.1% to 2.8%.10,53 Given their rarity, screening unselected patients or patients undergoing
+AAA screening has not been found to be cost-effective.54
+Patients with a known PAA, however, have a greater risk
+of having a contralateral PAA or an AAA. Two separate reviews of the reported data, spanning two separate eras,
+both identiﬁed similar rates of contralateral PAAs (48%
+and 50%) and associated AAAs (36% and 38%).1,2 Given
+these associations, we recommend that patients who
+present with a PAA undergo screening of their contralateral leg and abdomen for both PAAs and AAAs, if not
+already known, preferably using DUS. Such screening
+should be repeated every 5 years.
+The incidence of a PAA in patients with an AAA has been
+reported to range from 3% to 11%.24,54-56 This incidence appears to be greater in men with an AAA and in patients with
+larger AAAs. Routine screening of all patients with small
+AAAs for a PAA is controversial and may not be cost-effective.54,57 Men with larger AAAs may beneﬁt from DUS
+screening of their popliteal arteries to detect a PAA.24,56
+Recommendation 2: We recommend that patients
+with an asymptomatic PAA >20 mm in diameter
+should undergo repair to reduce the risk of thromboembolic complications and limb loss (grade 1B). For
+selected patients at higher clinical risk, repair can be
+deferred until the PAA has become >30 mm, especially
+in the absence of thrombus (grade 2C).
+The optimal timing of intervention for asymptomatic
+PAA remains unclear. The primary concern with PAA is
+the development of thrombotic and embolic complications. Although the aneurysm diameter might not be
+the best predictor for future thrombosis, it is readily
+measurable and can be used broadly to stratify risk combined with other anatomic parameters. A decision to
+treat should balance the risk of thromboembolism with
+continued surveillance against the morbidity associated
+with procedural intervention.
+
+Elective intervention of PAAs has been shown to be
+associated with superior outcomes in terms of limb
+salvage compared with PAAs treated emergently. Using
+size criteria alone, a general consensus has been
+reached that elective intervention should be considered
+for PAAs measuring $20 mm in diameter. This
+threshold was selected to deter resection of mildly
+dilated popliteal arteries and later reinforced given
+that symptomatic PAAs typically exceed 20 mm in
+diameter. In a study of 106 patients who were followed
+up for a mean of 6.7 years, 67 asymptomatic limbs were
+managed nonoperatively.17 In this cohort, symptoms
+had developed in 12 limbs (17.9%). At least one of three
+risk factors (ie, aneurysm size >20 mm, presence of
+thrombus, and poor tibial runoff) was present in 91.7%
+of the symptomatic group compared with 37.5% of
+the control limbs that remained asymptomatic. These
+ﬁndings prompted recommendations that patients
+with PAAs with any of these factors should undergo
+elective repair.
+However, other studies have suggested that a higher
+threshold for intervention may be appropriate. In a study
+of 87 PAAs, it was determined that the initial diameter at
+diagnosis and the presence of luminal thrombus were
+the most important factors in determining which PAAs
+will expand at the greatest rate.16 The investigators recommended that for patients with good surgical risk, an
+asymptomatic aneurysm of $25 mm would beneﬁt
+from repair. In a retrospective review of 116 PAAs, it was
+observed that as the PAA increased in diameter, the degree of proximal angle of distortion also increased.29
+Aneurysm size alone was not a signiﬁcant predictor of
+symptom development. However, an increased diameter
+and degree of distortion occurred more often in PAAs
+associated with ALI than in asymptomatic PAAs. The investigators showed that a threshold of 30-mm diameter
+and >45 of distortion were highly predictive of thrombosis and provided a reliable method of differentiating
+aneurysms best ﬁt for elective repair. Thus, physicians
+should, at their discretion, determine their patient’s candidacy for repair and may consider a higher size
+threshold of 30 mm for those deemed at high surgical
+risk.
+Recommendation 3: We suggest that for patients with
+a PAA <20 mm, in the presence of thrombus and clinical suspicion of embolism or imaging evidence of poor
+distal runoff, repair should be considered to prevent
+thromboembolic complications and possible limb
+loss (grade 2C).
+The probability of embolization and thrombosis may
+not necessarily be dependent on aneurysm size. Ascher
+et al,30 in their retrospective series of 34 PAAs observed
+that patients with smaller PAAs (22 6 8 mm) had a
+greater incidence of thrombotic complications and clinical symptoms than those with larger aneurysms (28 6
+7 mm).30 Most of the small (ie, <20 mm) aneurysms
+
+Journal of Vascular Surgery
+
+Farber et al
+
+117S
+
+Volume 75, Number 1S
+
+(64%) were partially thrombosed, although this incidence was not signiﬁcantly different from that of the
+larger aneurysms (70%). The investigators also observed
+that thrombosis of the PAA did not correlate with aneurysm size.30 When comparing runoff scores, these smaller
+symptomatic PAAs had poorer outﬂow vessels. Their
+study resulted in consideration of early intervention,
+even for PAAs <20 mm, when mural thrombus is present. However, no prospective evidence is available to
+further support this. Several studies have otherwise indicated that >70% of PAAs will contain some degree of
+thrombus and will form mural thrombus as the PAA enlarges. It remains controversial whether aneurysmal
+degeneration results in thrombus formation or if
+thrombus formation is responsible for the development
+of aneurysmal dilation. As such, surgical treatment determined by the presence of thrombus alone might lead to
+unjustiﬁable interventions.
+Thrombus presence paired with impaired runoff, regardless of aneurysm diameter, however, might be a better
+marker to identify higher risk PAAs. Microembolism from
+the aneurysm can be responsible for blue toe syndrome,
+and such patients have a high risk of new arterial emboli,
+even after successful conservative treatment of the ﬁrst
+event. Insidious microemboli can silently, yet signiﬁcantly,
+compromise arterial runoff, with detrimental effects on
+the outcomes of subsequent interventions. Dawson
+et al,20 in a retrospective study of 42 patients, demonstrated an increased risk of complications for patients
+with a PAA and no distal pulses compared with those
+with pulses present. These investigators suggested that
+such patients should not be classiﬁed as asymptomatic
+and should be considered for intervention.20
+Recommendation 4: For asymptomatic patients with
+a life expectancy of $5 years, we suggest open PAA
+repair, provided that an adequate saphenous vein is
+present. For patients with a diminished life expectancy, if intervention is indicated, endovascular repair
+should be considered (grade 2C).
+Treatment of patients with an asymptomatic PAA
+should be directed toward the reduction of thrombotic
+sequelae related to PAAs. In these patients, the exclusion of the PAA from the circulation should be the
+main aim of therapy. This objective can be achieved using either OPAR or EPAR. For OPAR, exclusion requires
+bypass with interval proximal and distal ligation of the
+aneurysm sac. For EPAR, exclusion is accomplished by
+sealing off the aneurysm with an endograft. Although
+a paucity of adequately powered level 1 prospective
+data is available comparing these two modalities,
+several studies have reported better long-term outcomes (ie, better patency and fewer major adverse
+limb events) after OPAR, especially if a single-segment
+GSV was used for the arterial bypass.32,34-39 Given these
+observations regarding the better long-term results, for
+patients who can tolerate either procedure with an
+
+anticipated life expectancy of $5 years, OPAR should
+be considered ﬁrst if adequate GSV is available. An
+adequate GSV has been extrapolated from PAD studies
+to be a GSV >3 mm in diameter and free of intraluminal
+stenoses or synechiae.
+In the absence of an adequate single-segment GSV, an
+alternative conduit such as an expanded polytetraﬂuoroethylene graft can be used with acceptable outcomes.58
+An alternative autogenous vein may not provide better
+long-term patency outcomes than an expanded polytetraﬂuoroethylene conduit.59 The latter, using a posterior
+approach, often allows for a good size match for proximal and distal popliteal arteries in this patient
+population.60
+Several studies that retrospectively compared the results of different PAA interventions have indicated that
+the number of tibial runoff vessels will affect the surgical
+outcomes. These studies suggested that the number of
+outﬂow arteries could adversely affect the results of
+EPAR but not OPAR.31,32 In a recent large study of the
+long-term results of EPAR, the investigators found that
+aneurysm size, coverage below the knee, and singlevessel runoff were the only predictors of major adverse
+limb events.61 Therefore, given the current data, for patients with poor tibial or pedal runoff, OPAR with GSV
+is considered preferential to EPAR for good-risk patients. High-risk patients, deﬁned as those with a high
+cardiovascular risk or adverse anatomic criteria such as
+severe venous stasis or lymphedema, pose a challenge
+because the natural history of PAA is known only from
+purely retrospective data. As such, for patients with a
+poor life expectancy and an asymptomatic PAA, it
+may be reasonable to defer any intervention. If treatment of a PAA is indicated for such patients, because
+endovascular treatment is less taxing and has fewer
+postoperative complications, EPAR should be considered, regardless of the availability of the GSV or quality
+of the runoff vessels.
+Our literature review suggests that younger age, the
+availability of single-segment GSV, challenged runoff vessels, and lower operative risk favor the choice of OPAR.
+However, greater equipoise for EPAR is present with
+advancing age, an insufﬁcient GSV, the presence of satisfactory landing zones and tibial runoff, and higher operative risk. In the absence of robust comparative data,
+thoughtful judgment by an experienced vascular surgeon retains primacy in the selection of the optimal
+repair strategy.
+Recommendation 5: We recommend that intervention for thrombotic and/or embolic complications of
+PAA be stratiﬁed by the severity of ALI at presentation.
+We recommend that patients with mild to moderate
+ALI (Rutherford grade I and IIa) and severely
+obstructed tibiopedal arteries undergo thrombolysis
+or pharmacomechanical intervention to improve
+runoff status, with prompt transition to deﬁnitive
+
+118S
+
+Farber et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+PAA repair. We recommend that patients with severe
+ALI (Rutherford grade IIb) should undergo prompt surgical or endovascular PAA repair, with the use of
+adjunctive surgical thromboembolectomy or pharmacomechanical intervention to maximize tibiopedal
+outﬂow. Nonviable limbs (Rutherford grade III) require
+amputation (grade 1B).
+When patients present with an acutely thrombosed
+PAA, the degree of ischemic insult will determine the
+course of management.23,37,43 ALI resulting from PAA
+thrombosis is frequently associated with a complete
+lack of patent tibiopedal runoff arteries. The indication
+for preoperative intra-arterial thrombolysis is restricted to
+selected patients who can withstand an additional period
+of limb ischemia (Rutherford grade I and IIa).40,42 In this
+condition, the rationale for thrombolysis is primarily to
+restore runoff for bypass grafting or endovascular repair.
+If arteriography demonstrates thrombosis of the PAA
+alone, with a good inﬂow source and suitable outﬂow,
+lytic therapy is not indicated, and prompt surgical or
+endovascular reconstruction should be performed.37 If
+the clot extends into the tibial arteries, without a visible
+runoff vessel, thrombolysis can be very useful to restore
+patency in at least one tibial vessel if the patient tolerates
+this intervention and ischemia is not worsened.40-42,44 Patients with limb threatening ischemia (Rutherford grade
+IIb) cannot tolerate the additional ischemic time required
+by infusion thrombolysis and should urgently undergo
+surgical or endovascular revascularization,23,40 with the
+use of adjuncts, including mechanical or aspiration
+thrombectomy, to clear runoff vessels. For these patients,
+combined mechanical and thrombolytic therapy (pharmacomechanical thrombolysis) may increase the lytic effect, reducing the procedural time. Depending on the
+severity and duration of ischemia and the physical examination ﬁndings, calf fasciotomies may be required after
+successful revascularization.
+Failure to establish a bypass target vessel using either
+lytic or operative methods can necessitate amputation,
+depending on the patient’s clinical condition.40,42 Limbs
+that are not salvageable at presentation (Rutherford
+grade III) should undergo primary amputation rather
+than revascularization to avoid reperfusion injury, potential renal failure, and other complications attendant
+upon a nonviable limb.23 The timing of the amputation
+is dictated by clinical and physiologic ﬁndings.
+Recommendation 6: We recommend that patients
+who undergo OPAR or EPAR should be followed up using clinical examination, ankle brachial index (ABI),
+and DUS at 3, 6, and 12 months during the ﬁrst postoperative year and, if stable, annually thereafter. In addition to DUS evaluation of the repair, the aneurysm sac
+should be evaluated for evidence of enlargement. If
+abnormalities are found on clinical examination, ABI,
+or DUS, appropriate clinical management according
+to the lower extremity endovascular or open bypass
+
+guidelines should be undertaken (grade 1B). If
+compressive symptoms or symptomatic aneurysm
+sac expansion are noted, we suggest surgical decompression of the aneurysm sac (grade 1C).
+Open surgical or endovascular treatment of PAAs requires a protocol of surveillance using DUS. Retrospective reviews have identiﬁed the incidence of secondary
+interventions ranging from 33% to 63% in the ﬁrst 2 years
+after PAA repair. Speciﬁcally, of 48 surgical reconstructions, DUS identiﬁed 14 graft abnormalities in 12 reconstructions after the initial 30 days. Only seven
+endovascular reconstructions and two patients had presented with thrombosis of the stent-grafts within
+2 months of treatment. The results from the other ﬁve
+DUS scans did not result in any intervention by the
+time of the report.46,47 Stenosis is the principal cause
+of graft thrombosis, and the SVS guidelines for surveillance after arterial procedures are relevant to PAA
+repair, with the recommendation for DUS surveillance
+at 3, 6, and 12 months in the ﬁrst year and then annually,
+coupled with a physical examination.45 In addition, the
+surveillance of the residual aneurysm sac for enlargement is important, because an “endoleak” from genicular branches can result in sac enlargement after OPAR
+or EPAR.48 An expanding PAA after treatment has
+been documented to be at risk of rupture.62-65 Thus, evidence of residual aneurysm sac enlargement should
+encourage serial follow-up examinations and consideration of intervention to prevent potential aneurysm
+compression symptoms and/or rupture with clinical
+sequelae, including limb loss. Postprocedural use of
+atherosclerotic risk factor modiﬁcation, smoking cessation, and pharmacotherapy with statins and antiplatelet
+agents should be continued, although data regarding
+these treatments have stemmed from management
+of PAD rather than PAAs.27 No meaningful data are
+available regarding anticoagulation therapy after endovascular repair of PAAs, because most studies have not
+reported speciﬁc postoperative medical therapy. Those
+that have reported it used antiplatelet therapy. It is
+reasonable to use anticoagulation therapy instead of
+antiplatelet therapy, extrapolating from the favorable
+data for prosthetic graft patency with anticoagulation
+therapy. However, a large analysis of meta-analyses
+and randomized controlled trials concluded that the
+best prophylaxis for vein bypass is anticoagulant therapy and, for prosthetic grafts, dual antiplatelet therapy.66-68
+Recommendation 7: We suggest that patients with an
+asymptomatic PAA who are not offered repair should
+be monitored annually for changes in symptoms, pulse
+examination, extent of thrombus, patency of the
+outﬂow arteries, and aneurysm diameter (grade 2C).
+Patients with PAAs require a rigorous surveillance protocol with DUS because the risk of complications increases with time.49,50 Dawson et al20 observed in a set
+
+Journal of Vascular Surgery
+
+Farber et al
+
+119S
+
+Volume 75, Number 1S
+
+of 42 patients with asymptomatic PAAs that 24% had
+developed complications within 1 year and 68% had
+developed complications within 5 years. In another
+report, Dawson et al1 reported complications had
+occurred at a mean 18 months, and the amputation
+rate for patients with complications was 25%. Even
+aneurysms <20 mm in diameter have been shown to
+cause complications, as shown by Ascher et al.30 PAAs,
+like most aneurysms, can result in complications that
+result in limb loss if a high index of suspicion is not
+used with serial surveillance.
+Independent peer review and oversight has been provided by members of the Society for Vascular Surgery
+Document Oversight Committee (Ruth Bush, chair, Marc
+Schermerhorn, vice-chair, Keith Calligaro, Yazan Duwayri,
+Raul Guzman, Gregory Landry, Mahmoud Malas, Katherine McGinigle, J. Sheppard Mondy, John Rectenwald, William Robinson, Britt Tonnessen, and Greg Westin).
+
+AUTHOR CONTRIBUTIONS
+Conception and design: AF
+Analysis and interpretation: AF, NA, EA, LD, ME, PG, MH,
+JJ, EK, RP, JS, MM
+Data collection: Not applicable
+Writing the article: AF, NA, EA, LD, ME, PG, MH, JJ, EK, RP,
+JS
+Critical revision of the article: AF, NA, EA, LD, ME, PG, MH,
+JJ, EK, RP, JS, MM
+Final approval of the article: AF, NA, EA, LD, ME, PG, MH,
+JJ, EK, RP, JS, MM
+Statistical analysis: Not applicable
+Obtained funding: Not applicable
+Overall responsibility: AF
+
+REFERENCES
+1. Dawson I, Sie RB, van Bockel JH. Atherosclerotic popliteal aneurysm.
+Br J Surg 1997;84:293-9.
+2. Tsilimparis N, Dayama A, Ricotta JJ II. Open and endovascular repair
+of popliteal artery aneurysms: tabular review of the literature. Ann
+Vasc Surg 2013;27:259-65.
+3. Whitehouse WM Jr, Wakeﬁeld TW, Graham LM, Kazmers A,
+Zelenock GB, Cronenwett JL, et al. Limb-threatening potential of
+arteriosclerotic popliteal artery aneurysms. Surgery 1983;93:694-9.
+4. Valentine RJ, Wind GG. Popliteal artery. In: Anatomic Exposures in
+Vascular Surgery. Philadelphia PA: Lippincott Williams & Wilkins;
+2003. p. 433-66.
+5. Wolf YG, Kobzantsev Z, Zelmanovich L. Size of normal and aneurysmal popliteal arteries: a duplex ultrasound study. J Vasc Surg
+2006;43:488-92.
+6. Sandgren T, Sonesson B, Ahlgren AR, Lanne T. Factors predicting the
+diameter of the popliteal artery in healthy humans. J Vasc Surg
+1998;28:284-9.
+7. Johnston KW, Rutherford RB, Tilson MD, Shah DM, Hollier L,
+Stanley JC. Suggested standards for reporting on arterial aneurysms.
+Subcommittee on Reporting Standards for Arterial Aneurysms, Ad
+Hoc Committee on Reporting Standards, Society for Vascular Surgery and North American Chapter, International Society for Cardiovascular Surgery. J Vasc Surg 1991;13:452-8.
+8. Macchi C, Gulisano M, Giannelli F, Catini C, Pacini P, Brizzi E. The
+calibers of the common femoral, popliteal, and posterior tibialis arteries: a statistical investigation in 100 healthy subjects by color
+Doppler ultrasonography. Ital J Anat Embryol 1994;99:157-69.
+
+9. Szilagyi DE, Schwartz RL, Reddy DJ. Popliteal arterial aneurysms: their natural history and management. Arch Surg
+1981;116:724-8.
+10. Trickett JP, Scott RA, Tilney HS. Screening and management of
+asymptomatic popliteal aneurysms. J Med Screen 2002;9:92-3.
+11. Hamish M, Lockwood A, Cosgrove C, Walker AJ, Wilkins D, Ashley S.
+Management of popliteal artery aneurysms. ANZ J Surg 2006;76:912-5.
+12. Magee R, Quigley F, McCann M, Buttner P, Golledge J. Growth and
+risk factors for expansion of dilated popliteal arteries. Eur J Vasc
+Endovasc Surg 2010;39:606-11.
+13. Pittathankal AA, Dattani R, Magee TR, Galland RB. Expansion rates of
+asymptomatic popliteal artery aneurysms. Eur J Vasc Endovasc Surg
+2004;27:382-4.
+14. Stiegler H, Mendler G, Baumann G. Prospective study of 36 patients
+with 46 popliteal artery aneurysms with non-surgical treatment. Vasa
+2002;31:43-6.
+15. Vermilion BD, Kimmins SA, Pace WG, Evans WE. A review of one
+hundred forty-seven popliteal aneurysms with long-term follow-up.
+Surgery 1981;90:1009-14.
+16. Cousins RS, Dexter DJ, Ahanchi SS, Cain BC, Powell OM,
+Ongstad SB, et al. Determining patient risk factors associated with
+accelerated growth of popliteal artery aneurysms. J Vasc Surg
+2018;67:838-47.
+17. Lowell RC, Gloviczki P, Hallett JW Jr, Naessens JM, Maus TP,
+Cherry KJ Jr, et al. Popliteal artery aneurysms: the risk of nonoperative management. Ann Vasc Surg 1994;8:14-23.
+18. Vrijenhoek JE, Mackaay AJ, Moll FL. Small popliteal artery aneurysms:
+important clinical consequences and contralateral survey in daily
+vascular surgery practice. Ann Vasc Surg 2013;27:454-8.
+19. Cross JE, Galland RB, Hingorani A, Ascher E. Nonoperative versus
+surgical management of small (less than 3 cm), asymptomatic
+popliteal artery aneurysms. J Vasc Surg 2011;53:1145-8.
+20. Dawson I, Sie R, van Baalen JM, van Bockel JH. Asymptomatic
+popliteal aneurysm: elective operation versus conservative follow-up.
+Br J Surg 1994;81:1504-7.
+21. Dzieciuchowicz L, Lukaszuk M, Figiel J, Klimczak K, Krasinski Z,
+Majewski W. Factors inﬂuencing the clinical course of popliteal artery
+aneurysm. Med Sci Monit 2009;15:CR231-5.
+22. Martelli E, Ippoliti A, Ventoruzzo G, De Vivo G, Ascoli Marchetti A,
+Pistolese GR. Popliteal artery aneurysms: factors associated with
+thromboembolism and graft failure. Int Angiol 2004;23:54-65.
+23. Kropman RH, Schrijver AM, Kelder JC, Moll FL, de Vries JP. Clinical
+outcome of acute leg ischaemia due to thrombosed popliteal artery
+aneurysm: systematic review of 895 cases. Eur J Vasc Endovasc Surg
+2010;39:452-7.
+24. Diwan A, Sarkar R, Stanley JC, Zelenock GB, Wakeﬁeld TW. Incidence
+of femoral and popliteal artery aneurysms in patients with abdominal aortic aneurysms. J Vasc Surg 2000;31:863-9.
+25. MacGowan SW, Saif MF, O’Neill G, Fitzsimons P, Bouchier-Hayes D.
+Ultrasound examination in the diagnosis of popliteal artery aneurysms. Br J Surg 1985;72:528-9.
+26. Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA,
+Mansour MA, et al. The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm.
+J Vasc Surg 2018;67:2-77.e2.
+27. Gerhard-Herman MD, Gornik HL, Barrett C, Barshes NR, Corriere MA,
+Drachman DE, et al. 2016 AHA/ACC guideline on the management of
+patients with lower extremity peripheral artery disease: executive
+summary: a report of the American College of Cardiology/American
+Heart Association task force on clinical practice guidelines. Circulation 2017;135:e686-725.
+28. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for Vascular
+Surgery including the experience with the GRADE framework. J Vasc
+Surg 2011;53:1375-80.
+29. Galland RB, Magee TR. Popliteal aneurysms: distortion and size
+related to symptoms. Eur J Vasc Endovasc Surg 2005;30:534-8.
+30. Ascher E, Markevich N, Schutzer RW, Kallakuri S, Jacob T,
+Hingorani AP. Small popliteal artery aneurysms: are they clinically
+signiﬁcant? J Vasc Surg 2003;37:755-60.
+31. Garg K, Rockman CB, Kim BJ, Jacobowitz GR, Maldonado TS,
+Adelman MA, et al. Outcome of endovascular repair of popliteal artery aneurysm using the Viabahn endoprosthesis. J Vasc Surg
+2012;55:1647-53.
+
+120S
+
+Farber et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+32. Serrano Hernando FJ, Martinez Lopez I, Hernandez Mateo MM,
+Hernando Rydings M, Sanchez Hervas L, Rial Horcajo R, et al. Comparison of popliteal artery aneurysm therapies. J Vasc Surg 2015;61:
+655-61.
+33. Beuschel B, Nayfeh T, Kunbaz A, Haddad A, Alzuabi M, Vindhyal S,
+et al. A systematic review and meta-analysis of treatment and natural history of popliteal artery aneurysms. J Vasc Surg, https://doi.
+org/10.1016/j.jvs.2021.05.0232021. Accessed March 1, 2021.
+34. Eslami MH, Rybin D, Doros G, Farber A. Open repair of asymptomatic
+popliteal artery aneurysm is associated with better outcomes than
+endovascular repair. J Vasc Surg 2015;61:663-9.
+35. Galinanes EL, Dombrovskiy VY, Graham AM, Vogel TR. Endovascular
+versus open repair of popliteal artery aneurysms: outcomes in the US
+Medicare population. Vasc Endovasc Surg 2013;47:267-73.
+36. Pulli R, Dorigo W, Fargion A, Pratesi G, Innocenti AA, Angiletta D, et al.
+Comparison of early and midterm results of open and endovascular
+treatment of popliteal artery aneurysms. Ann Vasc Surg 2012;26:
+809-18.
+37. Pulli R, Dorigo W, Castelli P, Dorrucci V, Ferilli F, De Blasis G, et al.
+A multicentric experience with open surgical repair and endovascular exclusion of popliteal artery aneurysms. Eur J Vasc Endovasc
+Surg 2013;45:357-63.
+38. Leake AE, Segal MA, Chaer RA, Eslami MH, Al-Khoury G,
+Makaroun MS, et al. Meta-analysis of open and endovascular repair of
+popliteal artery aneurysms. J Vasc Surg 2017;65:246-56.e2.
+39. Antonello M, Frigatti P, Battocchio P, Lepidi S, Cognolato D,
+Dall’Antonia A, et al. Open repair versus endovascular treatment for
+asymptomatic popliteal artery aneurysm: results of a prospective
+randomized study. J Vasc Surg 2005;42:185-93.
+40. Marty B, Wicky S, Ris HB, Mueller X, Fischer A, Hayoz D, et al. Success
+of thrombolysis as a predictor of outcome in acute thrombosis of
+popliteal aneurysms. J Vasc Surg 2002;35:487-93.
+41. Pulli R, Dorigo W, Troisi N, Innocenti AA, Pratesi G, Azas L, et al. Surgical management of popliteal artery aneurysms: which factors
+affect outcomes? J Vasc Surg 2006;43:481-7.
+42. Dorigo W, Pulli R, Turini F, Pratesi G, Credi G, Innocenti AA, et al.
+Acute leg ischaemia from thrombosed popliteal artery aneurysms:
+role of preoperative thrombolysis. Eur J Vasc Endovasc Surg 2002;23:
+251-4.
+43. Dorigo W, Fargion A, Masciello F, Piffaretti G, Pratesi G, Giacomelli E,
+et al. A matched case-control study on open and endovascular
+treatment of popliteal artery aneurysms. Scand J Surg 2018;107:
+236-43.
+44. Huang Y, Gloviczki P, Noel AA, Sullivan TM, Kalra M, Gullerud RE, et al.
+Early complications and long-term outcome after open surgical
+treatment of popliteal artery aneurysms: is exclusion with saphenous
+vein bypass still the gold standard? J Vasc Surg 2007;45:706-13; discussion: 713-5.
+45. Zierler RE, Jordan WD, Lal BK, Mussa F, Leers S, Fulton J, et al. The
+Society for Vascular Surgery practice guidelines on follow-up after
+vascular surgery arterial procedures. J Vasc Surg 2018;68:256-84.
+46. Stone PA, Armstrong PA, Bandyk DF, Keeling WB, Flaherty SK,
+Shames ML, et al. The value of duplex surveillance after open and
+endovascular popliteal aneurysm repair. J Vasc Surg 2005;41:936-41.
+47. Piazza M, Menegolo M, Ferrari A, Bonvini S, Ricotta JJ, Frigatti P, et al.
+Long-term outcomes and sac volume shrinkage after endovascular
+popliteal artery aneurysm repair. Eur J Vasc Endovasc Surg 2014;48:
+161-8.
+48. Davies RS, Wall M, Rai S, Simms MH, Vohra RK, Bradbury AW, et al.
+Long-term results of surgical repair of popliteal artery aneurysm. Eur
+J Vasc Endovasc Surg 2007;34:714-8.
+49. Schröder A, Gohlke J, Gross-Fengels W, Horstmann R. [Popliteal
+aneurysmsdsurgical management versus conservative procedure].
+Langenbecks Arch Chir Suppl Kongressbd 1996;113:857-63.
+
+50. Farina C, Cavallaro A, Schultz RD, Feldhaus RJ, di Marzo L. Popliteal
+aneurysms. Surg Gynecol Obstet 1989;169:7-13.
+51. Winterborn RJ, Amin I, Lyratzopoulos G, Walker N, Varty K,
+Campbell WB. Preferences for endovascular (EVAR) or open surgical
+repair among patients with abdominal aortic aneurysms under
+surveillance. J Vasc Surg 2009;49:576-81.e3.
+52. Hogendoorn W, Schlosser FJ, Moll FL, Muhs BE, Hunink MG,
+Sumpio BE. Decision analysis model of open repair versus endovascular treatment in patients with asymptomatic popliteal artery aneurysms. J Vasc Surg 2014;59:651-62.
+53. Lawrence PF, Lorenzo-Rivero S, Lyon JL. The incidence of iliac,
+femoral, and popliteal artery aneurysms in hospitalized patients.
+J Vasc Surg 1995;22:409-15; discussion: 415-6.
+54. Claridge M, Hobbs S, Quick C, Adam D, Bradbury A, Wilmink T.
+Screening for popliteal aneurysms should not be a routine part of a
+community-based aneurysm screening program. Vasc Health Risk
+Manag 2006;2:189-91.
+55. Sandgren T, Sonesson B, Ryden A, Länne T. Arterial dimensions in the
+lower extremities of patients with abdominal aortic aneurysmsdno indications of a generalized dilating diathesis. J Vasc Surg 2001;34:1079-84.
+56. Tuveson V, Löfdahl HE, Hultgren R. Patients with abdominal aortic
+aneurysm have a high prevalence of popliteal artery aneurysms. Vasc
+Med 2016;21:369-75.
+57. Morris-Stiff G, Haynes M, Ogunbiyi S, Townsend E, Shetty S,
+Winter RK, et al. Is assessment of popliteal artery diameter in patients undergoing screening for abdominal aortic aneurysms a
+worthwhile procedure. Eur J Vasc Endovasc Surg 2005;30:71-4.
+58. Moreira CC, Leung AD, Farber A, Rybin D, Doros G, Siracuse JJ, et al.
+Alternative conduit for infrageniculate bypass in patients with critical
+limb ischemia. J Vasc Surg 2016;64:131-9.e1.
+59. Avgerinos ED, Sachdev U, Naddaf A, Doucet DR, Mohapatra A,
+Leers SA, et al. Autologous alternative veins may not provide better
+outcomes than prosthetic conduits for below-knee bypass when
+great saphenous vein is unavailable. J Vasc Surg 2015;62:385-91.
+60. Beseth BD, Moore WS. The posterior approach for repair of popliteal
+artery aneurysms. J Vasc Surg 2006;43:940-4; discussion: 944-5.
+61. Zaghloul MS, Andraska EA, Leake A, Chaer R, Avgerinos ED, Hager ES,
+et al. Poor runoff and distal coverage below the knee are associated
+with poor long-term outcomes following endovascular popliteal
+aneurysm repair. J Vasc Surg, https://doi.org/10.1016/j.jvs.2020.12.062.
+Accessed March 1, 2021.
+62. Mousa A, Faries PL, Bernheim J, Dayal R, DeRubertis B, Hollenbeck S,
+et al. Rupture of excluded popliteal artery aneurysm: implications for
+type II endoleaksda case report. Vasc Endovasc Surg 2004;38:575-8.
+63. Kirkpatrick UJ, McWilliams RG, Martin J, Brennan JA, GillingSmith GL, Harris PL. Late complications after ligation and bypass for
+popliteal aneurysm. Br J Surg 2004;91:174-7.
+64. Bush RL, Bianco CC, Lin PH, Lumsden AB. Endovascular treatment of
+an endoleak causing rupture of a previously bypassed popliteal
+aneurysm: a case report. Vasc Endovasc Surg 2004;38:257-61.
+65. Battey PM, Skardasis GM, McKinnon WM. Rupture of a previously
+bypassed popliteal aneurysm: a case report. J Vasc Surg 1987;5:874-5.
+66. Ambler GK, Twine CP. Graft type for femoro-popliteal bypass surgery.
+Cochrane Database Syst Rev 2018;2:CD001487.
+67. Ullery BW, Tran K, Itoga N, Casey K, Dalman RL, Lee JT. Safety and
+efﬁcacy of antiplatelet/anticoagulation regimens after Viabahn stent
+graft treatment for femoropopliteal occlusive disease. J Vasc Surg
+2015;61:1479-88.
+68. Zavgorodnyaya D, Knight TB, Daley MJ, Teixeira PG. Antithrombotic
+therapy for postinterventional management of peripheral arterial
+disease. Am J Health Syst Pharm 2020;77:269-76.
+
+Submitted Apr 2, 2021; accepted Apr 3, 2021.
+
+

@@ -1,0 +1,1294 @@
+SOCIETY FOR VASCULAR SURGERYÒ DOCUMENT
+Compression therapy after invasive treatment of
+superﬁcial veins of the lower extremities: Clinical
+practice guidelines of the American Venous Forum,
+Society for Vascular Surgery, American College of
+Phlebology, Society for Vascular Medicine, and
+International Union of Phlebology
+Fedor Lurie, MD, PhD,a,b Brajesh K. Lal, MD,c Pier Luigi Antignani, MD,d John Blebea, MD, MBA,e
+Ruth Bush, MD, JD, MPH,f Joseph Caprini, MD,g Alun Davies, MD,h Mark Forrestal, MD,i
+Glenn Jacobowitz, MD,j Evi Kalodiki, MD,k Lois Killewich, MD,l Joann Lohr, MD,m Harry Ma, MD,n
+Giovanni Mosti, MD,o Hugo Partsch, MD,p Thom Rooke, MD,q and Thomas Wakeﬁeld, MD,b Toledo and
+Cincinnati, Ohio; Ann Arbor and Saginaw, Mich; Baltimore, Md; Rome and Lucca, Italy; Houston and Galveston, Tex;
+Chicago and Arlington Heights, Ill; London, United Kingdom; New York, NY; New London, Conn; Vienna, Austria; and
+Rochester Minn
+
+SUMMARY
+Guideline 1.1: Compression after thermal ablation or stripping of the saphenous veins.
+When possible, we suggest compression (elastic stockings or wraps) should be used after surgical or thermal
+procedures to eliminate varicose veins. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 1.2: Dose of compression after thermal ablation or stripping of the varicose veins.
+If compression dressings are to be used postprocedurally in patients undergoing ablation or surgical procedures on
+the saphenous veins, those providing pressures >20 mm Hg together with eccentric pads placed directly over the vein
+ablated or operated on provide the greatest reduction in postoperative pain. [GRADE - 2; LEVEL OF EVIDENCE - B]
+Guideline 2.1: Duration of compression therapy after thermal ablation or stripping of the saphenous veins.
+In the absence of convincing evidence, we recommend best clinical judgment to determine the duration of
+compression therapy after treatment. [BEST PRACTICE]
+Guideline 3.1: Compression therapy after sclerotherapy.
+We suggest compression therapy immediately after treatment of superﬁcial veins with sclerotherapy to improve
+outcomes of sclerotherapy. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 3.2: Duration of compression therapy after sclerotherapy.
+In the absence of convincing evidence, we recommend best clinical judgment to determine the duration of
+compression therapy after sclerotherapy. [BEST PRACTICE]
+Guideline 4.1: Compression after superﬁcial vein treatment in patients with a venous leg ulcer.
+In a patient with a venous leg ulcer, we recommend compression therapy over no compression therapy to increase
+venous leg ulcer healing rate and to decrease the risk of ulcer recurrence. [GRADE - 1; LEVEL OF EVIDENCE - B]
+Guideline 4.2: Compression after superﬁcial vein treatment in patients with a mixed arterial and venous leg ulcer.
+In a patient with a venous leg ulcer and underlying arterial disease, we suggest limiting the use of compression to
+patients with ankle-brachial index exceeding 0.5 or if absolute ankle pressure is >60 mm Hg. [GRADE - 2; LEVEL OF
+EVIDENCE - C] (J Vasc Surg: Venous and Lym Dis 2019;7:17-28.)
+
+From the Jobst Vascular Institute of Promedica, Toledoa; the University of
+
+Author conﬂict of interest: none.
+
+Michigan, Ann Arborb; the University of Maryland School of Medicine and
+
+Correspondence: Fedor Lurie, MD, PhD, ProMedica, Jobst Vascular Institute,
+
+Baltimore VA Medical Center, Baltimorec; the Vascular Centre, Nuova Villa
+
+2109 Hughes Dr, Ste 400, Toledo, OH 43606 (e-mail: fedor.lurie@promedica.
+
+Claudia, Romed; the Central Michigan University, College of Medicine, Sagi-
+
+org).
+
+nawe; the University of Houston College of Medicine, Houstonf; the North-
+
+Independent peer-review and oversight has been provided by members of the
+
+shore University Healthcare System, Chicagog; the Imperial College School
+
+SVS Document Oversight Committee: Thomas L. Forbes, MD (Chair), Ali
+
+of Medicine, Londonh; the NCH Medical Group, Arlington Heightsi; the New
+
+AbuRahma, MD, Kwame Anankwah, MD, Neal Barshes, MD, Ronald L. Dal-
+
+York University, School of Medicine, New Yorkj; the Imperial College London,
+
+man, MD, Hans Henning Eckstein, MD, Anil Hingorani, MD, Eva Rzucidlo,
+
+Londonk; The University of Texas Medical Branch, Galvestonl; the Lohr Surgical
+Specialists, Cincinnatim; The Vascular Experts, New Londonn; the Clinica MD
+
+MD, Marc Schermerhorn, MD.
+2213-333X
+
+Barantini, Luccao; the Medical University of Vienna, Viennap; and the Mayo
+
+Copyright Ó 2018 by the Society for Vascular Surgery. Published by Elsevier Inc.
+
+Clinic, Rochester.q
+
+https://doi.org/10.1016/j.jvsv.2018.10.002
+
+17
+
+18
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+RATIONALE FOR GUIDELINES
+The current practice of using compression therapy after
+invasive treatment of superﬁcial veins is based on the
+clinical experience of generations of practitioners who
+used this modality after surgical stripping of saphenous
+veins, stab phlebectomies, and sclerotherapy. In the
+case of sclerotherapy, such practice is based on experimental evidence.1 For other modalities, especially for
+thermal ablation of saphenous veins, the evidence has
+not been organized into a uniﬁed set of recommendations, making current clinical practice highly variable.
+The Guidelines Committee of the American Venous
+Forum (AVF) tasked this writing group to review available
+evidence and to recommend practice guidelines.
+
+METHODOLOGY
+Previously described methodology used by the AVF
+and Society for Vascular Surgery (SVS) Joint Clinical
+Practice Guidelines Committee was used.2
+
+The Compression Guidelines writing group was
+appointed by the AVF Guidelines Committee. Representatives from the SVS, Society of Vascular Medicine,
+American College of Phlebology, and International Union
+of Phlebology were invited and included in the writing
+group. The literature search (MEDLINE, Embase,
+Cochrane Library, Scopus, Google Scholar, Ovid) included
+the terms “lower extremity veins,” “compression stockings,” “compression bandages,” “compression,” “compression therapy,” “sclerotherapy,” “vein surgery,” “high
+ligation,” “stripping,” “stab phlebectomies,” and “vein ablation.” The entire list was reviewed by the group, and publications that were found to be relevant were selected for
+preliminary review. This preliminary list was circulated
+among the writing group members with relevant
+expertise to identify any further relevant peer-reviewed
+publications. Each publication included in the ﬁnal list
+was reviewed and graded independently by three
+writing group members.
+
+Table. Grading of Recommendations Assessment, Development, and Evaluation (GRADE) recommendations based on
+level of evidence
+Grade
+
+Description of
+recommendation
+
+Beneﬁt vs risk
+
+Methodologic quality of
+supporting evidence
+
+Implications
+Strong recommendation,
+can apply to most patients
+in most circumstances
+without reservation
+
+1A
+
+Strong recommendation,
+high-quality evidence
+
+Beneﬁts clearly outweigh
+risk and burdens, or vice
+versa
+
+RCTs without important
+limitations or
+overwhelming evidence
+from observational studies
+
+1B
+
+Strong recommendation,
+moderate quality
+evidence
+
+Beneﬁts clearly outweigh
+risk and burdens, or vice
+versa
+
+Strong recommendation,
+RCTs with important
+can apply to most patients
+limitations (inconsistent
+in most circumstances
+results, methodologic
+without reservation
+ﬂaws, indirect, or
+imprecise) or exceptionally
+strong evidence from
+observational studies
+
+1C
+
+Strong recommendation,
+low-quality or very
+low-quality evidence
+
+Beneﬁts clearly outweigh
+risk and burdens, or vice
+versa
+
+Observational studies
+or case series
+
+2A
+
+Weak recommendation,
+high-quality evidence
+
+Beneﬁts closely balanced
+with risks and burdens
+
+RCTs without important
+Weak recommendation,
+limitations or overwhelming
+best action may differ
+evidence from observational
+depending on
+studies
+circumstances or patients’
+or societal values
+
+2B
+
+Weak recommendation,
+moderate-quality
+evidence
+
+Beneﬁts closely balanced
+with risks and burdens
+
+Weak recommendation,
+RCTs with important
+best action may differ
+limitations (inconsistent
+depending on
+results, methodologic
+circumstances or patients’
+ﬂaws, indirect, or
+or societal values
+imprecise) or exceptionally
+strong evidence from
+observational studies
+
+2C
+
+Weak recommendation,
+low-quality or very
+low-quality evidence
+
+Uncertainty in the estimates
+of beneﬁts and risk, and
+burdens; risk, beneﬁt, and
+burdens may be closely
+balanced
+
+Observational studies
+or case series
+
+Strong recommendation
+but may change when
+higher quality evidence
+becomes available
+
+Very weak recommendations;
+other alternatives may be
+reasonable
+
+RCTs, Randomized controlled trials.
+Adapted from Guyatt G, Gutterman D, Baumann MH, Addrizzo-Harris D, Hylek EM, Phillips B, et al. Grading strength of recommendations and quality
+of evidence in clinical guidelines: report from an American College of Chest Physicians task force. Chest 2006;129:174-81.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Lurie et al
+
+19
+
+Volume 7, Number 1
+
+The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system (Table) was
+used throughout the entire process of review and synthesis.2,3 The quality of evidence was rated high when
+additional research was considered very unlikely to
+change conﬁdence in the estimate of effect; moderate
+when further research was likely to have an important
+impact on the estimate of effect; or low when further
+research was very likely to change the estimate of the
+effect. When the beneﬁts of an intervention outweighed
+its risks, a strong recommendation was noted. However,
+if beneﬁts and risks were less certain, either because of
+low-quality evidence or because high-quality evidence
+suggested that beneﬁts and risks were closely balanced,
+a weak recommendation was recorded. Guideline developers used the terms “we recommend” to denote strong
+recommendations, whereas for weak recommendations,
+they used the less deﬁnitive wording “we suggest.”
+Following the methodology of previous AVF Guidelines,
+when evidence was lacking or there were no comparable
+alternatives to a recommendation, the recommendation
+was labeled [BEST PRACTICE]. These grades were
+reviewed and approved by the entire writing group and
+served as the basis for grading of the recommendations.
+The entire Guidelines Committee has reviewed and
+approved the ﬁnal document.
+
+The main advantage of this type of bandage is that it
+provides even higher sub-bandage pressures in the
+upright body position and when the patient is walking,
+whereas the pressure is tolerably low during rest.7 The
+effects of the intermittent pressure peaks during
+walking are comparable to those of intermittent
+pneumatic compression pumps, for which there is
+more evidence concerning hemodynamic efﬁcacy published than for bandages.5 The main disadvantage of
+such bandages is that there is a risk of applying them
+too loosely or that the pressure starts to drop immediately after application because of edema removal, after
+which the bandage falls loose.
+Compression stockings are the most popular form of
+compression devices. To facilitate self-donning by the
+patient over the heels, they must be adequately elastic.
+Their main disadvantage is that they produce less pressure increases compared with compression bandages
+when standing up and when walking.7 They are therefore less effective with respect to their hemodynamic
+effects. However, compression stockings have been
+shown to be effective in reducing edema and pain vs
+no stockings8,9 and seem to have anti-inﬂammatory
+properties.10
+
+GENERAL CONSIDERATIONS FOR COMPRESSION
+THERAPY
+
+A major goal of compression after procedures on superﬁcial veins is to maintain occlusion of the treated vein to
+prevent bruising and recanalization, as shown in an
+animal model.11 To achieve this goal, the external pressure should exceed the intravenous pressure. The intravenous pressure depends mainly on the body position,
+corresponding to the height of the blood column between the point of measurement and the right side of
+the heart. The pressure in leg veins is very low when
+patients are lying horizontal. In this position, magnetic
+resonance imaging has conﬁrmed that a compression
+pressure of <10 mm Hg can narrow the great saphenous
+vein (GSV).
+Much higher pressures are needed to narrow veins of
+the lower extremity when patients are in the sitting or
+standing position. Observations using duplex ultrasound
+and magnetic resonance imaging conﬁrm that in the
+standing position, a compression pressure of >50 mm
+Hg on the lower leg and of >30 to 40 mm Hg at thigh
+level is required to occlude a vein. Using inelastic
+compression material applied by expert hands, such
+pressures are well tolerated and effective. This is the
+most likely reason that recent studies comparing
+different compression devices have recommended starting with compression bandages during the initial few
+days after the procedure, with the goal of compressing
+the recently treated veins. A limitation of these reports
+is that the pressure of effective compression in these recommendations has not been reported.
+
+Presently, ﬁve categories of compression therapy of the
+extremities are available: compression bandages,
+compression stockings, self-adjustable Velcro devices,
+compression pumps, and hybrid devices. Compression
+bandages and compression stockings are most
+commonly used for short-term application after varicose
+vein interventions.
+Compression bandages are available in a wide spectrum of materials and weaves with different elastic
+properties.4 Training for proper application is essential.4
+To make bandaging easier, safer, and more effective,
+most modern bandages combine different material
+components. Because of friction between these components and the use of adhesive surfaces, multicomponent bandages provide nonyielding cuffs of high
+stiffness around the leg, even when their individual
+components are elastic. This stiffness of elastic textiles
+results in an increase of sub-bandage pressure when patients stand up or when they walk.5 Examples are
+“multilayer bandages” like Profore (Smith & Nephew,
+Memphis, Tenn), Comprifore (Jobst, Charlotte, NC), and
+Coban 2 (3M, St. Paul, Minn) as a “two-layer” version. In
+fact, every bandage is composed of more than one layer
+and therefore the term multilayer bandage is
+misleading. Such multicomponent bandages should
+be applied with a pressure of approximately 50 mm
+Hg on the lower leg and >30 mm Hg on the thigh.6
+
+DOSE OF COMPRESSION AND COMPRESSION
+PROFILE
+
+20
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+By using specially formed pads, such pressures can be
+achieved locally over the treated vein, even when using
+compression stockings. This is due to the artiﬁcial reduction of the local leg radius (law of Laplace). The compression could be eccentric,12,13 eccentric and concentric,14 or
+tangential.15,16
+The concept that compression needs to be graduated,
+providing a pressure decrease from distal to proximal,
+seems to be less important after vein procedures in mobile patients. Even a foot-sparing compression bandage
+may be considered, which promotes ankle mobility
+and walking, preventing edema in the noncompressed
+parts.17
+
+COMPLIANCE
+One major problem with compression therapy is poor
+adherence by the patient, especially when long-term
+management is planned.18 The main complaints reported by patients are difﬁculties during the process of
+donning (pulling up) and dofﬁng (removing) compression stockings, problems with slipping of ﬁxed bandages
+down the leg, and concerns with hygiene because these
+must be worn for prolonged periods. The pain relief and
+other beneﬁts experienced by patients when the devices
+accomplish proper compression is the best argument for
+improved compliance.
+
+1. COMPRESSION VS NO COMPRESSION AFTER
+THERMAL ABLATION OR STRIPPING OF THE
+SAPHENOUS VEINS
+Guideline 1.1: Compression after thermal ablation or
+stripping of the saphenous veins.
+When possible, compression (elastic stockings or wraps)
+should be used after surgical or thermal procedures to
+eliminate varicose veins. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 1.2: Dose of compression after thermal ablation or
+stripping of the saphenous veins.
+If compression dressings are to be used postprocedurally in
+patients undergoing ablation or surgical procedures on
+the saphenous veins, those providing pressures >20 mm
+Hg together with eccentric pads placed directly over the
+vein ablated or operated on provide the greatest
+reduction in postoperative pain. [GRADE - 2; LEVEL OF
+EVIDENCE - B]
+
+A total of 13 relevant publications were identiﬁed,12,13,19-29
+of which 1 was a systematic review19 and 2 were guidelines
+produced by other groups.20,21 The remaining 10 manuscripts included 9 randomized controlled trials
+(RCTs)12,13,22-27,29 and one case-control study.28
+Neither the RCTs12,13,22-27,29 nor the case-control
+study28 included a group of patients that did not
+receive compression therapy. Most practitioners
+routinely recommend compression therapy after surgical or thermal ablation of varicose veins, with the tacit
+assumption that patients will derive beneﬁt from
+
+compression. In the published studies, investigators
+did not test whether compression was beneﬁcial and
+only tested different levels of compression that should
+be maintained after a procedure. Similar ﬁndings are
+evident in the two previously published guidelines.
+The guidelines of the European Society for Vascular
+Surgery20 made the following recommendation: “Postprocedural compression is recommended after superﬁcial venous surgery, endovenous truncal ablation, and
+sclerotherapy [Class I, Level A].” The National Institute
+for Health and Care Excellence guidelines21 stated: “As
+there was no convincing evidence for using or not using
+compression therapy the GDG [Guideline Development
+Group] felt they could not make a recommendation
+not to use stockings at all post intervention and the
+consensus was that in their clinical experience some
+people post-surgery did feel beneﬁt from wearing
+stockings. However, the GDG, taking into account the
+cost of compression therapy, felt they could not recommend its long term use.” Their recommendation was,
+“If offering compression bandaging or hosiery for use
+after interventional treatment, do not use for more
+than 7 days.”21
+Based on these ﬁndings, any extrapolation of the available data in an attempt to answer the primary question
+must be considered speculative. However, it would also
+be imprudent to recommend against the use of
+compression after saphenous ablation or stripping.
+Taking the evidence as a whole, one might conclude
+that some compression is better than none. The recommendation of this committee is as follows: When
+possible, compression (elastic stockings or wraps) should
+be used after surgical or thermal procedures to eliminate
+varicose veins. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Five studies addressed the dosage and modality of
+compression after saphenous vein ligation/stripping or
+thermal ablation.12,13,23,25,28 Four of these, representing a
+total of 237 patients, compared outcomes associated
+with different compression modalities and doses after
+various types of saphenous vein surgery.13,23,25,28 The ﬁfth
+study compared outcomes using different compression
+modalities after endovenous ablation in 200 patients.12
+Four were randomized trials,12,13,23,25 whereas one was a
+case-control study.28 In one of the randomized trials,
+the authors clearly stated that treatment was blinded25;
+in the others, this was not speciﬁed.
+Compression was achieved using a variety of stockings
+of different strengths, wraps, and “eccentric” foam pads
+or “bulk dressings,” placed directly over the treated
+saphenous vein sites. The compression pressures of the
+different modalities were reported in three studies,13,25,28
+partially reported in one,12 and not reported in another.23
+Compression pressures ranged from a low of 18 mm Hg
+with a single stocking to a high of almost 100 mm Hg
+with a combination of two stockings and an eccentric
+pad in the standing position.13 Outcomes reported
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Lurie et al
+
+21
+
+Volume 7, Number 1
+
+included postoperative pain at the end of 7 days, edema,
+complications (hematoma, bleeding through the dressings, skin irritation, phlebitis, and deep venous thrombosis [DVT]), and quality of life. Pain was assessed in all
+ﬁve studies, various combinations of complications in
+three,13,25,28 and quality of life in one.28
+The most consistent ﬁnding from these studies was
+that patients treated with higher levels of compression
+reported much less pain at 7 days compared with those
+treated with lower levels of compression. This was
+observed in four of the ﬁve studies.12,13,25,28 In one
+single-center study,25 88 patients undergoing a variety
+of stripping procedures were randomized to low
+(18-21 mm Hg) vs moderate (23-32 mm Hg) compression
+therapy, applied daily (8 hours/d) for 6 weeks. Follow-up
+was obtained at 1 week and 6 weeks. This included a
+questionnaire (nonstandard), clinical examination, ultrasound assessment of edema, and duplex ultrasound
+evaluation for phlebitis. At 1 week, there was less pain,
+tightness, discomfort, and edema in the moderate
+compression group compared with the low compression
+group. At 6 weeks, there were no longer any differences
+in tightness, discomfort, or edema, although a reduction
+in pain was still present. The authors concluded that
+more compression was better than less, particularly
+during the early (1-week) postoperative period.
+Two studies evaluated the beneﬁts of stockings
+together with thigh pads placed “eccentrically” over the
+site of the saphenous vein in patients undergoing
+ligation and stripping.13,28 In a case-control study
+performed in three European centers, 36 patients were
+treated with two compression stockings with a thigh
+pad and 17 with two stockings alone. By postoperative
+day 3, there was signiﬁcantly reduced pain measured
+by a visual analogue scale (VAS) in the group receiving
+both the stockings and the pad compared with the
+group receiving only the stockings (31 vs 19; P ¼ .05).
+The physical domain score of the 12-Item Short Form
+Health Survey quality of life questionnaire also demonstrated better results in the stockings and pad group,
+whereas overall pain was reduced by 49% compared
+with stockings alone. There were no differences in
+adverse events. In the second study investigating the
+use of eccentric pads after saphenous stripping procedures, 54 patients were randomized to three different
+groups: group 1, compression stockings only (23-32 mm
+Hg at ankle); group 2, adhesive bandages (Porelast and
+Panelast; L&R, Rengsdorf, Germany); and group 3,
+compression stockings and an eccentric pad on the
+thigh GSV site. All devices were worn for 7 days. Outcomes included pressures achieved (supine and standing, day 1 and day 7), major adverse events at day 7
+(VAS pain score >6, extensive hematoma, bleeding
+through bandage, superﬁcial venous thrombosis, or
+DVT), minor adverse events by day 7 (VAS score 3-5,
+discomfort, skin irritation, clot in stripping canal), and
+
+duplex ultrasound at day 7. Higher pressures were
+obtained in group 2 vs group 1 and in group 3 vs groups
+1 and 2. There were more major adverse events in group 1
+and more minor events (skin irritation) in group 3. No
+superﬁcial venous thrombosis or DVT occurred in any
+patient. The authors concluded that higher pressures
+were better, although the pad had to be taped in place
+and caused more skin irritation.13
+In a single-center study of patients undergoing endovenous laser ablation of the saphenous vein, 200 subjects
+were randomized to stockings alone (35 mm Hg) vs
+stockings plus “eccentric” compression focused over the
+ablated vein (cotton wool bulk under the stocking to
+provide additional localized compression directly over
+the ablated vein). Patients were assessed at 7 days for
+their level of pain using a VAS pain score (0, no pain;
+10, maximum pain). The results demonstrate a highly
+signiﬁcant reduction in pain at 7 days in patients treated
+with additional bulk (pain score of 1.4 with bulk plus
+stocking vs 4.9 with stocking alone). The authors
+concluded that additional focused eccentric compression directly over the treated vein greatly reduces postablation pain at 7 days.12
+In the ﬁfth study, Bond et al23 investigated the effects of
+three different compression stockings (TED [Cardinal
+Health, Waukegan, Ill], Medi-Tech [Danbury, Conn],
+Panelast) on postoperative pain in 48 patients undergoing ligation and stripping of the GSV. In each patient,
+each leg was randomized to one of the three types of
+stockings. There were no signiﬁcant differences in pain
+scores at 1 week after the procedure, measured using a
+numerical scale, among any of the stockings applied.
+The overall quality of published studies is inadequate
+because of small sample size, lack of blinding, lack of
+randomization, lack of data addressing compression
+strengths, and inconsistent outcomes. However, taken
+together, they suggest that postoperative pain in the ﬁrst
+7 days after saphenous surgery or thermal ablation can
+be reduced with the use of higher compression modalities and eccentric compression.
+
+2. SHORT-TERM COMPRESSION (<2 WEEKS) VS
+LONGER TERM COMPRESSION AFTER THERMAL
+ABLATION
+Guideline 2.1: Duration of compression therapy after
+thermal ablation or stripping of the saphenous veins.
+In the absence of convincing evidence, we recommend best
+clinical judgment to determine the duration of
+compression therapy after treatment. [BEST PRACTICE]
+
+A total of eight relevant publications were identiﬁed21,22,25-27,30-32; one was a guideline,21 four were
+RCTs,22,25-27 and three were nonrandomized observational studies.30-35 None of the included studies was sufﬁciently powered or appropriately designed to deﬁnitively
+
+22
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+address the question of optimal duration of compression
+therapy. Included studies were heterogeneous in regard
+to timing for measured outcomes, modality of vein
+ablation, and modality and dose of compression.
+One study compared 4 hours of leg compression with
+72 hours of leg compression after radiofrequency
+ablation of the GSV.22 This trial of 101 patients excluded
+Clinical, Etiologic, Anatomic, and Pathophysiologic
+(CEAP) C5 and C6 disease, bilateral radiofrequency ablation, small saphenous vein ablation, and preoperative
+noncompliance to compressive therapy. The study
+demonstrated that patients with the shorter duration
+of compression had a greater reduction in leg volume
+and experienced a lower number of complications.
+Postoperative pain and time to full recovery did not differ
+between the groups. The study concluded that wearing
+compression stockings for a shorter time was not inferior
+to compression for a longer time. It was not reported in
+this study how many (if any) patients had underlying
+deep venous insufﬁciency.
+An endovenous laser ablation study of 109 patients
+excluded those with deep venous insufﬁciency, venous
+ulceration, more than one insufﬁcient vein per leg,
+anticoagulation therapy, and phlebectomies. Outcomes
+were compared for those using compression for 2 days
+vs those using compression for 7 days after the procedure. All patients were treated with the 810-nm diode
+laser with a bare-tip ﬁber. At 1 week, there was a signiﬁcant difference in the pain score and in physical dysfunction and vitality in favor of the longer period of
+compression, but the advantages disappeared by
+6 weeks. There was no difference in successful GSV
+occlusion between the groups. These authors recommended that at the end of 48 hours, the patient should
+be allowed to decide whether the inconvenience of
+wearing stockings outweighed the possible pain and
+reduced physical function associated with not wearing
+them.27 In another study using the 810-nm diode laser,
+compression was applied for 1 week postoperatively
+using 20 to 30 mm Hg stockings. Complete resolution
+of varicosities was noted in 42% of patients at 1 month,
+with a reduction of varicose vein size in 56% of patients.
+There were no complications related to the compression
+therapy.30 Another study used the 1470-nm laser. Patients were excluded from this study if they had an
+incompetent anterior accessory GSV, incompetent small
+saphenous vein, deep venous insufﬁciency, DVT, hypercoagulability, general poor health status, aneurysmal veins
+>2 cm in diameter, very tortuous veins, nonpalpable
+pedal pulses, and inability to ambulate or were pregnant
+or breastfeeding. The short-term occlusion rate was
+99%, and the midterm rate was 100%. Induration or
+swelling was the most common complication (13%),
+with no major complications such as DVT or pulmonary
+embolism. The Venous Clinical Severity Score (VCSS)
+decreased signiﬁcantly. In this study, patients wore a
+
+compression bandage for the ﬁrst 24 hours and then
+an elastic full-length stocking (20-30 mm Hg) for 4 weeks.
+Although there was no comparison group, the study reported that 4 weeks of compression was well tolerated
+and was successful after ablation with the 1470-nm
+laser.31
+The duration of compression stockings has also been
+evaluated after surgical ablation of varicose veins (stripping and ligation). One study evaluated 104 patients
+with GSV incompetence treated with inversion stripping
+after excluding patients unable to wear elastic compression stockings, those already wearing compression stockings, and those with venous leg ulcers. It was not deﬁned
+whether patients with deep venous insufﬁciency were
+excluded. All patients were treated with compression
+bandaging for 3 days, then divided into a group treated
+for an additional 4 weeks and a group without additional
+treatment. Measured 4 weeks postoperatively, there was
+no signiﬁcant difference in limb volume between the
+two groups, and in fact patients without stockings actually returned to work faster. The authors suggested that
+wearing an elastic compression stocking had no additional beneﬁt after compression bandaging for 3 days
+after inversion stripping.26 A contrary ﬁnding was
+observed in a study of female patients who were randomized into groups using compression therapy with
+low-strength (18-21 mm Hg) vs moderate-strength
+(23-32 mm Hg) compression stockings after undergoing
+vein ablation surgery. The patients wore compression
+for 6 weeks postoperatively. In this study, there were
+many exclusion criteria, although deep venous insufﬁciency was not speciﬁed. Surgical procedures included
+ligation and stripping of the great or small saphenous
+vein, phlebectomy of tributaries, ligation of perforating
+veins, phlebectomy of recurrent veins, and redo surgery
+at the saphenofemoral or saphenopopliteal junctions.
+One week after surgery, patients in the higher compression group had lower edema scores, reduced feeling of
+tightness, and greater reduction in discomfort. At
+6 weeks, there was no difference in these outcomes
+between the two groups. There were no differences in
+rates of complications at either 1 week or 6 weeks postoperatively. The authors concluded that there was an
+advantage for moderate compression after vein ablation
+surgery, and they recommended compression under
+such circumstances.25
+Finally, in one study, 979 limbs underwent procedures
+for varicose veins and venous insufﬁciency, with the
+majority of patients undergoing an ablation and a Trivex
+(LeMaitre Vascular, Burlington, Mass) powered phlebectomy.36 The VCSS improved signiﬁcantly more with ablation plus Trivex compared with ablation alone. In this
+study, all patients were wrapped with a short-stretch
+compression bandage immediately after the procedure
+and encouraged to ambulate. They were compressed
+for at least 2 weeks postoperatively, with long-term
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Lurie et al
+
+23
+
+Volume 7, Number 1
+
+compression determined by the status of reﬂux in the
+deep venous system. Using this algorithm, patients
+demonstrated a signiﬁcant improvement in VCSS with
+a complication rate of 1.6% DVT, 3.7% endothermal
+heat-induced thrombosis, 0.82% infection, 5.1% hematoma, and 4.9% superﬁcial thrombophlebitis.
+The National Institute for Health and Care Excellence
+varicose vein guidelines have addressed the question of
+compression duration on the basis of two studies, one
+with foam sclerotherapy plus compression vs sclerotherapy alone and one with venous surgery plus compression
+vs venous surgery alone. The guidelines suggest, “If offering compression bandaging or hosiery for use after interventional treatment, do not use for more than 7 days.”
+In addition, “As there was no convincing evidence for
+using or not using compression therapy the Guideline
+Development Group [GDG] felt they could not make a
+recommendation not to use stockings at all post
+intervention and the consensus was that in their clinical
+experience some people post-surgery did feel beneﬁt
+from wearing stockings. However, the GDG, taking into
+account the cost of compression therapy, felt they could
+not recommend its long term use. Patients can be
+advised that in most instances they are able to return
+to work whilst wearing compression bandaging or
+hosiery.”
+Thus, it is clear that the real issue may not be compression after venous surgery but that the compression
+needs to be tailored to the overall status of the venous
+insufﬁciency. In a patient with only superﬁcial venous
+reﬂux, compression may not be needed at all or may
+be needed only for the ﬁrst few hours to days, whereas
+for patients with signiﬁcant deep venous insufﬁciency
+and deep venous reﬂux, compression is likely to be
+needed not only in the postoperative period but also
+long term.
+
+3. COMPRESSION AFTER SCLEROTHERAPY
+Guideline 3.1: Compression therapy after sclerotherapy.
+We suggest compression therapy over no compression
+therapy immediately after treatment of superﬁcial veins
+with sclerotherapy to improve outcomes of sclerotherapy.
+[GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 3.2: Duration of compression therapy after
+sclerotherapy.
+In the absence of convincing evidence we recommend best
+clinical judgment to determine the duration of compression
+therapy after sclerotherapy. [BEST PRACTICE]
+
+A total of 18 relevant publications were identiﬁed34,35,37-52;
+1 was a systematic review,40 2 were guidelines,51,52 1 was a
+consensus document,50 2 were opinion papers,38,39
+4 were RCTs,37,42,44,45 and 8 were nonrandomized observational studies.34,35,41,43,46-49 Included studies were heterogeneous with regard to measured outcomes and the
+modality, duration, and dose of compression. The majority
+
+of observational studies did not have comparison groups.
+None of the included RCTs used outcome measures
+differentially for asymptomatic cosmetic and symptomatic
+medical patients.
+Most physicians treating varicose veins advocate the
+use of compression after sclerotherapy. The duration
+and degree of compression are, however, controversial.
+Graduated compression therapy reduces the risk of
+DVT, edema, and superﬁcial phlebitis; immediate
+compression allows more direct apposition of the
+treated vein walls, which in turn enhances sclerosis and
+decreases thrombus formation.38 The physiologic effects
+of graduated compression include increased blood ﬂow
+velocity in the deep veins, increased prostacyclin production, increased local capillary clearance, increased transcutaneous oxygen pressure, increased expelled capillary
+volume at exercise, and increased release of plasminogen activator. Graduated compression also decreases
+capacity and pressure in the veins, decreases visible
+superﬁcial varicose veins, and decreases edema and
+lipodermatosclerosis.39 All of these effects may justify
+the use of compression therapy in patients with chronic
+venous disease including after treatment with
+sclerotherapy.
+A Cochrane collaborative review in 2013 evaluated the
+use of elastic compression vs conventional bandaging
+after sclerotherapy and concluded that no standard
+method of compression after sclerotherapy could be recommended.40 Compression options reviewed included
+crepe bandaging, proprietary elastic bandaging, and
+compression stockings. Increasing the level of compression prevented dressings from slipping but also caused
+more discomfort. Increased elastic compression had no
+effect on the incidence of superﬁcial thrombophlebitis
+or risk of skin staining. In addition, elastic compression
+had no signiﬁcant effect on the disappearance of varicosities per their review.
+In a prospective study of 100 patients, 120 limbs with
+primary varicose veins treated with polidocanol as a
+sclerosant were evaluated. The empty vein technique
+was used, and immediately after injection, a long cotton
+roll was placed over the entire vein and additional
+compression was applied with class I and class II medical
+compression hosiery.41 This study reported good sclerosing results in all patients treated. The side effects
+were classiﬁed as early or late. There were minor side
+effects in 16 patients. Superﬁcial venous blood clots and
+phlebitis occurred in three cases, which needed microthrombectomy. This study supported the effectiveness
+of cotton wool roll compression at the location of treatment by using the roll as part of the compression
+therapy. The result was that compression therapy was
+more effective and easier to perform. One RCT evaluated
+124 limbs randomized to receive bandaging for 24 hours
+vs 5 days. It found no advantage to compression
+bandaging for >24 hours when thromboembolic
+
+24
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+deterrent stockings were worn for 14 days after the initial
+bandaging.42
+Raj et al43 addressed the issue of compression
+bandaging and how long bandages maintain their pressure during ambulatory treatment of varicose veins. They
+recommended that compression bandaging be worn for
+6 weeks after sclerotherapy. However, pressures under
+these bandages were measured during 8 hours, and
+the results showed that different surgeons applied
+bandages over a wide range of pressures. The initial
+pressures were also higher when standard compression
+pads were used, although the rate at which the pressure
+fell was about the same.
+The question of short-term vs long-term standard
+bandaging after sclerotherapy was also addressed in
+the Cochrane review.53 The duration of compression
+(short vs standard time) after sclerotherapy was the
+subject of four randomized trials. The following
+assessed outcomes favored short-term application of
+bandages: cosmetic and symptomatic improvement54;
+recurrent varicose veins55,56; complications such as
+phlebitis, staining, pain, blistering, and ulceration33;
+and discomfort, slipping, foot swelling, and bandage
+intolerance.33,56
+Two different studies addressed the effectiveness of
+compression stockings and their duration for sclerotherapy treating reticular veins and telangiectasia in
+similar patients. Weiss et al34 studied 40 patients, 30
+of whom received compression therapy and 10 of
+whom did not. The compression group consisted of 3
+subgroups of 10 patients each, receiving compression
+for 3 days, 1 week, or 3 weeks. The patients were evaluated at 1 week, 2 weeks, 6 weeks, 12 weeks, and
+24 weeks for the degree of improvement and side
+effects. All three compression subgroups showed
+signiﬁcantly greater improvement at 6 weeks
+compared with controls. Patients treated with
+compression for 3 days and 1 week showed better
+improvement than the control patients, but patients
+treated for 3 weeks of continuous compression had
+the most improvement. In terms of side effects, the
+1-week and 3-week compression groups experienced
+the least amount of hyperpigmentation after sclerotherapy.34 In another study by Kern et al,44 100 female
+patients seeking treatment for telangiectasia and
+reticular veins were randomized to wear medical
+compression stockings (23-32 mm Hg) daily for 3 weeks
+vs no compression after a single session of liquid
+sclerotherapy. The outcomes were compared on the
+basis of a patient satisfaction analysis and a quantitative evaluation of photographs taken before the procedure and at a mean of 52 days after sclerotherapy
+by two blinded expert reviewers. Wearing compression
+stockings of 23 to 32 mm Hg for 3 weeks enhanced
+the efﬁcacy of sclerotherapy by improving vessel
+
+disappearance. Three weeks of continuous compression led to the best results, although even 3 days of
+compression resulted in greater improvement
+compared with no compression. Compression also
+led to a statistically signiﬁcant reduction in hyperpigmentation after sclerotherapy.44
+Two studies compared thigh-high compression
+stockings vs bandaging after liquid sclerotherapy. The
+ﬁrst was an RCT by Scurr et al.45 Efﬁcacy was evaluated
+on the basis of a need for successive injections, complications of treatment, and patient satisfaction. In the
+patients receiving stockings, 144 of 156 injections were
+successful compared with 117 of 147 in the bandaged
+group. The incidence of superﬁcial vein phlebitis
+and thrombosis was also reduced in the stocking
+group. In a second study of high-compression stockings alone by Shouler and Runchman,46 it was
+concluded that bandaging after sclerotherapy was
+not required if high-compression stockings were going
+to be used.
+Nootheti et al35 looked at results of sclerotherapy after
+3 weeks of graduated compression with class I
+(20-30 mm Hg) stockings compared with 1 week of class
+II (30-40 mm Hg) compression stockings. This was a
+small study with 29 patients being treated for reticular
+and telangiectatic veins. One leg was assigned to wear
+a class II stocking for 1 week, and the contralateral leg
+was assigned to 3 weeks of class I graduated compression. Pigmentation and bruising after sclerotherapy
+were signiﬁcantly less in the group with 3 weeks of class
+I graduated compression.
+Fentem et al47 studied healthy volunteers comparing
+bandaging using a large ﬂat compression pad vs a small
+narrow pad. Different surgeons achieved different
+degrees of compression. The use of a foam pad over
+the injection site was successful as long as ﬁbrinous
+occlusion in the vein took place. This study suggested
+the need to measure pressures under the bandaging.
+Some studies have questioned the need for compression after sclerotherapy. The effectiveness of compression bandaging or stockings in patients undergoing
+foam sclerotherapy was studied in a randomized trial
+of 124 limbs with 24 hours vs 5 days of bandaging.37 There
+was no signiﬁcant difference between the two groups in
+the incidence of superﬁcial thrombophlebitis after
+2 weeks or skin discoloration after 6 weeks. There was
+no signiﬁcant difference in the change of the Buford
+pain score from baseline to 2 weeks or in the change of
+the 36-Item Short Form Health Survey score from baseline to 6 weeks. In a randomized controlled study performed at two centers, 60 patients with incompetent
+GSV and short saphenous veins underwent ultrasoundguided foam sclerotherapy.37 One group was treated
+with compression stockings (15-20 mm Hg) for 3 weeks
+and the other group was treated without compression.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Lurie et al
+
+25
+
+Volume 7, Number 1
+
+The efﬁcacy of sclerotherapy and side effects were
+assessed. On days 14 and 28, clinical and duplex ultrasound assessments were performed by independent
+experts; the patients also completed a quality of life
+questionnaire and reported satisfaction scores. The study
+found no difference between compression and control
+groups in comparing treatment efﬁcacy, side effects,
+satisfaction scores, symptoms, and quality of life scores.
+The authors recommended further studies to establish
+the role of compression in sclerotherapy and to evaluate
+other compression strategies.
+Thomasset et al49 designed a prospectively collective
+database of ultrasound-guided foam sclerotherapy.
+They evaluated 126 patients who had undergone
+targeted ultrasound-guided foam sclerotherapy of the
+GSV (n ¼ 75), the small saphenous vein (n ¼ 13), and
+the anterior accessary saphenous vein (n ¼ 9). They had
+a mean follow-up of 3 months and used duplex ultrasound scans for evaluation of complete occlusion of
+the target vessel. The only factor associated with vessel
+outcome was compliance of postprocedure compression therapy. The only factor associated with complications after foam sclerotherapy was female sex. Their
+data suggested that compliance with postprocedure
+compression therapy and sex were important factors in
+successful outcome. Patients were treated with foam
+pads that were applied over the treated vein, and then
+class II thigh-length graduated compression stockings
+with a waist extension were applied over the foam
+pads after the procedure. Foam pads were worn for
+1 week, and stockings were then worn for a total of
+6 weeks.
+It is appropriate to assume that compression after
+sclerotherapy maximizes venous wall apposition and
+contact with the intraluminal sclerosant, thereby allowing more effective panendothelial destruction and
+endosclerosis. Existing data suggest that compression
+after sclerotherapy improves the clinical disappearance
+of superﬁcial veins and reduces pigmentation and
+bruising. The preponderance of evidence suggests that
+compression should be considered an integral part of
+management after sclerotherapy. However, despite
+several consensus statements, no conclusion can been
+reached on the basis of current data as to the best
+method, dose, or duration of compression that achieves
+optimal results after sclerotherapy.19,50-52 A key component in all of the studies analyzing compression treatment for venous disease is the issue of compliance,
+and in most studies this outcome is not reported.
+Well-designed RCTs are needed to provide deﬁnitive
+information.
+The impact of compression on the efﬁcacy of foam
+sclerotherapy remains to be determined as this is only
+one of the confounding variables affecting outcomes.
+The evidence for compression recommendations is
+
+incomplete, but the standard of care and current
+medical practice of those treating varicose veins
+are to recommend and to perform some form of
+compression.
+
+4. COMPRESSION AFTER TREATMENT OF
+SUPERFICIAL VEINS IN PATIENTS WITH VENOUS
+LEG ULCERS
+Guideline 4.1: Compression after superﬁcial vein treatment
+in patients with a venous leg ulcer
+In a patient with a venous leg ulcer, we recommend
+compression therapy over no compression therapy to
+increase venous leg ulcer healing rate and to decrease the
+risk of ulcer recurrence. [GRADE - 1; LEVEL OF EVIDENCE - B]
+Guideline 4.2: Compression after superﬁcial vein treatment
+in patients with a mixed arterial and venous leg ulcer
+In a patient with a venous leg ulcer and underlying arterial
+disease, we suggest limiting the use of compression to
+patients with ankle-brachial index exceeding 0.5 or if
+absolute ankle pressure is >60 mm Hg. [GRADE - 2; LEVEL
+OF EVIDENCE - C]
+
+A total of seven relevant publications were identiﬁed,57-63
+of which one was a systematic review,58 one was a guideline published by the AVF and the SVS,57 and ﬁve were
+nonrandomized observational studies.59-63 The AVF/SVS
+guidelines were published in 2014 and used the same
+methodology as the current report. We were not able to
+identify any additional studies that were published subsequent to that report and that have sufﬁcient information
+to consider modiﬁcation of the AVF/SVS guidelines.
+The management of patients with venous ulcers is
+often complex and time-consuming and uses a variety
+of modalities including surgical procedures. A great
+deal of time, effort, and expense goes into the healing
+of these lesions. A variety of etiologic factors are associated with the development of these ulcers, and several
+such factors persist after treatment is completed. Attention must be directed toward the modiﬁcation of these
+factors when possible, and neutralizing the increased
+venous leg pressure is a common goal in these patients.
+Appropriate compression therapy using short-stretch
+bandages, multilayer bandages, Unna boots, and various
+forms of pneumatic compression is the keystone to
+correcting elevated venous leg pressure in patients with
+leg ulcers. Once ulcer healing has been achieved, it
+becomes less feasible to continue these types of
+compression modalities during patients’ everyday lives.
+As a result, elastic stockings are prescribed for these
+patients once the ulcers have healed regardless of the
+underlying pathophysiologic process that initially led to
+the development of the ulcer.
+Two important aspects that may determine the success
+of preventing ulcer recurrence using compression must
+
+26
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+be considered. The ﬁrst of these is the technical ability of
+the patient to actually don and doff the stocking
+properly. This may be difﬁcult because of the patient’s
+size, strength, or arthritic conditions that may make
+manipulation of the heavy stocking impractical. The
+second factor is the extent of the increase in venous pressure and resulting edema of the leg. This is particularly
+true for patients who are morbidly obese and in whom
+the leg venous pressure is very high because of increased
+intra-abdominal pressure from large abdominal girth.
+This pressure increase will overwhelm an elastic product
+and result in recurrent edema, with a high risk for recurrent ulceration. Aids for donning and dofﬁng stockings
+are often awkward, and the techniques required can
+be difﬁcult to master.
+Velcro compression devices are an alternative to elastic
+stockings because their inelastic nature produces higher
+compression during ambulation, which in turn reduces
+venous stasis and edema. The adjustable nature of these
+devices also allows tightening as the leg volume
+decreases as well as loosening when discomfort occurs.
+Finally, these devices are easy to apply and remove,
+even in patients with physical limitations.53,64-67
+Multiple studies have been published addressing
+different aspects of compression therapy in patients
+with open and healed venous ulcers. Current evidence
+supports using compression for ulcer healing.57,58 None
+of the publications to date speciﬁcally address the role
+and effectiveness of compression after treatment of superﬁcial veins in patients with venous ulcers. In the
+absence of such data, it is reasonable and safe to follow
+recommendations for the entire population of patients
+with venous ulcers, namely, that compression therapy
+should be recommended to increase venous leg ulcer
+healing rates and to decrease recurrence rates.
+Leg ulcers frequently have mixed etiology. An important etiologic comorbidity that is relevant to compression therapy is peripheral artery disease, which can
+coexist in up to 25% of patients with venous ulcers.5962
+Use of compression in patients with signiﬁcantly
+compromised arterial perfusion of the limb is considered unsafe. Data supporting use of modiﬁed compression with reduced compression pressure for healing of
+mixed ulcers is limited to a few small studies.57,62,63
+Therefore, the preferred practice is to limit the use of
+compression to patients with an ankle-brachial
+index exceeding 0.5 or if absolute ankle pressure is
+>60 mm Hg.
+After review of these data, we ﬁnd that the published
+literature provides a low level of evidence. The need for
+further studies with level 1 data with larger data sets is
+clearly needed. In addition, the national databases that
+are being developed may add future possibilities to
+address some of these issues. Much of the literature
+does not include patient-centered quality of life assessments of these interventions when, in truth, these
+
+disease processes directly affect quality of life. These limitations offer opportunities for future research to help
+focus future guidelines.
+
+REFERENCES
+1. Shami SK, Cheatle TR. Conventional sclerotherapy versus
+surgery for varicose veins. In: Shami SK, Cheatle TR, editors.
+Fegan’s compression sclerotherapy for varicose veins.
+London: Springer-Verlag; 2003.
+2. Guyatt G, Gutterman D, Baumann MH, Addrizzo-Harris D,
+Hylek EM, Phillips B, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: report
+from an American College of Chest Physicians task force.
+Chest 2006;129:174-81.
+3. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for
+Vascular Surgery including the experience with the GRADE
+framework. J Vasc Surg 2011;53:1375-80.
+4. Flour M, Clark M, Partsch H, Mosti G, Uhl JF, Chauveau M,
+et al. Dogmas and controversies in compression therapy:
+report of an International Compression Club (ICC) meeting,
+Brussels, May 2011. Int Wound J 2013;10:516-26.
+5. Kalodiki E. Use of intermittent pneumatic compression in
+the treatment of venous ulcers. Future Cardio 2007;3:185-91.
+6. Partsch H, Clark M, Mosti G, Steinlechner E, Schuren J,
+Abel M, et al. Classiﬁcation of compression bandages:
+practical aspects. Dermatol Surg 2008;34:600-9.
+7. Moffatt C. Variability of pressure provided by sustained
+compression. Int Wound J 2008;5:259-65.
+8. Blazek C, Amsler F, Blaettler W, Keo HH, Baumgartner I,
+Willenberg T. Compression hosiery for occupational leg
+symptoms and leg volume: a randomized crossover trial in a
+cohort of hairdressers. Phlebology 2013;28:239-47.
+9. Hagan MJ, Lambert SM. A randomised crossover study of lowankle-pressure graduated compression tights in reducing
+ﬂight-induced ankle oedema. Med J Aust 2008;188:81-4.
+10. Beidler SK, Douillet CD, Berndt DF, Keagy BA, Rich PB,
+Marston WA. Inﬂammatory cytokine levels in chronic venous
+insufﬁciency ulcer tissue before and after compression
+therapy. J Vasc Surg 2009;49:1013-20.
+11. Staubesand J, Seydewitz V. An ultrastructural study of
+sclerosed varices. Phlebologie 1991;44:16.
+12. Lugli M, Cogo A, Guerzoni S, Petti A, Maleti O. Effects of
+eccentric compression by a crossed-tape technique after
+endovenous laser ablation of the great saphenous vein: a
+randomized study. Phlebology 2009;24:151-6.
+13. Mosti G, Mattaliano V, Arleo S, Partsch H. Thigh compression
+after great saphenous surgery is more effective with high
+pressure. Int Angiol 2009;28:274-80.
+14. Ferrara F, Ferrera G. Sclerotherapy in the patient with diabetes:
+indications and results. Phlebolymphology 2012;19:193-8.
+15. Ragg J. Film compression bandage: a new modality to
+improve sclerotherapy of superﬁcial varicosities. Veins
+Lymphat 2017;6:6635-6.
+16. Barnaby J, Azzam M, Choe E, Ash S, Kalodiki E, Lattimer CR.
+The effect of tangential skin compression with adhesive
+tape in reducing the size of bulging varicose veins [Abstract].
+Surgical Academic Research Society; Nottingham, UK;
+January 10-11, 2018.
+17. Ricci S, Moro L, Trillo L, Incalzi RA. Foot-sparing postoperative
+compression bandage: a possible alternative to the
+traditional bandage. Phlebology 2013;28:47-50.
+18. Uhl JF, Benigni JP, Chahim M, Fréderic D. Prospective
+randomized controlled study of patient compliance in using
+a compression stocking: importance of recommendations
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Lurie et al
+
+27
+
+Volume 7, Number 1
+of the practitioner as a factor for better compliance.
+Phlebology 2018;33:36-43.
+19. El-Sheikha J, Carradice D, Nandhra S, Leung C, Smith GE,
+Campbell B, Chetter IC. Systematic review of compression
+following treatment for varicose veins. Br J Surg 2015;102:
+719-25.
+20. Wittens C, Davies AH, Baekgaard N, Broholm R, Cavezzi A,
+Chastanet S. Editor’s choicedmanagement of chronic
+venous disease: clinical practice guidelines of the European
+Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc
+Surg 2015;49:678-737.
+21. Varicose veins in the legs: the diagnosis and management of
+varicose veins. London: National Institute for Health and
+Care Excellence; 2013.
+22. Krasznai AG, Sigterman TA, Troquay S, HoutermansAuckel JP, Snoeijs M, Rensma HG, et al. A randomised
+controlled trial comparing compression therapy after radiofrequency ablation for primary great saphenous vein
+incompetence. Phlebology 2016;31:118-24.
+23. Bond R, Whyman MR, Wilkins DC, Walker AJ, Ashley S.
+A randomised trial of different compression dressings
+following varicose vein surgery. Phlebology 1999;14:9-11.
+24. Elderman JH, Krasznai AG, Voogd AC, Hulsewé KW,
+Sikkink CJ. Role of compression stockings after endovenous
+laser therapy for primary varicosis. J Vasc Surg Venous
+Lymphat Disord 2014;2:289-96.
+25. Reich-Schupke S, Feldhaus F, Altmeyer P, Mumme A,
+Stücker M. Efﬁcacy and comfort of medical compression
+stockings with low and moderate pressure six weeks after
+vein surgery. Phlebology 2014;29:358-66.
+26. Houtermans-Auckel JP, van Rossum E, Teijink JA,
+Dahlmans AA, Eussen EF, Nicolaï SP, et al. To wear or not to
+wear compression stockings after varicose vein stripping: a
+randomised controlled trial. Eur J Vasc Endovasc Surg
+2009;38:387-91.
+27. Bakker NA, Schieven LW, Bruins RM, van den Berg M,
+Hissink RJ. Compression stockings after endovenous laser
+ablation of the great saphenous vein: a prospective randomized controlled trial. Eur J Vasc Endovasc Surg 2013;46:588-92.
+28. Benigni JP, Allaert FA, Desoutter P, Cohen-Solal G,
+Stalnikiewicz X. The efﬁciency of pain control using a thigh
+pad under the elastic stocking in patients following venous
+stripping: results of a case-control study. Perspect Vasc Surg
+Endovasc Ther 2011;23:238-43.
+29. Biswas S, Clark A, Shields DA. Randomised clinical trial of the
+duration of compression therapy after varicose vein surgery.
+Eur J Vasc Endovasc Surg 2007;33:631-7.
+30. Schanzer H. Endovenous ablation plus microphlebectomy/
+sclerotherapy for the treatment of varicose veins: single or
+two-stage procedure? Vasc Endovascular Surg 2010;44:545-9.
+31. Altin FH, Aydin S, Erkoc K, Gunes T, Eygi B, Kutas BH. Endovenous laser ablation for saphenous vein insufﬁciency: shortand mid-term results of 230 procedures. Vascular 2015;23:3-8.
+32. Obi AT, Reames BN, Rook TJ, Mouch SO, Zarinsefat A,
+Stabler C, et al. Outcomes associated with ablation
+compared to combined ablation and transilluminated
+powered phlebectomy in the treatment of venous varicosities. Phlebology 2016;31:618-24.
+33. Fraser IA, Perry EP, Hatton M, Watkin DF. Prolonged
+bandaging is not required following sclerotherapy of varicose veins. Br J Surg 1985;72:488-90.
+34. Weiss RA, Sadick NS, Goldman MP, Weiss MA. Post-sclerotherapy compression: controlled comparative study of
+duration of compression and its effects on clinical outcome.
+Dermatol Surg 1999;25:105-8.
+35. Nootheti PK, Cadag KM, Magpantay A, Goldman MP. Efﬁcacy
+of graduated compression stockings for an additional 3
+
+weeks after sclerotherapy treatment of reticular and telangiectatic leg veins. Dermatol Surg 2009;35:53-7; discussion: 57.
+36. Obi EE, Lakhani BK, Burns J, Sampath R. Optic nerve sheath
+fenestration for idiopathic intracranial hypertension: a seven
+year review of visual outcomes in a tertiary centre. Clin
+Neurol Neurosurg 2015;137:94-101.
+37. Hamel-Desnos CM, Guias BJ, Desnos PR, Mesgard A. Foam
+sclerotherapy of the saphenous veins: randomised
+controlled trial with or without compression. Eur J Vasc
+Endovasc Surg 2010;39:500-7.
+38. Mann MW. Sclerotherapy: it is back and better. Clin Plast
+Surg 2011;38:475-87,vii.
+39. Johnson S. Compression hosiery in the prevention and
+treatment of venous leg ulcers. J Tissue Viability 2002;12:67,
+70, 72-4.
+40. Tisi PV, Beverley C, Rees A. Injection sclerotherapy for varicose veins. Cochrane Database Syst Rev 2006;4:CD001732.
+41. Tazelaar DJ, Neumann HA, De Roos KP. Long cotton wool
+rolls as compression enhancers in macrosclerotherapy for
+varicose veins. Dermatol Surg 1999;25:38-40.
+42. O’Hare J, Stephens J, Parkin D, Earnshaw J. Randomized
+clinical trial of different bandage regimens after foam
+sclerotherapy for varicose veins. Br J Surg 1980;67:122-4.
+43. Raj TB, Goddard M, Makin GS. How long do compression
+bandages maintain their pressure during ambulatory treatment of varicose veins? Br J Surg 1980;67:122-4.
+44. Kern P, Ramelet AA, Wütschert R, Hayoz D. Compression
+after sclerotherapy for telangiectasias and reticular leg veins:
+a randomized controlled study. J Vasc Surg 2007;45:1212-6.
+45. Scurr JH, Coleridge-Smith P, Cutting P. Varicose veins: optimum compression following sclerotherapy. Ann R Coll Surg
+Engl 1985;67:109-11.
+46. Shouler PJ, Runchman PC. Varicose veins: optimum
+compression after surgery and sclerotherapy. Ann R Coll
+Surg Engl 1989;71:402-4.
+47. Fentem PH, Goddard M, Gooden BA, Yeung CK. Control of
+distension of varicose veins achieved by leg bandages, as
+used after injection sclerotherapy. Br Med J 1976;2:725-7.
+48. Lattimer CR, Azzam M, Kalodiki E, Geroulakos G. Hemodynamic changes at the saphenofemoral junction during the
+application of a below-knee graduated compression stocking. Dermatol Surg 2012;38:1991-7.
+49. Thomasset SC, Butt Z, Liptrot S, Fairbrother BJ,
+Makhdoomi KR. Ultrasound guided foam sclerotherapy:
+factors associated with outcomes and complications. Eur J
+Vasc Endovasc Surg 2010;40:389-92.
+50. Weiss MA, Hsu JTS, Neuhaus I, Sadick NS, Duffy DM.
+Consensus for sclerotherapy. Dermatol Surg 2014;40:1309-18.
+51. Khunger N, Sacchidanand S. Standard guidelines for care:
+sclerotherapy in dermatology. Indian J Dermatol Venereol
+Leprol 2011;77:222-31.
+52. Nicolaides A, Kakkos S, Eklof B, Perrin M, Nelzen O, Neglen P,
+et al. Management of chronic venous disorders of the lower
+limbsdguidelines according to scientiﬁc evidence. Int
+Angiol 2014;33:87-208.
+53. Mosti G, Partsch H. Self-management by ﬁrm, non-elastic
+adjustable compression wrap device. Veins Lymphat
+2017;6:7003.
+54. Raj TB, Makin GS. A random controlled trial of two forms of
+compression bandaging in outpatient sclerotherapy of
+varicose veins. J Surg Res 1981;31:440-5.
+55. Batch AJ, Wickremesinghe SS, Gannon ME, Dormandy JA.
+Randomised trial of bandaging after sclerotherapy for varicose veins. Br Med J 1980;281:423.
+56. Moody A, Nicklin S, Wilcox A, Enabi L, Harris P. Prospectively
+randomised trial of 1 versus 6 weeks of compression after
+sclerotherapy for varicose veins. Br J Surg 1996;83:48.
+
+28
+
+Lurie et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2019
+
+57. O’Donnell TJ, Passman M. Clinical practice guidelines of the
+Society for Vascular Surgery (SVS) and the American Venous
+Forum (AVF)dmanagement of venous leg ulcers. Introduction. J Vasc Surg 2014;60(Suppl):1S-2S.
+58. Ubbink DT, Santema TB, Stoekenbroek RM. Systemic wound
+care: a meta-review of Cochrane systematic reviews. Surg
+Technol Int 2014;24:99-111.
+59. Nelzen O, Bergqvist D, Lindhagen A. Venous and
+non-venous leg ulcers: clinical history and appearance in a
+population study. Br J Surg 1994;81:182-7.
+60. Korber A, Klode J, Al-Benna S, Wax C, Schadendorf D,
+Steinstraesser L. Etiology of chronic leg ulcers in 31,619
+patients in Germany analyzed by an expert survey. J Dtsch
+Dermatol Ges 2011;9:116-21.
+61. Andersson E, Hansson C, Swanbeck G. Leg and foot ulcer
+prevalence and investigation of the peripheral arterial and
+venous circulation in a randomised elderly population. An
+
+epidemiological survey and clinical investigation. Acta Derm
+Venereol 1993;73:57-61.
+62. Callam MJ, Harper DR, Dale JJ, Ruckley CV. Chronic ulcer of
+the leg: clinical history. Br Med J 1987;294:1389-91.
+63. Mayrovitz HN, Macdonald JM. Medical compression: effects
+on pulsatile leg blood ﬂow. Int Angiol 2010;29:436-41.
+64. Damstra RJ, Partsch H. Prospective, randomized, controlled
+trial comparing the effectiveness of adjustable compression
+Velcro wraps versus inelastic multicomponent compression
+bandages in the initial treatment of leg lymphedema. J Vasc
+Surg Venous Lymphat Disord 2013;1:13-9.
+65. Partsch H, Mosti G. Sport socks do not enhance calf muscle
+pump function but inelastic wraps do. Int Angiol 2014;33:511-7.
+66. Caprini J. Velcro compression devices. Veins Lymphat 2017;6:
+6624.
+67. Arkans E. Intelli-press wrap. XVIII World Congress of
+Phlebology; Melbourne, Australia; February 4-8, 2018.
+
+

@@ -1,0 +1,4496 @@
+i An update to this article is included at the end
+
+SOCIETY FOR VASCULAR SURGERY GUIDELINES
+The 2022 Society for Vascular Surgery, American Venous
+Forum, and American Vein and Lymphatic Society
+clinical practice guidelines for the management of
+varicose veins of the lower extremities. Part I. Duplex
+Scanning and Treatment of Superﬁcial Truncal Reﬂux
+Endorsed by the Society for Vascular Medicine and the International Union
+of Phlebology
+Peter Gloviczki, MD,a Peter F. Lawrence, MD,b Suman M. Wasan, MD,c Mark H. Meissner, MD,d
+Jose Almeida, MD,e Kellie R. Brown, MD,f Ruth L. Bush, MD, JD, MPH,g Michael Di Iorio, MD,h John Fish, MD,i
+Eri Fukaya, MD,j Monika L. Gloviczki, MD, PhD,k Anil Hingorani, MD,l Arjun Jayaraj, MD,m Raghu Kolluri, MD,n
+M. Hassan Murad, MD, MPH,o Andrea T. Obi, MD,p Kathleen J. Ozsvath, MD,q Michael J. Singh, MD,r
+Satish Vayuvegula, MD,s and Harold J. Welch, MD,t Rochester, MN; Los Angeles and Stanford, CA; Raleigh, NC;
+Seattle, WA; Miami, FL; Milwaukee, WI, Ann Arbor, MI; Temple, Austin, and Plano, TX; Columbus and Toledo, OH;
+Scottsdale, AZ; New York and Albany, NY; Jackson, MS; Pittsburgh, PA; and Hyannis, MA
+
+ABSTRACT
+The Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society collaborated to
+update the 2011 Society for Vascular Surgery/American Venous Forum clinical practice guidelines and provide new
+evidence-based recommendations on critical issues affecting the care of patients with varicose veins. Each recommendation is based on a recent, independent systematic review and meta-analysis of the diagnostic tests and treatments options for patients with lower extremity varicose veins. Part I of the guidelines includes evidence-based
+recommendations for the evaluation of patients with CEAP (Clinical Class, Etiology, Anatomy, Pathology) class 2 varicose
+vein using duplex ultrasound scanning and other diagnostic tests, open surgical treatment (ligation and stripping) vs
+endovenous ablation techniques, thermal vs nonthermal ablation of the superﬁcial truncal veins, and management of
+incompetent perforating veins in CEAP class 2 disease. We have also made recommendations on the concomitant vs
+staged treatment of varicose tributaries using phlebectomy or liquid or foam sclerotherapy (with physician-compounded
+foam or commercially prepared polidocanol endovenous microfoam) for patients undergoing ablation of incompetent
+superﬁcial truncal veins. (J Vasc Surg Venous Lymphat Disord 2023;11:231-61.)
+Keywords: Ablation; Cyanoacrylate; Endovascular; Endovenous; Guidelines; Laser; Mechanicochemical ablation; Polidocanol endovenous microfoam; Radiofrequency; Sclerotherapy, Varicose veins; Venous insufﬁciency
+From the Division of Vascular and Endovascular Surgery, Gonda Vascular Cen-
+
+Research Co-operative, Philips, SurModics, and Syntactx. M.H. Murad was
+
+ter, Mayo Clinic, Rochestera; the Division of Vascular and Endovascular Sur-
+
+funded by the Society for Vascular Surgery to conduct systematic reviews
+
+gery, Department of Surgery, University of California, Los Angeles, Los
+
+and provide methodology expertise. A.T.O. is a primary investigator for preclin-
+
+Angelesb; the Department of Medicine, University of North Carolina, Chapel
+
+ical research grants funded by Medtronic and SurModics. K.J.O. is an Intersoci-
+
+Hill, and Rex Vascular Specialists, UNC Health, Raleighc; the University of
+
+etal Accreditation Commission board member, a speaker/U.S. course host for
+
+Washington, Seattled; the Miller School of Medicine, University of Miami,
+
+Medtronic, and a speaker for Boston Scientiﬁc. P.G., P.F.L., S.M.W., M.H. Meissner,
+
+Miamie; the Medical College of Wisconsin, Milwaukeef; John Sealy School of
+
+J.A., K.B., R.L.B., M.D., E.F., A.H., A.J., S.V., and H.J.W. have no conﬂicts of interest.
+
+Medicine, University of Texas Medical Branch, Galvestong; the South Austin
+
+Independent peer review and oversight was provided by the members of the
+
+Vein Center, Austinh; the Department of Medicine, Jobst Vascular Institute,
+
+SVS Document Oversight Committee (Marc Schermerhorn, Chair, Britt Ton-
+
+University of Toledo, Toledoi; the Division of Vascular Surgery, Stanford Univer-
+
+nessen, Vice Chair, Mohammad Eslami, Raul Guzman, Peter Henke, Vikram
+
+sity, Stanfordj; the Department of Internal Medicine and Gonda Vascular Cen-
+
+Kashyap, Ahmed Kayssi, Chris Kwolek, Erika Mitchell, Patrick Muck, William
+
+ter, Rochesterk; the NYU Brooklyn Medical Center, New Yorkl; the RANE
+
+Robinson, Evan Ryer, Palma Shaw, Chris Smolock, Brant Ullery, Chandu
+
+Center for Venous and Lymphatic Diseases, Jacksonm; the Heart and Vascular
+
+Vemuri, Greg Westin, and Karen Woo).
+
+Service, OhioHealth Riverside Methodist Hospital, Columbusn; the Evidence-
+
+Additional material for this article may be found online at www.jvsvenous.org.
+
+Based Practice Research Program, Robert D. and Patricia E. Kern Center for
+
+Correspondence: Peter Gloviczki, MD, Division of Vascular and Endovascular
+
+the Science of Health Care Delivery, Mayo Clinic, Rochester; the University
+
+Surgery, Gonda Vascular Center, Mayo Clinic, 200 First St SW, Rochester,
+
+of Michigan, Ann Arborp; the Vascular Associates, St Peters Health Partners,
+
+MN 55905 (e-mail: gloviczki.peter@mayo.edu).
+
+Albanyq; the University of Pittsburgh Medical Center, Pittsburghr; the Vein
+
+2213-333X
+
+Clinics of America, Planos; and the Vascular Care Group, Hyannis.t
+
+Ó 2022 Society for Vascular Surgery Published by Elsevier Inc. and The
+
+Author conﬂict of interest: J.F. is a paid speaker for Janssen Pharmaceuticals.
+M.L.G. has been paid a consulting fee by VitasupportMD and is on their advisory
+
+Author(s). All rights reserved.
+https://doi.org/10.1016/j.jvsv.2022.09.004
+
+board. R.K. is a paid consultant for Abbott Laboratories, Auxetics, Avail Medsystems, Boston Scientiﬁc, Inari, Medtronic, Penumbra, Prairie Education and
+
+231
+
+232
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+DISCLAIMER
+The Society for Vascular Surgery (SVS) develops evidenced-based clinical practice guidelines as a resource
+to assist members in the practice of vascular surgery.
+The guideline recommendations contained herein are
+based on a recent review of published evidence. They
+reﬂect the available body of evidence, and their applicability reﬂects the limitations of that data and are subject
+to reassessment and revision as new knowledge emerges.
+Given these limitations, clinical practice guidelines do not
+represent a statement of the standard of care, nor do they
+substitute for clinician judgment or supplant patient preference or shared decision-making. The Society of Vascular
+Surgery recognizes that departure from guidelines may
+be warranted when, in the reasonable judgment of the
+treating clinician, such course of action is indicated by
+the clinical presentation of the patient, limitations of available resources, advances in knowledge or technology, or
+patient preference. The reader must rely solely on their
+own judgment to determine what practices and procedures, whether included in this practice guideline or not,
+are appropriate for them, their patient, their institution,
+or their practice.
+
+SUMMARY OF RECOMMENDATIONS
+GUIDELINE 1.
+1.1. For patients with chronic venous disease of the lower
+extremities, we recommend duplex ultrasound scanning as the diagnostic test of choice to evaluate for
+venous reﬂux.
+Level of recommendation: grade 1 (strong), quality of evidence: B (moderate)
+Implementation remarks of recommendation 1.1:
+1.1.a. Reﬂux is deﬁned as a minimum value >500 ms of
+reversed ﬂow in the superﬁcial truncal veins (great
+saphenous vein, small saphenous vein, anterior
+accessory great saphenous vein, posterior accessory
+great saphenous vein) and in the tibial, deep femoral,
+and perforating veins. A minimum value >1 second
+of reversed ﬂow is diagnostic of reﬂux in the common femoral, femoral, and popliteal veins.
+1.1.b. Axial reﬂux is deﬁned as uninterrupted retrograde
+venous ﬂow from the groin to the calf. Retrograde
+ﬂow can occur in the superﬁcial or deep veins,
+with or without perforating veins. Junctional reﬂux
+will be limited to the saphenofemoral or saphenopopliteal junction. Segmental reﬂux occurs in a
+portion of a superﬁcial or deep truncal vein.
+1.1.c. A deﬁnition of “pathologic” perforating veins in patients with varicose veins (CEAP [Clinical Class, Etiology, Anatomy, Pathology] clinical class C2) includes
+those with an outward ﬂow duration of $500 ms
+and a diameter of $3.5 mm on duplex ultrasound.
+1.2.1. We recommend that evaluation of reﬂux with
+duplex ultrasound be performed in an Intersocietal
+Accreditation Commissione or American College of
+
+Radiologyeaccredited vascular laboratory by a
+credentialed ultrasonographer, with the patient
+standing whenever possible. A sitting or reverse Trendelenburg position can be used if the patient cannot
+stand.
+Level of recommendation: ungraded good practice statement
+1.2.2. We recommend that for evaluation of reﬂux with
+duplex ultrasound, we use either a Valsalva maneuver or distal augmentation to assess the common
+femoral vein and saphenofemoral junction and
+distal augmentation with either manual compression or cuff deﬂation for evaluation of more distal
+segments. Superﬁcial reﬂux must be traced to its
+source, including the saphenous junctions, truncal
+or perforating veins, or pelvic origin varicose veins.
+The study should be interpreted by a physician
+trained in venous duplex ultrasound interpretation.
+Level of recommendation: ungraded good practice statement
+1.3.1. We recommend that a complete duplex ultrasound
+scanning examination for venous reﬂux in the lower
+extremities should include transverse grayscale images without and with transducer compression of
+the common femoral, proximal, mid, and distal
+femoral and popliteal veins, saphenofemoral junction, and great and small saphenous veins.
+Level of recommendation: ungraded good practice statement
+1.3.2. We recommend that a complete duplex ultrasound scanning examination for venous reﬂux in
+the lower extremities should include measurement
+of the spectral Doppler waveform using calipers.
+Reﬂux at baseline and in response to a Valsalva maneuver or distal augmentation in the common
+femoral vein and at the saphenofemoral junction
+and in response to distal augmentation in the
+mid-femoral and popliteal vein, the great saphenous vein at the proximal thigh and knee, the anterior accessory great saphenous vein and small
+saphenous vein, and at saphenopopliteal junction
+or proximal calf should be documented.
+Level of recommendation: ungraded good practice statement
+1.3.3. We recommend that a complete duplex ultrasound
+scanning examination for venous reﬂux in the lower
+extremities should include diameter measurements in patients with the leg in the dependent position, from the anterior to the posterior wall, at the
+saphenofemoral junction, in the great saphenous
+vein at the proximal thigh and at the knee, in the
+anterior accessory great saphenous vein, and in
+the small saphenous vein at the saphenopopliteal
+junction or proximal calf. Images of both normal
+and abnormal ﬁndings should be documented in
+the records of the patient.
+Level of recommendation: ungraded good practice statement
+1.4. We recommend the use of the 2020 upgraded CEAP
+classiﬁcation system for chronic venous disorders.
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+233
+
+Volume 11, Number 2
+
+The clinical or basic CEAP classiﬁcation can be used
+for clinical practice, and the full CEAP classiﬁcation
+system should be used for clinical research.
+Level of recommendation: ungraded good practice statement
+
+GUIDELINE 2.
+2.1.1. For patients with symptomatic varicose veins
+and axial reﬂux in the great or small saphenous
+vein, who are candidates for intervention, we
+recommend superﬁcial venous intervention over
+long-term compression stockings.
+Level of recommendation: grade 1 (strong), quality of evidence: B (moderate)
+2.1.2. For patients with symptomatic varicose veins and
+axial reﬂux in the anterior accessory or posterior
+accessory great saphenous vein, who are candidates for intervention, we suggest superﬁcial
+venous intervention over compression stockings.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+2.1.3. For patients with symptomatic varicose veins and
+axial reﬂux in the superﬁcial truncal veins, we suggest compression therapy for primary treatment if
+the patient’s ambulatory status and underlying
+medical conditions warrant a conservative approach
+or, if the patient prefers conservative treatment, for
+either a trial period or deﬁnitive management.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+2.2.1. For patients with symptomatic varicose veins and
+axial reﬂux in the great saphenous vein, who are
+candidates for intervention, we recommend treatment with endovenous ablation over high ligation
+and stripping of the great saphenous vein because
+of less postprocedure pain and morbidity and an
+earlier return to regular activity.
+Level of recommendation: grade 1 (strong), quality of evidence: B (moderate)
+2.2.2. For patients with symptomatic varicose veins and
+axial reﬂux in the small saphenous vein, who are
+candidates for intervention, we recommend treatment with endovenous ablation over ligation and
+stripping of the small saphenous vein because of
+less postprocedure pain and morbidity and an
+earlier return to regular activity.
+Level of recommendation: grade 1 (strong), quality of evidence: C (low to very low)
+2.2.3. For patients with symptomatic varicose veins and
+axial reﬂux in the anterior accessory or posterior
+accessory great saphenous vein, who are candidates
+for intervention, we suggest treatment with endovenous ablation, with additional phlebectomy, if
+needed, over ligation and stripping of the accessory
+great saphenous vein because of less postprocedure
+pain and morbidity and an earlier return to regular
+activity.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+
+2.3.1. For patients with symptomatic varicose veins and
+axial reﬂux in the great or small saphenous vein,
+we recommend treatment with ligation and stripping of the saphenous vein if technology or expertise
+in endovenous ablation is not available or if the
+venous anatomy precludes endovenous treatment.
+Level of recommendation: grade 1 (strong), quality of evidence: B (moderate)
+2.3.2. For patients with symptomatic varicose veins and
+axial reﬂux in the anterior accessory or the posterior
+accessory great saphenous vein, we suggest treatment with ligation and stripping of the accessory
+great saphenous vein, with additional phlebectomy, if needed, if technology or expertise in endovenous ablations is not available or if the venous
+anatomy precludes endovenous treatment.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+2.4.1. For patients with symptomatic varicose veins and
+axial reﬂux in the great saphenous vein who place
+a high priority on the long-term outcomes of treatment (quality of life and recurrence), we suggest
+treatment with endovenous laser ablation, radiofrequency ablation, or high ligation and stripping over
+physician-compounded ultrasound-guided foam
+sclerotherapy.
+Level of recommendation: grade 2 (weak) quality of evidence: B (moderate)
+2.4.2. For patients with symptomatic varicose veins and
+axial reﬂux in the small saphenous vein who place
+a high priority on the long-term outcomes of treatment (quality of life and recurrence), we suggest
+treatment with laser ablation, radiofrequency ablation, or ligation and stripping from the knee to the
+upper or mid-calf over physician-compounded ultrasound-guided foam sclerotherapy.
+Level of recommendation: grade 2 (weak) quality of evidence: C (low to very low)
+2.4.3. For patients with symptomatic varicose veins and
+axial reﬂux in the anterior accessory or posterior
+accessory great saphenous vein who place a high
+priority on the long-term outcomes of treatment
+(quality of life and recurrence), we suggest treatment of the reﬂuxing superﬁcial trunk with endovenous laser ablation, radiofrequency ablation, or
+high ligation and stripping, with additional phlebectomy, if needed, over physician-compounded
+ultrasound-guided foam sclerotherapy.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+
+GUIDELINE 3.
+3.1.1. For patients with symptomatic axial reﬂux of the great
+saphenous vein, we recommend both thermal and
+nonthermal ablation from the groin to below the
+knee, depending on the available expertise of the
+treating physician and the preference of the patient.
+Level of recommendation: grade 1 (strong), quality of evidence: B (moderate)
+
+234
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+3.1.2. For patients with symptomatic axial reﬂux of the
+small saphenous vein, we recommend both thermal and nonthermal ablation from the knee to
+the upper or mid-calf, depending on the available
+expertise of the treating physician and the preference of the patient.
+Level of recommendation: grade 1 (strong), quality of evidence: C (low to very low)
+3.1.3. For patients with symptomatic axial reﬂux of the anterior accessory or posterior accessory great saphenous
+vein, we suggest either thermal or nonthermal ablation, with additional phlebectomy, if needed,
+depending on the available expertise of the treating
+physician and the preference of the patient.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+
+GUIDELINE 4.
+4.1.1. For patients with varicose veins (CEAP class C2) who
+have signiﬁcant, symptomatic axial reﬂux of the great
+or small saphenous vein, we recommend against
+treatment of incompetent perforating veins
+concomitant with initial ablation of the superﬁcial
+truncal veins.
+Level of recommendation: grade 1 (strong), quality of evidence: C (low to very low)
+4.1.2. For patients with varicose veins (CEAP class C2) who
+have signiﬁcant, symptomatic axial reﬂux of the
+anterior accessory or posterior accessory great
+saphenous vein, we suggest against treatment of
+incompetent perforating veins concomitant with
+initial ablation of the superﬁcial truncal veins.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+4.2. For patients with varicose veins (CEAP class C2) and
+persistent or recurrent symptoms after previous
+complete ablation of incompetent superﬁcial truncal veins, we suggest treatment of perforating vein
+incompetence if it is the origin of the symptomatic
+varicose tributaries.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+
+GUIDELINE 5.
+5.1.1. For patients with symptomatic reﬂux in the great or
+small saphenous vein and associated varicosities, we
+recommend ablation of the reﬂuxing venous trunk
+and concomitant phlebectomy or ultrasoundguided foam sclerotherapy of the varicosities with
+physician-compounded foam or commercial polidocanol endovenous microfoam.
+Level of recommendation: grade 1 (strong); quality of evidence: C (low to very low)
+5.1.2. For patients with symptomatic reﬂux in the anterior
+accessory or posterior accessory great saphenous
+vein, we suggest ablation of the reﬂuxing venous
+trunk
+and
+concomitant
+phlebectomy
+or
+ultrasound-guided foam sclerotherapy of the
+
+varicosities with physician-compounded foam or
+commercial polidocanol endovenous microfoam.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+5.2.1. For patients with symptomatic reﬂux in the great or
+small saphenous vein, we suggest ablation of the
+reﬂuxing venous trunk and staged phlebectomy or
+ultrasound-guided foam sclerotherapy of the varicosities only if anatomic or medical reasons present. We
+suggest shared decision-making with the patient.
+Level of recommendation: grade 2 (weak); quality of evidence: C (low to very low)
+5.2.2. For patients with symptomatic reﬂux in the anterior accessory great saphenous vein or posterior
+accessory great saphenous vein, we suggest ablation of the reﬂuxing venous trunk and staged phlebectomy or ultrasound-guided foam sclerotherapy
+of the varicosities only if anatomic or medical reasons present. We suggest shared decision-making
+with the patient.
+Level of recommendation: grade 2 (weak), quality of evidence: C (low to very low)
+5.3. For patients with symptomatic reﬂux in the major
+superﬁcial venous trunks and associated varicosities
+undergoing initial ablation alone, we recommend
+that patients be followed up for $3 months to assess
+the need for staged phlebectomy or ultrasoundguided sclerotherapy for persistent or recurrent
+symptoms. Longer follow-up is recommended for
+patients with recurrent symptoms and for patients
+who participate in clinical trials.
+Level of recommendation: ungraded good clinical practice
+During the past two decades, the evaluation and minimally invasive endovenous management of varicose veins
+and more advanced forms of lower extremity chronic
+venous insufﬁciency have progressed. The number of
+endovenous procedures, including thermal and
+nonthermal interventions, has increased rapidly,1-3 and
+>90% of these have been performed in an ofﬁce setting
+as outpatient procedures.4 In the United States, between
+2005 and 2014, the total annual claims for venous procedures in the Medicare fee-for-service beneﬁciaries
+increased from 95,206 to 332,244, for a compound annual
+growth rate of 15%.4 With the report of the 5-year followup data from multiple, prospective randomized
+controlled trials (RCTs)5-13 and the 10-year follow-up of
+one of the RCTs,14 the long-term effectiveness of different
+procedures is now available to help physicians make
+informed decisions on treatment recommendations. The
+widely accepted and frequently used CEAP (Clinical presentation, Etiology, Anatomy, Pathophysiology) classiﬁcation and reporting standards were recently updated,15
+and a multiple society Delphi consensus document was
+published on the appropriate use criteria for the management of chronic venous disease (CVD).16 The assessment
+of early and late results using patient-reported outcomes
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+235
+
+Volume 11, Number 2
+
+has also improved, and the use of generic and diseasespeciﬁc quality of life (QoL) instruments has become the
+reference standard for outcomes assessment.17-19
+In 2011, the Society for Vascular Surgery (SVS) and the
+American Venous Forum (AVF) published the ﬁrst
+evidence-based guidelines on “the care of patients with
+varicose veins and associated chronic venous diseases.”20
+With the improvement of imaging studies and minimally
+invasive technology, the method has also improved,
+enabling the reporting of guidelines that incorporate
+new indications and technology. Several new venous clinical practice guidelines were published during the past
+decade, with the recommendations updated as new evidence emerged.21-27 To collect the latest evidence on the
+evaluation and management of patients with CEAP class
+C2 varicose veins, the American Vein and Lymphatic Society joined the SVS and AVF and commissioned an independent health science group to perform a new
+systematic review and meta-analysis.19 All recommendations in part I of the present clinical practice guideline
+were determined from the scientiﬁc evidence provided
+by the systematic review and meta-analysis.
+
+METHODS
+All treatment recommendations are in accordance with
+the GRADE (grading of recommendations, assessment,
+development, and evaluation) method.28,29 This approach
+has been outlined in previous SVS guideline documents
+and includes two components.28 The ﬁrst component is
+to determine the quality of the evidence underlying the
+recommendation (A, high; B, moderate; C, low to very
+low), and the second is to determine the strength of the
+recommendation (1, strong; 2, weak).
+The ﬁrst component of the GRADE system is to determine the quality of the evidence (A-C) as a reﬂection of
+the degree of conﬁdence in the estimated treatment effect. Rating the quality of the evidence (also termed the
+certainty of evidence) as A, B, or C starts with the study
+design. Because they are less subject to bias, RCTs will
+have the highest level of evidence, with other sources of
+evidence, such as observational studies, ranked lower in
+the hierarchy. This rating can be downgraded when (1)
+the RCT has serious methodologic limitations such as
+inadequate blinding, allocation concealment, or loss to
+follow-up; (2) the results were inconsistent among the
+RCTs; (3) the RCTs were indirectly relevant (ie, did not
+directly apply to the patients, interventions, or outcomes
+of interest); (4) the results were imprecise owing to the
+small number of studies and events, or wide conﬁdence
+intervals for both beneﬁts and harm were present; and
+(5) a reporting bias was likely to be present.28,29 For grade
+A recommendations, conﬁdence in the treatment effect is
+high, and further research would be unlikely to change
+the estimate of effect. In contrast, for grade C recommendations, further research would be very likely to affect the
+estimate of the effect.
+
+The second component of GRADE is to determine the
+strength of a recommendation, which includes an assessment of the relative balance between the potential beneﬁts
+and harm of an intervention, patient values and preferences, and other contextual factors. The implications of a
+grade 1, or strong recommendation, are that the potential
+beneﬁts of an intervention clearly outweigh the potential
+harms and burdens; and virtually all well-informed patients
+would choose such an intervention, and the physician can
+conﬁdently recommend the treatment without a detailed
+knowledge of the underlying data. In contrast, for grade 2
+or weak recommendations, the beneﬁts and risks will be
+more balanced or uncertain; thus, different patients could
+choose different treatment options according to their
+values and preference. The physician must be familiar
+with the underlying data before making such a recommendation and should counsel patients appropriately. The present guidelines have used the word “recommend” for grade
+1 or strong recommendations and the word “suggest” for
+grade 2 or weak recommendations. It should also be recognized that, in most cases, guidelines will be developed from
+the results of studies of average patients and that a deviation from the guidelines could be necessary under unusual
+circumstances.
+The committee also made several speciﬁc technical
+remarks to facilitate adoption and implementation of
+the new updated guidelines and several ungraded
+good practice statements.30 Because a new systematic
+review of these remarks and good practice statements
+could not be performed, these were based on the committee’s clinical expertise, knowledge of the literature,
+and studies that had not met the criteria to be included
+in the systematic review. Some of these statements
+were adopted from the 2011 guidelines, if new information was not available.20 The present document used
+the terminology established in the updates of the
+CEAP classiﬁcations,15,31 the Vein Glossary,32 the VEINTERM document,33 and “the 2020 appropriate use
+criteria for chronic lower extremity venous disease”16
+(Supplementary Table I, online only).
+Evidence to decision framework. Evidence to decision
+framework tables that addressed the decision criteria
+were constructed for each recommendation.34 These
+tables address the balance of the beneﬁts and harm,
+certainty of the evidence, patient values, feasibility,
+and acceptability of the recommended actions
+(Supplementary Tables II-VI, online only). Patient preferences regarding the relative importance of different
+aspects of their care vary greatly and must be considered when evaluating treatment approaches. In a
+pre-evaluation survey of 111 patients from the United
+Kingdom, most of the patients (56%) were not concerned about missing work, and the importance of
+postoperative discomfort and risk of recurrence varied.35 Because 80% of the patients reported that their
+
+236
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+treatment decision would be inﬂuenced by the
+opinion of their treating physician, it is important that
+physician preferences be recognized and that the risks
+and beneﬁts of all treatment options are discussed.
+Another study, which had only considered the early
+postoperative period, found that out-of-pocket expenses were the most important factor for many patients, followed in order by postoperative discomfort,
+risk of adverse events, time to return to normal activity,
+number of skin punctures required for tumescent
+anesthesia, and number of required treatment visits.36
+Most patients with CEAP class C2 symptomatic varicose
+veins will recognize the need for long-term follow-up
+vein care. The panel considered mortality, venous thromboembolism, anaphylactic shock, or stroke as extremely
+rare but the most severe outcomes, followed by less severe outcomes such as wound complications, infection,
+allergy, and varicose vein recurrence.
+The recommendations in the present guidelines were
+based on several assumptions. First, patient-centered outcomes such as QoL and recurrent varicose veins are more
+important than surrogate outcomes such as anatomic
+closure rates. Signiﬁcant heterogeneity in the reporting
+of recurrence was found in previous systematic reviews,
+with trials variously reporting overall limb recurrence vs
+site-speciﬁc recurrence and clinical recurrence vs ultrasound recurrence.37 Because the clinical relevance of ultrasound imaged recurrence is unclear, such data
+should be interpreted with caution. Second, although
+short-term outcomes such as postoperative pain, perioperative complications, and return to work and usual activities are important for many patients, superﬁcial venous
+disease is a chronic disease, and long-term patient outcomes should be prioritized over the short-term clinical
+outcomes. The committee elected to prioritize the outcomes in the following order: (1) QoL at 5 years; (2) recurrence and need for reintervention at 5 years; (3) major
+and minor perioperative adverse events; (4) postoperative
+pain and return to work and usual activities; (5) anatomic
+closure at 5 years; and (6) cost of the procedure. The
+guideline committee and the systematic review did not
+include a formal cost-effectiveness analysis because
+almost all reported and reviewed studies had been performed in the United Kingdom and other European countries, where the cost and reimbursement system differs
+from that in the United States.19 Therefore, the costeffectiveness judgments in the evidence to decision tables were usually labeled as unknown.
+Evidence synthesis. The guideline panel for the present
+document (part I) prioritized ﬁve critical questions that are
+most relevant to the current management of patients with
+varicose veins. The questions were as follows: (1) the diagnostic utility of duplex ultrasound (DU) in adults with varicose veins (class C2-C6); (2) high ligation and surgical
+stripping vs any endovenous ablation technique for
+
+patients with varicose veins and axial incompetence of the
+great saphenous vein (GSV) or small saphenous vein (SSV);
+(3) thermal vs nonthermal endovenous ablation technique
+outcomes for patients with varicose veins and axial
+incompetence of the GSV or SSV; (4) incompetent perforating vein ablation vs no perforator ablation for patients
+with simple varicose veins (CEAP class C2) with or without
+axial incompetence of the GSV or SSV; and (5) treatment of
+varicose tributaries with phlebectomy or sclerotherapy,
+concomitant with, or staged after, endovenous ablation of
+the incompetent GSV or SSV.
+The Mayo Clinic Evidence-Based Practice Center was
+asked to conduct a systematic review and meta-analysis
+of the latest data available to address these questions.19
+For the review, comprehensive searches were conducted
+through December 7, 2020, using the MEDLINE, Embase,
+Scopus, the National Library of Medicine (PubMed), and
+the Cochrane databases. All recommendations for these
+clinical practice guidelines were based on this systematic
+review and meta-analysis, which have been reported
+together with these guidelines.19 Additional major studies,
+RCTs, and Cochrane and other systematic reviews and
+meta-analyses, reported on-line or in print before submission of these guidelines, were also reviewed by the writing
+committee.
+
+GUIDELINES
+Guideline 1. Diagnostic evaluation of vein
+incompetence
+Guideline 1.1: For patients with CVD of the lower extremities, we recommend DU scanning as the diagnostic test of choice to evaluate for venous reﬂux.
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+Rationale. DU is a noninvasive diagnostic test that is
+safe, sensitive, speciﬁc, and cost-effective to evaluate
+vein incompetence in patients with varicose veins. The
+test is objective and reproducible but requires technical training and experience to perform a thorough
+and accurate study. DU also requires physician expertise to correctly interpret a DU study. DU was recommended as the diagnostic test of choice for patients
+with CVD in previous SVS/AVF guidelines and in a
+consensus document from the International Union of
+Phlebology.20,38,39 The 2016 Medicare Evidence Development and Coverage Advisory Committee panel40
+and an earlier systematic review,41 however, did not
+ﬁnd sufﬁcient evidence to support or refute the recommendations to use DU as the ﬁrst-line diagnostic
+test to evaluate CVD.
+Evidence. Combining the data from two prospective
+comparative studies,42,43 a recent systematic review
+found that using DU scanning for the evaluation of CVD
+changed the management for 10% to 25% of the patients,
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+237
+
+Volume 11, Number 2
+
+who had undergone hand-held continuous wave Doppler
+(HHD) ultrasound (Table I).19 Mercer et al42 compared the
+HHD ultrasound ﬁndings with those of DU and found that
+the HHD sensitivity to detect reﬂux was only 73% at the
+saphenofemoral junction (SFJ), 77% at the saphenopopliteal junction (SPJ), and 51% for thigh perforator veins.
+Thus, treatment determined using HHD ultrasound
+would have left residual sites of reﬂux in 24% of the cases.
+Rautio et al45 observed that the HHD ultrasound sensitivity was 56% at the SFJ and only 23% at the SPJ and
+concluded that the DU ﬁndings would modify the treatment decision for 9.1%. Darke et al44 found better HHD
+ultrasound sensitivity at the SFJ (95%) but concluded that
+HHD ultrasound was not satisfactory for the evaluation of
+reﬂux at the SPJ. Another study by Wills et al47 found HHD
+ultrasound sensitivity of 71% at the SFJ and concluded
+that 29% of the limbs would have had sites of reﬂux left
+untreated without a DU evaluation. Dhillon et al46 recently
+compared HHD ultrasound with point-of-care portable
+color Doppler ultrasound in assessing venous reﬂux.
+Although portable color Doppler ultrasound had had
+marginally greater sensitivity than HHD ultrasound and a
+better negative predictive value above the knee, both
+tests had had an w30% negative predictive value, which is
+inadequate for the exclusion of signiﬁcant reﬂux. Similar
+to several other studies and reviews,48,49 we recommend
+routine DU scanning for deﬁnitive evaluation of patients
+for venous reﬂux. The relevant PICO (patients, intervention,
+comparator, outcome) data of ﬁve studies are summarized in Table I.42-46
+Of the other imaging modalities, descending contrast
+venography will be useful for some patients to diagnose
+reﬂux in the superﬁcial veins.50 Ascending venography
+can provide additional information on the anatomy of
+the superﬁcial system. Also, in some cases, it could help
+intraoperatively to allow for complete ablation of the superﬁcial veins.51 However, in the era of high-resolution DU
+imaging and other less invasive diagnostic imaging
+studies, contrast venography is rarely used today for the
+preoperative evaluation of patients with varicose veins.
+Contrast venography, intravascular ultrasound, computed
+tomography, magnetic resonance imaging, and magnetic
+resonance venography have been reserved for the investigation of the anatomy and function of the deep venous
+system.52-54 Based on evidence of the systematic review
+and additional data from the literature, including the recommendations of the 2020 appropriate use criteria of
+multiple vascular societies,16 the panel strongly supports
+DU scanning as the current reference standard for the
+evaluation of reﬂux in patients with CVD.
+Implementation remarks for guideline 1.1
+1.1.a. Reﬂux is deﬁned as a minimum value >500 ms
+of reversed ﬂow in the superﬁcial truncal veins (GSV,
+SSV, anterior accessory GSV [AAGSV], posterior accessory GSV [PAGSV]) and the tibial, deep femoral, and
+perforating veins. A minimum value >1 second of
+
+reversed ﬂow is diagnostic of reﬂux in the common
+femoral, femoral, and popliteal veins.
+Van Bemmelen et al55 studied the duration of reﬂux
+in the femoral, popliteal, and tibial veins in 32 healthy
+patients in the supine and upright position using a Valsalva maneuver, proximal limb compression, and
+release of distal limb compression. The distal cuff
+deﬂation method was the most accurate and reproducible method to measure the duration of reﬂux.
+The reﬂux times for the standing patients
+were <500 ms for 95% of the patients.55 The data reported by Labropoulos et al,56 obtained using DU evaluation of 80 limbs of 40 healthy normal volunteers and
+60 limbs of 45 patients with CVD, showed that a minimum value for abnormally reversed venous ﬂow
+(reﬂux) in the GSV and SSV and tibial and deep
+femoral veins of >500 ms should be adopted as standard for the degree of reﬂux. A similar 500-ms value
+was also proposed and accepted as the minimum
+value for patients with incompetence of other superﬁcial truncal veins, including the AAGSV.57 A minimum
+value for signiﬁcant reﬂux in the femoral and popliteal
+veins of 1 second has also been deﬁned in multiple
+previous guidelines and consensus documents,20,27,38,39
+and our writing committee has also accepted it as a
+best practice statement.
+1.1.b. Axial reﬂux is deﬁned as uninterrupted retrograde venous ﬂow from the groin to the calf. Retrograde ﬂow can be in the superﬁcial or deep veins,
+with or without perforating veins. Junctional reﬂux
+will be limited to the SFJ or SPJ. Segmental reﬂux occurs in a portion of a superﬁcial or deep truncal vein.
+To deﬁne axial, junctional, and segmental reﬂux, we
+adopted the terminology deﬁned in the updates of the
+CEAP classiﬁcation,15,31 the Vein Glossary,32 and the
+VEIN-TERM document33 (Supplementary Table I, online
+only). “Complete axial reﬂux in a symptomatic patient is
+pathognomonic, but junctional reﬂux alone is an indication for ablation. Conversely, a competent junction may
+be associated with an incompetent, pathologic GSV
+distal to the terminal valve and the source of varicosity
+in such patients can be either pelvic vein incompetence
+or an incompetent thigh perforating vein.”
+1.1.c. A deﬁnition of “pathologic” perforating veins in
+patients with varicose veins (CEAP clinical class C2) includes those with an outward ﬂow duration of
+$500 ms and a diameter of $3.5 mm on DU.
+For patients with CVD (CEAP class C2-C6), the minimal
+values suggested for clinically signiﬁcant incompetent
+perforating veins (IPVs) were 350 ms and 500 ms.56,58,59
+Most guidelines and consensus documents have agreed,
+however, to deﬁne perforating vein incompetence as
+>500-ms outward ﬂow during calf relaxation or release
+after distal compression.20,38,39 Labropoulos et al60 reported 96% speciﬁcity and 73% sensitivity for DU scanning in predicting for incompetence of the perforating
+
+238
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+veins in patients with a vein diameter of 3.9 mm. In their
+study, one third of the incompetent perforator veins
+(IPVs) were <3.9 mm in size. Sandri et al,61 however, reported that >90% of the IPVs were >3.5 mm in size.
+The SVS/AVF venous guidelines deﬁned “pathologic”
+perforating veins as those with an outward ﬂow of
+>500 ms, with a diameter of $3.5 mm, located beneath
+a healed or open venous ulcer (for patients with CEAP
+class C5-C6).20,23,38 For C4 patients, IPVs should be
+beneath areas of impending skin breakdown or areas
+of skin vulnerability.38 These recommendations remain
+current.
+Guideline 1.2.
+1.2.1. We recommend that evaluation of reﬂux with DU
+be performed in an Intersocietal Accreditation
+Commissione or American College of Radiologye
+accredited vascular laboratory by a credentialed ultrasonographer, with the patient standing whenever possible.
+A sitting or reverse Trendelenburg position can be used if
+the patient cannot stand.
+Level of recommendation: ungraded good practice
+statement
+1.2.2. We recommend that for evaluation of reﬂux
+with DU, either a Valsalva maneuver or distal
+augmentation should be used to assess the common
+femoral vein and SFJ and distal augmentation should
+be used with either manual compression or cuff deﬂation for evaluation of more distal segments. Superﬁcial reﬂux must be traced to its source, including the
+saphenous junction, truncal or perforating veins, or
+pelvic origin varicose veins. The study should be interpreted by a physician trained in venous DU
+interpretation.
+Level of recommendation: ungraded good practice
+statement
+Rationale and evidence. The technique of correct DU
+scanning to investigate venous reﬂux has been previously
+described in detail.56,59,62 A signiﬁcant part of the test
+should be performed with the patient in the upright
+position to determine the degree of reﬂux and venous
+diameter.56 Labropoulos et al56 reported the DU results
+for patients examined in the supine and standing positions. DU of 37 vein segments showed reﬂux of >500 ms
+with the patients in the supine position. However, when
+the study was repeated with the patient standing, 22
+segments
+(59%)
+showed
+nonsigniﬁcant
+reﬂux
+of <500 ms.56 The investigators concluded that “standing
+allows more deﬁnitive closure of competent valves.” To
+investigate reﬂux, manual compression of the thigh and
+calf is suggested to assess reﬂux. In addition, both the
+Valsalva technique and rapid cuff deﬂation have been
+recommended.59 Masuda et al63 found that reﬂux in the
+upper thigh veinsdcommon femoral, femoral, deep
+femoral, and GSVs was similarly demonstrated in both
+normal and symptomatic states using cuff deﬂation and
+
+the Valsalva technique. To standardize the evaluation of
+reﬂux, the panel recommends the generally adopted
+guidelines of using a Valsalva maneuver or distal
+augmentation to assess the common femoral vein and
+SFJ and either manual compression or standardized cuff
+deﬂation distal to the segment of interest to assess the
+more distal veins.56,62
+Guideline 1.3.
+1.3.1. We recommend that a complete DU scanning
+examination for venous reﬂux in the lower extremities
+includes transverse grayscale images without and with
+transducer compression of the common femoral vein,
+proximal, mid, and distal femoral veins, popliteal veins,
+the SFJ, and the GSV and SSV.
+Level of recommendation: ungraded good practice
+statement
+1.3.2. We recommend that a complete DU scanning
+examination for venous reﬂux in the lower extremities
+includes measurement of the spectral Doppler waveform using calipers. Reﬂux at baseline and in response
+to Valsalva or distal augmentation in the common
+femoral vein and at the SFJ should be document.
+Reﬂux in response to distal augmentation in the midfemoral and popliteal veins, GSV at the proximal thigh
+and knee, in the AAGSV and SSV at the SPJ or proximal
+calf should also be documented.
+Level of recommendation: ungraded good practice
+statement
+1.3.3. We recommend that a complete DU scanning
+examination for venous reﬂux in the lower extremities
+includes diameter measurements with the patient’s
+leg in the dependent position, from the anterior to posterior wall, at the SFJ, in the GSV at the proximal thigh
+and knee, in the AAGSV, and in the SSV at the SPJ or
+proximal calf. Images of both normal and abnormal
+ﬁndings should be documented in the patient’s
+records.
+Level of recommendation: ungraded good practice
+statement
+Rationale. To use DU scanning for evaluation and
+follow-up of patients, appropriate documentation of
+both normal and abnormal ﬁndings in the patient’s
+records is mandatory. A complete DU scanning examination for CVD should include visualization, compressibility, venous ﬂow with and without augmentation,
+measurement of duration of reﬂux, and measurements
+of the vein diameter.64 The vein diameter should be
+acquired in the dependent position as a transverse,
+anterior wall to posterior wall measurement. Spectral
+Doppler waveforms with the extremity or extremities in
+a dependent position demonstrating the baseline ﬂow
+and response to distal augmentation must be recorded.
+If present, the reﬂux duration of retrograde ﬂow must
+be measured with calipers in the following segments:
+common femoral vein, SFJ, GSV at the proximal thigh
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+239
+
+Volume 11, Number 2
+
+and knee, femoral vein at the mid-thigh, popliteal vein,
+AAGSV and PAGSV (when identiﬁed), and SSV at the
+SPJ or at the mid-calf, if SPJ is not identiﬁed.65 Measurements of reﬂux in the calf veins is optional. Axial
+reﬂux is deﬁned as uninterrupted retrograde venous
+ﬂow from the groin to the calf, either to the upper calf
+or to the ankle. Superﬁcial reﬂux will be conﬁned to the
+superﬁcial venous system, deep reﬂux to the deep
+venous system, and combined reﬂux can involve any
+combination of the three main venous systems (superﬁcial, deep, perforating). Some investigators have suggested documenting the extent (length) of the
+incompetent veins and the distance of the incompetent
+truncal vein from the skin.66
+Evidence. Several studies have investigated the association of the vein diameter with reﬂux, CEAP clinical
+class, and outcome of intervention for patients with
+varicose veins.67-74 Kim et al67 evaluated 198 limbs of
+99 patients and found that the diameter of the GSV in
+the lower thigh with reﬂux >0.5 seconds with rapid
+cuff deﬂation in standing patients was signiﬁcantly
+larger than that of the GSVs without reﬂux (4.7 mm vs
+4.2 mm; P < .001). The cutoff value for the GSV
+diameter that was associated with reﬂux in their study
+was 5 mm (P ¼ .025).67 Another study from Korea
+investigated 777 patients and found 5.05 mm and
+3.5 mm to be the best positive predictive value for
+reﬂux in the GSV and SSV, respectively.70 Others,
+however, found that ablation of small (<5 mm)
+symptomatic GSVs provided clinical success in 83% of
+the limbs at 3 months, with signiﬁcant improvement
+in the venous clinical severity score (VCSS; median
+change, 2; interquartile range, 3 to 1).64
+A retrospective study of 728 limbs of 531 patients with
+CVD found a positive correlation between the vein diameter and reﬂux duration measured using DU and CEAP
+clinical class, VCSS, and HASTI (heaviness, achiness,
+swelling, throbbing, itching) score.75 Several other studies
+have provided evidence that the superﬁcial vein diameters correlate with the CEAP class and severity of CVD.71-73
+In a prospective observational study of 330 patients with
+symptomatic varicose vein, the vein diameter had a significant association with the VCSS (P ¼ .041); however, no other
+QoL or symptom measures were related to the vein
+diameter.76 Mendoza et al71 found that measurements at
+the proximal thigh, 15 cm distal to the groin, correlated
+better with reﬂux and were more sensitive and speciﬁc
+than were measurements at the SFJ. In a study of 152
+patients with varicose veins, a GSV diameter of 5.880 mm
+measured 5 cm distal to the SFJ using computed tomography with the patient in the supine position was the cutoff
+value for the prediction of reﬂux (sensitivity, 91.4%; speciﬁcity, 81.8%).77 The investigators concluded, however, that
+the vein diameter alone should not be used as an absolute
+reference for venous reﬂux.
+
+A high level of evidence on treatment decisions made using the vein diameter alone, however, is still lacking.
+Analyzing the data from 242 patients who had participated
+in a RCT, Attaran et al68 recently reported a poor correlation
+between the GSV diameter and baseline VCSS (R ¼ 0.004;
+P ¼ .95) and between the GSV diameter and VCSS improvement for #36 months of follow-up (R ¼ 0.04; P ¼ .55). Gibson
+et al,69 in a study of 91 patients, also found a weak correlation between an increasing GSV diameter and VCSS and
+no correlation between the GSV diameter and QoL scores,
+including the CIVIQ (chronic venous insufﬁciency QoL
+questionnaire) and VEINES for QoL and symptoms. These
+investigators concluded that using the GSV diameter as
+the sole criterion for determining the medical necessity
+for treatment of GSV reﬂux is inappropriate.69 To establish
+the minimal value for the diameter of incompetent superﬁcial truncal veins that could be used as a criterion for ablation, it is important to collect more data from patients for
+whom DU was performed with the leg in the dependent
+position, measured in the GSV at the proximal third of the
+thigh.
+Guideline 1.4.
+We recommend the use of the 2020 upgraded CEAP
+classiﬁcation of chronic venous disorders. The clinical
+or basic CEAP classiﬁcation can be used for clinical
+practice, and the full CEAP classiﬁcation system
+should be used for clinical research.
+Level of recommendation: ungraded good practice
+statement
+Rationale and evidence. Evaluation of the patients
+should include documentation of the clinical class of
+the chronic venous disorder. The panel recommends using the recently updated 2020 CEAP classiﬁcation system and reporting standards as a good practice
+statement (Table II).15 Each clinical class (C0-C6) can be
+further characterized with a subscript letter, according to
+the presence or absence of symptoms (S, symptomatic;
+A, asymptomatic; eg, C2A or C2S). Symptoms include
+aching, pain, tightness, skin irritation, heaviness, muscle
+cramps, and other complaints attributable to venous
+dysfunction.31 The basic CEAP classiﬁcation can be used
+for clinical practice, and the full CEAP classiﬁcation system should be used for clinical research. For patients
+with C2 disease (varicose veins), the most recent CEAP
+clinical classiﬁcation requires a different diagnostic and
+treatment strategy for recurrent varicose veins. Thus,
+such patients should now be identiﬁed with the
+subscript “r” for recurrence (ie, C2r).15
+Guideline 2. High ligation and surgical stripping vs
+endovenous ablation
+Guideline 2.1.
+2.1.1. For patients with symptomatic varicose veins
+and axial reﬂux in the GSV or SSV who are candidates
+for intervention, we recommend superﬁcial venous
+intervention over long-term compression stockings.
+
+240
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+2.1.2. For patients with symptomatic varicose veins
+and axial reﬂux in the AAGSV or PAGSV who are candidates for intervention, we suggest superﬁcial venous
+intervention over compression stockings.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+2.1.3. For patients with symptomatic varicose veins
+and axial reﬂux in the superﬁcial truncal veins, we suggest compression therapy for primary treatment if the
+patient’s ambulatory status and underlying medical
+conditions warrant a conservative approach, or if the
+patient prefers conservative treatment, for either a
+trial period or as deﬁnitive management.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. Compression garments of various strengths,
+in addition to a healthy lifestyle, weight loss, exercise, and
+the avoidance of prolonged standing or sitting, have long
+been recommended to patients with varicose veins to
+decrease the pain, discomfort, and swelling caused by
+the congestion due to reﬂuxing and dilated superﬁcial
+veins.20 Compression has been shown to decrease
+acute symptoms78; however, no evidence has shown that
+long-term compression is either curative or can arrest or
+reverse the progression of CVD. An arbitrary 3-month
+period of compression treatment before an intervention, often used by insurance companies before procedural authorization, also has not been supported by the
+scientiﬁc evidence.
+Evidence. A recent Cochrane review studied the effectiveness of compression stocking for patients with varicose veins.79 Data on 1021 patients with C2 to C4
+disease from 13 RCTs were analyzed. A variety of
+compression stocking ranging from 10 to 50 mm Hg had
+been used in the studies, and none had reported the QoL
+measures used to assess the outcomes. No side effects
+were reported. The review concluded that “there is
+insufﬁcient high-certainty evidence to determine
+whether or not compression stockings are effective as
+the sole and initial treatment of varicose veins in people
+without healed or active venous ulceration, or whether
+any type of stocking is superior to any other type.”79
+The clinical outcomes at 2 years after conservative treatment (lifestyle modiﬁcations and compression stockings)
+vs surgery (high ligation and saphenous stripping) were
+reported by Michaels et al80 in the randomized REACTIVE (randomised clinical trial, observational study and
+assessment of cost-effectiveness of the treatment of varicose veins) trial of 246 patients with varicose veins. At
+2 years, the patients who had undergone surgery to
+ablate the superﬁcial varicose veins had had signiﬁcant
+QoL beneﬁt based on the SF-6D (short-form six domains)
+
+and the EQ-5D scores.80 The improvement in symptoms
+and venous anatomy was also signiﬁcant. In the U.K.
+study reported by Ratcliffe et al,81 surgical treatment of
+varicose veins offered a modest health beneﬁt for relatively little additional National Health Service cost relative to conservative treatment.
+An additional randomized trial of 153 patients randomized to surgery or compression stockings found surgery
+to be associated with signiﬁcant decreases in the VCSS
+and health-related QoL compared with compression
+therapy.82 Others have also found that most patients
+will beneﬁt from surgery even after compression therapy
+has failed.83 In addition, in the United Kingdom, the conservative management of varicose veins was not found to
+be cost-effective.84,85 The consistency of the data supports a strong recommendation for surgical intervention
+instead of compressions stockings alone for those who
+are candidates for surgery and are willing to undergo
+an intervention to treat symptomatic incompetent superﬁcial truncal veins and varicose tributaries. No evidence is available to support the beneﬁt of a trial of
+3 months of compression therapy before offering surgical
+or endovenous intervention for most patients.
+Thus, the panel adopted the previous SVS/AVF guidelines20 and recommends intervention over compression
+stocking alone for those who are candidates for a procedure and willing to undergo an intervention to treat
+symptomatic incompetent superﬁcial truncal veins and
+varicose tributaries. The patient’s ambulatory status and
+any underlying medical conditions must be considered
+in making a treatment recommendation. The decisionmaking should be shared, and patients might elect to
+undergo a trial with compression or choose deﬁnitive
+treatment using compression alone.
+Guideline 2.2.
+2.2.1. For patients with symptomatic varicose veins
+and axial reﬂux in the GSV who are candidates for
+intervention, we recommend treatment with endovenous ablation over high ligation and stripping of the
+GSV because of less postprocedure pain and morbidity
+and an earlier return to regular activity.
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+2.2.2. For patients with symptomatic varicose veins
+and axial reﬂux in the SSV who are candidates for
+intervention, we recommend treatment with endovenous ablation over ligation and stripping of the SSV
+because of less postprocedure pain and morbidity
+and an earlier return to regular activity.
+Level of recommendation: grade 1 (strong), quality of
+evidence: C (low to very low)
+2.2.3. For patients with symptomatic varicose veins
+and axial reﬂux in the AAGSV or PAGSV who are candidates for intervention, we suggest treatment with
+endovenous ablation, with additional phlebectomy, if
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+241
+
+Volume 11, Number 2
+
+Table I. PICO (patients, intervention, comparison, outcome) data of studies conﬁrming beneﬁt of duplex ultrasound (DU) in
+evaluation of venous reﬂux
+Investigator
+
+Patients/limbs
+
+Intervention
+
+Comparison
+
+Outcome
+
+Study design
+
+1997
+
+100 Limbs; 73
+patients with
+varicose
+veins
+
+DU
+
+HHD
+
+HHD sensitivity: GSV reﬂux,
+95%; SSV reﬂux, 90%; HHD
+speciﬁcity: GSV reﬂux, 100%;
+SSV reﬂux, 93%; HHD was
+inadequate to plan
+treatment of SSV
+
+Single-center, crosssectional prospective
+study
+
+Mercer et al,39 1998
+
+89 Limbs; 61
+patients with
+primary
+varicose
+veins
+
+DU
+
+HHD
+
+HHD sensitivity: 73% at SFJ;
+77% at SPJ; 51% for TPs;
+surgery planned using HHD
+alone would have left
+residual reﬂux sites in 24%
+
+Single-center, crosssectional prospective
+study
+
+Rautio et al,43 2002
+
+62 Limbs; 49
+primary
+varicose
+veins
+
+DU
+
+HHD
+
+HHD sensitivity at SPJ, 64%;
+accuracy, 71%; DU changed
+treatment plan for 10% of
+limbs
+
+Single-center, crosssectional prospective
+study
+
+Rautio et al,45 2002
+
+142 Limbs; 111
+patients with
+primary
+varicose
+veins
+
+DU
+
+HHD
+
+HHD sensitivity: GSV reﬂux,
+56%; SSV reﬂux, 23%; HHD
+speciﬁcity: GSV reﬂux, 97%;
+SSV reﬂux, 96%; DU modiﬁed
+treatment plan in 9.1%
+
+Single-center, crosssectional prospective
+study
+
+Dhillon et al,46 2020
+
+241 Patients
+with venous
+reﬂux
+symptoms
+
+DU
+
+HHD and
+point-of-care
+PCD
+
+HHD sensitivity: AK, 68%; BK,
+94%; HHD speciﬁcity: AK,
+50%; BK, 12%; PCD sensitivity:
+AK, 69%; BK, 74%; PCD
+speciﬁcity: AK, 79%; BK, 58%;
+HHD and PCD were both
+inadequate alone for
+evaluation and exclusion of
+signiﬁcant venous reﬂux
+
+Single-center, crosssectional prospective
+study
+
+44
+
+Darke et al,
+
+AK, Above the knee; BK, below the knee; GSV, great saphenous vein; HHD, hand-held continuous-wave Doppler ultrasound; PCD, portable color
+Doppler ultrasound; SFJ, saphenofemoral junction; SPJ, saphenopopliteal junction; SSV, small saphenous vein; TPs, thigh perforators.
+
+needed, over ligation and stripping of the accessory
+GSV because of less early pain and morbidity and an
+earlier return to regular activity.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. All the treatment modalities discussed in
+this section can be used to successfully treat symptomatic reﬂux of the GSV (Fig 1). Surgical treatment includes high ligation of the GSV or SSV at the SFJ or at the
+SPJ, respectively, and invagination stripping of the distal
+portion of the vein with the patient under general
+anesthesia or tumescent local anesthesia. Contemporary
+surgical and endovenous procedures are universally
+performed with DU assistance. Endovenous interventions, including thermal and nonthermal ablations, are minimally invasive percutaneous procedures
+that can be performed in an outpatient setting. Thermal
+ablation can be performed using laser technology with
+different types and wavelengths of laser ﬁbers (endovenous laser ablation [EVLA])86,87 or can be performed
+via radiofrequency ablation (RFA)64,88,89 using local
+tumescent anesthesia. The most frequently used
+
+devices in the United States include, among others,
+the VenaCure 1470-nm laser system (Angiodynamics,
+Waterlooville, UK) and the Closurefast RFA system
+(Medtronic, Minneapolis, MN).
+Nonthermal (and nontumescent) ablation methods
+include endovenous cyanoacrylate closure (CAC; VenaSeal; Medtronic),12,90,91 the VariClose Vein Sealing System
+(Biolas, Ankara, Turkey),92,93 and the MOCA (mechanicochemical ablation) procedure, using the ClariVein device
+(MeritMedical, South Jordan UT).94-97 Ultrasound-guided
+foam sclerotherapy (UGFS) can also be an effective
+method to close superﬁcial truncal and varicose veins using either physician-prepared sodium tetradecyl sulfate
+or polidocanol foam made at the bedside using the Tessari technique,98,99 or commercially prepared polidocanol endovenous microfoam (PEM; Varithena; Boston
+Scientiﬁc, Marlborough, MA).100 The Tessari technique is
+used to prepare foam at the bed side, using a threeway stopcock and two syringes, mixing air with the liquid
+sclerosing solution to create foam.98 Varicose tributaries
+and tortuous superﬁcial truncal veins such as the accessory saphenous veins can be removed under local or
+tumescent anesthesia using ambulatory phlebectomy
+
+242
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Table II. Updated Clinical, Etiology, Anatomy and Pathology (CEAP) classiﬁcation of chronic venous disorders
+Class
+
+Description
+a
+
+Clinical
+C0
+
+No visible or palpable signs of venous
+disease
+
+C1
+
+Telangiectasias or reticular veins
+
+C2
+
+Varicose veins
+
+C2r
+
+Recurrent varicose veins
+
+C3
+
+Edema
+
+C4
+
+Changes in skin and subcutaneous tissue
+due to chronic venous insufﬁciency
+
+C4a
+
+Pigmentation or eczema
+
+C4b
+
+Lipodermatosclerosis or atrophie blanche
+
+C4c
+
+Corona phlebectatica
+
+C5
+
+Healed venous ulcer
+
+C6
+
+Active venous ulcer
+
+C6r
+
+Recurrent active venous ulcer
+
+Etiology
+Ec
+
+Congenital
+
+Ep
+
+Primary
+
+Es
+
+Secondary (post-thrombotic)
+
+En
+
+No venous etiology identiﬁed
+
+Anatomy
+As
+
+Superﬁcial veins
+
+Ap
+
+Perforator veins
+
+Ad
+
+Deep veins
+
+An
+
+No venous location identiﬁed
+
+Fig 1. Anatomy of great saphenous vein (GSV) and its
+tributaries. a., Artery; n., nerve; Superf., superﬁcial; v., vein.
+Used with permission of Mayo Foundation for Education
+and Research, all rights reserved.
+
+Pathophysiology
+Pr
+
+Reﬂux
+
+Po
+
+Obstruction
+
+Adapted, with permission, from Lurie et al.15
+a
+Each clinical class can be subcharacterized by a subscript letter
+indicating the presence (symptomatic [s]) or absence (asymptomatic
+[a]) of symptoms attributable to venous disease; symptoms can
+include ache, pain, tightness, skin irritation, heaviness, muscle cramps,
+and other complaints attributable to venous dysfunction.
+
+interventions, and generic and disease-speciﬁc QoL. The
+decision to recommend minimally invasive endovenous
+ofﬁce procedures over contemporary high ligation and
+saphenous stripping in this guideline was determined
+by the differences in early outcomes, including periprocedural pain and discomfort, need for analgesia medications, early minor adverse events, and early QoL
+measures, and an earlier return to regular activities.
+
+with vein hooks or forceps through multiple small stab
+wounds (mini- or microphlebectomy). Saphenous veinsparing operations (ASVAL [ambulatory selective varicose
+vein ablation under local anesthesia], CHIVA [Cure conservatrice et Hemodynamique de l’Insufﬁsance Veineuse
+en Ambulatoire (conservative and hemodynamic treatment of venous insufﬁciency in the ofﬁce)]) and cryostripping were not analyzed in our systematic review.
+For evidence of the effectiveness of these procedures,
+the readers are referred to previous guidelines.20,27
+The important outcomes measures used to compare
+the procedures performed in all studies included
+anatomic closure, complications, time to return to
+normal activity, recurrence, need for secondary
+
+Evidence. A systematic review by Farah et al19 analyzed
+the data from 30 RCTs, reported in 44 studies,5-9,13,99,101-136
+and the data from 16 observational studies11,137-151 that
+had compared the results of surgical treatment with
+those of endovenous ablation using any of the techniques. The systematic review found that high ligation
+and saphenous stripping was associated with a lower
+likelihood of being pain free (relative risk [RR], 0.39; 95%
+conﬁdence interval [CI], 0.29-0.54)137,145 and an increased
+need for analgesia (RR, 1.83; 95% CI, 1.17-2.86)138,140 than
+EVLA.19 In the CLASS (comparison of laser, surgery, and
+foam sclerotherapy) RCT, which compared foam, laser,
+and open surgical treatments, Brittenden et al99 reported signiﬁcantly fewer early adverse events after laser
+ablation than after surgery (7% vs 1%; P < .001). Successful ablation of the saphenous vein, however, was less
+
+Pr,o
+
+Reﬂux and obstruction
+
+Pn
+
+No venous pathophysiology identiﬁable
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+243
+
+Volume 11, Number 2
+
+common in the foam group than in the open surgery
+group (P < .001). At 6 weeks, patients who had undergone surgery had had lower SF-36 (short-form 36-item)
+scores, indicating worse generic QoL than that of those
+who had undergone laser treatment. The differences
+were signiﬁcant for bodily pain, vitality, and role limitations due to emotional and physical health. These differences between groups were no longer present at
+6 months.99 In the systematic review, no difference was
+found in the disease-speciﬁc QoL scores when high
+ligation and saphenous stripping was compared with
+RFA at 1 month.19,114,131
+In the EVOLVeS (evaluation of cinacalcet hydrochloride
+therapy to lower cardiovascular events) RCT, the time to
+return to normal activities was signiﬁcantly better after
+RFA than after high ligation and saphenous stripping
+(mean, 1.15 days vs 3.89 days; P ¼.02). In the RFA group,
+80.5% of the patients had returned to their routine activities of daily living within 1 day compared with 46.9% of
+the patients in the high ligation and saphenous stripping
+group (P < .01).113 In a recent RCT that had compared
+high ligation and saphenous stripping with CAC ablation
+of the GSV in 126 patients, the closure rate was 100% in
+both groups at 3 months. However, the postoperative
+pain and ecchymosis grades were signiﬁcantly lower in
+the CAC group.217
+Both open surgical stripping and the currently available
+endovenous procedures are durable procedures. The 5year results from the CLASS study conﬁrmed the equally
+improved disease-speciﬁc QoL in both the surgery and
+the laser groups and both were superior to the results after physician-compounded foam.10 Using a probabilistic
+cost-effectiveness model iteration, their results favored
+laser ablation over foam ablation. When the main
+outcome measure was the occlusion rate of the treated
+GSV, the 5-year results were similar after high ligation
+and saphenous stripping and EVLA (96% vs 89%) but
+signiﬁcantly worse after UGFS (51%; P < .001).10 A metaanalysis of nine RCTs by Kheirelseid et al37 showed that
+at 5 years RFA and EVLA are as effective as surgery for
+treating saphenous vein insufﬁciency. The study also
+concluded that the number of patients available for
+analysis was too small to draw any deﬁnite conclusions.37
+Similarly, an Agency for Healthcare Research and Quality
+systematic review found either no difference or insufﬁcient data to support differences in important longterm patient outcomes between thermal ablation and
+surgery.152
+Guideline 2.3.
+2.3.1. For patients with symptomatic varicose veins
+and axial reﬂux in the GSV or SSV, we recommend
+treatment with ligation and stripping of the saphenous vein if the technology or expertise in endovenous
+ablation is not available or the venous anatomy precludes endovenous treatment.
+
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+2.3.2. For patients with symptomatic varicose veins
+and axial reﬂux in the AAGSV or PAGSV, we suggest
+treatment with ligation and stripping of the accessory
+GSV, with additional phlebectomy, if needed, if the
+technology or expertise in endovenous ablation is not
+available or the venous anatomy precludes endovenous treatment.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale and evidence. New technology might not be
+available in some health care systems or the devices can
+be too expensive for patients or facilities when no reimbursement for the procedure will be provided by thirdparty payors. In addition, aneurysmal dilation of the
+GSV close to the SFJ, a subcutaneous location of a
+truncal superﬁcial vein above the saphenous fascia and
+close to the skin, and tortuosity of the GSV or SSV (Fig 2)
+are relative anatomic contraindications to some endovenous procedures.
+Although the systematic review supporting these
+guidelines found a twofold greater 5-year risk of recurrent varicosities after high ligation and saphenous stripping compared with RFA (RR, 2.00; 95% CI, 1.22-3.27),19
+the ﬁndings was based on a single study with an intermediate risk of bias.7 Other reviews, based largely on
+the same data, found no differences in 5-year recurrence
+between high ligation and saphenous stripping, RFA,
+and EVLA.37 Overall, contemporary high ligation and
+stripping, performed under tumescent anesthesia, had
+excellent mid- and long-term results in multiple randomized studies,6-11 and the committee strongly recommends high ligation and saphenous stripping, if the
+technology or expertise is not available for an endovascular procedure or the anatomy favors surgery for patients
+who are appropriate candidates for intervention.
+Guideline 2.4.
+2.4.1. For patients with symptomatic varicose veins
+and axial reﬂux in the GSV who place a high priority
+on the long-term outcomes of treatment (QoL and
+recurrence), we suggest treatment with endovenous
+laser ablation, RFA, or high ligation and stripping
+over physician-compounded UGFS.
+Level of recommendation: grade 2 (weak) quality of
+evidence: B (moderate)
+2.4.2. For patients with symptomatic varicose veins
+and axial reﬂux in the SSV who place a high priority
+on long-term outcomes of treatment (QoL and recurrence), we suggest treatment with laser ablation,
+RFA, or ligation and stripping from the knee to the upper or mid-calf over physician-compounded UGFS.
+Level of recommendation: grade 2 (weak) quality of
+evidence: C (low to very low)
+
+244
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+2.4.3. For patients with symptomatic varicose veins
+and axial reﬂux in the AAGSV or PAGSV who place a
+high priority on long-term outcomes of treatment
+(QoL and recurrence), we suggest treatment of the
+reﬂuxing superﬁcial trunk with endovenous laser ablation, RFA, or high ligation and stripping, with additional phlebectomy, if needed, over physiciancompounded ultrasound-guided foam sclerotherapy.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale and evidence. This recommendation applies
+only to physician-compounded UGFS when using it for
+ablation of a superﬁcial truncal vein and does not
+address the value of UGFS in the management of tributary varicosities. The recommendation is based largely on
+evidence of a higher rate of recurrent varicosity, higher
+risk of recurrent intervention, lower rate of occlusion of
+the treated truncal vein, and lower disease-speciﬁc QoL
+at 5 years after UGFS compared with high ligation and
+saphenous stripping or thermal ablation.7,8,10 Diseasespeciﬁc QoL at 5 years was also better for both high
+ligation and saphenous stripping (RR, 2.60; 95%
+CI, 3.99 to 1.22; P < .001) and EVLA (RR, 2.86; 95%
+CI, 4.49 to 1.22; P < .001) than for UGFS.10 Data on the
+long-term effectiveness of commercial PEM are not yet
+available, although the results of one RCT100 and several
+retrospective studies153-155 are encouraging.
+Cost-effectiveness. High ligation and saphenous stripping, EVLA, and RFA are all effective treatment strategies
+for symptomatic varicose veins arising from axial venous
+reﬂux. However, both reimbursement and out-of-pocket
+costs to the patient can vary signiﬁcantly, depending on
+insurance authorization. The out-of-pocket costs could
+be the most important consideration for many patients.36 Therefore, the treating physician must be aware
+of the costs of the different treatment options and
+counsel their patients accordingly.
+Because cost-effectiveness will vary with the setting
+and local reimbursement system, and most data on
+cost have come from outside the United States, our supporting systematic review did not evaluate costeffectiveness. In British studies, physician-compounded
+UGFS had had the lowest initial costs, although this
+was partially offset by the long-term costs of reintervention and lower QoL.85,156 High ligation and saphenous
+stripping in the inpatient setting was the most expensive
+strategy. At a threshold of £20,000 ($28,000) per qualityadjusted life-year in the United Kingdom, EVLA
+ranked ﬁrst, followed by RFA, UGFS, high ligation and
+saphenous stripping, and conservative care in terms of
+cost-effectiveness.85 For those patients for whom the
+out-of-pocket costs are a dominant consideration,
+the treating physician must be aware of the costs of
+the different treatment options and counsel the patient
+
+Fig 2. Anatomy of small saphenous vein (SSV) and its
+tributaries. n., Nerve; v., vein. Used with permission of Mayo
+Foundation for Education and Research, all rights
+reserved.
+
+accordingly. A systematic review of the costeffectiveness of varicose vein treatment in the United
+Kingdom found that physician-compounded UGFS had
+had a signiﬁcantly greater reintervention rate compared
+with the other procedures, which had all had similar
+reintervention rates. The cost of EVLA vs UGFS was
+£16,966 ($23,700) per quality-adjusted life-year, supporting EVLA as the most cost-effective procedure. RFA was
+a close second, and MOCA, UGFS, CAC, conservative
+care, and high ligation and stripping were not costeffective at the current prices in the U.K. National Health
+Service.85 A Canadian cost-analysis study found that RFA
+would be w$110 to $220 more expensive than open
+surgery but with fewer major and minor early complications (low level of evidence).157
+Small saphenous vein. The SSV is one of the important
+superﬁcial truncal veins that requires treatment if symptomatic axial reﬂux is document by DU (Fig 2). Data on
+the durability of endovenous treatment of the SSV,
+however, remain limited. The systematic review by Farah
+et al19 included two RCTs, reported in three publications,
+that had compared the outcomes after high ligation and
+saphenous stripping vs EVLA of the SSV.117,125,126 High
+ligation and saphenous stripping was associated with
+lower anatomic closure rates and an increased incidence
+of minor sensory disturbance at 1 month. At 2 years, the
+anatomic closure rate was still superior after EVLA but
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+245
+
+Volume 11, Number 2
+
+with no signiﬁcant differences in clinical recurrence,
+sensory disturbance, or any QoL scores between the
+groups.117 The use of nonthermal techniques for the
+treatment of the SSV appear promising, because
+the proximity of the sural nerve can result in neurologic
+complications after
+open surgery
+or
+thermal
+ablations.158,159 CAC was used to treat SSV insufﬁciency in
+163 limbs of 128 patients in a study by Cho et al.160 The
+closure rate at 2 years was 96.3%. No major complications, including sural nerve injury, were noted. In a
+retrospective study, the results of high ligation and
+stripping of the SSV were compared with those after the
+MOCA procedure to treat isolated SSV reﬂux.161 The
+recurrence rate at 18 months was similar in the two
+groups. The MOCA procedure, performed in 60 limbs,
+had resulted in less pain on the ﬁrst postoperative day
+and the patients had returned to work earlier than those
+who had undergone open surgery. Leg paresthesia had
+occurred in 3.4% after open surgery and 0% after the
+MOCA procedure.161 Other investigators had observed
+more saphenous neuritis after thermal ablation.162
+A systematic review by Boersma et al163 of 49 studies
+reporting on ﬁve RCTs and 44 cohort studies found a
+58%, 98.5% and 97.1% anatomic success rate after surgery,
+EVLA, and RFA, respectively, and 63.3% success after
+physician-compounded UGFS at a mean follow-up of
+12.5 months (range, 0.5-48 months). The incidence of
+neurologic complications was most frequent after surgery
+(19.6%) and thermal ablation (EVLA, 4.8%; RFA, 9.7%).
+These pooled data had considerable heterogeneity. The
+study supported the use of thermal ablation (EVLA or
+RFA) for SSV treatment over surgery. A Cochrane review
+of three RCTs also found that at a moderate to low level
+of evidence, EVLA had resulted in a higher closure rate
+at 6 weeks and lower recurrence at 1 year than open surgery. The quality of evidence was low to suggest the use of
+physician-compounded UGFS over surgery. Additional
+RCTs with longer follow-up are needed to deﬁne the
+optimal treatment of SSV ablation. However, the lack of
+neurologic injury after nonthermal ablation is promising
+and appears to be of considerable clinical beneﬁt.
+AAGSV and PAGSV. The AAGSV and PAGSV are superﬁcial truncal veins that join the GSV just distal to the SFJ
+(Fig 1). They could require treatment if axial incompetence has been conﬁrmed in patients with symptomatic
+varicose veins. The PAGSV is rarely of clinical signiﬁcance164,165; however, an incompetent AAGSV alone, or
+combined with GSV reﬂux, frequently contributes to varicosities and also to more advanced chronic venous insufﬁciency. An incompetent AAGSV has been a source of
+recurrence after GSV ablation and also carries morbidity
+similar to that of a reﬂuxing GSV.166-168 The incidence of
+superﬁcial thrombosis in one study was signiﬁcantly higher
+in the AAGSV than in the GSV (6.41% vs 2.17%; P < .05).167
+Endovenous therapies for the treatment of symptomatic
+
+AAGSVs demonstrated early outcomes similar to those of
+patients with symptomatic GSV reﬂux.57,169 For standalone
+ablations, the revised VCSSs were similar between the
+groups before and after the procedure; however, the CIVIQ20 scores had returned to the preintervention levels for
+patients who had undergone standalone ablation of the
+AAGSV at 6 months, suggesting that patients with a
+symptomatic AAGSV treated with ablation will also require
+treatment of the associated tributaries (varicosities) to
+achieve outcomes similar to those for patients who had
+undergone GSV ablation.57
+Guideline 3. Thermal ablation vs nonthermal ablation
+of saphenous veins
+Guideline 3.1.
+3.1.1. For patients with symptomatic axial reﬂux of
+the GSV, we recommend both thermal and
+nonthermal ablation from the groin to below the
+knee, depending on the available expertise of the
+treating physician and the preference of the patient.
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+3.1.2. For patients with symptomatic axial reﬂux of
+the SSV, we recommend both thermal and
+nonthermal ablation from the knee to the upper or
+mid-calf, depending on the available expertise of the
+treating physician and the preference of the patient.
+Level of recommendation: grade 1 (strong), quality of
+evidence: C (low to very low)
+3.1.3. For patients with symptomatic axial reﬂux of
+the AAGSV or PAGSV, we suggest either thermal or
+nonthermal ablation, with additional phlebectomy, if
+needed, depending on the available expertise of the
+treating physician and the preference of the patient.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. Both thermal and nonthermal ablation
+techniques are minimally invasive, percutaneous ofﬁcebased procedures. Thermal ablation (EVLA86,87;
+RFA64,88,89) requires tumescent local anesthesia, which
+can cause pain and discomfort during the procedure.
+Nonthermal ablations include UGFS with physiciancompounded foam using the Tessari technique98,99 or
+the use of PEM (Varithena).100 Other nonthermal ablation
+techniques include CAC12,90,91 using the VenaSeal system
+(Medtronic) or the Turkish glue kit (VariClose Vein Sealing
+System; Biolas) and mechanicochemical ablation, such
+as the MOCA procedure.94-97 All nonthermal ablations
+can be performed without the need for tumescent
+anesthesia. The heterogeneity of nonthermal techniques
+does not allow for a direct comparison of all thermal and
+all nonthermal ablations.
+Evidence. To compare the outcomes of thermal and
+nonthermal techniques,95,170 a systematic review19
+analyzed data from 16 RCTs, reported in 27
+
+246
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+publications7,8,10,12,92,93,99,122,133-136,171-182 and data from 11
+comparative observational studies.11,150,151,183-190 The review found signiﬁcantly higher visual analog scale for
+pain scores perioperatively for EVLA than for CAC or
+UGFS, using physician-compounded foam.172,177,185 The
+early QoL scores in some studies were also better for
+UGFS99 and the MOCA procedure95 than for EVLA. At
+1 year, however, EVLA was associated with higher
+anatomic closure rates than UGFS (RR, 1.23; 95% CI, 1.111.37; I2 ¼ 0.00%).133,177,185 Compared with physiciancompounded UGFS, EVLA and RFA were also associated with a lower risk of recurrence (RR, 0.18; 95% CI,
+0.05-0.59; and RR, 0.06; 95% CI, 0.01-0.44, respectively). In
+the CLASS study, UGFS using physician-compounded
+foam had resulted in a lower anatomic closure rate
+(RR, 2.91; 95% CI, 1.89-4.49) and an increased risk of reinterventions at 1 and 5 years.10 At 5 years, the diseasespeciﬁc QoL was better for EVLA than for UGFS.10 The
+scores for the generic QoL measures were similar.5
+A British RCT, reported by Lattimer et al176 found that
+physician-compounded UGFS was 3.15 times less expensive than EVLA (£230.24 vs £724.72) with comparable
+effectiveness. However, 56% (vs 6%) of the patients who
+had undergone UGFS had required additional treatment. Although the potential for reintervention was
+clearly higher owing the higher rates of recanalization after UGFS, when performed with physician-compounded
+foam, this technique remains an important tool because
+of the much lower cost and easy availability, compared
+with other catheter-based techniques. Long-term results
+and comparative studies with PEM are needed.
+Early adverse events were reported to be more frequent
+after EVLA or RFA than after CAC (Table III).92,188 Some
+clinical advantages of CAC compared with thermal techniques for #1 year, have been demonstrated in several
+reports.92,172,179,188 However, a prospective study by Ay
+et al150 found that the QoL (CIVIQ-14) was better for a
+group of 70 patients who had undergone RFA than for
+the 85 patients who had been treated with CAC (P <
+.05). However, RFA at 1 year was associated with an
+increased risk of recurrent incompetence compared
+with CAC (RR, 3.22; 95% CI, 1.07-9.64; I2 ¼ 0.00%).179,188
+In a systematic review, Vos et al192 reported that the
+pooled anatomic success for MOCA and CAC was
+94.7% and 94.8% at 6 months and 94.1% and 89.0% at
+1 year, respectively. In a network meta-analysis, Kolluri
+et al193 compared the early outcomes with VenaSeal
+(Medtronic) with those after EVLA, RFA, MOCA, sclerotherapy, and open surgery. At 6 months, VenaSeal had
+had the highest probability of anatomic success, ranked
+ﬁrst in the reduction of the postoperative pain score from
+baseline (P ¼ .690), and had had the lowest incidence of
+adverse events (P ¼ .650). The 3-year occlusion rate after
+CAC treatment was 94.7% (95% CI, 87.9%-100%) in a prospective study by Almeida et al.90 An allergic reaction to
+cyanoacrylate is rare but has been reported,194 and those
+
+with previous hypersensitivity reactions to cyanoacrylates
+and patients with acute superﬁcial thrombophlebitis or
+sepsis should not be treated with CAC.
+The 5-year extension study of the VeClose (VenaSeal
+Sapheon Closure System Pivotal Study) trial was recently
+reported by Morrison et al.12 Freedom from recanalization at 5 years in the randomized CAC and RFA groups
+was 91.4% and 85.2%, respectively, demonstrating the
+noninferiority of CAC compared with RFA. Both groups
+showed sustained improvement in the QoL scores.
+The MOCA procedure was also evaluated in several
+comparative studies, and results #3 years have been
+reported.95,96,171,174,175,191 In a RCT, Bootun et al171
+compared the intraprocedural pain scores for 60 patients who had undergone mechanicochemical ablation
+(ClariVein) with those of 59 patients who had undergone
+RFA (Covidien Veneﬁt; Medtronic).171 Both maximum and
+mean pain scores were signiﬁcantly lower in the
+mechanicochemical ablation group compared with the
+RFA group (19.3 mm vs 34.5 mm; P < .001; 13.4 mm vs
+24.4 mm; P < .001). In the MARADONA (mechanochemical endovenous ablation to radiofrequency ablation in
+the treatment of primary great saphenous vein incompetence) RCT, with 213 randomized patients, mechanochemical ablation resulted in less postoperative pain
+but more hyperpigmentation compared with RFA.174
+More anatomic failures had been reported after the
+MOCA procedure than after RFA; however, the patients
+in both groups had had similar QoL scores at 1 and
+2 years. In the LAMA (randomized controlled trial of
+endovenous laser ablation versus mechanochemical
+ablation with ClariVein in the management of superﬁcial
+venous incompetence) trial, 150 patients had been randomized to EVLA or the MOCA procedure. Similar low
+intraprocedural pain scores (RR, 22; 95% CI, 9-44; vs RR,
+15; 95% CI, 9-29; P ¼ 0.210) were reported after both procedures. At 1 year, the anatomic occlusion rates after
+EVLA were signiﬁcantly better than those after MOCA
+(91% vs 77%; P ¼ .020). Both EVLA and MOCA were highly
+efﬁcacious at 2 years and both had signiﬁcantly
+improved disease severity, symptoms, and QoL. In
+another RCT by Tawﬁk et al,182 100 patients had been
+randomized to laser therapy or the MOCA procedure.
+MOCA was associated with better VCSSs, less frequent
+phlebitis, and a shorter time to return to work. The 3year results of an RCT, evaluating the MOCA procedure
+vs thermal ablation (EVLA or RFA), were reported by
+Vahaaho et al.191 A total of 117 patients were treated,
+and the occlusion rate at 3 years was signiﬁcantly lower
+with MOCA than with either EVLA or RFA (82% vs
+100%; P ¼ .005). A GSV >7 mm in diameter had had an
+increased recanalization rate after MOCA.
+In another study, EVLA was associated with a lower
+recurrent varicosity scale score than UGFS using
+physician-compounded foam, and RFA was associated
+with a lower risk of reintervention compared with UGFS
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+247
+
+Volume 11, Number 2
+
+Table III. PICO (patients, intervention, comparison, outcome) data of studies comparing outcomes of thermal vs
+nonthermal ablations of reﬂuxing superﬁcial truncal veins
+Investigator
+
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Morrison
+et al,180 2015;
+Morrison
+et al,179 2017
+
+222 Patients with
+varicose veins
+(C2-C4)
+
+RFA of GSV
+(n ¼ 114)
+
+CAC of GSV
+(n ¼ 108)
+
+No difference in
+intraprocedural and
+24-hour pain scores;
+more ecchymosis after
+RFA (P < .01); at
+1 month, 100%
+occlusion after CAC
+and 87% occlusion
+after RFA; at 1 year, no
+difference in
+occlusion,
+recanalization,
+symptoms, or QoL
+
+RCT (VeClose)
+
+Morrison et al,12
+2020
+
+89 Patients with
+60-month
+follow-up
+
+RFA (n ¼ 33)
+
+CAC (n ¼ 47;
+(þ9 roll-in
+patients)
+
+At 5 years both
+treatments effective;
+noninferiority of CAC
+vs RFA demonstrated
+
+RCT (VeClose)
+
+Koramaz
+et al,186 2017
+
+339 Patients with
+varicose veins
+(C2-C5)
+
+EVLA (n ¼ 189)
+
+CACa (n ¼ 150)
+
+At 12 months, occlusion
+rate: 98.6% vs 97.3%
+(P ¼ .65)
+
+Retrospective
+comparative study
+
+Yang et al,190
+2019
+
+335 Patients with
+varicose veins;
+476 veins
+treated (GSV,
+403; SSV, 54;
+AAGSV, 17;
+perforator, 2)
+
+RFA (338 veins)
+
+CAC (148 veins)
+
+Same early closure rates
+(100% vs 99%); more
+postoperative
+phlebitis after RFA
+(16% vs 5%; P < .05); 3
+infections from glue
+clumps needed
+excision and drainage
+
+Retrospective
+cohort study
+
+Bozkurt et al,92
+2016
+
+310 Patients with
+varicose veins
+(C2-C4)
+
+EVLA (n ¼ 156)
+
+CACa (n ¼ 154)
+
+Periprocedural pain less
+with CAC (P < .001);
+ecchymosis at 3 days
+less with CAC; at
+6 months and 1 year,
+no difference in QoL or
+closure rates
+
+Prospective
+nonrandomized,
+comparative trial
+
+Calik et al,172
+2019
+
+412 Limbs in 400
+patients with
+varicose veins
+(C2-C4)
+
+EVLA (n ¼ 204)
+
+CACa (n ¼ 208)
+
+Periprocedural pain less
+after CAC (P < .001);
+induration,
+ecchymosis, and
+paresthesia rates
+higher with EVLA (P <
+.001) at 12 months; QoL
+and closure rates
+similar (96.6% vs
+94.1%)
+
+Prospective
+nonrandomized,
+comparative study
+
+Ovali et al,188
+2019
+
+244 Patients with
+varicose veins
+(C2-C4)
+
+RFA of GSV
+(n ¼ 128)
+
+CACa of GSV
+(n ¼ 116)
+
+Technical success 100%
+in both groups; early
+severe pain,
+ecchymosis, and
+discomfort
+signiﬁcantly greater
+after RFA (P < .05);
+occlusion rates and
+QoL similar at 1 year
+
+Nonrandomized
+retrospective,
+comparative study
+
+(Continued on next page)
+
+248
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Table III. Continued.
+Investigator
+
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Vahaaho et al,191
+2021
+
+132 Patients with
+varicose veins
+(C2-C4)
+randomized
+(intention to
+treat)
+
+EVLA (n ¼ 34);
+RFA (n ¼ 33);
+3-year followup, 31 and 25
+
+MOCA (n ¼ 65);
+3-year followup, 50)
+
+At 3 years, closure rate
+signiﬁcantly lower for
+MOCA than EVLA or
+RFA (82% vs 100%; P <
+.005)
+
+RCT
+
+Lane et al,175
+
+170 Patients with
+varicose veins
+(GSV or SSV)
+
+RFA (n ¼ 83)
+
+MOCA (n ¼ 87)
+
+Intraprocedural pain
+(maximum and
+average pain scores
+signiﬁcantly less after
+MOCA; P < .003); no
+difference between
+groups in return to
+work or normal
+activities; at 1 and
+6 months, no
+difference in QoL
+between groups
+
+Multicenter RCT
+
+Mohamed
+et al,95 2021
+
+150 Patients with
+varicose veins
+(C2-C6)
+
+EVLA (n ¼ 75)
+
+MOCA (n ¼ 75)
+
+Similar intraprocedural
+pain scores (P ¼ .021);
+at 1 year, occlusion rate
+after EVLA was 91%
+(63/69) vs 77% (53/69)
+after MOCA (P ¼ .020);
+at 1 year, both groups
+had similar, signiﬁcant
+improvement in VCSS
+and AVVQ
+
+RCT
+
+Lawaetz et al,7
+2017
+
+500 Patients (580
+limbs) with
+varicose veins
+(GSV)
+
+EVLA (n ¼ 125);
+RFA (n ¼ 125);
+HL&S
+(n ¼ 125)
+
+UGFS, with
+physiciancompounded
+foam (3%
+polidocanol);
+n ¼ 125)
+
+At 5 years, all treatment
+modalities were
+efﬁcacious and
+resulted in similar
+improvement in VCSS
+and QoL; signiﬁcantly
+greater incidence of
+recanalization of
+treated vein and
+reoperations after
+UGFS with physiciancompounded foam
+
+RCT
+
+Vahaaho et al,8
+2015
+
+196 Patients with
+varicose veins
+(166 in 5-year
+follow-up); GSV
+
+EVLA (n ¼ 57);
+HL&S
+(n ¼ 50)
+
+UGFS with
+physiciancompounded
+foam (1%
+polidocanol;
+1% or 3%
+sodium
+tetradecyl
+sulfate; n ¼ 59)
+
+At 5 years, UGFS had
+lowest occlusion rate
+without additional
+intervention (41% vs
+89% vs 96%; P < .001);
+AVSS scores were
+similar
+
+RCT
+
+Brittenden
+et al,99 2014;
+Brittenden
+et al,10 2019
+
+798 Patients with
+varicose veins
+randomized,
+(GSV or SSV), C2C6); at 5 years,
+595 patients
+studied
+
+EVLA (n ¼ 212);
+open surgery
+(n ¼ 289)
+
+UGFS with
+physiciancompounded
+foam (1% or
+3% sodium
+tetradecyl
+sulfate; n ¼
+292)
+
+Ablation rates at 6 weeks
+and 6 months lower
+after UGFS; at 5 years,
+disease-speciﬁc QoL
+was worse after UGFS;
+cost-effectiveness
+model iteration
+favored EVLA
+
+Randomized trial
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+249
+
+Volume 11, Number 2
+
+Table III. Continued.
+Investigator
+
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Biemans
+et al,133 2013
+
+240 Patients with
+varicose veins
+(GSV; C2-C5)
+
+EVLA (n ¼ 78);
+HL&S (n ¼ 68)
+
+UGFS with
+physiciancompounded
+foam (n ¼ 77)
+
+At 1 year, EVLA was
+superior to UGFS in
+GSV closure (P < .001);
+no differences in QoL
+
+RCT
+
+Lattimer et al,177
+2013
+
+100 Patients with
+varicose veins
+(GSV; C2-C6)
+
+EVLA (n ¼ 50)
+
+UGFS with
+physiciancompounded
+foam (n ¼ 50)
+
+Costs and
+postprocedure pain
+were signiﬁcantly less
+and treatment
+duration and time to
+recovery signiﬁcantly
+shorter after UGFS;
+after UGFS, 56%
+required additional
+treatment vs 6% with
+EVLA
+
+RCT
+
+Rasmussen
+et al,134 2011;
+Rasmussen
+et al,122 2013
+
+580 Limbs of 500
+patients with
+varicose veins
+(GSV; C2-C4)
+
+EVLA (n ¼ 125);
+RFA (n ¼ 125);
+HL&S
+(n ¼ 124)
+
+UGFS with
+physiciancompounded
+foam (n ¼ 124)
+
+Postintervention pain
+score signiﬁcantly less
+after UGFS and RFA; at
+1 year, GSV closure was
+signiﬁcantly lower
+after UGFS; QoL
+improved in all groups;
+at 3 years, incidence of
+recanalization and
+reoperation after UGFS
+was greater; QoL
+improved in all groups
+
+RCT
+
+Gonzalez-Zeh
+et al,185 2008
+
+98 Patients with
+varicose veins
+(GSV; C2-C6)
+
+EVLA (n ¼ 45)
+
+UGFS with
+physiciancompounded
+foam (n ¼ 50;
+n ¼ 53)
+
+Procedure-associated
+pain worse after EVLA
+(P < .0001); at 1 year,
+GSV closure higher
+after EVLA (93% vs
+77%; P < .046); VCSS
+improved in both
+groups (P < .0001)
+
+Nonrandomized
+prospective trial
+
+Deak,153 2022
+
+1070 Patients with
+varicose veins
+(C2-C6; C2, n ¼
+469)
+
+EVLA (n ¼ 550)
+
+UGSF with PEM
+
+Reﬂux eliminated in
+93.5% (514/550) after
+PEM and 92.8% (482/
+520) after EVLA; 3-year
+follow-up; no
+neurologic or cardiac
+adverse events after
+PEM
+
+Retrospective
+cohort study
+
+AAGSV, Anterior accessory great saphenous vein; AVSS, Aberdeen Varicose Vein Symptom Severity; AVVQ, Aberdeen Varicose Vein Questionnaire;
+CAC, cyanoacrylate closure; EVLA, endovenous laser ablation; GSV, great saphenous vein; HL&S, high ligation and saphenous stripping; MOCA,
+mechanicochemical ablation; PEM, polidocanol endovenous microfoam; QoL, quality of life; RCT, randomized controlled trial; RFA, radiofrequency
+ablation; SSV, small saphenous vein; UGSF, ultrasound-guided foam sclerotherapy; VCSS, venous clinical severity score.
+a
+N-butyl cyanoacrylate: VariClose vein sealing system (Biolas, Ankara, Turkey).
+
+(RR, 0.44; 95% CI, 0.27-0.71).7 No signiﬁcant differences
+were found for other outcomes such as deep vein thrombosis, recurrent varicosity, recurrent ulceration, edema,
+pigmentation, or recurrent ulceration.
+In a recent retrospective study of 1070 patients with
+CVD (CEAP class C2-C6), including 470 C2 patients,
+PEM ablation (Varithena;, BTG International Ltd, London,
+UK) was compared with EVLA using the VenaCure 1470nm laser system (Angiodynamics, Waterlooville, UK).
+Reﬂux was eliminated in 93.5% (514 of 550) and 92.8%
+
+(482 of 520) of the PEM- and EVLA-treated patients during an average follow-up of 3 years. No neurologic or cardiac adverse events had occurred after PEM treatment.
+PEM appears to be a promising new technology; however, the only RCT currently available had compared endovenous microfoam with placebo to conﬁrm its safety and
+early efﬁcacy.100
+For treatment of the incompetent below-the-knee
+segment of the GSV, a systematic review by Sussman
+et al195 found that thermal ablation had had a lower
+
+250
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+incidence of saphenous nerve injury compared with high
+ligation and saphenous stripping. Endovenous below-the
+knee thermal ablations in some studies were used with
+good results,196 and an RCT had failed to show any nerve
+injury caused by below-the-knee EVLA.197 The recent results with nonthermal ablation, however, appeared
+promising because no saphenous or sural nerve injury
+had been reported by Jimenez et al154 after ablation of
+49 below-the-knee GSVs and 23 SSVs using commercially prepared endovenous microfoam.
+In summary, both thermal and nonthermal ablation
+techniques are safe and effective; however, we cannot
+recommend one technique over the others. All techniques have resulted in improved QoL scores and good
+clinical effectiveness at 3 to 5 years after the procedure.
+The early beneﬁt of nontumescent, nonthermal procedures over thermal ablation include less pain and discomfort; however, the decreased anatomic closure rates for
+the MOCA procedure at 3 years and for UGFS with
+physician-compounded foam at 5 years have made
+them less durable treatment compared with thermal
+ablation. It should be noted, however, that CAC was noninferior to thermal ablation at 5 years in one study.12 Prospective comparative studies with endovenous
+microfoam are needed to conﬁrm the long-term clinical
+efﬁcacy and a decreased incidence of nerve injury and to
+recommend PEM over other ablation techniques.
+Guideline 4. IPV ablation in patients with CEAP class
+C2 varicose veins
+Guideline 4.1.
+4.1.1 For patients with varicose veins (CEAP class C2)
+who have signiﬁcant, symptomatic axial reﬂux of the
+GSV or SSV, we recommend against treatment of
+IPVs concomitant with initial ablation of the superﬁcial truncal veins.
+Level of recommendation: grade 1 (strong), quality of
+evidence: C (low to very low)
+4.1.2. For patients with varicose veins (CEAP class C2)
+who have signiﬁcant, symptomatic axial reﬂux of the
+AAGSV or PAGSV, we suggest against treatment of
+IPVs concomitant with initial ablation of the superﬁcial truncal veins.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. Patients with CEAP class C2 varicose veins
+often do not have IPVs identiﬁed by DU, even when
+they are present, because many vascular laboratories
+have concentrated on imaging the superﬁcial truncal
+veins (GSV, SSV, AAGSV, PAGSV) and tributary veins. The
+lower extremities have a large number of perforating
+veins, and their common locations have been identiﬁed
+in elegant anatomic dissections.198,199 When perforating
+veins are identiﬁed during the evaluation of varicose
+veins, they will often be competent and functioning
+normally. However, IPVs can also be identiﬁed in the
+
+thigh and calf when a complete lower extremity venous
+study is performed as a part of the initial evaluation
+(Fig 3). Incompetent thigh perforator veins adjacent, or
+connected, to incompetent saphenous veins are especially easy to identify, owing to their proximity to the
+thigh truncal veins. Also, these perforator veins can occasionally be the single connection between an incompetent truncal thigh vein and the deep venous system,
+functioning in a role similar to that of the SFJ.
+When a venous DU examination identiﬁes an incompetent thigh or calf perforator vein, in conjunction with
+incompetent truncal and/or tributary veins, in patients
+with symptomatic CEAP class C2 disease, a decision is
+required how to proceed. The question is whether it
+would be better to perform ablation of the superﬁcial
+truncal vein alone and treat the perforator vein later, if
+needed, as a staged procedure. Previous guidelines
+have recommended a combined procedure for patients
+with more advanced chronic venous insufﬁciency.20,38
+Evidence. The systematic review of Farah et al19 included
+two RCTs with an intermediate risk of bias to deﬁne the role
+of perforator ablation in patients with varicose vein CEAP
+class C2 disease (Table IV).200,201 The ﬁrst RCT by Kianifard
+et al200 had included patients with primary great saphenous varicose veins and IPVs who had undergone either
+standard surgery (high ligation and saphenous stripping
+and phlebectomy) or standard surgery combined with
+subfascial endoscopic perforator surgery (SEPS). Of the 72
+randomized patients, 38 had undergone SEPS (71% with C2
+disease) and 32 had not (75% with C2 disease). At 1 year, the
+SF-36 scores were not different between the two groups,
+except for the bodily pain score, which had improved in the
+SEPS group. The Aberdeen varicose vein questionnaire
+score had improved in both groups. Although the visual
+analog scale score for pain, mobility, and cosmetic
+appearance had improved in both groups at 1 year (P < .05),
+the improvement in mobility was only signiﬁcant in the
+non-SEPS group (P < .05). Follow-up DU showed that IPVs
+in the untreated leg were signiﬁcantly more frequent than
+were those in the SEPS group.
+The other study was by Park et al,201 who had randomized patients with C2 and C3 disease to either endovenous laser ablation of the IPVs in the thigh, followed by
+ablation of the GSV below the IPV (n ¼ 34), or ablation
+of the GSV starting just proximal to the thigh perforator
+without ablation of the perforator vein (n ¼ 35). Technical
+success was signiﬁcantly lower with ablation of the perforators (76.5%) compared with ablation of the GSV (100%;
+P ¼ .002). However, no signiﬁcant difference was found in
+clinical success (continued closure of treated vein) between the groups (1 week, 96.1% vs 100%; 1 month,
+100% vs 97.1%; and 3, 6, and 12 months, 100% for both
+groups). The investigators also reported no signiﬁcant differences in complications between the two groups at all
+intervals.201
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+251
+
+Volume 11, Number 2
+
+Additional studies that were not discussed in the systematic review included an RCT by Fitridge et al,202
+who had evaluated the hemodynamic role of calf IPVs
+in patients with uncomplicated varicose veins. They studied 38 limbs in 35 patients with incompetent GSVs and
+one or more IPVs. All the limbs had undergone high ligation and saphenous stripping with or without phlebectomy with (group 1; n ¼ 21) or without (group 2; n ¼ 17)
+open ligation of the IPV. In group 2, nine limbs had had
+persistent IPVs, and eight had had no residual IPVs.
+Both groups demonstrated signiﬁcant improvement of
+venous function by air plethysmography postoperatively,
+including the venous volume, venous ﬁlling index, and
+ejection fraction. No signiﬁcant difference was found between the two groups in either the preoperative or postoperative venous function. Follow-up DU could not
+identify previously seen IPVs in w50% of patients (8 of
+17) who had not undergone open ligation of the IPVs.
+This ﬁnding was explained as possible owing to avulsion
+during surgery vs possible improvement in function after
+pathologic saphenous vein removal.
+In a prospective cohort study, Koroglu et al203
+compared the effectiveness of endovenous laser ablation
+and concomitant foam sclerotherapy in two groups of
+patientsdone with isolated saphenous vein reﬂux (group
+1; n ¼ 36 limbs) and one with saphenous vein reﬂux and
+IPV (group 2; n ¼ 24 limbs); 21 of the 60 limbs had had C2
+disease. Occlusion of the IPVs was identiﬁed in 75% postoperatively compared with 98.6% of saphenous veins.
+Although no clinically signiﬁcant difference was found
+in the VCSS between the two groups, the visual analog
+scale score was more prominently decreased after treatment of isolated saphenous vein insufﬁciency. Their results suggest that the clinical outcomes will be superior
+for patients with isolated truncal insufﬁciency.
+van Neer et al,204 in their prospective study of 74 limbs
+(55 class C2) of 59 patients with primary varicose veins,
+evaluated the effects of high ligation and saphenous
+stripping to just below the knee before and 6 months after the procedure. They found that reﬂux in the GSV
+below the knee can persist in the main GSV trunk and
+the anterior arch and posterior arch vein tributaries after
+stripping. On multivariable analysis, the investigators
+found no signiﬁcant association between the presence
+of an IPV preoperatively and reﬂux in the GSV or its
+branches below the knee postoperatively or between
+the preoperative IPVs and postoperative visible varicose
+veins. In addition, the diameter of the GSV below the
+knee and its branches decreased signiﬁcantly after short
+stripping of the more proximal GSV. The proportion of
+patients with visible varicose veins in the GSV area below
+the knee had decreased from 70% to 16% after stripping.
+The investigators concluded that IPVs are not related to
+the persistence of visible varicose veins below the knee
+nor to the persistence of below-the-knee GSV reﬂux.
+
+Fig 3. Perforating veins of the leg. PTV, Posterior tibial vein;
+SPC, superﬁcial posterior compartment. Used with
+permission of Mayo Foundation for Education and
+Research, all rights reserved.
+
+The ﬁndings of these studies, including the systematic
+review, support the initial nontreatment of IPVs in patients with C2 disease who have truncal vein reﬂux associated with IPVs. The addition of perforator ablation in
+RCTs did not signiﬁcantly improve hemodynamic status,
+clinical presentation, or QoL compared with treatment of
+superﬁcial truncal vein reﬂux alone.200,201 In addition, no
+statistically signiﬁcant difference was found in the
+anatomic closure of the GSV at 1 month and 1 year.19
+The clinical presentation of an incompetent thigh
+perforator vein with an incompetent distal GSV deserves
+special consideration. In many of these patients, the SFJ
+and proximal GSV will be competent. A good practice
+appears to be to treat these patients with ablation of
+the distal GSV and the thigh perforator vein, which is
+the major incompetent connection with the deep
+venous system. However, a RCT by Park et al201 advised
+the performance of saphenous vein ablation alone for
+these patients. However, the primary reason for failure
+of the combined procedure was technical, with an
+inability to treat the perforators in 8 of 34 limbs
+(23.5%).201 Further studies to support perforator ablation
+during the initial procedure in these unique situations
+are warranted.
+Guideline 4.2. For patients with varicose veins (C2)
+and persistent or recurrent symptoms after previous
+complete ablation of incompetent superﬁcial truncal
+veins, we suggest treatment of IPVs if they are the
+origin of symptomatic varicose tributaries.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. Once the incompetent truncal veins have
+been treated in patients with CEAP class 2 varicose veins,
+all these patients should return for procedural follow-up
+and conﬁrmation that the symptoms and abnormal
+
+252
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Table IV. PICO (patients, intervention, comparison, outcome) data of studies comparing outcomes of saphenous ablation
+with and without perforator vein ablation
+Investigator
+
+Patients/limbs
+
+Intervention
+
+Comparison
+
+Outcome
+
+Study design
+
+72 Patients
+randomized
+
+38 Patients
+underwent
+standard
+surgery þ SEPS
+(C2 disease, 71%)
+
+32 Patients
+underwent only
+standard
+surgery (C2
+disease, 75%)
+
+At 1 year, signiﬁcant
+reduction in number
+of IPVs and limbs with
+IPVs with addition of
+SEPS; no signiﬁcant
+difference in pain
+(VAS), mobility,
+cosmetic score, or QoL
+(SF-36, AVVQ)
+between groups
+
+RCT
+
+69 Patients
+with varicose
+veins (C2/C3)
+and thigh
+IPV without
+SFJ reﬂux
+but with IPV
+reﬂux into
+GSV
+
+EVLA of thigh IPVs,
+followed by
+ablation of GSV
+(IPVA) below IPV
+(n ¼ 34)
+
+EVLA of GSV
+(GSVA) starting
+just proximal to
+thigh IPV
+without
+ablation of IPV
+(n ¼ 35)
+
+Technical success
+signiﬁcantly lower
+with IPVA (76.5%) vs
+GSVA (100%; P ¼ .002;
+no signiﬁcant
+difference in clinical
+success (continued
+closure of treated vein)
+between IPVA and
+GSVA (1 week: 96.1% vs
+100%; 1 month: 100%
+vs 97.1%; 3, 6, and
+12 months: 100% for
+both groups); no
+signiﬁcant difference
+in occurrence and
+degree of
+complications
+between both groups
+
+RCT
+
+Fitridge et al,202 1999
+
+38 Limbs in 35
+patients with
+incompetent
+GSVs and $1
+IPV
+
+GSV stripping and
+phlebectomy
+with open
+ligation of IPV
+(n ¼ 21)
+
+GSV stripping and
+phlebectomy
+only (n ¼ 17)
+
+No signiﬁcant difference
+between groups in
+either preoperative or
+postoperative venous
+function (venous
+volume, venous ﬁlling
+index, ejection
+fraction); at 3 months,
+DUS failed to identify
+previously seen IPVs in
+w50% of patients (8/
+17) without open
+ligation of IPV
+
+RCT
+
+Koroglu et al,203 2011
+
+60 Limbs in 55
+patients (C1C5; C2, n ¼ 21;
+35%)
+
+EVLA of reﬂuxing
+saphenous vein
+and FS of
+venous
+varicosities
+
+EVLA of reﬂuxing
+saphenous vein
+and FS of
+venous
+varicosities þ FS
+of IPV
+
+At 6 months, complete
+occlusion of IPV noted
+in 75% vs 98.6% for
+saphenous veins; no
+signiﬁcant difference
+in VCSS improvement
+between groups;
+improvement in VAS
+score greater after
+treatment of isolated
+saphenous vein reﬂux
+(P < .05)
+
+Single-center,
+prospective
+study
+
+Kianifard et al,
+
+200
+
+2007
+
+Park et al,201 2012
+
+AVVQ, Aberdeen Varicose Vein Questionnaire; DUS, duplex ultrasound; EVLA, endovenous laser ablation; FS, foam sclerotherapy; GSV, great saphenous
+vein; GSVA, great saphenous vein ablation; IPV, incompetent perforator vein; IPVA, incompetent perforator vein ablation; QoL, quality of life; SEPS,
+subfascial endoscopic perforator surgery; SFJ, saphenofemoral junction; SF-36, short-form 36-item questionnaire; VAS, visual analog scale.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+253
+
+Volume 11, Number 2
+
+veins have been adequately treated. For patients with
+persistent symptoms, new symptoms, or residual visible
+varicose veins, they should be reassessed with physical
+examination and DU to determine the cause of the residual symptoms and whether treatment of visible varicose veins has been incomplete. The authors of these
+practice guidelines recommend that all patients who
+have undergone a venous intervention for varicose veins
+have at least one follow-up visit at w3 months, when the
+symptoms related to the procedure are likely to have
+resolved, and the patients with residual symptoms or
+visible residual varicose veins should be reassessed using
+DU of the truncal, tributary, deep, and perforator veins
+throughout the entire leg. The DU study should be used
+to identify the treated veins with both complete and
+incomplete closure, residual untreated tributary veins,
+and incompetent deep and perforator veins. If all intended truncal and tributary veins have been treated and
+yet the symptoms persist, other potential causes of the
+persistent symptoms should be considered, including
+residual incompetent tributary veins and IPVs, because
+they could represent the origin of the symptomatic
+varicose veins.
+Evidence. In a prospective study of 127 limbs in 92 patients, including 58 limbs with C2 disease, van Rij
+et al205 performed ﬂush ligation of the SFJ or SPJ, stripping of the GSV to the knee, and multiple stab avulsions
+and ligation of IPVs that had marked reﬂux. Deep venous
+reﬂux was present in 68 limbs (53.5%). After 3 years,
+recurrence of reﬂux at the SFJ and SPJ was 23% and 52%,
+respectively. Additionally, IPVs had progressively
+increased in number, with an overall clinical recurrence
+of 51% at 3 to 5 years. Of the 53 limbs with a normal
+venous ﬁlling index after surgery, 29 (55%) had deteriorated at 3 years. The investigators had concluded that
+incomplete superﬁcial surgery, in particular at the SFJ
+and SPJ, is a less frequent cause of recurrent disease and
+that neovascular reconnection and persistent abnormal
+venous function are the major contributors to disease
+recurrence.
+In a retrospective study, Stuart et al206 evaluated 62
+limbs of 47 patients (including 47 limbs with C2-C3 disease) treated with SFJ ligation, stripping of the GSV in
+the thigh, and multiple phlebectomies vs SPJ ligation
+and multiple phlebectomies, or both. The patients were
+examined before surgery and at 14 weeks. After intervention, a signiﬁcant reduction was found in the total number of limbs with IPVs (65% preoperatively vs 37%
+postoperatively; P < .01). Additionally, a signiﬁcant reduction in the number of IPVs imaged (52% vs 28%; P < .01)
+and in the median IPV diameter (median, 4 mm [range,
+1-11 mm]; vs median, 3 mm [range, 1-8 mm]; P < .01) had
+occurred after surgery. However, IPVs remained in 20% of
+the limbs in which axial saphenous reﬂux had been
+
+abolished compared with 72% of the limbs in which superﬁcial or deep reﬂux remained (P < .01). The investigators concluded that superﬁcial venous surgery fails to
+correct perforator vein incompetence in patients with
+deep vein reﬂux and those with persistent superﬁcial
+reﬂux.206
+Guideline 5. Ablation of the reﬂuxing symptomatic
+superﬁcial venous trunk and concomitant treatment
+of varicose tributaries
+Guideline 5.1.
+5.1.1. For patients with symptomatic reﬂux in the GSV
+or SSV and associated varicosities, we recommend
+ablation of the reﬂuxing venous trunk and concomitant phlebectomy or UGFS of the varicosities with
+physician-compounded foam or commercial PEM.
+Level of recommendation: grade 1 (strong); quality of
+evidence: C (low to very low)
+5.1.2. For patients with symptomatic reﬂux in the
+AAGSV or PAGSV, we recommend ablation of the reﬂuxing venous trunk and concomitant phlebectomy or UGFS
+of the varicosities with physician-compounded foam or
+commercial PEM.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+Rationale. In patients with both truncal vein reﬂux and
+incompetent tributaries, the decision regarding optimal
+treatment must involve the scientiﬁc evidence, the patient’s wishes and concerns, and a well-informed physician providing advice. The common scenario of calf or
+thigh tributaries emanating from an incompetent truncal vein treated in a single session will usually be the
+more cost-effective approach and has been associated
+with less total time off from work. In situations in which
+nonsaphenous varicose tributaries are also present in the
+leg, concomitant treatment with phlebectomy or UGFS
+would be more appropriate. Other situations such as
+transportation needs or caregiver restraints would also
+favor concomitant treatment.
+Evidence. Harlander-Locke et al207 performed a retrospective review of 1000 consecutive RFAs of truncal veins
+(916 limbs with class C2-C6). Five hundred seven limbs
+had large (>3mm) symptomatic varicose tributaries of
+which 355 (70%) underwent concomitant phlebectomy,
+145 (25%) limbs had staged phlebectomy. Twenty-six
+limbs (5%) did not require staged phlebectomy because
+of symptom resolution after saphenous ablation. The
+authors concluded that patients with incompetent,
+symptomatic tributary veins measuring 3 mm or greater
+and axial reﬂux may beneﬁt from endovenous ablation
+with concomitant phlebectomy.
+Brown et al208 used data from the Varicose Vein Registry from 2015 to 2019 for 3375 C2 patients who had undergone thermal ablation of the saphenous veins.
+
+254
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Patients who had undergone concomitant sclerotherapy
+were excluded. Of the 2026 remaining patients, 1013
+were included in each of two groups: ablation alone
+and ablation with phlebectomy. The preprocedural
+VCSSs were similar in both groups. However, the median
+improvement in the VCSSs was higher for those who had
+undergone ablation and phlebectomy. In addition, the
+investigators had examined patient-reported symptoms.
+After the procedure, improvement had occurred in all
+symptoms (heaviness, achiness, throbbing, swelling, itching, appearance, pain, and effect on work). However, the
+change in the scores was higher for the ablation plus
+phlebectomy group than for the ablation alone group.
+Conway et al209 in a 2020 study of data from the varicose vein module of the American Venous Registry
+examined 526 patients with CEAP clinical class C2
+without prior venous treatment. Combined treatment
+(CT) in this cohort consisted of phlebectomy or sclerotherapy, and unimodal treatment was thermal ablation
+(RFA or laser). The change in symptom severity was
+assessed by the pretreatment and 1-month posttreatment VCSSs. After treatment, CT was associated
+with signiﬁcantly lower scores for the pain component
+of the VCSS (0.31 for unimodal treatment vs 0.07 for CT;
+P ¼ .0008).
+From England, the AVULS (ambulatory varicosity avulsion later or synchronized) trial compared simultaneous
+and staged treatment, with the Aberdeen Varicose Vein
+Questionnaire score as the primary outcome.210 Both
+groups showed signiﬁcant improvement in symptoms
+from baseline at 6 weeks, 6 months, and 12 months
+(P < .0001). Although a signiﬁcant difference was seen
+at 6 weeks, with the simultaneous group showing a
+5.48-point improvement (P ¼ .029), no signiﬁcant differences were found at 6 and 12 months. Comparing the
+staged group who had subsequently required further
+treatment and the simultaneous group, a large signiﬁcant difference was found at 6 weeks and 6 months.
+The difference was no longer signiﬁcant, however, at
+12 months.
+Guideline 5.2.
+5.2.1. For patients with symptomatic reﬂux in the GSV
+or SSV, we suggest ablation of the reﬂuxing venous
+trunk and staged or UGFS of the varicosities only if
+anatomic or medical reasons are present. We suggest
+shared decision-making with the patient.
+Level of recommendation: grade 2 (weak); quality of
+evidence: C (low to very low)
+5.2.2. For patients with symptomatic reﬂux in the
+AAGSV or PAGSV, we suggest ablation of the reﬂuxing
+venous trunk and staged phlebectomy or UGFS of the
+varicosities only if anatomic or medical reasons are
+present. We suggest shared decision-making with the
+patient.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+
+Rationale. A single procedure that includes both ablation of the truncal reﬂux and treatment of varicose tributaries can provide immediate satisfaction to patients
+who come for treatment of symptomatic varicose veins.
+Medical or anatomic reasons should be present to stage
+the procedures, because it is not rare that patients with
+bilateral varicosities will be scheduled for several subsequent procedures to treat truncal reﬂux and varicosities
+separately. The medical reasons for staging the procedure include extensive bilateral varicosities and/or the
+need for general anesthesia or a large amount of local
+or tumescent anesthetic. The anatomic reasons can
+include patients with circumferential limb varicosities
+requiring changing the patient’s position from supine
+to decubitus. In addition, in some patients with both
+truncal incompetence and tributary incompetence, ablation of the truncal vein will reduce the size of the tributary vein or reduce the symptoms of heaviness and
+aching to an extent that no further treatment will be
+needed. Some patients with truncal and tributary reﬂux
+might only want the discomfort from their varicose veins
+relieved, without a desire to eliminate the visible tributaries. Thus, ablating the truncal vein might relieve
+enough discomfort that a second procedure will never
+be necessary. During the shared decision-making process, patients might request a staged approach with
+minimally invasive treatment of the tributaries using
+physician-compounded foam, commercial foam, or
+liquid sclerotherapy as an alternative to miniphlebectomy, which might be the only procedure
+approved by the patient’s insurance company as a
+concomitant procedure. Some patients also might not
+have large enough symptomatic tributaries for their
+treatment to be covered by insurance; therefore, they
+might delay tributary treatment until the tributaries
+become larger or until they have adequate ﬁnancial resources to pay for the procedure. Patients with diffuse
+bilateral varicosities and bilateral saphenous incompetence can safely undergo bilateral ablation; however, the
+additional concomitant phlebectomies might be too
+much for the patient and/or provider. Patients who elect
+the staged approach must be informed that a distinct
+likelihood exists of needing a second procedure, whether
+mini-phlebectomy, liquid sclerotherapy, or foam
+sclerotherapy.
+Evidence. Two studies using the ﬁrst-generation RFA
+catheters examined the fate of residual varicosities after
+ablation alone. Monahan211 had ablated the GSV in 54
+limbs. At 6 months, complete resolution of the varicose
+tributaries was found in 13% limbs and 28.4% of the
+varicose veins had spontaneously resolved. An additional
+88.7% of the varicose veins had decreased in size by
+average of 34.6%. Welch212 studied 184 limbs treated with
+GSV RFA. Of the 155 limbs with successful total ablation
+or only a patent segment <10 cm long, 101 (65.1%) had
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+255
+
+Volume 11, Number 2
+
+had symptom resolution and did not require further
+treatment at 9 months of follow up.
+A systematic review by Farah et al19 studied the outcomes of 6098 patients who had been enrolled in a RCT
+(two publications),213,214 two observational studies,208,209
+and another systematic review of eight studies.215 The
+data supported better short-term and better to equivalent long-term outcomes for the patients who had undergone the combined procedure.
+In a meta-analysis by Aherne et al,216 truncal ablation
+alone, without any treatment of the varicose tributaries,
+was sufﬁcient therapy for 63.9% of those assessed. Both
+concomitant and staged treatments were safe and effective. Improvements in early disease severity and QoL scores
+were better in the concomitant group. The concomitant interventions in all studies had resulted in fewer reinterventions than had the staged interventions. However, a
+subgroup analysis of the RCTs alone did not identify differences in the reinterventions between the groups.
+5.3. For patients with symptomatic reﬂux in the major
+superﬁcial venous trunks and associated varicosities
+undergoing initial ablation alone, we suggest that
+patients be followed up for $3 months to assess the
+need for staged phlebectomy or ultrasound-guided
+sclerotherapy for persistent or recurrent symptoms.
+Longer follow-up is recommended for patients with
+recurrent symptoms and for patients participating in
+clinical trials.
+Level of recommendation: ungraded good clinical
+practice
+
+follow-up examination at 6 weeks to assess the need for a
+further procedure. Only 36% of the patients in the staged
+group had required additional treatment. A longer
+observation period likely would have decreased that percentage even further.
+
+AUTHOR CONTRIBUTIONS
+Conception and design: PG, PL, SW, MH Meissner, JA, KB,
+RB, MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO, MS,
+SV, HW
+Analysis and interpretation: PG, PL, SW, MH Meissner, JA,
+KB, RB, MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO,
+MS, SV, HW
+Data collection: PG, PL, SW, MH Meissner, JA, KB, RB, MD,
+JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO, MS, SV, HW
+Writing the article: PG, PL, SW, MH Meissner, JA, KB, RB,
+MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO, MS,
+SV, HW
+Critical revision of the article: PG, PL, SW, MH Meissner, JA,
+KB, RB, MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO,
+MS, SV, HW
+Final approval of the article: PG, PL, SW, MH Meissner, JA,
+KB, RB, MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO,
+MS, SV, HW
+Statistical analysis: Not applicable
+Obtained funding: Not applicable
+Overall responsibility: PG
+P.G., P.F.L., and S.M.W. are co-primary authors and cochairs of the writing committee.
+
+REFERENCES
+Rationale. For patients who elect a staged approach,
+signiﬁcant time must elapse after the procedure to
+differentiate between the symptoms related to recovery
+from the original procedure and residual symptoms from
+remaining venous insufﬁciency. We recommend followup for a minimum of 3 months to determine whether
+the procedure has both resolved the symptoms and
+eliminated visible tributary veins. Longer follow-up is
+recommended for patients with recurrent symptoms
+and those participating in clinical trials. In patients with
+residual symptoms, DU should be performed to assess
+the treated veins for closure and to assess any remaining
+superﬁcial truncal veins, tributaries, and perforator veins
+for the size and extent of reﬂux. Once identiﬁed, treatment with a second procedure should use the same
+criteria as used for the initial procedure. Treatment can
+range from ablation of an incompletely closed or more
+distal truncal vein to removal or sclerotherapy of any
+remaining incompetent tributary veins.
+Evidence. In two studies, the follow-up evaluation was
+performed at 3 to 6 months to fully assess potential
+regression of the tributary varicosities, with signiﬁcant
+regression and improvement in symptoms.211,212 In
+contrast, Lane et al,210 in the AVULS trial, had performed a
+
+1. Crawford JM, Gasparis A, Almeida J, Elias S, Wakeﬁeld T, Lal BK, et al.
+A review of United States endovenous ablation practice trends from
+the Medicare data utilization and payment database. J Vasc Surg
+Venous Lymphat Disord 2019;7:471-9.
+2. Mann M, Wang P, Schul M, Khilnani NM, Park A, Makary MA, et al.
+Signiﬁcant physician practice variability in the utilization of endovenous thermal ablation in the 2017 Medicare population. J Vasc
+Surg Venous Lymphat Disord 2019;7:808-16.e1.
+3. Stonko DP, Dun C, Walsh C, Schul M, Blebea J, Boyle EM, et al.
+Evaluation of a physician peer-benchmarking intervention for
+practice variability and costs for endovenous thermal ablation.
+JAMA Netw Open 2021;4:e2137515.
+4. Prabhakar AM, Misono AS, Sheth RA, Rosenkrantz AB,
+Hemingway J, Hughes DR, et al. Changing Medicare utilization of
+minimally invasive procedures for the treatment of chronic venous
+insufﬁciency. J Vasc Interv Radiol 2017;28:818-24.
+5. Rasmussen L, Lawaetz M, Bjoern L, Blemings A, Eklof B. Randomized clinical trial comparing endovenous laser ablation and stripping of the great saphenous vein with clinical and duplex outcome
+after 5 years. J Vasc Surg 2013;58:421-6.
+6. Rass K, Frings N, Glowacki P, Graber S, Tilgen W, Vogt T. Same site
+recurrence is more frequent after endovenous laser ablation
+compared with high ligation and stripping of the great saphenous
+vein: 5 year results of a randomized clinical trial (RELACS study). Eur
+J Vasc Endovasc Surg 2015;50:648-56.
+7. Lawaetz M, Serup J, Lawaetz B, Bjoern L, Blemings A, Eklof B, et al.
+Comparison of endovenous ablation techniques, foam sclerotherapy and surgical stripping for great saphenous varicose veins:
+extended 5-year follow-up of a RCT. Int Angiol 2017;36:281-8.
+8. Vahaaho S, Halmesmaki K, Alback A, Saarinen E, Venermo M. Fiveyear follow-up of a randomized clinical trial comparing open surgery, foam sclerotherapy and endovenous laser ablation for great
+saphenous varicose veins. Br J Surg 2018;105:686-91.
+
+256
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+9. Wallace T, El-Sheikha J, Nandhra S, Leung C, Mohamed A,
+Harwood A, et al. Long-term outcomes of endovenous laser ablation and conventional surgery for great saphenous varicose veins. Br
+J Surg 2018;105:1759-67.
+10. Brittenden J, Cooper D, Dimitrova M, Scotland G, Cotton SC,
+Elders A, et al. Five-year outcomes of a randomized trial of treatments for varicose veins. N Engl J Med 2019;381:912-22.
+11. Mousa A, El Azzazi M, Elkalla MA. Different management options for
+primary varicose veins in females: a prospective study. Surg Open
+Sci 2019;1:25-33.
+12. Morrison N, Gibson K, Vasquez M, Weiss R, Jones A. Five-year
+extension study of patients from a randomized clinical trial
+(VeClose) comparing cyanoacrylate closure vs radiofrequency
+ablation for the treatment of incompetent great saphenous veins.
+J Vasc Surg Venous Lymphat Disord 2020;8:978-89.
+13. Gauw SA, Lawson JA, van Vlijmen-van Keulen CJ, Pronk P,
+Gaastra MT, Mooij MC. Five-year follow-up of a randomized,
+controlled trial comparing saphenofemoral ligation and stripping
+of the great saphenous vein with endovenous laser ablation (980
+nm) using local tumescent anesthesia. J Vasc Surg 2016;63:420-8.
+14. Eggen CAM, Alozai T, Pronk P, Mooij MC, Gaastra MTW, Unlu C, et al.
+Ten-year follow-up of a randomized controlled trial comparing
+saphenofemoral ligation and stripping of the great saphenous vein
+with endovenous laser ablation (980 nm) using local tumescent
+anesthesia. J Vasc Surg Venous Lymphat Disord 2022;10:646-53.e1.
+15. Lurie F, Passman M, Meisner M, Dalsing M, Masuda E, Welch H, et al.
+The 2020 update of the CEAP classiﬁcation system and reporting
+standards. J Vasc Surg Venous Lymphat Disord 2020;8:342-52.
+16. Masuda E, Ozsvath K, Vossler J, Woo K, Kistner R, Lurie F, et al. The
+2020 appropriate use criteria for chronic lower extremity venous
+disease of the American Venous Forum, the Society for Vascular
+Surgery, the American Vein and Lymphatic Society, and the Society
+of Interventional Radiology. J Vasc Surg Venous Lymphat Disord
+2020;8:505-25.e4.
+17. Catarinella FS, Nieman FH, Wittens CH. An overview of the most
+commonly used venous quality of life and clinical outcome measurements. J Vasc Surg Venous Lymphat Disord 2015;3:333-40.
+18. Mallick S, Sarkar T, Gayen T, Naskar B, Datta A, Sarkar S. Correlation
+of venous clinical severity score and venous disability score with
+dermatology life quality index in chronic venous insufﬁciency. Indian J Dermatol 2020;65:489-94.
+19. Farah MH, Nayfeh T, Urtecho M, Hasan B, Amin M, Sen I, et al.
+A systematic review supporting the Society for Vascular Surgery, the
+American Venous Forum, and the American Vein and Lymphatic
+Society guidelines on the management of varicose veins. J Vasc
+Surg Venous Lymphat Disord 2022;10:1155-71.
+20. Gloviczki P, Comerota AJ, Dalsing MC, Eklof BG, Gillespie DL,
+Gloviczki ML, et al. The care of patients with varicose veins and
+associated chronic venous diseases: clinical practice guidelines of
+the Society for Vascular Surgery and the American Venous Forum.
+J Vasc Surg 2011;53(Suppl):2S-48S.
+21. National Institute for Health and Care Excellence. Varicose veins in
+the legs: the diagnosis and management of varicose veins. Available
+at: https://www.nice.org.uk/guidance/cg168. Accessed February 21,
+2021.
+22. Wittens C, Davies AH, Baekgaard N, Broholm R, Cavezzi A,
+Chastanet S, et al. Editor’s choice e management of chronic venous
+disease: clinical practice guidelines of the European Society for
+Vascular Surgery (ESVS). Eur J Vasc Endovasc Surg 2015;49:678-737.
+23. Gloviczki P, Dalsing MC, Eklof B, Lurie F, Wakeﬁeld TW, Gloviczki ML.
+Handbook of Venous and Lymphatic Disorders: guidelines of the
+American Venous Forum. 4th ed. CRC Press; 2017.
+24. Nicolaides A, Kakkos S, Baekgaard N, Comerota A, de Maeseneer M,
+Eklof B, et al. Management of chronic venous disorders of the lower
+limbs: guidelines according to scientiﬁc evidence: part I. Int Angiol
+2018;37:181-254.
+25. Nicolaides A, Kakkos S, Baekgaard N, Comerota A, de Maeseneer M,
+Eklof B, et al. Management of chronic venous disorders of the lower
+limbs: guidelines according to scientiﬁc evidence: part II. Int Angiol
+2020;39:175-240.
+26. Kursat Bozkurt A, Lawaetz M, Danielsson G, Lazaris AM, Pavlovic M,
+Olariu S, et al. European College of Phlebology guideline for truncal
+ablation. Phlebology 2020;35:73-83.
+
+27. De Maeseneer MG, Kakkos SK, Aherne T, Baekgaard N, Black S,
+Blomgren L, et al. Editor’s choice e European Society for Vascular
+Surgery (ESVS) 2022 clinical practice guidelines on the management of chronic venous disease of the lower limbs. Eur J Vasc
+Endovasc Surg 2022;63:184-267.
+28. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for Vascular
+Surgery including the experience with the GRADE framework.
+J Vasc Surg 2011;53:1375-80.
+29. Murad MH, Swiglo BA, Sidawy AN, Ascher E, Montori VM. Methodology for clinical practice guidelines for the management of arteriovenous access. J Vasc Surg 2008;48(Suppl):26S-30S.
+30. Guyatt GH, Alonso-Coello P, Schunemann HJ, Djulbegovic B,
+Nothacker M, Lange S, et al. Guideline panels should seldom make
+good practice statements: guidance from the GRADE Working
+Group. J Clin Epidemiol 2016;80:3-7.
+31. Eklof B, Rutherford RB, Bergan JJ, Carpentier PH, Gloviczki P,
+Kistner RL, et al. Revision of the CEAP classiﬁcation for chronic
+venous disorders: consensus statement. J Vasc Surg 2004;40:
+1248-52.
+32. Perrin M, Eklöf B, Maleti O. The vein glossary. J Vasc Surg Venous
+Lymphat Disord 2018;6:e11-217.
+33. Eklof B, Perrin M, Delis KT, Rutherford RB, Gloviczki P, et al; American Venous Forum. Updated terminology of chronic venous disorders: the VEIN-TERM transatlantic interdisciplinary consensus
+document. J Vasc Surg 2009;49:498-501.
+34. Alonso-Coello P, Schünemann HJ, Moberg J, BrignardelloPetersen R, Akl EA, Davoli M, et al. GRADE evidence to decision
+(EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction. BMJ 2016;353:
+i2016.
+35. Shepherd AC, Gohel MS, Lim CS, Hamish M, Davies AH. The treatment of varicose veins: an investigation of patient preferences and
+expectations. Phlebology 2010;25:54-65.
+36. Pappas P, Gunnarsson C, David G. Evaluating patient preferences for
+thermal ablation versus nonthermal, nontumescent varicose vein
+treatments. J Vasc Surg Venous Lymphat Disord 2021;9:383-92.
+37. Kheirelseid EAH, Crowe G, Sehgal R, Liakopoulos D, Bela H,
+Mulkern E, et al. Systematic review and meta-analysis of randomized controlled trials evaluating long-term outcomes of endovenous management of lower extremity varicose veins. J Vasc Surg
+Venous Lymphat Disord 2018;6:256-70.
+38. O’Donnell TF Jr, Passman MA. Clinical practice guidelines of the
+Society for Vascular Surgery (SVS) and the American Venous Forum
+(AVF)dmanagement of venous leg ulcers: introduction. J Vasc Surg
+2014;60(Suppl):1S-2S.
+39. De Maeseneer M, Pichot O, Cavezzi A, Earnshaw J, van Rij A, Lurie F,
+et al. Duplex ultrasound investigation of the veins of the lower limbs
+after treatment for varicose veinsdUIP consensus document. Eur J
+Vasc Endovasc Surg 2011;42:89-102.
+40. Gloviczki P, Dalsing MC, Henke P, Lal BK, O’Donnell TF Jr,
+Shortell CK, et al. Report of the Society for Vascular Surgery and the
+American Venous Forum on the July 20, 2016 meeting of the
+Medicare evidence development and coverage advisory committee
+panel on lower extremity chronic venous disease. J Vasc Surg
+Venous Lymphat Disord 2017;5:378-98.
+41. Jones WS, Vemulapalli S, Parikh KS, Coeytaux RR, Crowley MJ,
+Raitz G, et al. Treatment Strategies for Patients with Lower Extremity Chronic Venous Disease (LECVD). Agency Healthcare
+Research and Quality; 2017.
+42. Mercer KG, Scott DJ, Berridge DC. Preoperative duplex imaging is
+required before all operations for primary varicose veins. Br J Surg
+1998;85:1495-7.
+43. Rautio T, Perala J, Wiik H, Haukipuro K, Juvonen T. Inﬂuence of
+preoperative duplex ultrasonography on the operative procedure
+for primary varicose vein surgery. Phlebology 2002;16:149-53.
+44. Darke SG, Vetrivel S, Foy DM, Smith S, Baker S. A comparison of
+duplex scanning and continuous wave Doppler in the assessment
+of primary and uncomplicated varicose veins. Eur J Vasc Endovasc
+Surg 1997;14:457-61.
+45. Rautio T, Perala J, Biancari F, Wiik H, Ohtonen P, Haukipuro K, et al.
+Accuracy of hand-held Doppler in planning the operation for primary varicose veins. Eur J Vasc Endovasc Surg 2002;24:450-5.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+257
+
+Volume 11, Number 2
+46. Dhillon J, Thorwald M, Chung S, Maloney G, Srivatsa S. Comparison
+of hand-held acoustic Doppler with point-of-care portable color
+Doppler ultrasound in the assessment of venous reﬂux disease.
+J Vasc Surg Venous Lymphat Disord 2020;8:831-9.e2.
+47. Wills V, Moylan D, Chambers J. The use of routine duplex scanning
+in the assessment of varicose veins. Aust N Z J Surg 1998;68:41-4.
+48. Blomgren L, Johansson G, Emanuelsson L, Dahlberg-Akerman A,
+Thermaenius P, Bergqvist D. Late follow-up of a randomized trial of
+routine duplex imaging before varicose vein surgery. Br J Surg
+2011;98:1112-6.
+49. Cavezzi A, Labropoulos N, Partsch H, Ricci S, Caggiati A, Myers K,
+et al. Duplex ultrasound investigation of the veins in chronic venous
+disease of the lower limbsdUIP consensus document. Part II.
+Anatomy. Eur J Vasc Endovasc Surg 2006;31:288-99.
+50. Masuda EM, Kistner RL. Prospective comparison of duplex scanning
+and descending venography in the assessment of venous insufﬁciency. Am J Surg 1992;164:254-9.
+51. Varcoe RL, Thomas SD, Bourke V, Rubesamen NM, Lennox AF. Utility
+of adjunctive digital subtraction venography for the treatment of
+saphenous vein insufﬁciency. J Endovasc Ther 2017;24:290-6.
+52. Jayaraj A, Raju S. Three-dimensional computed tomography venogram enables accurate diagnosis and treatment of patients presenting with symptomatic chronic iliofemoral venous obstruction.
+J Vasc Surg Venous Lymphat Disord 2021;9:73-80.e1.
+53. Gagne PJ, Tahara RW, Fastabend CP, Dzieciuchowicz L, Marston W,
+Vedantham S, et al. Venography versus intravascular ultrasound for
+diagnosing and treating iliofemoral vein obstruction. J Vasc Surg
+Venous Lymphat Disord 2017;5:678-87.
+54. Schleimer K, Barbati ME, Grommes J, Hoeft K, Toonder IM,
+Wittens CHA, et al. Update on diagnosis and treatment strategies in
+patients with post-thrombotic syndrome due to chronic venous
+obstruction and role of endovenous recanalization. J Vasc Surg
+Venous Lymphat Disord 2019;7:592-600.
+55. van Bemmelen PS, Bedford G, Beach K, Strandness DE. Quantitative
+segmental evaluation of venous valvular reﬂux with duplex ultrasound scanning. J Vasc Surg 1989;10:425-31.
+56. Labropoulos N, Tiongson J, Pryor L, Tassiopoulos AK, Kang SS, Ashraf
+Mansour M, et al. Deﬁnition of venous reﬂux in lower-extremity
+veins. J Vasc Surg 2003;38:793-8.
+57. Deol ZK, Lakhanpal S, Pappas PJ. Severity of disease and treatment
+outcomes of anterior accessory great saphenous veins compared
+with the great saphenous vein. J Vasc Surg Venous Lymphat Disord
+2022;10:654-60.
+58. Dillavou ED, Harlander-Locke M, Labropoulos N, Elias S, Ozsvath KJ.
+Current state of the treatment of perforating veins. J Vasc Surg
+Venous Lymphat Disord 2016;4:131-5.
+59. Labropoulos N, Leon LR Jr. Duplex evaluation of venous insufﬁciency. Semin Vasc Surg 2005;18:5-9.
+60. Labropoulos N, Mansour MA, Kang SS, Gloviczki P, Baker WH. New
+insights into perforator vein incompetence. Eur J Vasc Endovasc
+Surg 1999;18:228-34.
+61. Sandri JL, Barros FS, Pontes S, Jacques C, Salles-Cunha SX. Diameter-reﬂux relationship in perforating veins of patients with varicose
+veins. J Vasc Surg 1999;30:867-74.
+62. Malgor R, Labropoulos N. Duplex ultrasound scanning for chronic
+venous obstruction and valvular incompetence. In: Gloviczki P,
+Dalsing MC, Eklof B, Lurie F, Wakeﬁeld TW, Gloviczki ML, editors.
+Handbook of Venous and Lymphatic Disorders: Guidelines of the
+American Venous Forum. 4th ed. CRC Press; 2017:151-64.
+63. Masuda EM, Kistner RL, Eklof B. Prospective study of duplex scanning for venous reﬂux: comparison of Valsalva and pneumatic cuff
+techniques in the reverse Trendelenburg and standing positions.
+J Vasc Surg 1994;20:711-20.
+64. Perrins S, Cha A, Qaqish R, Plummer D, Hsu R, Dietzek AM. Clinical
+and anatomic outcomes of endovenous radiofrequency ablation
+performed on symptomatic small-diameter great saphenous veins.
+J Vasc Surg Venous Lymphat Disord 2013;1:245-9.
+65. Intersocietal Accreditation Commission. Vascular Testing Accreditation: Standards and Guidelines. Available at: https://intersocietal.
+org/programs/vascular-testing/standards/. Accessed May 22, 2022.
+66. Vitale C, D’Abate F, Froio A. Needs of standardisation in reporting a
+venous lower limb ultrasound exam for the assessment of varicose
+veins. Phlebology 2021;36:665-7.
+
+67. Kim MJ, Park PJ, Koo BH, Lee SG, Byun GY, Lee SR. Association
+between venous reﬂux and diameter of great saphenous vein in
+lower thigh. J Vasc Surg Venous Lymphat Disord 2020;8:100-5.
+68. Attaran RR, Bhalla A, Mena-Hurtado CI, Ochoa Chaar CI. Correlation
+between great saphenous length of treatment zone and diameter
+with improvement in symptoms after ablation. J Vasc Surg Venous
+Lymphat Disord 2021;9:1443-50.
+69. Gibson K, Meissner M, Wright D. Great saphenous vein diameter
+does not correlate with worsening quality of life scores in patients
+with great saphenous vein incompetence. J Vasc Surg 2012;56:
+1634-41.
+70. Joh JH, Park HC. The cutoff value of saphenous vein diameter to
+predict reﬂux. J Korean Surg Soc 2013;85:169-74.
+71. Mendoza E, Blattler W, Amsler F. Great saphenous vein diameter at
+the saphenofemoral junction and proximal thigh as parameters of
+venous disease class. Eur J Vasc Endovasc Surg 2013;45:76-83.
+72. Hamel-Desnos CM, De Maeseneer M, Josnin M, Gillet JL, Allaert FA;
+DIAGRAVES Study Group. Great saphenous vein diameters in
+phlebological practice in France: a report of the DIAGRAVES study
+by the French Society of Phlebology. Eur J Vasc Endovasc Surg
+2019;58:96-103.
+73. Navarro TP, Delis KT, Ribeiro AP. Clinical and hemodynamic significance of the greater saphenous vein diameter in chronic venous
+insufﬁciency. Arch Surg 2002;137:1233-7.
+74. Mdez-Herrero A, Gutierrez J, Camblor L, Carreno J, Llaneza J, RguezOlay J, et al. The relation among the diameter of the great saphenous vein, clinical state and haemodynamic pattern of the saphenofemoral junction in chronic superﬁcial venous insufﬁciency.
+Phlebology 2007;22:207-13.
+75. Yang Q, Zhao Y, Chen X, Tang P, Li L, Zhao J, et al. Association between vein diameters, reﬂux characteristics, and clinical severity in
+patients with chronic venous insufﬁciency in Northwest China.
+J Vasc Surg Venous Lymphat Disord 2021;9:401-8.e1.
+76. Lane TRA, Varatharajan L, Fiorentino F, Shepherd AC, Zimmo L,
+Gohel MS, et al. Truncal varicose vein diameter and patientreported outcome measures. Br J Surg 2017;104:1648-55.
+77. Choi JY, Lee JH, Kwon OJ. Association between the saphenous vein
+diameter and venous reﬂux on computed tomography venography
+in patients with varicose veins. PLoS One 2022;17:e0263513.
+78. Kakkos SK, Timpilis M, Patrinos P, Nikolakopoulos KM,
+Papageorgopoulou CP, Kouri AK, et al. Acute effects of graduated
+elastic compression stockings in patients with symptomatic varicose veins: a randomised double blind placebo controlled trial. Eur
+J Vasc Endovasc Surg 2018;55:118-25.
+79. Knight Nee Shingler SL, Robertson L, Stewart M. Graduated
+compression stockings for the initial treatment of varicose veins in
+people without venous ulceration. Cochrane Database Syst Rev
+2021;7:CD008819.
+80. Michaels JA, Brazier JE, Campbell WB, MacIntyre JB, Palfreyman SJ,
+Ratcliffe J. Randomized clinical trial comparing surgery with conservative treatment for uncomplicated varicose veins. Br J Surg
+2006;93:175-81.
+81. Ratcliffe J, Brazier JE, Campbell WB, Palfreyman S, MacIntyre JB,
+Michaels JA. Cost-effectiveness analysis of surgery versus conservative treatment for uncomplicated varicose veins in a randomized
+clinical trial. Br J Surg 2006;93:182-6.
+82. Sell H, Vikatmaa P, Alback A, Lepantalo M, Malmivaara A,
+Mahmoud O, et al. Compression therapy versus surgery in the
+treatment of patients with varicose veins: a RCT. Eur J Vasc Endovasc Surg 2014;47:670-7.
+83. Lurie F, Kistner RL. Trends in patient reported outcomes of conservative and surgical treatment of primary chronic venous disease
+contradict current practices. Ann Surg 2011;254:363-7.
+84. Epstein D, Onida S, Bootun R, Ortega-Ortega M, Davies AH. Costeffectiveness of current and emerging treatments of varicose veins.
+Value Health 2018;21:911-20.
+85. Epstein D, Bootun R, Diop M, Ortega-Ortega M, Lane TRA,
+Davies AH. Cost-effectiveness analysis of current varicose veins
+treatments. J Vasc Surg Venous Lymphat Disord 2022;10:504-13.e7.
+86. Teter KA, Kabnick LS, Sadek M. Endovenous laser ablation: a
+comprehensive review. Phlebology 2020;35:656-62.
+87. Kabnick LS, Sadek M. Fiber type as compared to wavelength may
+contribute more to improving postoperative recovery following
+
+258
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+endovenous laser ablation. J Vasc Surg Venous Lymphat Disord
+2016;4:286-92.
+88. Dietzek AM. Endovenous radiofrequency ablation for the treatment
+of varicose veins. Vascular 2007;15:255-61.
+89. Proebstle TM, Alm BJ, Gockeritz O, Wenzel C, Noppeney T, Lebard C,
+et al. Five-year results from the prospective European multicentre
+cohort study on radiofrequency segmental thermal ablation for
+incompetent great saphenous veins. Br J Surg 2015;102:212-8.
+90. Almeida JI, Javier JJ, Mackay EG, Bautista C, Cher DJ, Proebstle TM.
+Thirty-sixth-month follow-up of ﬁrst-in-human use of cyanoacrylate
+adhesive for treatment of saphenous vein incompetence. J Vasc
+Surg Venous Lymphat Disord 2017;5:658-66.
+91. Proebstle T, Alm J, Dimitri S, Rasmussen L, Whiteley M, Lawson J,
+et al. Three-year follow-up results of the prospective European
+multicenter cohort study on cyanoacrylate embolization for treatment of reﬂuxing great saphenous veins. J Vasc Surg Venous
+Lymphat Disord 2021;9:329-34.
+92. Bozkurt AK, Yilmaz MF. A prospective comparison of a new
+cyanoacrylate glue and laser ablation for the treatment of venous
+insufﬁciency. Phlebology 2016;31(Suppl):106-13.
+93. Eroglu E, Yasim A. A randomised clinical trial comparing n-butyl
+cyanoacrylate, radiofrequency ablation and endovenous laser
+ablation for the treatment of superﬁcial venous incompetence: two
+year follow up results. Eur J Vasc Endovasc Surg 2018;56:553-60.
+94. Elias S, Lam YL, Wittens CH. Mechanochemical ablation: status and
+results. Phlebology 2013;28(Suppl 1):10-4.
+95. Mohamed AH, Leung C, Wallace T, Smith G, Carradice D, Chetter I.
+A randomized controlled trial of endovenous laser ablation versus
+mechanochemical ablation with ClariVein in the management of
+superﬁcial venous incompetence (LAMA trial). Ann Surg 2021;273:
+e188-95.
+96. Lam YL, Alozai T, Schreve MA, de Smet A, Vahl AC, Nagtzaam I, et al.
+A multicenter, randomized, dose-ﬁnding study of mechanochemical ablation using ClariVein and liquid polidocanol for great
+saphenous vein incompetence. J Vasc Surg Venous Lymphat Disord
+2022;10:856-64.e2.
+97. Witte ME, Zeebregts CJ, de Borst GJ, Reijnen M, Boersma D.
+Mechanochemical endovenous ablation of saphenous veins using
+the ClariVein: a systematic review. Phlebology 2017;32:649-57.
+98. Tessari L, Cavezzi A, Frullini A. Preliminary experience with a new
+sclerosing foam in the treatment of varicose veins. Dermatol Surg
+2001;27:58-60.
+99. Brittenden J, Cotton SC, Elders A, Ramsay CR, Norrie J, Burr J, et al.
+A randomized trial comparing treatments for varicose veins. N Engl
+J Med 2014;371:1218-27.
+100. Gibson K, Kabnick L; VarithenaÒ 013 Investigator Group.
+A multicenter, randomized, placebo-controlled study to evaluate
+the efﬁcacy and safety of VarithenaÒ (polidocanol endovenous
+microfoam 1%) for symptomatic, visible varicose veins with saphenofemoral junction incompetence. Phlebology 2017;32:185-93.
+101. Campos W Jr, Torres IO, da Silva ES, Casella IB, Puech-Leao P.
+A prospective randomized study comparing polidocanol foam
+sclerotherapy with surgical treatment of patients with primary
+chronic venous insufﬁciency and ulcer. Ann Vasc Surg 2015;29:1128-35.
+102. Carradice D, Mekako AI, Mazari FA, Samuel N, Hatﬁeld J, Chetter IC.
+Clinical and technical outcomes from a randomized clinical trial of
+endovenous laser ablation compared with conventional surgery for
+great saphenous varicose veins. Br J Surg 2011;98:1117-23.
+103. Carradice D, Mekako AI, Mazari FA, Samuel N, Hatﬁeld J, Chetter IC.
+Randomized clinical trial of endovenous laser ablation compared
+with conventional surgery for great saphenous varicose veins. Br J
+Surg 2011;98:501-10.
+104. Christenson JT, Gueddi S, Gemayel G, Bounameaux H. Prospective
+randomized trial comparing endovenous laser ablation and surgery
+for treatment of primary great saphenous varicose veins with a 2year follow-up. J Vasc Surg 2010;52:1234-41.
+105. Darwood RJ, Theivacumar N, Dellagrammaticas D, Mavor AI,
+Gough MJ. Randomized clinical trial comparing endovenous laser
+ablation with surgery for the treatment of primary great saphenous
+varicose veins. Br J Surg 2008;95:294-301.
+106. de Medeiros CA, Luccas GC. Comparison of endovenous treatment
+with an 810 nm laser versus conventional stripping of the great
+saphenous vein in patients with primary varicose veins. Dermatol
+Surg 2005;31:1685-94; discussion: 1694.
+
+107. Figueiredo M, Araujo S, Barros N Jr, Miranda F Jr. Results of surgical
+treatment compared with ultrasound-guided foam sclerotherapy
+in patients with varicose veins: a prospective randomised study. Eur
+J Vasc Endovasc Surg 2009;38:758-63.
+108. Helmy ElKaffas K, ElKashef O, ElBaz W. Great saphenous vein radiofrequency ablation versus standard stripping in the management
+of primary varicose veinsda randomized clinical trial. Angiology
+2011;62:49-54.
+109. Flessenkamper I, Hartmann M, Stenger D, Roll S. Endovenous laser
+ablation with and without high ligation compared with high ligation and stripping in the treatment of great saphenous varicose
+veins: initial results of a multicentre randomized controlled trial.
+Phlebology 2013;28:16-23.
+110. Gonzalez Canas E, Florit Lopez S, Vilagut RV, Guevara-Noriega KA,
+Santos Espi M, Rios J, et al. A randomized controlled noninferiority
+trial comparing radiofrequency with stripping and conservative
+hemodynamic cure for venous insufﬁciency technique for insufﬁciency of the great saphenous vein. J Vasc Surg Venous Lymphat
+Disord 2021;9:101-12.
+111. Kushwaha JK, Gupta A, Yadav P, Sonkar AA. A comparative study to
+evaluate early postoperative complications and short-term quality
+of life assessment between stripping and endovenous laser therapy
+in the treatment of chronic venous insufﬁciency patients: a study
+from North India. Indian J Public Health Res Dev 2020;11:134-40.
+112. Liao CJ, Song SH, Li T, Zhang Y, Zhang WD. Randomized clinical trial
+of radiofrequency-induced thermotherapy combined with transilluminated powered phlebectomy versus high ligation and stripping for the treatment of lower limb varicose veins. J Vasc Surg
+Venous Lymphat Disord 2021;9:95-100.
+113. Lurie F, Creton D, Eklof B, Kabnick LS, Kistner RL, Pichot O, et al.
+Prospective randomized study of endovenous radiofrequency
+obliteration (closure procedure) versus ligation and stripping in a
+selected patient population (EVOLVeS study). J Vasc Surg 2003;38:
+207-14.
+114. Lurie F, Creton D, Eklof B, Kabnick LS, Kistner RL, Pichot O, et al.
+Prospective randomised study of endovenous radiofrequency
+obliteration (closure) versus ligation and vein stripping (EVOLVeS):
+two-year follow-up. Eur J Vasc Endovasc Surg 2005;29:67-73.
+115. Mekako AI, Hatﬁeld J, Bryce J, Lee D, McCollum PT, Chetter I.
+A nonrandomised controlled trial of endovenous laser therapy and
+surgery in the treatment of varicose veins. Ann Vasc Surg 2006;20:
+451-7.
+116. Mendes CA, Martins AA, Fukuda JM, Parente JB, Munia MA,
+Fioranelli A, et al. Randomized trial of radiofrequency ablation
+versus conventional surgery for superﬁcial venous insufﬁciency: if
+you don’t tell, they won’t know. Clinics (Sao Paulo) 2016;71:650-6.
+117. Nandhra S, El-sheikha J, Carradice D, Wallace T, Souroullas P,
+Samuel N, et al. A randomized clinical trial of endovenous laser
+ablation versus conventional surgery for small saphenous varicose
+veins. J Vasc Surg 2015;61:741-6.
+118. Perala J, Rautio T, Biancari F, Ohtonen P, Wiik H, Heikkinen T, et al.
+Radiofrequency endovenous obliteration versus stripping of the long
+saphenous vein in the management of primary varicose veins: 3-year
+outcome of a randomized study. Ann Vasc Surg 2005;19:669-72.
+119. Pronk P, Gauw SA, Mooij MC, Gaastra MT, Lawson JA, van
+Goethem AR, et al. Randomised controlled trial comparing saphenofemoral ligation and stripping of the great saphenous vein with
+endovenous laser ablation (980 nm) using local tumescent anaesthesia: one year results. Eur J Vasc Endovasc Surg 2010;40:649-56.
+120. Rasmussen LH, Bjoern L, Lawaetz M, Blemings A, Lawaetz B, Eklof B.
+Randomized trial comparing endovenous laser ablation of the
+great saphenous vein with high ligation and stripping in patients
+with varicose veins: short-term results. J Vasc Surg 2007;46:308-15.
+121. Rasmussen LH, Bjoern L, Lawaetz M, Lawaetz B, Blemings A, Eklof B.
+Randomised clinical trial comparing endovenous laser ablation
+with stripping of the great saphenous vein: clinical outcome and
+recurrence after 2 years. Eur J Vasc Endovasc Surg 2010;39:630-5.
+122. Rasmussen L, Lawaetz M, Serup J, Bjoern L, Vennits B, Blemings A,
+et al. Randomized clinical trial comparing endovenous laser ablation, radiofrequency ablation, foam sclerotherapy, and surgical
+stripping for great saphenous varicose veins with 3-year follow-up.
+J Vasc Surg Venous Lymphat Disord 2013;1:349-56.
+123. Rass K, Frings N, Glowacki P, Hamsch C, Graber S, Vogt T, et al.
+Comparable effectiveness of endovenous laser ablation and high
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+259
+
+Volume 11, Number 2
+ligation with stripping of the great saphenous vein: two-year results
+of a randomized clinical trial (RELACS study). Arch Dermatol
+2012;148:49-58.
+124. Rautio T, Ohinmaa A, Perala J, Ohtonen P, Heikkinen T, Wiik H, et al.
+Endovenous obliteration versus conventional stripping operation in
+the treatment of primary varicose veins: a randomized controlled
+trial with comparison of the costs. J Vasc Surg 2002;35:958-65.
+125. Roopram AD, Lind MY, Van Brussel JP, Terlouw-Punt LC, Birnie E, De
+Smet AA, et al. Endovenous laser ablation versus conventional surgery in the treatment of small saphenous vein incompetence:
+short-term results of a multicenter randomized controlled trial.
+J Vasc Surg Venous Lymphat Disord 2013;1:357-63.
+126. Samuel N, Carradice D, Wallace T, Mekako A, Hatﬁeld J, Chetter I.
+Randomized clinical trial of endovenous laser ablation versus conventional surgery for small saphenous varicose veins. Ann Surg
+2013;257:419-26.
+127. Sandhya PA, Mohil RS, Sricharan R. Randomised controlled study to
+compare radiofrequency ablation with minimally invasive
+ultrasound-guided non-ﬂush ligation and stripping of great
+saphenous vein in the treatment of varicose veins. Ann R Coll Surg
+Engl 2020;102:525-31.
+128. Sincos IR, Baptista APW, Coelho Neto F, Labropoulos N, Alledi LB,
+Marins EM, et al. Prospective randomized trial comparing radiofrequency ablation and complete saphenous vein stripping in patients with mild to moderate chronic venous disease with a 3-year
+follow-up. Einstein (Sao Paulo) 2019;17:eAO4526.
+129. Shadid N, Ceulen R, Nelemans P, Dirksen C, Veraart J, Schurink GW,
+et al. Randomized clinical trial of ultrasound-guided foam sclerotherapy versus surgery for the incompetent great saphenous vein.
+Br J Surg 2012;99:1062-70.
+130. Stotter L, Schaaf I, Bockelbrink A. Comparative outcomes of radiofrequency endoluminal ablation, invagination stripping, and cryostripping in the treatment of great saphenous vein insufﬁciency.
+Phlebology 2006;21:60-4.
+131. Subramonia S, Lees T. Randomized clinical trial of radiofrequency
+ablation or conventional high ligation and stripping for great
+saphenous varicose veins. Br J Surg 2010;97:328-36.
+132. Wright DDI, Gobin J, Bradbury A, Coleridge-Smith PD,
+Spoelstra HAA, Berridge DC, et al. Varisolve polidocanol microfoam
+compared with surgery or sclerotherapy in the management of
+varicose veins in the presence of trunk vein incompetence: European randomized controlled trial. Phlebology 2006;21:180-90.
+133. Biemans AA, Kockaert M, Akkersdijk GP, van den Bos RR, de
+Maeseneer MG, Cuypers P, et al. Comparing endovenous laser
+ablation, foam sclerotherapy, and conventional surgery for great
+saphenous varicose veins. J Vasc Surg 2013;58:727-34.e1.
+134. Rasmussen LH, Lawaetz M, Bjoern L, Vennits B, Blemings A, Eklof B.
+Randomized clinical trial comparing endovenous laser ablation,
+radiofrequency ablation, foam sclerotherapy and surgical stripping
+for great saphenous varicose veins. Br J Surg 2011;98:1079-87.
+135. van der Velden SK, Biemans AA, De Maeseneer MG, Kockaert MA,
+Cuypers PW, Hollestein LM, et al. Five-year results of a randomized
+clinical trial of conventional surgery, endovenous laser ablation and
+ultrasound-guided foam sclerotherapy in patients with great
+saphenous varicose veins. Br J Surg 2015;102:1184-94.
+136. Venermo M, Saarinen J, Eskelinen E, Vahaaho S, Saarinen E, Railo M,
+et al. Randomized clinical trial comparing surgery, endovenous
+laser ablation and ultrasound-guided foam sclerotherapy for the
+treatment of great saphenous varicose veins. Br J Surg 2016;103:
+1438-44.
+137. Basel H, Aydin C, Ay Y, Inan B, Ekim H, Goya C, et al. Endovenous
+laser ablation (EVLA) versus high ligation and striping (HL/S): twoyears follow up. East J Med 2012;17:83-7.
+138. Carradice D, Samuel N, Wallace T, Mazari FA, Hatﬁeld J, Chetter I.
+Comparing the treatment response of great saphenous and small
+saphenous vein incompetence following surgery and endovenous
+laser ablation: a retrospective cohort study. Phlebology 2012;27:128-34.
+139. Lakhwani MN, Dadlani NI, Wong YC. 980-nm laser therapy versus
+varicose vein surgery in racially diverse Penang, Malaysia. ANZ J Surg
+2009;79:352-7.
+140. Leopardi M, Salerno A, Dante A, Coﬁni V, Necozione S, Ventura M.
+Endovenous laser ablation with 1,470-nm diode with tumescence
+anesthesia and saphenofemoral ligation: propensity score match
+comparison. Ann Vasc Surg 2019;58:302-8.
+
+141. Miyazaki K, Nishibe T, Sata F, Murashita T, Kudo FA, Miyazaki YJ, et al.
+Long-term results of treatments for varicose veins due to greater
+saphenous vein insufﬁciency. Int Angiol 2005;24:282-6.
+142. Ran F, Shi Y, Qiao T, Shang T, Liu Z, Liu CJ. Comparison of foam
+sclerotherapy alone or combined with stripping of the great saphenous vein for treating varicose veins. Dermatol Surg 2017;43:541-7.
+143. Siribumrungwong B, Noorit P, Wilasrusmee C, Leelahavarong P,
+Thakkinstian A, Teerawattananon Y. Cost-utility analysis of great
+saphenous vein ablation with radiofrequency, foam and surgery in the
+emerging health-care setting of Thailand. Phlebology 2016;31:573-81.
+144. Siribumrungwong B, Noorit P, Wilasrusmee C, Teerawattananon Y,
+Thakkinstian A. Quality of life after great saphenous vein ablation in
+Thai patients with great saphenous vein reﬂux. Asian J Surg 2017;40:
+295-300.
+145. Solís J, Ribé L, Portero J, Rio J. Stripping saphenectomy, CHIVA and
+laser ablation for the treatment of the saphenous vein insufﬁciency.
+Ambul Surg 2009;15:11-4.
+146. Theivacumar NS, Darwood R, Gough MJ. Neovascularisation and
+recurrence 2 years after varicose vein treatment for saphenofemoral and great saphenous vein reﬂux: a comparison of surgery
+and endovenous laser ablation. Eur J Vasc Endovasc Surg 2009;38:
+203-7.
+147. Tonev AO, Genadiev SG, Dimitrov SG, Zahariev TT, Nachev GK.
+A retrospective study of 100 patients with varicose veins treated
+with radiofrequency ablation and stripping. Phlebolymphology
+2013;20:150-4.
+148. Toregeani JF, Rocha AST, Kimura CJ, Araújo RAG, Kawai AK,
+Rotta LS, et al. Radiofrequency thermal ablation versus conventional saphenectomy. J Vasc Bras 2015;14:4-9.
+149. Vuylsteke M, Van den Bussche D, Audenaert E, Lissens P. Endovenous laser obliteration for the treatment of primary varicose veins.
+Phlebology 2006;21:80-7.
+150. Ay Y, Gunes E, Turkkolu ST, Selcuk E, Calim M, Akal R, et al.
+Comparative efﬁcacy and life quality effects of surgical stripping,
+radiofrequency ablation, and cyanoacrylate embolization in patients undergoing treatment for great saphenous vein insufﬁciency.
+Phlebology 2021;36:54-62.
+151. Kubat E, Unal CS, Geldi O, Cetin E, Keskin A. What is the optimal
+treatment technique for great saphenous vein diameter of $10
+mm? Comparison of ﬁve different approaches. Acta Chir Belg
+2021;121:94-101.
+152. Vemulapalli S, Parikh K, Coeytaux R, Hasselblad V, McBroom A,
+Johnston A, et al. Systematic review and meta-analysis of endovascular and surgical revascularization for patients with chronic
+lower extremity venous insufﬁciency and varicose veins. Am Heart J
+2018;196:131-43.
+153. Deak ST. Treatment of superﬁcial venous insufﬁciency in a large
+patient cohort with retrograde administration of ultrasound-guided
+polidocanol endovenous microfoam versus endovenous laser
+ablation. J Vasc Surg Venous Lymphat Disord 2022;10:999-1006.e2.
+154. Jimenez JC, Lawrence PF, Pavlyha M, Farley SM, Rigberg DA,
+DeRubertis BG, et al. Endovenous microfoam ablation of below
+knee superﬁcial truncal veins is safe and effective in patients with
+prior saphenous treatment across a wide range of CEAP classes.
+J Vasc Surg Venous Lymphat Disord 2022;10:390-4.
+155. Kim PS, Elias S, Gasparis A, Labropoulos N. Results of polidocanol
+endovenous microfoam in clinical practice. J Vasc Surg Venous
+Lymphat Disord 2021;9:122-7.
+156. Gohel MS, Epstein DM, Davies AH. Cost-effectiveness of traditional
+and endovenous treatments for varicose veins. Br J Surg 2010;97:
+1815-23.
+157. Poder TG, Fisette JF, Bedard SK, Despatis MA. Is radiofrequency
+ablation of varicose veins a valuable option? A systematic review of
+the literature with a cost analysis. Can J Surg 2018;61:128-38.
+158. Garagozlo C, Kadri O, Atalla M, Polanco F, Massaband A, Coey J, et al.
+The anatomical relationship between the sural nerve and small
+saphenous vein: an ultrasound study of healthy participants. Clin
+Anat 2019;32:277-81.
+159. Mura S, De Biasio F, Zingaretti N, Scalise A, Parodi PC. Common
+peroneal nerve injury related to small saphenous vein surgery:
+report of 2 cases and review of the literature. Case Rep Neurol
+2021;13:24-30.
+160. Cho S, Joh JH. Cyanoacrylate closure of small saphenous vein
+insufﬁciency. Dermatol Surg 2021;47:381-4.
+
+260
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+161. Apruzzi L, Bilman V, Ardita V, Favia N, Saracino C, Chiesa R, et al.
+Comparison of mechanochemical ablation versus ligation and
+stripping for the treatment of incompetent small saphenous vein.
+Phlebology 2022;37:48-54.
+162. Kubat E, Unal CS, Geldi O, Cetin E, Keskin A, Karapinar K. Comparison of different approaches to small saphenous vein reﬂux treatment: a retrospective study in two centers. Sao Paulo Med J
+2020;138:98-105.
+163. Boersma D, Kornmann VN, van Eekeren RR, Tromp E, Unlu C,
+Reijnen MM, et al. Treatment modalities for small saphenous vein
+insufﬁciency: systematic review and meta-analysis. J Endovasc Ther
+2016;23:199-211.
+164. Yuce I, Oguzkurt L, Eren S, Levent A, Kantarci M, Yalcin A, et al.
+Assessment of posterior accessory great saphenous vein of the leg
+using ultrasonography: a preliminary study. Surg Radiol Anat
+2016;38:123-6.
+165. Choi BS, Byun GY, Hwang SB, Koo BH, Lee SR. Long-segment hypoplasia of great saphenous vein with posterior accessory saphenous vein as a connecting vein: a case report. J Surg Case Rep
+2017;2017:rjx058.
+166. Schul MW, Schloerke B, Gomes GM. The reﬂuxing anterior accessory
+saphenous vein demonstrates similar clinical severity when
+compared to the reﬂuxing great saphenous vein. Phlebology
+2016;31:654-9.
+167. Schul MW, Vayuvegula S, Keaton TJ. The clinical relevance of anterior accessory great saphenous vein reﬂux. J Vasc Surg Venous
+Lymphat Disord 2020;8:1014-20.
+168. Baccellieri D, Ardita V, Carta N, Melissano G, Chiesa R. Anterior
+accessory saphenous vein conﬂuence anatomy at the saphenofemoral junction as risk factor for varicose veins recurrence after
+great saphenous vein radiofrequency thermal ablation. Int Angiol
+2020;39:105-11.
+169. Cavallini A, Marcer D, Ferrari Rufﬁno S. Endovenous treatment of
+incompetent anterior accessory saphenous veins with a 1540 nm
+diode laser. Int Angiol 2015;34:243-9.
+170. Mishra MK, Soni RK, Mohil RS, Sinha A. Comparative study of
+outcome of duplex ultrasound-guided, catheter-directed foam
+sclerotherapy and radio-frequency ablation in the management of
+great saphenous varicose veins. Indian J Surg 2016;78:375-81.
+171. Bootun R, Lane TR, Dharmarajah B, Lim CS, Najem M, Renton S,
+et al. Intra-procedural pain score in a randomised controlled trial
+comparing mechanochemical ablation to radiofrequency ablation:
+the Multicentre Veneﬁt versus ClariVeinÒ for varicose veins trial.
+Phlebology 2016;31:61-5.
+172. Calik ES, Arslan U, Erkut B. Ablation therapy with cyanoacrylate glue
+and laser for reﬂuxing great saphenous veinsda prospective randomised study. Vasa 2019;48:405-12.
+173. Gibson K, Morrison N, Kolluri R, Vasquez M, Weiss R, Cher D, et al.
+Twenty-four month results from a randomized trial of cyanoacrylate
+closure versus radiofrequency ablation for the treatment of
+incompetent great saphenous veins. J Vasc Surg Venous Lymphat
+Disord 2018;6:606-13.
+174. Holewijn S, van Eekeren R, Vahl A, de Vries J, Reijnen M; MARADONA Study Group. Two-year results of a multicenter randomized
+controlled trial comparing mechanochemical endovenous ablation
+to radiofrequency ablation in the treatment of primary great
+saphenous vein incompetence (MARADONA trial). J Vasc Surg
+Venous Lymphat Disord 2019;7:364-74.
+175. Lane T, Bootun R, Dharmarajah B, Lim CS, Najem M, Renton S, et al.
+A multi-centre randomised controlled trial comparing radiofrequency and mechanical occlusion chemically assisted ablation
+of varicose veinsdﬁnal results of the Veneﬁt versus Clarivein for
+varicose veins trial. Phlebology 2017;32:89-98.
+176. Lattimer CR, Azzam M, Kalodiki E, Shawish E, Trueman P,
+Geroulakos G. Cost and effectiveness of laser with phlebectomies
+compared with foam sclerotherapy in superﬁcial venous insufﬁciency: early results of a randomised controlled trial. Eur J Vasc
+Endovasc Surg 2012;43:594-600.
+177. Lattimer CR, Kalodiki E, Azzam M, Makris GC, Somiayajulu S,
+Geroulakos G. Interim results on abolishing reﬂux alongside a randomized clinical trial on laser ablation with phlebectomies versus
+foam sclerotherapy. Int Angiol 2013;32:394-403.
+178. Morrison N, Kolluri R, Vasquez M, Madsen M, Jones A, Gibson K.
+Comparison of cyanoacrylate closure and radiofrequency ablation
+
+for the treatment of incompetent great saphenous veins: 36-month
+outcomes of the VeClose randomized controlled trial. Phlebology
+2019;34:380-90.
+179. Morrison N, Gibson K, Vasquez M, Weiss R, Cher D, Madsen M, et al.
+VeClose trial 12-month outcomes of cyanoacrylate closure versus
+radiofrequency ablation for incompetent great saphenous veins.
+J Vasc Surg Venous Lymphat Disord 2017;5:321-30.
+180. Morrison N, Gibson K, McEnroe S, Goldman M, King T, Weiss R, et al.
+Randomized trial comparing cyanoacrylate embolization and
+radiofrequency ablation for incompetent great saphenous veins
+(VeClose). J Vasc Surg 2015;61:985-94.
+181. Rai A, Porsalman M, Khatony A, Sobhiyeh M. Comparison of foam
+sclerotherapy versus radiofrequency ablation in the treatment of
+primary varicose veins due to incompetent great saphenous vein:
+randomized clinical trial. J Vasc Nurs 2019;37:226-31.
+182. Tawﬁk AM, Sorour WA, El-Laboudy ME. Laser ablation versus
+mechanochemical ablation in the treatment of primary varicose
+veins: a randomized clinical trial. J Vasc Surg Venous Lymphat
+Disord 2020;8:211-5.
+183. Bademci MS, Kocaaslan C, Aldag M, Yalvac ESD, Oztekin A, Bulut N, et al.
+Single-center retrospective review of early outcomes of radiofrequency
+ablation versus cyanoacrylate ablation of isolated great saphenous vein
+insufﬁciency. J Vasc Surg Venous Lymphat Disord 2019;7:480-5.
+ lan O. A comparison of NBCA and RFA in treating varicose
+184. Bozog
+veins in the same patient. E J Cardiovasc Med 2020;8:45-50.
+185. Gonzalez-Zeh R, Armisen R, Barahona S. Endovenous laser and
+echo-guided foam ablation in great saphenous vein reﬂux: one-year
+follow-up results. J Vasc Surg 2008;48:940-6.
+186. Koramaz I, El Kilic H, Gokalp F, Bitargil M, Bektas N, Engin E, et al.
+Ablation of the great saphenous vein with nontumescent n-butyl
+cyanoacrylate versus endovenous laser therapy. J Vasc Surg Venous
+Lymphat Disord 2017;5:210-5.
+187. McGuinness B, Elias F, Ali KP, Ahmad MS, Namburi J, Chan B, et al.
+A comparison of duplex ultrasound ﬁndings after cyanoacrylate
+embolization versus endovenous laser ablation of the great
+saphenous vein. J Vasc Surg Venous Lymphat Disord 2019;7:824-31.
+188. Ovali C, Sevin MB. Twelve-month efﬁcacy and complications of
+cyanoacrylate embolization compared with radiofrequency ablation for incompetent great saphenous veins. J Vasc Surg Venous
+Lymphat Disord 2019;7:210-6.
+189. van Eekeren RR, Boersma D, Konijn V, de Vries JP, Reijnen MM.
+Postoperative pain and early quality of life after radiofrequency
+ablation and mechanochemical endovenous ablation of incompetent great saphenous veins. J Vasc Surg 2013;57:445-50.
+190. Yang GK, Parapini M, Gagnon J, Chen JC. Comparison of cyanoacrylate embolization and radiofrequency ablation for the treatment
+of varicose veins. Phlebology 2019;34:278-83.
+191. Vahaaho S, Halmesmaki K, Mahmoud O, Alback A, Noronen K,
+Venermo M. Three-year results of a randomized controlled trial
+comparing mechanochemical and thermal ablation in the treatment of insufﬁcient great saphenous veins. J Vasc Surg Venous
+Lymphat Disord 2021;9:652-9.
+192. Vos CG, Unlu C, Bosma J, van Vlijmen CJ, de Nie AJ, Schreve MA.
+A systematic review and meta-analysis of two novel techniques of
+nonthermal endovenous ablation of the great saphenous vein.
+J Vasc Surg Venous Lymphat Disord 2017;5:880-96.
+193. Kolluri R, Chung J, Kim S, Nath N, Bhalla BB, Jain T, et al. Network
+meta-analysis to compare VenaSeal with other superﬁcial venous
+therapies for chronic venous insufﬁciency. J Vasc Surg Venous
+Lymphat Disord 2020;8:472-81.e3.
+194. Parsi K, Roberts S, Kang M, Benson S, Baker L, Berman I, et al.
+Cyanoacrylate closure for peripheral veins: consensus document of
+the Australasian College of Phlebology. Phlebology 2020;35:153-75.
+195. Sussman MS, Ryon EL, Bahga A, Almeida S, Almeida JI. A systematic
+review of the treatment of residual below the knee venous reﬂux
+after endovenous thermal ablation of the great saphenous vein.
+J Vasc Surg Venous Lymphat Disord 2022;10:233-40.
+196. Gifford SM, Kalra M, Gloviczki P, Friese J, Bjarnason H, Duncan A,
+et al. Reﬂux in the below-knee great saphenous vein can be safely
+treated with endovenous ablation. J Vasc Surg Venous Lymphat
+Disord 2013;1:112.
+197. Theivacumar NS, Gough MJ. Endovenous laser ablation (EVLA) to
+treat recurrent varicose veins. Eur J Vasc Endovasc Surg 2011;41:
+691-6.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+261
+
+Volume 11, Number 2
+198. Mozes G, Gloviczki P, Menawat SS, Fisher DR, Carmichael SW,
+Kadar A. Surgical anatomy for endoscopic subfascial division of
+perforating veins. J Vasc Surg 1996;24:800-8.
+199. Mozes G, Gloviczki P, Kadar A, Carmichael SW. Surgical anatomy of
+perforating veins. In: Gloviczki P, Bergan JJ, editors. Atlas of Endoscopic Perforator Vein Surgery. 1st ed. Springer-Verlag; 1998:17-28.
+200. Kianifard B, Holdstock J, Allen C, Smith C, Price B, Whiteley MS.
+Randomized clinical trial of the effect of adding subfascial endoscopic perforator surgery to standard great saphenous vein stripping. Br J Surg 2007;94:1075-80.
+201. Park SW, Hwang JJ, Yun IJ, Lee SA, Kim JS, Chang SH, et al. Randomized clinical trial comparing two methods for endovenous
+laser ablation of incompetent perforator veins in thigh and great
+saphenous vein without evidence of saphenofemoral reﬂux. Dermatol Surg 2012;38:640-6.
+202. Fitridge RA, Dunlop C, Raptis S, Thompson MM, Leppard P,
+Quigley F. A prospective randomized trial evaluating the haemodynamic role of incompetent calf perforating veins. Aust N Z J Surg
+1999;69:214-6.
+203. Koroglu M, Eris HN, Aktas AR, Kayan M, Yesildag A, Cetin M, et al.
+Endovenous laser ablation and foam sclerotherapy for varicose
+veins: does the presence of perforating vein insufﬁciency affect the
+treatment outcome? Acta Radiol 2011;52:278-84.
+204. van Neer P, Kessels A, de Haan E, Estourgie R, Veraart J, Lijnen R,
+et al. Residual varicose veins below the knee after varicose vein
+surgery are not related to incompetent perforating veins. J Vasc
+Surg 2006;44:1051-4.
+205. van Rij AM, Jiang P, Solomon C, Christie RA, Hill GB. Recurrence
+after varicose vein surgery: a prospective long-term clinical study
+with duplex ultrasound scanning and air plethysmography. J Vasc
+Surg 2003;38:935-43.
+206. Stuart WP, Adam DJ, Allan PL, Ruckley CV, Bradbury AW. Saphenous surgery does not correct perforator incompetence in the
+presence of deep venous reﬂux. J Vasc Surg 1998;28:834-8.
+207. Harlander-Locke M, Jimenez JC, Lawrence PF, Derubertis BG,
+Rigberg DA, Gelabert HA. Endovenous ablation with concomitant
+phlebectomy is a safe and effective method of treatment for
+symptomatic patients with axial reﬂux and large incompetent
+tributaries. J Vasc Surg 2013;58:166-72.
+208. Brown CS, Obi AT, Cronenwett JL, Kabnick L, Wakeﬁeld TW,
+Osborne NH. Outcomes after truncal ablation with or without
+
+concomitant phlebectomy for isolated symptomatic varicose veins
+(C2 disease). J Vasc Surg Venous Lymphat Disord 2021;9:369-76.
+209. Conway RG, Almeida JI, Kabnick L, Wakeﬁeld TW, Buchwald AG,
+Lal BK. Clinical response to combination therapy in the treatment
+of varicose veins. J Vasc Surg Venous Lymphat Disord 2020;8:216-23.
+210. Lane TR, Kelleher D, Shepherd AC, Franklin IJ, Davies AH. Ambulatory varicosity avulsion later or synchronized (AVULS): a randomized
+clinical trial. Ann Surg 2015;261:654-61.
+211. Monahan DL. Can phlebectomy be deferred in the treatment of
+varicose veins? J Vasc Surg 2005;42:1145-9.
+212. Welch HJ. Endovenous ablation of the great saphenous vein may
+avert phlebectomy for branch varicose veins. J Vasc Surg 2006;44:
+601-5.
+213. Carradice D, Mekako AI, Hatﬁeld J, Chetter IC. Randomized clinical
+trial of concomitant or sequential phlebectomy after endovenous
+laser therapy for varicose veins. Br J Surg 2009;96:369-75.
+214. El-Sheikha J, Nandhra S, Carradice D, Wallace T, Samuel N,
+Smith GE, et al. Clinical outcomes and quality of life 5 years after a
+randomized trial of concomitant or sequential phlebectomy
+following endovenous laser ablation for varicose veins. Br J Surg
+2014;101:1093-7.
+215. Hager ES, Ozvath KJ, Dillavou ED. Evidence summary of combined
+saphenous ablation and treatment of varicosities versus staged
+phlebectomy. J Vasc Surg Venous Lymphat Disord 2017;5:134-7.
+216. Aherne TM, Ryan EJ, Boland MR, McKevitt K, Hassanin A,
+Tubassam M, et al. Concomitant vs. staged treatment of varicose
+tributaries as an adjunct to endovenous ablation: a systematic review and meta-analysis. Eur J Vasc Endovasc Surg 2020;60:430-42.
+217. Joh JH, Lee T, Byun SJ, Cho S, Park HS, Yun WS, Yang SS, Kim H,
+Kim WS, Jung IM, et al. A multicenter randomized controlled trial of
+cyanoacrylate closure and surgical stripping for incompetent great
+saphenous veins. J Vasc Surg Venous Lymphat Disord 2022;10:353-9.
+
+Submitted Sep 9, 2022; accepted Sep 23, 2022.
+
+Additional material for this article may be found online
+at www.jvsvenous.org.
+
+261.e1
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Supplementary Table I (online only). Terminology (most frequently used anatomic, clinical, physiologic, and descriptive
+venous terms)
+Term
+
+Deﬁnition
+
+Axial reﬂux
+
+Uninterrupted retrograde venous ﬂow from groin to calf; superﬁcial reﬂux conﬁned to superﬁcial
+venous system; deep reﬂux conﬁned to deep venous system; combined reﬂux involves any
+combination of the three main venous systems (superﬁcial, deep, perforating)
+
+Chronic venous disorders
+
+Includes full spectrum of morphologic and functional abnormalities of venous system
+
+Chronic venous disease
+
+Morphologic and functional abnormalities of venous system of long duration manifested by
+symptoms or signs, or both, indicating need for investigation and/or care
+
+Chronic venous insufﬁciency
+
+Reserved for advanced chronic venous disease (CEAP class C3-C6) applied to functional
+abnormalities of venous system producing edema, skin changes, or venous ulcers
+
+Congenital venous reﬂux
+
+Retrograde venous ﬂow of abnormal duration in any venous segment, caused by the absence or
+abnormal development of venous valves
+
+Mechanochemical ablation
+(Mocca procedure)
+
+A nontumescent, nonthermal technique to ablate superﬁcial truncal veins; an oscillating rotating
+wire is used to disrupt endothelial lining of target veins, allowing for simultaneous injection of
+sclerosant to penetrate deeper layers of vein wall, ultimately resulting in vein sclerosis and
+obstruction
+
+Miniphlebectomy
+
+Removal of a vein segment through a small skin incision or stab wound; synonyms include
+phlebectomy, ambulatory phlebectomy, microphlebectomy, and stab phlebectomy
+
+Nontruncal vein
+
+Unnamed or nonlongitudinal saphenous or deep vein
+
+Post-thrombotic syndrome
+
+Chronic venous symptoms and/or signs secondary to deep vein thrombosis and its sequelae
+
+Primary venous reﬂux
+
+Retrograde venous ﬂow of abnormal duration in any venous segment, caused by idiopathic
+venous valve dysfunction
+
+Reticular veins
+
+Dilated bluish subdermal veins ranging from 1 to <3 mm in diameter and usually tortuous; this
+excludes normal visible veins in people with thin, transparent skin; synonyms include blue
+veins, subdermal varices, and venulectasias; in CEAP classiﬁcation, reticular veins are part of C1
+clinical class
+
+Secondary venous reﬂux
+
+Retrograde venous ﬂow of abnormal duration in any venous segment, caused by thrombosis,
+trauma, or mechanical, thermal, or chemical etiologies
+
+Sclerotherapy
+
+Obliteration of vein by chemical introduction (liquid, physician-generated foam, or polidocanol
+endovenous microfoam)
+
+Truncal vein
+
+Named longitudinal saphenous or deep veins
+
+Diseased tributaries
+
+Varicose veins or telangiectasias associated with vein in question
+
+Stripping
+
+Removal of long vein segment, usually most of great saphenous or small saphenous vein using a
+device
+
+Telangiectasia
+
+Small, dilated, ﬂat, thin-walled, blue or red veins <1 mm in diameter seen near skin surface;
+numerous telangiectasias near foot and ankle are termed corona phlebectatica; commonly
+termed spider veins, they are distinguished from reticular veins by having no proﬁle; however,
+telangiectasia, spider veins, and reticular veins are all classiﬁed as C1 using the CEAP
+classiﬁcation
+
+Tessari technique
+
+Method of producing foam for immediate use by agitating liquid sclerosant with a gas at a
+predeﬁned ratio using two interconnected syringes, which are pumped back and forth rapidly
+w10 times until compact foam with microscopic bubbles is produced (named after L. Tessari,
+Italy)
+
+Varicose veins
+
+Subcutaneous dilated vein $3 mm in diameter when measured in upright position; could involve
+saphenous veins, saphenous tributaries, or nonsaphenous superﬁcial leg veins; varicose veins
+will usually be tortuous, but tubular saphenous veins with demonstrated reﬂux can be
+classiﬁed as varicose veins
+
+Venous ablation
+
+Removal, occlusion, or destruction of a vein by mechanical, thermal, or chemical means
+
+Venous compression
+
+Narrowing or occlusion of venous lumen as a result of extraluminal pressure
+
+Venous occlusion
+
+Total obliteration of venous lumen
+
+Venous obstruction
+
+Partial or total blockage to venous ﬂow
+
+Venous reﬂux
+
+Retrograde venous ﬂow of abnormal duration in any venous segment
+
+Venous valvular incompetence
+
+Venous valve dysfunction resulting in retrograde venous ﬂow of abnormal duration
+
+CEAP, Clinical Class, Etiology, Anatomy, Pathology.
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+261.e2
+
+Volume 11, Number 2
+
+Supplementary Table II (online only). Evidence to decision framework: duplex ultrasound (DU) scanning vs hand-held
+Doppler ultrasound (HHD) evaluation or other diagnostic methods
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are desirable anticipated
+effects of strategy?
+
+DU changed intervention plan for 10%-25% of
+cases; HHD had sensitivity only of 51%-77%
+
+Large
+
+How substantial are undesirable
+anticipated effects?
+
+No known undesirable effects; DU is a
+noninvasive, safe, and convenient diagnostic
+test
+
+Trivial
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+Clear beneﬁts with DU and no undesirable
+effects
+
+Yes
+
+Is there important uncertainty or variability
+about how much people value the main
+outcomes?
+
+No available direct data
+
+What is overall certainty of evidence of
+effects?
+
+In addition to available data, the
+overwhelming opinion of experts supports
+DU as evaluation method of choice for
+patients with varicose veins
+
+Moderate
+
+How large are resource requirements
+associated with intervention?
+
+DU equipment already available in most vein
+clinics, and cost is likely small relative to
+overall cost of care
+
+Small costs
+
+How large is incremental cost relative to
+net beneﬁt?
+
+Strategy of DU evaluation already
+implemented in vein clinics; the beneﬁt of
+more precise diagnosis with DU could bring
+only savings, although no cost-effectiveness
+analysis is available
+
+Unknown
+
+What would be effects on health
+inequities?
+
+No available data
+
+Unknown
+
+Is option acceptable to key stakeholders?
+
+Clear agreement also present among most
+experts and practitioners about evaluating
+patients with DU
+
+Yes
+
+Is option feasible to implement?
+
+Because DU equipment already available at
+most vein clinics, implementation should
+not be difﬁcult
+
+Yes
+
+Probably no important
+uncertainty or
+variability
+
+261.e3
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Supplementary Table III (online only). Evidence to decision framework: endovenous laser ablation (EVLA) vs high ligation
+and stripping (HL&S) vs compression stockings in patients with symptomatic varicose veins and axial reﬂux in superﬁcial
+truncal veins
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are desirable anticipated
+effects of the strategy?
+
+Decrease in perioperative pain and earlier
+return to normal activity and reduced risk of
+varicosities at 5 years are more likely with
+endovenous venous intervention; HL&S was
+associated with higher anatomic closure
+rates at 30 days and 5 years compared with
+RFA and UGFS, with no signiﬁcant difference
+compared with EVLA at 5 years
+
+Moderate
+
+How substantial are the undesirable
+anticipated effects?
+
+Increased risk of pigmentation and some
+procedural pain are expected; need for
+analgesia is higher with ligation and
+stripping
+
+Small
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+For most patients, the desirable effects will
+outweigh the undesirable effects
+
+Yes
+
+Is there important uncertainty or variability
+about how much people value the main
+outcomes?
+
+Studies on patient preference demonstrate
+signiﬁcant heterogeneity in patient
+preferences, with one study reporting that
+most patients are not concerned about
+missing work, and another reporting that
+cost was the most important component,
+with variable responses regarding ranking of
+discomfort and long-term risk of recurrence;
+given that superﬁcial venous disease is a
+chronic disease and a consensus is lacking
+regarding patient preference, the
+committee prioritized QoL at 5 years and
+recurrence/need for reintervention over
+short-term results
+
+Possibly
+important
+uncertainty or
+variability
+
+What is the overall certainty of the
+evidence of effects?
+
+Moderate certainty for venous intervention vs
+compression stockings; low certainty for
+head-to-head comparisons
+
+Moderate
+
+How large are the resource requirements
+associated with the intervention?
+
+The type of insurance will often drive costs and
+out-of-pocket expenses; out-of-pocket
+procedural costs have varied widely
+
+Unknown
+
+How large is the incremental cost relative
+to the net beneﬁt?
+
+One study from the United Kingdom showed
+that endovenous therapies were most cost
+effective, followed by UGFS, HL&S, and
+conservative therapy
+
+Unknown
+
+What would be the effect on health
+inequities?
+
+For patients without access, or for whom the
+cost of endovenous therapy is prohibitive,
+HL&S is an acceptable strategy
+
+Unknown
+
+Is the option acceptable to key
+stakeholders?
+
+All studies showed either strategy is
+acceptable compared with no therapy;
+individuals who place high priority on longterm outcomes would likely not choose
+UGFS
+
+Probably yes
+
+Is the option feasible to implement?
+
+Yes, it is a widely adopted technology; HL&S
+can be used if technology or expertise for
+endovenous ablation is not available or
+venous anatomy precludes endovenous
+treatment
+
+Probably yes
+
+RFA, Radiofrequency ablation; QoL, quality of life; UGFS, ultrasound-guided foam sclerotherapy.
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+261.e4
+
+Volume 11, Number 2
+
+Supplementary Table IV (online only). Evidence to decision framework: thermal ablation vs nonthermal ablation of
+saphenous veins
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are desirable anticipated
+effects of the strategy?
+
+No clear difference present in terms of outcomes
+between thermal and nonthermal vein ablation
+because the data are indeterminate and the
+nonthermal group is heterogeneous
+
+Unknown
+
+How substantial are the undesirable
+anticipated effects?
+
+Unclear difference in outcomes; thermal
+interventions could be associated with lower
+generic QoL scores and an increased risk of adverse
+events compared with CAC or n-butyl
+cyanoacrylate, but the evidence is uncertain
+
+Small
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+e
+
+Probably no
+
+Is there important uncertainty or variability
+about how much people value the main
+outcomes?
+
+Uncertainty exists regarding the value patients place
+on procedural pain vs closure rates or long-term
+QoL; these leave the available expertise of the
+treating physician and preference of the patient as
+important components of the decision
+
+Possibly important
+uncertainty or
+variability
+
+What is the overall certainty of the evidence
+of effects?
+
+e
+
+Very low when
+comparing the two
+strategies; moderate
+for either strategy
+
+Unknown
+
+Unknown
+
+How large is the incremental cost relative to
+the net beneﬁt?
+
+Some data suggest that CAC might not be as costeffective as other ablation techniques; cost factors
+do remain important in some settings and are an
+important part of the decision-making process
+
+Unknown
+
+What would be the effect on health
+inequities?
+
+No data available; allowing physicians and patients
+to determine which might be the better route
+should help minimize inequity
+
+Unknown
+
+Is the option acceptable to key stakeholders?
+
+No data available
+
+Probably yes
+
+Is the option feasible to implement?
+
+Prior RCTs do suggest that choosing between
+thermal and nonthermal options is often feasible
+
+Probably yes
+
+How large are the resource requirements
+associated with the intervention?
+
+CAC, Cyanoacrylate closure; QoL, quality of life; RCT, randomized controlled trial.
+
+261.e5
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Supplementary Table V (online only). Evidence to decision framework: treatment of incompetent perforator veins (IPVs) in
+patients with C2 disease vs no treatment
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are the desirable
+anticipated effects of the strategy?
+
+Not substantial; intervention for IPVs does not improve
+hemodynamic status, clinical presentation, or QoL
+compared with treatment of superﬁcial reﬂux alone;
+treatment, however, might have a role for patients
+with persistent symptoms after superﬁcial venous
+surgery with persistent superﬁcial reﬂux or initial
+presence of deep venous reﬂux
+
+Trivial
+
+How substantial are the undesirable
+anticipated effects?
+
+Not substantial; undesirable effects such as venous
+thrombotic events, skin/soft tissue injury, and nerve
+injury are possible
+
+Trivial
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+They do not, given the lack of signiﬁcant evidence to
+proceed with intervention for IPVs in C2 disease and
+the potential for undesirable effects
+
+Probably no
+
+Is there important uncertainty or
+variability about how much people
+value the main outcomes?
+
+Unknown; intervention for IPV treatment in C2 disease
+might result in over- or undertreatment
+
+Unknown
+
+What is the overall certainty of the
+evidence of effects?
+
+Data are derived from many prospective cohort studies,
+with limited data from randomized clinical trials
+
+Low
+
+How large are the resource
+requirements associated with the
+intervention?
+
+It could lead to added costs to the index procedure
+
+Moderate costs
+
+How large is the incremental cost
+relative to the net beneﬁt?
+
+Unknown
+
+Unknown
+
+What would be the impact on health
+inequities?
+
+Unknown
+
+Unknown
+
+Is the option acceptable to key
+stakeholders?
+
+Unknown
+
+Unknown
+
+Although it might be feasible, routine treatment of IPVs
+in patients with C2 disease does not have a
+documented beneﬁt
+
+Probably yes
+
+Is the option feasible to implement?
+
+CAC, Cyanoacrylate closure.
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+261.e6
+
+Volume 11, Number 2
+
+Supplementary Table VI (online only). Evidence to decision framework: concomitant phlebectomy with saphenous vein
+ablation vs staged phlebectomy after saphenous vein ablation
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are the desirable anticipated
+effects of the strategy?
+
+Important advantages exist to treating all
+lower extremity varicose veins in one setting
+
+Moderate
+
+How substantial are the undesirable
+anticipated effects?
+
+Likely, a small increase in postoperative pain;
+50%-70% of patients would not need
+subsequent phlebectomy due to symptom
+relief after saphenous vein ablation
+
+Moderate
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+For some patients, the desirable effects would
+outweigh the undesirable effects; when CT
+was compared to ablation only, multivariate
+analysis revealed a signiﬁcant reduction in
+VCSSs for the CT vs UT groups (P ¼ .002)
+
+Probably yes
+
+Is there important uncertainty or variability
+about how much people value the main
+outcomes?
+
+Short-term results conﬁrmed that
+concomitant phlebectomy prolonged the
+ablation procedure but reduced the need
+for secondary procedures and signiﬁcantly
+improved QoL; 5-year results of same RCT
+showed excellent and similar clinical results
+and QoL scores in both groups; however,
+concomitant treatment was associated with
+optimal improvement in both QoL and
+severity of clinical disease; although both
+strategies are acceptable, concomitant
+procedures (CT) were more often chosen by
+the patient
+
+Probably not
+important
+uncertainty or
+variability
+
+What is the overall certainty of the evidence
+of effects?
+
+e
+
+Low
+
+How large are the resource requirements
+associated with the intervention?
+
+One study showed CT procedure time was
+signiﬁcantly longer than that for UT alone
+(65 minutes vs 45 minutes; P ¼ .002); from
+the panel’s practice, patient satisfaction with
+CT seemed to outweigh added time
+required
+
+Small costs
+
+How large is the incremental cost relative to
+the net beneﬁt?
+
+One study suggested nonsigniﬁcance
+between CT vs UT in return to work (10 vs
+3 days, respectively) and return to normal
+activities (8 vs 2 days, respectively); this was
+likely a type 2 error because only 50 patients
+were randomized; from the practice of the
+panel, most patients will not be concerned
+with the additional recovery time
+
+Unknown
+
+What would be the effect on health
+inequities?
+
+Unknown
+
+Unknown
+
+Is the option acceptable to key stakeholders?
+
+All studies showed either strategy is
+acceptable, depending on patient
+preference; from the practice of the panel,
+more patients will choose CT than UT
+
+Probably yes
+
+Is the option feasible to implement?
+
+All studies showed it is feasible to implement;
+from the practice of the panel, the option
+would be easy to implement
+
+Probably yes
+
+CT, Combined treatment; RCT, randomized controlled trial; UT, unimodal treatment; VCSS, venous clinical severity score.
+
+Update
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+Volume 12, Issue 2, March 2024, Page
+DOI: https://doi.org/10.1016/j.jvsv.2023.101719
+
+CORRECTION
+In the March 2023 issue of the Journal of Vascular Surgery: Venous and Lymphatic Disorders, the article by Gloviczki
+et al (Gloviczki P, Lawrence PF, Wasan SM, et al. The 2022 Society for Vascular Surgery, American Venous Forum, and
+American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the
+lower extremities. Part I. Duplex Scanning and Treatment of Superﬁcial Truncal Reﬂux: Endorsed by the Society
+for Vascular Medicine and the International Union of Phlebology. J Vasc Surg Venous Lymphat Disord 2023;11:23161) contained an error.
+On page 237 of the printed article, the implementation remark 1.1.b on the deﬁnition of reﬂux erroneously contained
+two sentences on management of junctional reﬂux. Management of junctional reﬂux is addressed in Part II of the
+guidelines, in Consensus Statement 5.2.3.
+The two sentences that need to be removed read as follows: “Complete axial reﬂux in a symptomatic patient is
+pathognomonic, but junctional reﬂux alone is an indication for ablation. Conversely, a competent junction may
+be associated with an incompetent, pathologic GSV distal to the terminal valve and the source of varicosity in
+such patients can be either pelvic vein incompetence or an incompetent thigh perforating vein.”
+
+1
+
+
