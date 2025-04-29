@@ -1,0 +1,33 @@
+As are typically located in the posterior mediastinum
+and associated with the cervicothoracic sign. This sign is
+based on the fact that the anterior mediastinum does
+not extend above the clavicles. Therefore, any mediastinal mass extending above the level of the clavicle
+with sharply deﬁned borders delineated by an air-soft tissue interface is located in the middle or posterior
+mediastinum.57
+Practice Statement: The primary role of chest radiographs in the workup of acute aortic syndromes is the
+exclusion of other diagnoses. A chest radiograph may
+be completely normal despite the presence of PAU or
+IMH. (Ungraded good practice statement)
+CTA. CTA is the most widely used modality for deﬁnitive
+diagnosis of aortic diseases and has become essential for
+planning aortic interventions, especially when it is used
+in conjunction with postacquisition image processing
+and three-dimensional reconstruction software. This
+limits radiation exposure and intravenous contrast material use. CTA should also include the femoral and iliac
+arteries as well as the abdominal aorta in addition to the
+neck and chest.58 Advances in imaging techniques,
+including electrocardiography-gated CTA, have been
+demonstrated to decrease the risk of motion artifact in
+the thoracic aorta.59
+Recommendation 4: If TEVAR is being considered, we
+recommend ﬁne-cut (#0.25 mm) CTA of the entire aorta
+as well as of the iliac and femoral arteries. CTA of the
+
+head and neck is also needed to determine the anatomy
+of the vertebral arteries.60,61 Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: A (High)
+Pixel spacing for modern CTA is submillimeter (0.50.75 mm), with a typically used slice thickness of around
+1 mm, depending on scanner type and manufacturer.
+Routine computed tomography (CT) scans are often performed in 3- to 5-mm cuts, but three-dimensional planning for endovascular intervention is best done with #2mm cuts.60 Given the acquisition method on most modern CTA equipment, images can often be reformatted to
+thinner cuts if the original data set is still available to do so.
+Ide

@@ -1,0 +1,81 @@
+38781
+
+9
+
+5 or 6 or 7 or 8
+
+540110
+
+10
+
+4 and 9
+
+68617
+
+11
+
+exp Randomized Controlled Trial/
+
+12
+
+exp triple blind procedure/
+
+218
+
+13
+
+exp Double-Blind Method/
+
+445917
+
+14
+
+exp Single-Blind Method/
+
+81911
+
+15
+
+exp latin square design/
+
+16
+
+exp Placebos/
+
+17
+
+exp Placebo Effect/
+
+18
+
+((randomized adj3 study) or (randomized adj3 trial) or (randomised adj3 study) or (randomised adj3 trial) or
+"pragmatic clinical trial" or (random* adj1 allocat*) or (doubl* adj blind*) or (doubl* adj mask*) or (singl* adj
+blind*) or (singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*) or (trebl* adj mask*) or
+"latin square" or placebo* or nocebo*).mp,pt.
+
+2864915
+
+19
+
+or/11-18
+
+2865181
+
+20
+
+10 and 19
+
+21
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+10729834
+
+22
+
+((alpaca or alpacas or amphibian or amphibians or animal or animals or antelope or armadillo or armadillos or
+avian or baboon or baboons or beagle or beagles or bee or bees or bird or birds or bison or bovine or buffalo
+or buffaloes or buffalos or "c elegans" or "Caenorhabditis elegans" or camel or camels or canine or canines or
+carp or cats or cattle or chick or chicken or chickens or chicks or chimp or chimpanze or chimpanzees or
+chimps or cow or cows or "D melanogaster" or "dairy calf" or "dairy calves" or deer or dog or dogs or donkey
+or donkeys or drosophila or "Drosophila melanogaster" or duck or duck

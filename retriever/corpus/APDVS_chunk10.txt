@@ -1,0 +1,43 @@
+ probe is used to assess the blood fow. The
+doppler signal can be triphasic, or biphasic, or monophasic.
+Doppler Signals:
+ Triphasic and biphasic doppler signals indicate good blood fow.
+
+37
+
+ Monophasic signal correlates with moderate to severe decrease in arterial blood
+fow.
+ In severe ischemia, a soft continuous venous signal may be all that is heard.
+Listen to examples of Doppler signals here.
+On Exam:
+ Temperature changes may help demarcate the level of disease.
+ Sensory loss may be present in acute ischemia, chronic limb threatening ischemia,
+and chronic neuropathy.
+
+Head and Neck Exam:
+Inspection:
+ Pulsatile masses in the neck are usually tortuous carotid arteries mistaken for carotid
+aneurysms. Carotid aneurysms are usually near the carotid bifurcation, while tortuous
+carotid arteries are usually at the base of the neck. Carotid body tumors are also at the
+carotid bifurcation. Both carotid body tumors and aneurysms are not visible until they
+are large.
+ If the patient complains of amaurosis fugax (i.e., transient vision loss), fundoscopy may
+reveal cholesterol plaques called Hollenhorst plaques. These are thought to originate
+from the carotid plaque.
+Palpation:
+ The carotid pulse is palpated on the medial border of the sternocleidomastoid muscle.
+Carotid palpation is generally not performed routinely as it may cause a syncopal episode
+in elderly patients with sensitive carotid bulbs.
+ A robust temporal pulse anterior to the ear is a sign of a patent common and external
+carotid artery sign.
+ A large supraclavicular pulse may indicate an enlarged subclavian artery. Otherwise, the
+subclavian artery is usually not palpable.
+Auscultation:
+ Auscultate the carotid arteries for bruits.
+
+38
+
+ Using the stethoscope bell, you can hear the S1, and S2 heart sounds in the carotid artery
+in the mid-neck. A bruit heard in the neck is not normal. This could be transmitted
+from the heart or could be from a kink or narrowing in the carotid artery. The carotid
+bruit is lou

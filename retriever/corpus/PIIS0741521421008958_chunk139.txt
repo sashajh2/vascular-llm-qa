@@ -1,0 +1,30 @@
+ OR "D melanogaster" OR "dairy calf" OR "dairy calves"
+OR deer OR dog OR dogs OR donkey OR donkeys OR
+drosophila OR "Drosophila melanogaster" OR duck OR
+duckling OR ducklings OR ducks OR equid OR equids
+OR equine OR equines OR feline OR felines OR ferret OR
+ferrets OR ﬁnch OR ﬁnches OR ﬁsh OR ﬂatworm OR ﬂatworms OR fox OR foxes OR frog OR frogs OR "fruit ﬂies"
+OR "fruit ﬂy" OR "G mellonella" OR "Galleria mellonella"
+OR geese OR gerbil OR gerbils OR goat OR goats OR goose
+OR gorilla OR gorillas OR hamster OR hamsters OR hare OR
+hares OR heifer OR heifers OR horse OR horses OR insect
+OR insects OR jellyﬁsh OR kangaroo OR kangaroos OR
+kitten OR kittens OR lagomorph OR lagomorphs OR
+lamb OR lambs OR llama OR llamas OR macaque OR macaques OR macaw OR macaws OR marmoset OR marmosets OR mice OR minipig OR minipigs OR mink OR minks
+OR monkey OR monkeys OR mouse OR mule OR mules
+OR nematode OR nematodes OR octopus OR octopuses
+OR orangutan OR "orang-utan" OR orangutans OR
+"orang-utans" OR oxen OR parrot OR parrots OR pig OR
+
+Results
+155
+
+pigeon OR pigeons OR piglet OR piglets OR pigs OR
+porcine OR primate OR primates OR quail OR rabbit
+OR rabbits OR rat OR rats OR reptile OR reptiles OR rodent OR rodents OR ruminant OR ruminants OR salmon
+OR sheep OR shrimp OR slug OR slugs OR swine OR
+tamarin OR tamarins OR toad OR toads OR trout OR urchin OR urchins OR vole OR voles OR waxworm OR waxworms OR worm OR worms OR xenopus OR "zebra ﬁsh"
+OR zebraﬁsh) AND NOT (human OR humans or patient
+or patients))
+7 5 and not 6
+8 DO

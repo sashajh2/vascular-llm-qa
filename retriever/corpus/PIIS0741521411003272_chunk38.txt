@@ -1,0 +1,64 @@
+.
+
+6. Classification
+
+GRADE of
+recommendation
+
+Level of
+evidence
+
+1. Strong
+
+1
+
+A. High
+quality
+B. Moderate
+quality
+C. Low or very
+low quality
+A
+
+1
+
+B
+
+2. Weak
+
+6.1
+6.2
+
+We recommend that the CEAP classification be used for patients with varicose
+veins. The basic CEAP classification is used for clinical practice, and the full
+CEAP classification system is used for clinical research.
+We recommend that primary venous disorders, including simple varicose
+veins, be differentiated from secondary venous insufficiency and from
+congenital venous disorders because the three conditions differ in
+pathophysiology and management.
+
+The basic CEAP classification is a simplified version,
+suitable and easy for office use, and does not have the
+details of the comprehensive CEAP classification, which
+functions more as a research tool. As discussed in more
+detail by Meissner et al,13 for a patient with primary,
+symptomatic varicose veins and full saphenous and perforator incompetence (anatomic segments 2, 3, and 18
+in Table III) with a small healed venous ulcer and skin
+pigmentation, the comprehensive CEAP classification
+would be C2,4a,5,SEpAs,p,Pr2,3,18.
+Using the basic CEAP, the same patient would be
+classified as C5,SEpAs,pPr. In the basic CEAP classification, only the highest score is used to denote the clinical
+class and only the main anatomic groups (s, p, and d) are
+noted.
+The revised format of the classification77 includes two
+elements in addition to the C-E-A-P findings: the date of
+the examination and the level of the diagnostic evaluation:
+Level 1: History, physical examination, Doppler examination (handheld)
+Level 2: Noninvasive— duplex scan, plethysmography
+Level 3: Invasive or complex evaluation— contrast venography, venous pressure measurements, IVUS, CT
+venography, MR venography
+
+The accuracy of the diagnosis increases with the addition of imaging and invasive testing. Recording the date
+and method used to confirm the clinical impression can be
+added in parentheses after the CEAP recording as follows:
+Full form:

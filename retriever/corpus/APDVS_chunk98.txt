@@ -1,0 +1,39 @@
+ end of the chapter, we are certain you will have covered the knowledge
+necessary to answer the questions. There will be a teaching case at the end of the chapter.
+This is another opportunity to exercise your new knowledge!
+
+Pre/Post Questions
+Case Based Questions
+1. A 61-year-old man with a history of heavy smoking, hypertension, diabetes mellitus,
+and peripheral arterial disease with intermittent claudication presents to the ED with 3
+hours of severe, acute-onset pain in his right foot. He takes aspirin daily, a beta-blocker
+for his hypertension, and metformin for his diabetes. His right foot is cool compared to
+his left foot. A thorough physical exam reveals no palpable pulses or audible doppler
+signals in his dorsalis pedis or posterior tibial arteries in the right foot. In addition,
+he has loss of fine touch, and proprioception to the ankle. He also has weakness with
+plantar/dorsifexion of the toes in the right foot. Based on Rutherford’s classification of
+acute limb ischemia, what category of acute limb ischemia does this patient have?
+A. I
+B. IIa
+C. IIb
+D. III
+Answer
+C. IIb.
+Discussion:
+Here is the Rutherford classification of acute limb ischemia:
+Stage I: viable limb that is not immediately threatened (intact motor and sensory function,
+with audible arterial and venous signals)
+Stage IIa: marginally threatened and salvageable limb if properly treated (intact motor
+function and sensory deficit in the toes [or none at all], with often inaudible arterial
+signal)
+Stage IIb: immediately threatened limb that is salvageable only with immediate revascularization (mild to moderate motor loss with significant sensory loss, with usually
+inaudible arterial signal)
+
+132
+
+Stage III: Irreversibly damaged limb with major tissue loss or permanent nerve damage
+(profound motor and sensory loss, generally with paralysis and inaudible arterial signal)
+This patient falls into class IIb because he has both mild motor loss and sensory loss.
+Rutherford RB, Baker JD, Ernst C, et al. Recommended standards for reports dealing
+with lower extremity ischemia: Revised version. J Vasc Surg. 1997;26(3):517-538.
+2. A 62-year-old man with diabetes

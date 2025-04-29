@@ -1,0 +1,34 @@
+ further away from the area being imaged.
+If the X-ray tube is too close, imaging quality can degrade and radiation dose increases. This
+strategic arrangement ensures that the image quality remains high while minimizing patient
+exposure to radiation.
+Ď Tip
+See a visual summary of correct and incorrect technique here.
+Another crucial aspect of radiation exposure is a person’s distance from the radiation
+source. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d^2). (J. H. Kim 2018)
+Ĺ Note
+Suppose a medical student is initially one foot away from a radiation source, and their
+exposure is measured at 500 mGy/min. If they then move ten feet away from the
+source, their exposure would reduce significantly to 5 mGy/min. This example vividly
+demonstrates why distance from the source plays a pivotal role in minimizing radiation
+exposure.
+
+If you are not scrubbed, the ideal place to stand is as far away from the x-ray source
+while making sure you can still see the images and interact with the surgical team.
+When discussing the positioning of the C-arm, it’s useful to become familiar with some common
+terminology. To improve visualization of the target area, the C-arm can rotate left and right,
+and cranially or caudally. All terminology is relative to the radiation source (under
+the table) and not the intensifier (above the patient). Two frequently encountered
+positions are RAO (right anterior oblique) and LAO (left anterior oblique).
+
+Adverse Outcomes Given Prolonged Radiation Exposure
+Limits
+Various governing agencies in the US and around the world have established limits on yearly
+radiation exposure.
+Currently, the United States Occupational Safety and Health Administration, Nuclear Regulatory Commissions, and Department of Energy all stipulate a yearly limit of 5,000
+mrem/year (50 Sv). [“Radiation In Perspective” (n.d.)](“Information for Radiation Workers,” n.d.)
+Some agencies further specify this limit to 1,250 mrem/quarter (12.5 Sv). (“Radiation
+Emergency Preparedness and Response - Response | Occupational Safety and Health Administration,” n.d.)
+
+Deterministic versus stochastic radiation eects
+Before delving into the various risks associated with radiation exposure, it

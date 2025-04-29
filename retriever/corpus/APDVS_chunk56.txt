@@ -1,0 +1,28 @@
+) of her lower extremities?
+A. Right ABI 1.1; left ABI 0.8
+B. Right ABI 1.0; left ABI 1.0
+C. Right ABI 1.2; left ABI 0.9
+D. Right ABI 1.4; left ABI 1.0
+E. Right ABI 1.1; left ABI 0.7
+Answer
+A. Right ABI 1.1; left ABI 0.8
+Discussion: Performing an ankle-brachial index (ABI) requires an appropriately sized
+manual blood pressure cuff and a hand-held, continuous-wave Doppler probe. The patient
+should be in the supine position and allowed to rest before the examination begins. The
+blood pressure cuff is placed above the ankle. The Doppler probe is used to locate the
+dorsalis pedis (DP) or posterior tibial (PT) pulse. The pressure cuff is infated until the
+Doppler signal is obliterated, and then the cuff is then slowly released. The pressure at
+which the Doppler signal returns is the ankle pressure. The same process is repeated for
+both legs (DP and PT signals) and both arms. The arm pressure must be measured with
+the Doppler probe and the manual blood pressure cuff. To calculate an ABI, the higher
+ankle pressure (DP or PT) is divided by the highest arm pressure (left or right). Note
+that the higher arm pressure is used to calculate the ABI for both legs. For this specific
+
+90
+
+case, the highest arm pressure is 150. To calculate on the right, 165/150=1.1, on the
+left 120/150=0.8. A normal ABI is 0.9 to 1.2. Patients with claudication usually have
+an ABI ranging from 0.5 to 0.9, and those with ischemic rest pain or tissue loss usually
+have an ABI less than 0.5. Sabiston Textbook of Surgery: The Biological Basis of Modern
+Surgical Practice, 20th ed. Ch. 62: Peripheral Arterial Disease. Norgren L, Hiatt WR,
+Dormandy JA, Nehler MR, Harris KA, Fowkes FGR. Inter-society consensus for

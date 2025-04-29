@@ -1,0 +1,31 @@
+SOCIETY FOR VASCULAR SURGERY DOCUMENT
+The Society for Vascular Surgery implementation document for
+management of extracranial cerebrovascular disease
+Ali F. AbuRahma, MD,a Efthymios D. Avgerinos, MD, PhD,b Robert W. Chang, MD,c
+R. Clement Darling III, MD,d Audra A. Duncan, MD,e Thomas L. Forbes, MD,f Mahmoud B. Malas, MD, MHS,g
+Bruce Alan Perler, MD, MBA,h Richard J. Powell, MD,i Caron B. Rockman, MD,j and Wei Zhou, MD,k Charleston,
+WV; Pittsburgh, Pa; San Francisco and La Jolla, Calif; Albany and New York, NY; London and Toronto, Ontario, Canada;
+Baltimore, Md; Lebanon, NH; and Tucson, Ariz
+
+
+INTRODUCTION
+The management of extracranial cerebrovascular disease, including carotid endarterectomy (CEA), carotid
+stenting and medical management is performed by
+several specialists. Vascular surgeons perform a majority
+of CEA, whereas catheter-based therapies (eg, carotid artery stenting [CAS]) are performed by vascular surgeons,
+cardiologists, interventional radiologists, neurosurgeons,
+interventional neurologists, and other professionals.1,2
+Because multiple treatment modalities are available for
+extracranial cerebrovascular disease, deﬁning optimal
+therapy can be challenging particularly when different
+specialtiesdoften with nonoverlapping expertised
+deliver these therapeutic options.
+In 2011, the Society for Vascular Surgery (SVS) published clinical practice guidelines for the management
+of extracranial carotid artery disease in the Journal of
+Vascular Surgery.3 A multispecialty document was also
+published on the “Management of Patients with Extracranial Carotid and Vertebral Artery Disease.”4 However,
+since these documents came out, four large, randomized trials have been published that compared the efﬁcacy of CAS and CEA in management of extracranial
+carotid stenosis.5-9 This led the European Society for
+Vascular Surgery to update its guidelines, “Management
+of Atherosclerotic Carotid and Vertebral Artery Disease”
+in 2017.10 Similarly

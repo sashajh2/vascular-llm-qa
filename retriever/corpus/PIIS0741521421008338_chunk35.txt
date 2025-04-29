@@ -1,0 +1,77 @@
+ word, rare disease
+supplementary concept word, unique identiﬁer, synonyms]
+
+90650
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+21,743
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, original title, name of substance word, subject heading word, ﬂoating subheading word, keyword heading word, protocol supplementary concept word, rare
+disease supplementary concept word, unique identiﬁer, synonyms]
+
+32,969
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+157,678
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral
+stroke*" or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼title, abstract, original title,
+name of substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+14
+15
+16
+
+339
+
+Advanced
+
+2,037,869
+
+Advanced
+
+mortality.fx.
+
+517,821
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+446,608
+
+Advanced
+
+("brain adj3 bleed

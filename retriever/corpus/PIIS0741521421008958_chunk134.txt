@@ -1,0 +1,131 @@
+ OR DOCTYPE(sh) OR DOCTYPE(ch)
+
+20
+
+#18 and not #19
+
+21
+
+LANGUAGE(english)
+
+22
+
+#20 and #21
+
+23
+
+PUBYEAR aft 2015
+
+24
+
+#22 and #23
+
+108S.e30
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Question 2: CEA vs CAS in symptomatic patients
+Ovid. Database(s): EBM Reviews - Cochrane Central
+Register of Controlled Trials May 2019, EBM Reviews Cochrane Database of Systematic Reviews 2005 to
+June 26, 2019, Embase 1974 to 2019 July 02, Ovid
+
+MEDLINE(R) and Epub Ahead of Print, In-Process &
+Other Non-Indexed Citations and Daily 1946 to July 02,
+2019.
+
+Search Strategy:
+#
+
+Searches
+
+Results
+
+1
+
+exp Carotid Arteries/su [Surgery]
+
+11536
+
+2
+
+exp Carotid Artery Diseases/su [Surgery]
+
+27830
+
+3
+
+("arteria carotis" or carotid).ti,ab,hw,kw.
+
+321971
+
+4
+
+1 or 2 or 3
+
+323628
+
+5
+
+exp Endarterectomy, Carotid/
+
+26276
+
+6
+
+exp Stents/
+
+241364
+
+7
+
+exp Angioplasty/
+
+151689
+
+8
+
+(angioplast* or endarterectom* or "endoluminal repair*" or endovascular* or stent*).ti,ab,hw,kw.
+
+538781
+
+9
+
+5 or 6 or 7 or 8
+
+540110
+
+10
+
+4 and 9
+
+68617
+
+11
+
+exp Randomized Controlled Trial/
+
+12
+
+exp triple blind procedure/
+
+218
+
+13
+
+exp Double-Blind Method/
+
+445917
+
+14
+
+exp Single-Blind Method/
+
+81911
+
+15
+
+exp latin square

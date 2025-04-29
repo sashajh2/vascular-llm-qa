@@ -1,0 +1,29 @@
+GRADE - 2; LEVEL OF EVIDENCE - B]
+COMPRESSION
+Guideline 5.1: CompressiondUlcer Healing
+In a patient with a venous leg ulcer, we recommend compression therapy over no compression therapy to increase venous leg ulcer healing rate. [GRADE - 1; LEVEL OF EVIDENCE - A]
+Guideline 5.2: CompressiondUlcer Recurrence
+In a patient with a healed venous leg ulcer, we suggest compression therapy to decrease the risk of ulcer recurrence. [GRADE - 2; LEVEL OF EVIDENCE - B]
+
+8S O’Donnell et al
+
+JOURNAL OF VASCULAR SURGERY
+August Supplement 2014
+
+Guideline 5.3: Multicomponent Compression Bandage
+We suggest the use of multicomponent compression bandage over single-component bandages for the treatment of venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - B]
+Guideline 5.4: CompressiondArterial Insufﬁciency
+In a patient with a venous leg ulcer and underlying arterial disease, we do not suggest compression bandages or
+stockings if the ankle-brachial index is 0.5 or less or if absolute ankle pressure is less than 60 mm Hg. [GRADE - 2;
+LEVEL OF EVIDENCE - C]
+Guideline 5.5: Intermittent Pneumatic Compression
+We suggest use of intermittent pneumatic compression when other compression options are not available,
+cannot be used, or have failed to aid in venous leg ulcer healing after prolonged compression therapy. [GRADE - 2;
+LEVEL OF EVIDENCE - C]
+OPERATIVE/ENDOVASCULAR MANAGEMENT
+Guideline 6.1: Superﬁcial Venous Reﬂux and Active Venous Leg UlcerdUlcer Healing
+In a patient with a venous leg ulcer (C6) and incompetent superﬁcial veins that have axial reﬂux directed to the
+bed of the ulcer, we suggest ablation of the incompetent veins in addition to standard compressive therapy to
+improve ulcer healing. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 6.2: Superﬁcial Venous Reﬂux and Active Venous Leg UlcerdPrevent Recurrence
+In a patient with a venous leg ulcer (C

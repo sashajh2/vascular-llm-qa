@@ -1,0 +1,151 @@
+ et al,14
+1987
+
+12
+
+28
+
+40
+
+NA
+
+Peric et al,105 1997
+
+38
+
+81
+
+119
+
+0.8 (0.22-2.85)
+
+Rosenthal et al,107
+1984
+
+8
+
+14
+
+22
+
+0.16 (0-96.74)
+
+Urschel et al,110
+1976
+
+17
+
+8
+
+25
+
+0.04 (0-26.42)
+
+Overall
+
+137
+
+188
+
+325
+
+0.51 (0.22-1.18), I2 [ 0%
+
+2019
+
+5
+
+208
+
+213
+
+4.62 (0.72-29.87)
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+Overall
+
+25
+
+247
+
+272
+
+4.62 (0.72-29.87),
+I2 [ NA%
+
+Xiang et al,
+
+111
+
+NA
+
+NA
+
+Stroke
+
+CAS and CABG
+combined vs
+CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+21.398 (0.034-13554.280)
+
+MI
+
+CAS and CABG
+combined vs CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+0.1768 (0.0003-112.0200)
+
+Stroke/death/MI
+
+CAS and CABG
+combined vs CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+1.95 (0.13-29.57)
+
+Death
+
+Illuminati et al,12
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2011
+asymptomatic patients
+
+94
+
+91
+
+185
+
+0.9681 (0.062-

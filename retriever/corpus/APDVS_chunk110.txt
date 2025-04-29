@@ -1,0 +1,37 @@
+/rotational
+forces to clear a thrombus. The procedural steps are similar to catheter-directed thrombolysis
+in terms of percutaneous access and cannulation of the target vessel. This procedure utilizes
+an aspiration mechanical thrombectomy catheter to simultaneously provide fragmentation and
+aspiration to restore arterial fow.
+Pharmacomechanical thrombectomy is a very similar concept as mechanical thrombectomy. In addition to mechanical clot extraction, it applies thrombolytic therapy with a lytic
+agent . The advantage of this therapy in comparison to catheter directed thrombolysis is the
+decreased lytic dose and duration of thrombolysis required.
+Other
+In severe cases of ALI where irreversible tissue damage is obvious such as in patients with
+Rutherford III classification, primary amputation may be the most viable treatment option.
+With irreversible neurovascular damage and tissue necrosis, primary amputation serves to
+prevent further spread of tissue damage and infection.
+
+141
+
+Post-Operative Complications & Management
+The major postoperative complications of ALI are systemic end organ insults from sequelae of
+ischemia-reperfusion (IR) injury. Reperfusion resulting in rhabdomyolysis, myoglobinuria, and
+
+142
+
+compartment syndrome must be monitored for. Baseline and surveillance creatine phosphokinase as well as surveillance for electrolyte abnormalities, acid base abnormalities, and urine
+abnormalities including hemoglobinuria, myoglobinuria, and oliguria should be performed.
+
+Four Compartment Fasciotomy
+Prophylactic decompression fasciotomy is recommended in cases with greater than 6 hours of
+ischemia time and/or in patients with sensory and/or motor deficits. Compartment syndrome
+is largely a clinical diagnosis however, you can also utilize a Stryker needle as a diagnostic
+tool and objectively measure compartment pressures. Typically, intracompartmental pressure
+> 30mmHg or 30 mmHg below the patient’s diastolic blood pressure suggests a high likelihood
+of compartment syndrome particularly if your clinical suspicion is high. It is important to
+release all four lower leg compartments during fasciotomy.
+
+Figure 1: The four compartments of the lower leg.
+There are several techniques to release the anterior and lateral compartments. The common
+techniques include making a 4 to 6 cm incision on the lateral aspect of the t

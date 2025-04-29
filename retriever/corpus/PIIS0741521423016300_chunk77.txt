@@ -1,0 +1,27 @@
+. Current care guidelines: peripheral arterial disease. Duodecim
+2010;126:1433-4.
+4. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items
+for systematic reviews and meta-analyses: the PRISMA statement.
+BMJ 2009;339:b2535.
+5. Chuter VH, Schaper N, Mills J, Hinchliffe R, Azuma N, Behrendt C,
+et al. Effectiveness of bedside investigations for diagnosing peripheral artery disease among people with diabetes mellitus: a
+systematic review. Diabetes Metab Res Rev 2023. [in press].
+6. Chuter VH, Schaper N, Mills J, Hinchliffe R, Azuma N, Behrendt C,
+et al. Performance of non-invasive bedside vascular testing in the
+prediction of wound healing or amputation among people with
+foot ulcers in diabetes: a systematic review. Diabetes Metab Res Rev
+2023. doi: 10.1002/dmrr.3701. [Online ahead of print].
+7. Chuter V, Schaper N, Mills J, Hinchliffe R, Russell D, Azuma N, et al.
+Effectiveness of revascularisation for the ulcerated foot in patients
+with diabetes and peripheral artery disease: A systematic review.
+Diabetes Metab Res Rev 2023. doi: 10.1002/dmrr.3700. [Online
+ahead of print].
+8. Lucas NP, Macaskill P, Irwig L, Bogduk N. The development of a
+quality appraisal tool for studies of diagnostic reliability (QAREL).
+J Clin Epidemiol 2010;63:854-61.
+ J, Berkman ND,
+9. Sterne JA, Hernán MA, Reeves BC, Savovic
+Viswanathan M, et al. ROBINS-I: a tool for assessing risk of bias in
+non-randomised studies of interventions. BMJ 2016;355:i4919.
+ J, Page MJ, Elbers RG, Blencowe NS, Boutron I,
+10. Sterne JA, Savovic

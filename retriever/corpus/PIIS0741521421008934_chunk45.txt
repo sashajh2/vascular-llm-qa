@@ -1,0 +1,64 @@
+, bone, and vascular structures
+simultaneously. It is also able to evaluate the extent of vessel
+calciﬁcation, especially in the aortic arch. CTA is less likely to
+overestimate the severity of carotid stenosis compared
+with MRA.15,75 The requirement for radiation and the use
+of contrast remain its most signiﬁcant limitations. CTA is
+not appropriate for screening purposes, because of its signiﬁcant cost and the degree of radiation exposure.75
+Catheter arteriography was previously considered the
+reference standard in the evaluation of carotid artery stenosis, especially preoperatively before CEA.75 Because of
+its invasive nature and small, but present, risk of complications, it has no role in screening for extracranial cerebrovascular disease.
+Recommendation 4.3: For asymptomatic patients
+who are undergoing screening for carotid artery stenosis, we recommend duplex ultrasound performed in an
+accredited vascular laboratory as the imaging modality of choice instead of CTA, MRA, or other imaging modalities (grade 1B).
+
+Question 5. what is the optimal sequence for intervention in patients with combined carotid and coronary disease?
+Patients
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+Patients with both
+carotid stenosis
+>70% and CAD
+requiring CABG
+
+CEA or CAS
+and CABG
+
+Combined CEA
+and CABG or
+CABG ﬁrst or
+CEA ﬁrst
+
+Stroke, death, MI,
+combined stroke/
+death
+
+RCT,
+observational
+
+Asymptomatic,
+carotid stent
+
+18S
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+January Supplement 2022
+
+Evidence and rationale
+The recommendation for staged or synchronous carotid interventions in patients with 50% to 99% stenosis
+and a history of stroke or TIA in the preceding 6 months
+who require CABG is supported by the reported
+data.128-133 However, the optimal timing for these interventions is unclear. In patients with severe (>70%) stenosis and symptomatic disease, minimal studies have
+addressed the timing of the interventions.134 In an analysis of multiple observational studies

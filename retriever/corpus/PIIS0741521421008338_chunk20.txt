@@ -1,0 +1,149 @@
+ Patients, intervention, comparison, outcomes (PICOs)
+PICO 1. Which is more effective, open or endovascular repair of PAAs?
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+a
+
+Open approach
+
+Endovascular approach
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+PAAs
+
+PICO2. What is the natural history of untreated PAAs?
+a
+
+PAAs
+
+None
+
+PAA, Popliteal artery aneurysm.
+a
+Traumatic and iatrogenic aneurysms were excluded.
+
+None
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+125S.e3
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Supplementary Table II (online only). Study characteristics
+Open
+patients
+
+Endovascular
+patients
+
+Open
+aneurysms
+
+Endovascular
+aneurysms
+
+Mean
+follow-up,
+months
+
+Author, year
+
+Study design
+
+Demographics
+
+Del Tatto et al,17
+2018
+
+Retrospective
+observational
+
+126 patients
+Open: 69.4 years,
+48-89.
+4.6% female
+Endovascular:
+70.4 years, 53-86
+7.7% female
+
+87
+
+39
+
+103
+
+50
+
+46.9
+
+Dorigo et al,18
+2018
+
+Retrospective
+observational
+
+112 patients
+Open: 68.6 6
+9.7 years
+5.5% female
+Endovascular:
+74.5 6 7.8.0.0%
+female
+
+n/a
+
+n/a
+
+250
+
+59
+
+38.0
+
+Wrede et al,42
+2018
+
+Retrospective
+observational
+
+Open: 66 years, 4881
+0.0% female
+Endovascular:
+69 years, 56-87
+7.4% female
+
+n/a
+
+n/a
+
+39
+
+27
+
+31.5
+
+Leake et al,27
+2016
+

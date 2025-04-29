@@ -1,0 +1,143 @@
+6
+
+0.22 (0.028-1.77)
+
+Stroke at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+24
+
+31
+
+55
+
+6.46 (0.81-51.69)
+
+Stroke at 5 years
+
+Medical management
+vs CEA
+
+ACST, 2004
+
+1560
+
+1560
+
+3120
+
+2.86 (2.02-4.03)
+
+Stroke/death
+at 1 year
+
+Medical management
+vs CEA
+
+Reiff et al,1 2019
+
+113
+
+203
+
+316
+
+0.36 (0.04-3.04)
+
+Stroke/death
+at 5 years
+
+Medical management
+vs CEA
+
+Walker et al,3 1995
+
+182
+
+192
+
+374
+
+2.37 (0.74-7.57)
+
+NA
+0.29 (0.035-2.38)
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e3
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Continued.
+Outcome
+
+Intervention vs
+comparison
+
+Total
+
+RR (95% CI)
+
+Stroke/death
+at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+Author, year
+
+Group 1
+24
+
+Group 2
+31
+
+55
+
+5.81 (1.38-24.45)
+
+Ipsilateral stroke
+at 1 year
+
+Medical management
+vs CEA
+
+Reiff et al,1 2019
+
+113
+
+203
+
+316
+
+0.45 (0.051-3.97)
+
+Ipsilateral stroke
+at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+24
+
+31
+
+55
+
+6.46 (0.81-51.69)
+
+Ipsilateral stroke
+at 5 years
+
+Medical management

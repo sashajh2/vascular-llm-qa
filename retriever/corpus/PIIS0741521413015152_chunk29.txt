@@ -1,0 +1,69 @@
+
+
+Ischemia – 1
+VL L L
+L
+M M
+M M H
+M M M
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+M H H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+M
+M
+H
+H
+fI3
+
+M
+H
+H
+H
+fI3
+
+Ischemia – 3
+M H H
+H H H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+fI, foot Infection; I, Ischemia; W, Wound.
+Premises:
+1. Increase in wound class increases risk of amputation (based on PEDIS, UT, and
+other wound classification systems)
+2. PAD and infection are synergistic (Eurodiale); infected wound + PAD increases
+likelihood revascularization will be needed to heal wound
+3. Infection 3 category (systemic/metabolic instability): moderate to high-risk of
+amputation regardless of other factors (validated IDSA guidelines)
+Four classes: for each box, group combination into one of these four classes
+Very low = VL = clinical stage 1
+Low = L = clinical stage 2
+Moderate = M = clinical stage 3
+High = H = clinical stage 4
+Clinical stage 5 would signify an unsalvageable foot
+
+IDSA, Infectious Disease Society of America; PAD, peripheral artery disease; PEDIS, perfusion, extent/size, depth/tissue loss, infection, sensation; UT,
+University of Texas.
+
+to 48 possibilities. Quick perusal will note that many theoretically possible combinations are clinically unlikely, so the
+actual number of probable scenarios is far more limited.
+Most of the patients in the ischemia 1 and 2 blocks of 16
+combinations suffer from “situational ischemia.” As wound
+complexity and infection severity increase (a shift down and
+to the right in each box of 16), the likelihood that revascularization will be required increases. In the ischemia 3 category, small wounds without infection may not always
+require vascular intervention, but such an intervention
+may speed healing. Again, shifts down

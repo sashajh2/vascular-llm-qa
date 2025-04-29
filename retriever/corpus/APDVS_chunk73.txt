@@ -1,0 +1,45 @@
+ causes claudication
+ABI <0.5: often causes ischemic rest pain/tissue loss
+Below, we will review how to calculate the ABI for the right and left lower extremity using
+the following values:
+Artery
+
+Pressure (mm Hg)
+
+Brachial
+Dorsalis pedis (DP)
+Posterior tibial (PT)
+
+Right
+150
+145
+150
+
+Left
+130
+120
+110
+
+For both right and left lower extremities, the highest brachial pressure is 150 and will be used
+for comparison for the ankle/brachial index.
+On the right lower extremity, using the DP systolic pressure the ABI is 145/150 = 0.97 and
+using the PT systolic pressure the ABI = 150/150 = 1.0. So the Right ABI is 1.0, because we
+choose the highest of the two ankle pressures for the final value of the ABI.
+On the left lower extremity, using the DP systolic pressure the ABI is 120/150 = 0.8 and using
+the PT systolic pressure the ABI = 110/150 = 0.73. So the Left ABI is 0.8, because we choose
+the highest of the two ankle pressures for the final value of the ABI.
+For this above example, R ABI = 1.0 and L ABI = 0.8. So this patient may have some
+peripheral vascular disease present in his left lower extremity as his ABI is less than 0.9.
+Ď Tip
+Here is a video demonstrating how to obtain and calculate an ABI.
+
+102
+
+Pulse volume recordings (PVR)
+Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type
+of waveform provides important information about the characteristics of blood fow. These
+waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these
+waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis,
+and determine the effectiveness of treatment interventions.
+Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type
+of waveform provides important information

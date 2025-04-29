@@ -1,0 +1,142 @@
+9
+
+253
+
+251
+
+504
+
+0.91 (0.41-2.02)
+
+Mas et al,28 2014
+
+262
+
+265
+
+527
+
+1.52 (0.43-5.31)
+
+Steinbauer et al,40 2008
+
+42
+
+42
+
+84
+
+0.02 (0-12.74)
+
+Overall
+
+557
+
+558
+
+1115
+
+1.01 (0.23-4.42),
+I2 [ 4%
+
+CEA total
+No. of patients
+
+CEA risk
+(95% CI)
+
+CAS total
+No. of patients
+
+1 (0.82-1.22)
+
+CAS
+risk (95% CI)
+
+Stroke/death at 120 days
+
+CEA vs CAS
+
+2361
+
+5.5% (4.7% to 6.5%)
+
+2393
+
+8.7% (7.6% to 9.9%)
+
+Stroke/death and
+ipsilateral stroke
+at 5 years
+
+CEA vs CAS
+
+2168
+
+8.3% (7.2% to 9.6%)
+
+2121
+
+11.4% (10.1% to 12.8%)
+
+Outcome
+
+Intervention
+vs Comparison
+
+Author, Year
+
+Group 1
+
+Group 2
+
+Total
+
+RR (95% CI)
+
+34
+
+6.02 (0.01-3755.64)
+
+Question 3: Timing of intervention in stroke
+Death at 30 days
+
+CEA <2 days vs
+2-14 days
+
+Azzini et al,6 2016
+
+22
+
+12
+
+(Continued on next page)
+
+108S.e4
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Supplementary Table I (online only). Continued.
+Outcome
+
+Cerebral
+hemorrhage
+
+Intervention
+vs Comparison
+
+CEA <2 days vs
+2-14 days
+
+Author, Year
+
+Group 1
+
+Barbetta et al,7
+2014
+
+2

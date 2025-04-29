@@ -1,0 +1,55 @@
+35”, 0.018” and 0.014”.
+
+186
+
+Stiness
+
+
+
+
+
+Wire stiffness is determined by the metal used as the core of the wire.
+The same wire will become stiffer with a larger diameter.
+Softer wires are used to manipulate catheters into vessels.
+Stiffer wires are needed to push larger devices, such as balloons or endografts.
+
+Coating
+ Wires have a hydrophilic or hydrophobic coating.
+ Hydrophilic wires have less friction when moving along the vessel wall and track more
+closely along the vessel lumen, increasing the risk of dissection.
+ Hydrophilic wires are preferable in highly tortuous vessels.
+ In contrast, hydrophobic wires keep more distance from the vessel wall and are less likely
+to dissect.
+Tip Shape
+
+The tip shape and consistency of the wire is important.
+Angled tips are used to navigate into side branches of vessels.
+Soft tips are designed to prevent trauma to the vessel wall.
+Weighted tips are used to cross occlusions.
+J-tips are used to prevent wiring of too small of vessels that may lead to trauma of end
+organs.
+
+Length
+ Wires are measured in centimeters (cm) and typically range from 80 - 300 cm.
+ Wires must not only be long enough to reach the target vessel from the point of access,
+but also need to be long enough to support exchanges outside of the body as needed.
+ Care must be taken to avoid too long of a wire for its intended purpose as it is harder
+to control the end of the wire outside of the body.
+Function
+Wires can be categorized by function. Please find a list of each category with common examples
+of specific wires below.
+
+187
+
+Figure 2: Commonly used wires, curtosy of B. G. Northcutt, MD, A Shah, MD, Y Sheu, MD,
+L Carmi, MD.
+
+188
+
+Access wires:
+ Short, typically 0.018” wires with a soft, non-directional tip to prevent any trauma to the
+vessel when entering, and a stiffer body to allow tracking of the introducer and sheath
+into the vessel.
+Guidewires:
+ Generally are characterized as pushable, hydrophilic wires with a foppy, curved or angled
+tips that are designed to track through

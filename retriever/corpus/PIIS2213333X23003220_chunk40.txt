@@ -1,0 +1,64 @@
+82,83
+2. Compression therapy
+2.1. Compression therapy vs intervention.
+2.1.1. For patients with symptomatic varicose veins
+and axial reﬂux in the superﬁcial truncal veins, we suggest compression therapy for primary treatment if the
+patient’s ambulatory status or underlying medical conditions warrant a conservative approach or, if the patient prefers conservative treatment, for either a trial
+period or deﬁnitive management.
+GUIDELINE. Grade of recommendation: 2 (weak),
+Quality of Evidence: C (low to very low)
+Rationale. In patients with varicose veins, compression
+therapy has been used for decades to decrease pain and
+swelling. Graduated elastic compression stockings
+oppose tissue expansion when muscles contract. It can
+narrow the superﬁcial veins diameter and therefore
+decrease the venous reﬂux and venous hypertension,
+key elements in the pathophysiology of CVD.
+Evidence. The clinical beneﬁt of compression stockings
+for the initial treatment of varicose veins has been studied in a recent Cochrane review of 13 trials, encompassing
+>1000 patients88 (Table III). Compression stockings were
+compared with no stockings or placebo stockings.88 Four
+RCTs showed improvement in symptoms, but they were
+subject to bias. Three of the four studies reported side
+effects of discomfort, appearance, and application difﬁculty. The beneﬁts of stockings were offset by highly
+variable reports of compliance, presumably due to the
+most common side effects of itching and irritation.
+
+14
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2024
+
+Table II. Outcome of superﬁcial truncal ablation in patients with deep vein reﬂux
+First author,
+year
+
+Intervention
+
+Sales, 199669
+
+17 patients
+(C2-C6)
+
+HL&S phlebectomy,
+perforator vein ligation
+
+None
+
+94% (16/17) resolution
+of DVR at a mean of
+62 days (range, 4-278
+days)
+
+Retrospective
+review
+
+Puggioni,
+200370
+
+33/38 (C1-C6)
+
+HL&S or RFA, perforator
+lig

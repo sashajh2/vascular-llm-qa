@@ -1,0 +1,29 @@
+ observational) W/1 (study or survey or analysis)) OR "case study" OR "case series" OR
+"clinical series" OR "case studies" OR "clinical study" OR
+"clinical trial" OR (("phase 0" or "phase 1" or "phase I" or
+"phase 2" or "phase II" or "phase 3" or "phase III" or "phase
+4" or "phase IV") W/5 (trial or study)) OR "evaluation study"
+OR "evaluation survey" OR "evaluation analysis" OR
+"quantitative study" OR "quantitative analys*" OR "numerical study" OR "validation study" OR "validation survey"
+OR "validation analysis" OR "quasi experimental study"
+OR "quasi experimental analysis" OR "quasiexperimental
+study" OR "quasiexperimental analysis" OR "in vivo study"
+OR "in vivo analysis" OR "panel study" OR "panel survey"
+OR "panel analysis" OR "replication study" OR "replication
+analysis " OR "replication trial" OR "feasibility study" OR
+"feasibility analysis" OR ((correlation* W/2 study) OR (correlation* W/2 analys*)) OR "case control study" OR "case
+
+base study" OR "case referrent study" OR "case referent
+study" OR "case referent study" OR "case compeer study"
+OR "case comparison study" OR "matched case control"
+OR "multicenter study" OR "multi-center study" OR
+"odds ratio" OR "conﬁdence interval" OR "regression analysis" OR "least square" OR "least squares" OR (hazard* W/1
+(model* OR analys* OR regression or ratio or ratios)) OR
+"Cox model" OR "Cox multivariate analyses" OR "Cox
+multivariate analysis" OR "Cox regression" OR "Cox survival analyses" OR "Cox survival analysis" OR "Cox survival
+model" OR "change analysis" OR ((study OR trial OR
+random* OR control*) AND compar*))
+5 1 and 2 and 3 and 4
+6 TITLE-ABS-KEY((alpaca OR alpacas OR amphibian OR
+amphibians OR animal OR animals OR antelope OR
+armadillo OR

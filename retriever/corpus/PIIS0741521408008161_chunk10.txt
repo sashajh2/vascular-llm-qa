@@ -1,0 +1,95 @@
+483
+
+Table. Summary of evidence (carotid endarterectomy vs stenting)
+Quality assessment
+No of studies
+
+Design
+
+Limitations
+
+Consistency
+
+Directness
+
+Death at 30 days
+5
+
+RCTs
+
+Seriousa
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+None
+
+QQQO
+Moderate
+
+Any stroke at 30 days
+5
+RCTs
+
+Seriousa
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+Sparse or imprecise
+datab
+
+QQOO
+Low
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+None
+
+QQQO
+Moderate
+
+Non fatal myocardial infarction at 30 days
+3
+RCTs
+Seriousa
+
+Imprecision
+
+Quality
+
+a
+
+Allocation concealment was not conducted in four trials, and seven trials did not blind data collectors or outcome assessors.
+Imprecision is based on risk difference which has wide confidence interval.
+
+b
+
+ablative neck surgery (eg, radical neck dissection, laryngectomy); (4) common carotid artery stenosis below the clavicle; (5) contralateral vocal cord paralysis; and (6) presence
+of a tracheostomy stoma.
+The authors could not define “high medical risk” with
+equal precision. Dialysis dependent renal failure, extremely
+low left ventricular ejection fraction, and oxygen or steroid
+dependent chronic lung disease are examples of potentially
+useful high medical risk criteria. Data on the influence of
+such medical factors on carotid endarterectomy outcomes
+are inconsistent and generally of poor quality.
+Evidence
+Upon the request of the carotid committee of the SVS,
+a meta-analysis of randomized trials that compared carotid
+angioplasty and carotid endarterectomy was updated to
+include recent trials.20 This review pooled results from ten
+RCTs that included a total of 3182 patients with carotid
+stenosis over 50%. The majority of patients were symptomatic and in one of the trials they were designated as being at
+high risk for carotid endarterectomy.5 Allocation concealment and blinding of outcome assessors were adequate in
+6/10 and 2/10 trials, respectively. At 30 days and compared with endarterectomy,

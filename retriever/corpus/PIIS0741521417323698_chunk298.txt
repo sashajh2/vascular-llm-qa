@@ -1,0 +1,100 @@
+*
+or tomograph* or treat* or ultrasonograph* or ultrasound* or xray* or “x-ray*”).mp.
+
+5
+
+3 and 4
+
+6
+
+1 or 2 or 5
+
+7
+
+exp meta analysis/
+
+8
+
+exp Meta-Analysis as Topic/
+
+49995
+
+9
+
+exp Randomized Controlled Trial/
+
+863768
+
+10
+
+exp triple blind procedure/
+
+186
+
+11
+
+exp Double-Blind Method/
+
+381145
+
+12
+
+exp Single-Blind Method/
+
+63322
+
+13
+
+exp latin square design/
+
+14
+
+exp Placebos/
+
+15
+
+exp Placebo Effect/
+
+16
+
+((meta adj analys*) or (randomized adj3 study) or (randomized adj3 trial) or (randomised adj3 study)
+or (randomised adj3 trial) or “pragmatic clinical trial” or (doubl* adj blind*) or (doubl* adj mask*)
+or (singl* adj blind*) or (singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*)
+or (trebl* adj mask*) or “latin square” or placebo* or nocebo*).mp,pt.
+
+2185771
+
+17
+
+or/7-16
+
+2185771
+
+18
+
+6 and 17
+
+2529
+
+19
+
+limit 18 to (english language and yr ¼ “1996 -Current”) [Limit not valid in CDSR; records were retained]
+
+2267
+
+20
+
+19 not “conference abstract”.pt.
+
+21
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+8441729
+
+22
+
+((alpaca or alpacas or amphibian or amphibians or animal or animals or antelope or armadillo or armadillos
+or avian or baboon or baboons or beagle or beagles or bee or bees or bird or birds or bison or bovine or buffalo
+or buffaloes or buffalos or “c elegans” or “Caenorhabditis elegans” or camel or camels or canine or canines
+or carp

@@ -1,0 +1,35 @@
+ for LSA coverage. Guidelines on
+LSA revascularization were published in 2009 by the
+SVS,127 yet there remains variability in this practice with
+continued debate on the indications for revascularization.
+Some surgeons perform revascularization routinely, some
+selectively, and some perform LSA revascularization only
+if symptoms occur after TEVAR.127,128 There are four major
+concerns with coverage of the LSA: spinal cord ischemia,
+stroke, arm ischemia, and vertebrobasilar ischemia.
+Spinal cord ischemia. Understanding the anatomy of
+the LSA branches and the critical anterior spinal artery
+is important as the LSA provides inﬂow into the anterior
+spinal artery through multiple pathways. There is general
+consensus that patients with focal disease and who are
+treated with shorter (#15 cm) stent graft lengths are at
+lower risk for spinal cord ischemia.114,126 Data from the
+European Collaborators on Stent/graft Techniques for
+Aortic Aneurysm Repair (EUROSTAR) registry, one of the
+largest series with speciﬁc attention to TEVAR and
+anatomy, demonstrated rates of spinal cord ischemia
+and stroke as high as 8.4% when there was LSA coverage
+without revascularization compared with 0% in those
+patients who underwent prophylactic LSA revascularization (P ¼ .049).109
+After reports of lower spinal cord ischemia rates in
+experimental, sequential, and progressive embolization
+of spinal vessels in animal models,129 many have advocated for staging the coverage of large segments of the
+aorta to allow preconditioning or even purposeful spinal
+artery embolization before extensive TEVAR.130
+Stroke. The incidence of stroke during and identiﬁed
+after TEVAR for TAA generally ranges from 3.2% to
+6.2%,131 and it may be lethal in one third of these
+cases.132 However, this range may vary according to the
+indication for TEVAR. A meta-analysis of the Cooksponsored multicenter trials demonstrated even lower
+rates in certain populations of patients, with a 30-day
+stroke rate of 0% in the 5

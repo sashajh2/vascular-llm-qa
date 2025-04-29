@@ -1,0 +1,33 @@
+71
+and $10,133, respectively. Assuming a procedural stroke
+rate of 0.9% for CEA and 5.0% for CAS, and a 30-day mortality rate of 0% for CEA and 1.2% for CAS, CEA was found
+to be associated with a lifetime saving of $7017 per patient and an increase in quality-adjusted life years saved
+of 0.16.668 In another report, a cost utility analysis using a
+Markov model was carried out using a Korean database
+which included 346 CAS and 331 CEA procedures performed for symptomatic disease. CAS produced 6.49
+quality-adjusted life-years compared with 6.71 qualityadjusted life-years for CEA, with signiﬁcantly higher costs
+for CAS.669 Similarly, the Canadian health system database was used to carry out a cost utility analysis among
+symptomatic patients using a Markov analytical model.
+In the base case analysis, CAS was noted to be more
+costly (incremental cost of $6107) and have a lower utility
+(e0.12 quality-adjusted life-years). The drivers of these results were the costs of the procedures and the incidence
+of periprocedural complications. CAS was only cost effective among high-surgical risk patients.670
+In the CREST, estimated net costs were $18,335 and
+$13,276 for CAS and CEA, respectively.671 However, in
+another report, a Markov disease simulation model was
+used to analyze CREST data to project 10-year costs
+and quality-adjusted life-year expectancy for the two patient populations. CAS was associated with a mean
+
+82S
+
+AbuRahma et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+incremental cost of $524 per patient and a reduction in
+quality-adjusted life expectancy of 0.008 years. It is unclear whether the practitioners who participated in
+CREST through a rigorous selection process reﬂect
+what can be expected in general practice of CAS and
+CEA.672 The authors of the latter study also noted that
+although CEA and CAS provided comparable overall results, more widespread

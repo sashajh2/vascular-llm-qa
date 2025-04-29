@@ -1,0 +1,62 @@
+id No
+Patients with risk
+duplex/Doppler
+screening
+factors for atherosclerosis
+(ie, HTN, smokers,
+hypercholesterolemia,
+PAD, CAD, DM,
+RF)
+
+Prevalence of
+>50% stenosis,
+mortality, stroke
+
+Any (comparative
+Risk factors
+or noncomparative)
+
+Question 5. In patients with combined coronary/carotid disease, what is the optimal sequence for intervention?
+Patients with
+combined
+coronary/carotid
+disease
+
+(1) Combined
+carotid
+intervention þ
+CABG
+
+Stroke, death,
+(2) CABG ﬁrst
+MI, combined
+(3) Carotid
+intervention ﬁrst
+
+RCT or
+observational
+
+Symptomatic, asymptomatic,
+CEA vs CAS
+
+CABG, Coronary artery bypass grafting; CAD, coronary artery disease; CAS, carotid artery stenting; CEA, carotid endarterectomy; DM, diabetes mellitus;
+HTN, hypertension; MI, myocardial infarction; PAD, peripheral arterial disease; RCT, randomized, controlled trial; RF, renal failure.
+
+Three main therapeutic strategies exist for patients with
+carotid artery disease, including medical management,
+carotid endarterectomy (CEA) and carotid artery stenting
+(CAS). Medical management is recommended in all
+cases (with CEA, CAS, or alone) and includes antiplatelet
+medications (aspirin, dipyridamole, ticlopidine, and
+clopidogrel), high-potency statins, oral diabetic medication or insulin, hypertensive medications, smoking cessation, and lifestyle modiﬁcations.
+Controversies and debates exist on various aspects of
+the management of carotid disease, starting with
+knowing which patients should be screened for carotid
+disease. In terms of treatment, an important question is
+under which circumstances to use these treatment
+options, particularly as it relates to whether the patient
+is symptomatic or not. The issue of optimal timing of carotid intervention after acute stroke is equally important.
+In patients with combined coronary and carotid disease,
+the optimal sequence for intervention is also unclear.
+The Society for Vascular Surgery (SVS) has determined
+this topic to be in

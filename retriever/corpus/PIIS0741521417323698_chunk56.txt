@@ -1,0 +1,83 @@
+184 Transabdominal ultrasound is ideal for
+screening and surveillance185 but insufﬁciently precise for
+procedural planning or more complex morphologic analyses.186-188
+CT imaging is more reproducible than ultrasound, with
+>90% of measurements within 2 mm of the initial
+reading.189 Both techniques suffer from a lack of standardization in terms of determining the degree and
+rate of disease progression.190 An aneurysm measured
+by standard axial CT is generally >2 mm larger in diameter than when it is measured by ultrasound. Most
+commonly, the cross-sectional measurement obtained
+by CT is not necessarily perpendicular to the path of
+the aorta, which presumably contributes to an overestimation of aneurysm size. There is also signiﬁcant
+
+Journal of Vascular Surgery
+
+Chaikof et al
+
+23
+
+Volume 67, Number 1
+
+Table V. Genetic loci implicated in the pathogenesis of an abdominal aortic aneurysm (AAA)
+Genetic locus
+
+Nearest gene (gene symbol)
+
+SNP rs#
+
+3p12.3 [40]
+
+Contactin 3 (CNTN3)
+
+9p21.3b [32]
+
+CDKN2B antisense RNA 1
+(CDKN2BAS1)
+
+9q33.1b [41]
+12q13.3b [42]
+
+Pa
+
+Other diseases with which the
+locus has been associated
+
+RAF
+
+OR (95% CI)
+
+rs7635818
+
+0.42
+
+1.33 (1.10-1.21)
+
+.0028
+
+rs10757278
+
+0.45
+
+1.31 (1.22-1.42)
+
+1.2  1012
+
+Numerous; including CHD, IA,
+cancers, and Alzheimer
+disease
+
+DAB2 interacting protein
+(DAB2IP)
+
+rs7025486
+
+0.25
+
+1.21 (1.14-1.28)
+
+4.6  1010
+
+CHD, pulmonary embolus, PAD
+
+Low-density lipoprotein
+re

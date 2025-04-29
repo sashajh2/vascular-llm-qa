@@ -1,0 +1,39 @@
+, and
+should be encouraged to ask questions and voice concerns prior to the initiation of treatment.
+
+
+Patient monitoring and dose recording:
+During fuoroscopy-guided procedures, patient radiation doses should be monitored and
+recorded accurately to help understand the patient’s cumulative radiation exposure.
+In a hybrid OR, the total radiation is recorded on the large screen. If not, you can always ask
+the hybrid room technician.
+
+Radiation shielding:
+The use of personal protective devices made of dense materials, such as lead aprons, thyroid
+collars, and other protective shields, serve to attenuate radiation.
+
+Shielding
+Shielding serves to protect vital organs from radiation exposure and damage. The most common type of shielding is lead, typically in the form of a skirt, vest, and thyroid shield worn
+beneath the surgical gown.
+Lead aprons and other lead-lined materials are highly effective in protecting personnel from
+radiation exposure. Lead, being a very dense material, absorbs a significant portion of the
+radiation from X-ray beams that would otherwise reach the person wearing it. These lead
+protection devices are specifically designed to safeguard vital organs and those most sensitive
+to radiation exposure—such as organs not shielded by overlying bone. This includes the torso,
+reproductive organs, and the thyroid gland.
+
+Reported effectiveness of worn lead varies. Some sources claim that a lead apron with a
+thickness of 0.5 mm can reduce radiation scatter by 90%, while others suggest a lesser reduction.
+However, there is a consensus that the apron should be at least 0.25 mm thick both in the
+front and back. (Cheon et al. 2018)
+Additional shielding such as lead screens can be found in the OR to provide further protection
+against scattered X-rays.
+
+Radiation Badges
+Radiation badges or “dosimeters” are personal wearable devices designed to measure the
+amount of radiation exposure an individual receives. They measure the total exposure accumulated over a set period of time. It’s important to note that these devices specifically
+measure ionizing radiation and not other forms.
+There are several types of badges available. Film badges are commonly used in clinical practice.
+They are worn by a single person and are evaluated every 30 days. Other types of badges
+provide real-time quantification of radiation exposure, with readings recorded at the beginning
+and end of each shift. A radiation oﬀcer is typically tasked

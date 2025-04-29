@@ -1,0 +1,145 @@
+A and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+1.7885 (0.82-3.92)b
+
+Stroke
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+2.6231 (0.88-7.80)b
+
+Death
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+2.1462 (0.6966-6.610)b
+
+MI
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+0.0308 (0.0001-16.5500)b
+
+Stroke/death
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Illuminati et al,12
+2011
+
+94
+
+91
+
+185
+
+0.121 (0.015-0.950)
+
+Death
+
+CEA and CABG
+combined
+vs CEA ﬁrst
+
+Bernhard,92 1972
+
+15
+
+15
+
+30
+
+0.02 (0-9.83)
+
+Brow et al,93 1999
+
+23
+
+3
+
+26
+
+1.48 (0-857.08)
+
+Carrel et al,94 1992
+
+52
+
+45
+
+97
+
+0.72 (0.24-2.21)
+
+Chiappini et al,95
+2005
+
+140
+
+22
+
+162
+
+0.47 (0.14-1.61)
+
+Faggioli, 1990
+
+2
+
+17
+
+19
+
+NA
+
+Feldman, 2017
+
+15,402
+
+6297

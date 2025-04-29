@@ -1,0 +1,28 @@
+10,46 patients undergoing vascular surgerydincluding 5264 undergoing CEAdthere was no difference in the risk of
+bleeding complications among patients on aspirin, clopidogrel, or dual aspirin þ clopidogrel therapy, or no
+antiplatelet therapy.165 Clearly, among those patients
+with a speciﬁc indication for clopidogrel such as symptomatic carotid disease or recent stent placement, dual
+antiplatelet therapy is indicated. Intraoperative anticoagulation, and protamine reversal, is discussed in Section on Anticoagulation and protamine reversal.
+Carotid stenting. Perioperative medical management
+of CAS patients is similar to those undergoing CEA,
+including blood pressure control and beta blocker use.
+Similarly, although there is currently no Level 1 evidence
+to inform on the efﬁcacy of statins among patients undergoing CAS, individual case series support this
+approach. For example, in a series of 180 patients undergoing CAS, the 30-day risk of stroke, death, and MI was
+4% among statin users vs 15% among nonusers (P <
+.05).94 In another series of 344 CAS patients, multivariate
+analysis demonstrated that statin use was a signiﬁcant
+predictor of reduced peri-interventional incidence of
+ischemic stroke, MI, or death (OR, 0.31; P ¼ .006).95
+Further, in the largest series reported to dated1083 patients undergoing CASdmultivariable analysis showed
+
+that statin use was associated with a reduction in the
+incidence of perioperative stroke and death (OR, 0.327,
+95% CI, 0.13-0.80; P ¼ .016).96
+With respect to antiplatelet therapy, there also are no
+randomized clinical trials assessing the beneﬁt of aspirin
+vs dual therapy with aspirin and clopidogrel for patients
+undergoing CAS. Current recommendations are therefore largely based on experience with coronary artery
+stents. Dual antiplatelet therapy including aspirin
+(325 mg) and clopidogrel (75 mg) should be initiated
+before CAS, and continued for 4 weeks after the

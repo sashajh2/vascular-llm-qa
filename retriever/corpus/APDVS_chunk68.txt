@@ -1,0 +1,36 @@
+ vegetables, and lean protein, are
+associated with reduced PAD risk.
+ Metabolic Syndrome: Metabolic syndrome, which encompasses a cluster of conditions
+such as obesity, hypertension, hyperglycemia, and dyslipidemia, is a potent risk factor
+for PAD. The interplay of these factors significantly increases the risk of atherosclerosis
+and impaired arterial perfusion.
+ Gender and Menopause: Men generally exhibit a higher prevalence of PAD, although
+the risk in women increases post-menopause. Reduced estrogen levels post-menopause
+contribute to endothelial dysfunction and alterations in lipid profiles, increasing susceptibility to PAD.
+
+98
+
+ Race and Ethnicity: Certain racial and ethnic groups, such as African Americans, are
+more prone to developing PAD. Genetic and environmental factors may contribute to
+these disparities.
+ Chronic Kidney Disease (CKD): Reduced kidney function is associated with PAD,
+partly due to endothelial dysfunction and systemic infammation. CKD patients are at
+increased risk of atherosclerosis, uncontrolled hypertension, thrombotic complications,
+and progressive PAD.
+
+Vessel Collaterization
+Patients with peripheral arterial disease (PAD) often develop collateralization of blood vessels
+as a compensatory mechanism to improve perfusion to tissues affected by reduced blood fow.
+These new blood vessels, or collaterals, bypass or supplement the obstructed arteries and
+combat oxygen starvation of the tissues through “collateral circulation.” The main drivers for
+the development of collateral vessels in PAD are as follows:
+ Ischemia and Hypoxia: In PAD, atherosclerosis narrows and sometimes occludes
+the arteries that supply blood to the limbs. The resulting reduced blood fow causes
+tissue ischemia (insuﬀcient blood supply) and hypoxia (insuﬀcient oxygen supply) to
+the tissues distal to the narrowing or occlusion. To combat this, the body initiates a
+response to create alternate pathways for blood fow.
+ Hypoxia-Inducible Factors (HIFs): When cells are deprived of oxygen (as in the case
+of PAD), they activate hypoxia-inducible factors (HIFs). HIFs are transcription factors
+such as vascular endothelial growth factor (VEGF) and fibroblast growth factor (FGF).
+These factors promote the expression of genes involved in angiogenesis (the formation
+of new blood vessels) and arteriogenesis (the remodeling and

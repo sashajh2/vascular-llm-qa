@@ -1,0 +1,45 @@
+ cuff and a hand-held, continuous-wave Doppler probe. The
+patient should be in the supine position and allowed to rest before the examination begins.
+The blood pressure cuff is placed above the ankle. The Doppler probe is used to locate the
+dorsalis pedis (DP) or posterior tibial (PT) pulse, the cuff is infated until the Doppler signal
+is obliterated, and then the cuff is then slowly released; the pressure at which the Doppler
+signal returns is the ankle pressure. The same process is repeated for both legs (DP and PT
+signals) and both arms. The arm pressure must be conducted with the manual blood pressure
+cuff that is placed above the target vessel and the Doppler probe that is placed below the cuff
+to evaluate blood fow. To calculate the ABI, the higher ankle pressure (DP or PT) is divided
+by the highest arm pressure (left or right).
+
+101
+
+ABI result of <0.9 has shown to have high sensitivity and specificity with identifying PAD.
+Patients with claudication usually have an ABI ranging from 0.5 to 0.9, and those with ischemic
+rest pain or tissue loss usually have an ABI less than 0.5.
+Ĺ Note
+Below are the parameters used to diagnose PAD using ABI values.
+1. ABI of >1.2: Calcification of arteries, non-compressible. Seen in diabetic patients.
+2. ABI of 0.9 – 1.2: Normal
+3. ABI of <0.9: Suggests arterial stenosis. (Khan, Farooqui, and Niazi 2008)
+- ABI 0.7-0.9 = mild PAD
+- ABI 0.4-0.7 = moderate PAD
+- ABI <0.4 = severe PAD
+ABI 0.5 - 0.9: often causes claudication
+ABI <0.5: often causes ischemic rest pain/tissue loss
+Below, we will review how to calculate the ABI for the right and left lower extremity using
+the following values:
+Artery
+
+Pressure (mm Hg)
+
+Brachial
+Dorsalis pedis (DP)
+Posterior tibial (PT)
+
+Right
+150
+145
+150
+
+Left
+130
+120
+11

@@ -1,0 +1,111 @@
+.
+
+43743
+
+28
+
+Antihypertensive Agents/
+
+129542
+
+29
+
+("blood pressure" adj3 lowering).ti,ab,hw,kw.
+
+19043
+
+30
+
+Hypolipidemic Agents/
+
+31
+
+or/23-30
+
+819988
+
+32
+
+12 or 18 or 22 or 31
+
+922243
+
+33
+
+9 and 32
+
+34
+
+limit 33 to (english language and yr¼"2016 -Current") [Limit not valid in CDSR; records were retained]
+
+1551
+
+35
+
+34 not ((exp animals/ or exp nonhuman/) not exp humans/)
+
+1546
+
+36
+
+35 not ((case* adj3 report*).ti,ab,hw,kw. or case report/)
+
+1389
+
+37
+
+35 and ((clinical or intervention* or evaluation or validation or cohort or comparative or prospective* or
+retrospective or "cross section*") adj4 (trial* or stud*)).ti,ab,hw,kw.
+
+964
+
+38
+
+limit 35 to (clinical study or clinical trial, all or clinical trial, phase i or clinical trial, phase ii or clinical trial, phase
+iii or clinical trial, phase iv or clinical trial or comparative study or controlled clinical trial or evaluation
+studies or meta analysis or multicenter study or observational study or pragmatic clinical trial or
+randomized controlled trial or systematic reviews or validation studies) [Limit not valid in
+Embase,CCTR,CDSR; records were retained]
+
+299
+
+39
+
+or/36-38
+
+1413
+
+40
+
+remove duplicates from 39
+
+978
+
+41120
+
+8697
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e29
+
+Volume 75, Number 1S
+
+SCOPUS
+1
+
+TITLE-ABS-KEY ( asymptomatic )
+
+2
+
+TITLE-ABS-KEY ( ( carotid W/1 ( obstruct* OR stenosis ) ) )
+
+3
+
+#1 and #2
+
+4
+
+TITLE-ABS-KEY ( ( carotid W

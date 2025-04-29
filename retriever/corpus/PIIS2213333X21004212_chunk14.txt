@@ -1,0 +1,45 @@
+ 2 RCTs (740 patients) (RR, 0.51; 95% CI, 0.28 to 0.91;
+I2 ¼ 0.00%)
+
+B (rated down owing to risk of
+bias)
+
+Total AEs
+
+2 RCTs (710 patients)
+One observational study
+(60 patients)
+
+C (rated down owing to risk of
+bias and inconsistency)
+C (rated down owing to risk of
+bias and imprecision owing
+to small sample size)
+
+EVLA vs CAC
+(RR, 1.65; 95% CI, 1.16 to 2.35; I2 ¼ 72.5%)
+RFA vs NBCA
+(RR,1.63; 95% CI, 1.13 to 2.33)
+
+B (rated down owing to risk of
+bias)
+
+Key Question 4. Incompetent perforators ablation vs no ablation
+Anatomic closure at
+1 year
+
+2 RCT (141 patients)
+
+SFL/S with SEPS and concomitant
+phlebectomy vs SFL/S with
+concomitant phlebectomy
+(RR, 3.13; 95% CI, 1.57 to 6.23)
+IPV EVLA vs GSV EVLA
+(RR, 1.02; 95% CI, 0.63 to 1.64)
+
+C (rated down owing to risk of
+bias and imprecision)
+
+CAC, Cyanoacrylate closure; CI, conﬁdence interval; DUS, duplex ultrasound; EVLA, endovenous laser ablation; GSV, great saphenous vein; HHD, handheld Doppler; HL/S, high ligation and stripping; IPV, incompetent perforator vein; NBCA, n-butyl cyanoacrylate; RFA, radiofrequency ablation; RCT,
+randomized controlled trial; RR, relative risk/rate ratio for adverse events; SEPS, subfascial endoscopic perforator surgery; SFJ, saphenofemoral
+junction; SFL/S, saphenofemoral ligation and stripping; SMD, standardized mean difference; UGFS, ultrasound

@@ -1,0 +1,89 @@
+ skin changes, such as pigmentation or eczema
+(C4a) or lipodermatosclerosis or atrophie blanche (C4b),
+and healed (C5) or active (C6) ulcer. The presence or
+absence of symptoms is also recorded as S (symptomatic) or
+A (asymptomatic).
+Etiology can be congenital (Ec), primary (Ep), or secondary (Es).
+The anatomic classification separates superficial venous
+disease (As) from involvement of the perforators (Ap) or
+deep veins (Ad). Failure to identify an anatomic location is
+also coded (An).
+Pathophysiology of the disease can be reflux (Pr), obstruction (Po), or both. Failure to identify venous pathophysiology is also noted (Pn). Table II includes the full
+CEAP classification, and Table III lists the venous segments that can be involved in the disease.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 53, Number 16S
+
+Gloviczki et al 15S
+
+Guideline 5. Laboratory evaluation
+Guideline
+No.
+
+5. Laboratory evaluation
+
+GRADE of
+recommendation
+
+Level of
+evidence
+
+1. Strong
+
+A. High
+quality
+B. Moderate
+quality
+C. Low or very
+low quality
+B
+
+2. Weak
+
+5.1
+
+We recommend that in patients with chronic venous disease, evaluation
+for thrombophilia is needed selectively for those with recurrent deep
+vein thrombosis, thrombosis at a young age, or thrombosis in an
+unusual site. Laboratory examination is needed in patients with longstanding venous stasis ulcers (blood cell count and metabolic panel)
+and in selected patients who undergo general anesthesia for the
+treatment of chronic venous disease.
+
+1
+
+Guideline 6. Classification
+Guideline
+No.
+
+6. Classification
+
+GRADE of
+recommendation
+
+Level of
+evidence
+
+1. Strong
+
+1
+
+A. High
+quality
+B. Moderate
+quality
+C. Low or very
+low quality
+A
+
+1
+
+B
+
+2. Weak
+
+6.1
+6.2
+
+We recommend that the CEAP classification be used for patients with varicose
+veins. The basic CEAP classification is used for clinical practice, and the full
+CEAP classification system

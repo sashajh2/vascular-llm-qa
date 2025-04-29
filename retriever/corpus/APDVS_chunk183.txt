@@ -1,0 +1,42 @@
+ocytic leukemia (CLL). (Leuraud et al. 2015)
+ Specifically, the study highlighted a direct correlation between cumulative red bone
+marrow dose over a two-year period and the excess relative risk of developing leukemia.
+ Their findings indicated that the relative risk of leukemia mortality was approximately
+2.96 per Gy of exposure (RR = 2.94 per Gy).
+While we won’t delve into the intricate details of these findings in this chapter, they underscore
+the critical importance of considering lifelong radiation exposure and the need for effective
+protective measures.
+
+
+
+Pregnant Populations
+When it comes to radiation exposure during pregnancy, there are important guidelines
+and considerations to keep in mind.
+ To monitor the radiation dose absorbed by the fetus, a dosimeter or radiation badge is
+typically worn under the lead apron at the level of the abdomen.
+ This dosimeter is checked monthly, and the absorbed dose is calculated accordingly.
+ Fetal Harm Threshold: Ensure that the radiation dose does not exceed 0.5 mSv per
+month or a maximum fetal dose of 5 mSv throughout the entire pregnancy
+
+
+Lead Thickness Considerations for Pregnant Providers:
+ Minimum Thickness: Pregnant individuals should wear a lead apron with a minimum
+thickness of 0.5 mm. This ensures proper coverage of the abdomen, shielding the fetus
+from radiation exposure.
+ Double-Thickness Option: Alternatively, a double-thickness lead apron (1.0 mm) can
+be worn. According to Vu et al. ((Elder and Vu 2013)), this reduces the absorbed dose
+from 9 mrem to 3 mrem.
+ Weight Consideration: However, it’s essential to recognize that wearing a thicker
+lead apron may increase the risk of back injury due to the added weight. Balancing
+protection and comfort is crucial.
+As always, healthcare providers should adhere to the ALARA principles outlined above
+(i.e. maintaining a maximum reasonable distance from the source, using the collimator, pulse
+imaging, etc.).
+
+
+Teaching Case
+Scenario
+A 75-year-old male is scheduled for an angiogram of the left lower extremity to investigate and
+potentially treat claudication symptoms. The attending vascular surgeon, with over 25 years
+of experience in endovascular therapy, takes precautionary measures by wearing a thyroid
+shield, prescription glasses, and a 2-piece

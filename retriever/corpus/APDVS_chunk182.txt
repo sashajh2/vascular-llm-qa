@@ -1,0 +1,29 @@
+ compared to unexposed individuals. (Cioﬀ et al. 2020)
+Given the potential implications of radiation exposure to thyroid disfunction and cancer, additional research into the long-term effects of ionizing radiation exposure on thyroid function
+is warranted. Numerous studies have emphasized the need for further investigation in this
+area.
+
+Reproductive Function and Radiation Exposure
+One of the significant concerns associated with radiation exposure is its impact on reproductive
+health.
+
+
+In the female reproductive system, ionizing radiation primarily affects the ovaries, potentially leading to:
+1. Ovarian Insuﬀciency: Prolonged exposure to radiation may result in ovarian insuﬀciency, affecting the ovaries’ ability to function optimally.
+2. Delayed Puberty: Radiation exposure can also contribute to delayed puberty in females.
+3. Infertility: Ultimately, these effects may culminate in infertility.
+Some sources suggest that radiation to the head during routine medical procedures could
+disrupt the hypothalamic-pituitary-gonadal (HPG) axis. (Marci et al. 2018) This disruption may lead to hormonal dysregulation, further impacting reproductive health.
+Radiation exposure to male reproductive organs can disrupt spermatogenesis, depending
+on the stage of sperm development. The damage from ionizing radiation may lead to decreased
+sperm motility, increased fragmentation, and DNA alterations. (Wdowiak et al. 2019)
+
+Hematologic Disease and Radiation Exposure
+Prolonged low-dose radiation exposure has the potential to cause serious hematological effects. Numerous studies, including those conducted outside the medical field, have examined
+hematologicaly consequences of employees at risk of radiation exposure.
+A particularly noteworthy study, published in 2015, involved an international cohort of observers within the nuclear industry. Their research revealed compelling evidence linking lowdose radiation exposure to the development of non-chronic lymphocytic leukemia (CLL). (Leuraud et al. 2015)
+ Specifically, the study highlighted a direct correlation between cumulative red bone
+marrow dose over a two-year period and the excess relative risk of developing leukemia.
+ Their findings indicated that the relative risk of leukemia mortality was approximately
+2.96 per Gy of exposure (RR = 2.94 per Gy).
+While we won’t delve into the intricate details of these findings in this chapter, they underscore

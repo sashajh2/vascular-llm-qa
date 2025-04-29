@@ -1,0 +1,32 @@
+owmetry showed that
+sustained compression with a pressure around 40 mm
+Hg increases the arterial ﬂow under the bandage in
+normal volunteers.308 Similarly, a recent study performed
+in patients with VLUs and concomitant arterial occlusive
+disease (ABI of 0.5 to 0.85) demonstrated by multiple
+metrics that arterial blood ﬂow is even augmented by inelastic bandages.309
+For patients with VLU and concomitant PAD, use of
+standard compression has been shown to be safe if ABI
+$0.80.303,310,311 Modiﬁed compression bandages or
+compression stockings with lower pressure ratings can be
+used for ankle systolic pressure $60 mm Hg, digital pressure $30 mm Hg or ABI $0.50 with close monitoring,
+but only after consultation with a vascular specialist.309,312
+Use of ankle perfusion pressure of 60 mm Hg or greater
+rather than ABI #0.5 as a cutoff for compression is
+preferred because this correlates better with tissue perfusion pressure, and any sustained external compression pressure should never exceed this cutoff perfusion pressure.
+One study showed that modiﬁed compression multilayered
+bandages with reduced compression pressure can be beneﬁcial for healing of mixed ulcers.311
+
+Guideline 5.5: Intermittent Pneumatic Compression
+We suggest use of intermittent pneumatic compression when other compression options are not available,
+cannot be used, or have failed to aid in venous leg
+ulcer healing after prolonged compression therapy.
+[GRADE - 2; LEVEL OF EVIDENCE - C]
+Intermittent pneumatic compression (IPC) was
+initially proposed as a method to promote VLU healing
+by activation of the ﬁbrinolytic system and showed promise in decreasing VLU healing time in patients who had
+previously failed to respond to conservative treatment.313,314 However, this theory remains to be rigorously tested. To date, only 387 patients have been
+enrolled in RCTs comparing IPC with other treatment
+modalities.36 Whereas it is advantageous to use IPC
+compared with no compression therapy, currently there
+is limited evidence to suggest that the addition of IPC

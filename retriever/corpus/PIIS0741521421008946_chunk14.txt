@@ -1,0 +1,38 @@
+aphylaxis to contrast materials.
+Indications for carotid screening: High-risk groups
+This is covered in the Clinical Practice Guidelines
+document.3
+Methods of measuring carotid stenosis
+The degree of stenosis is still considered to be the
+most critical parameter in determining who will beneﬁt
+from carotid artery intervention for stroke prevention.
+Accurately deﬁning the degree of stenosis is essential
+to proper patient selection and management. As noted
+earlier, duplex ultrasound examination is the most
+widely used technique for evaluation of ICA stenosis.
+Velocities and other hemodynamic parameters obtained from the duplex ultrasound examination are
+used to infer degree of stenosis based upon validated
+data in comparison to formal arteriography. In most
+of the seminal trials comparing CEA with medical therapy, degree of stenosis was actually measured using
+arteriography.26,28 There are several different methods
+for doing so.
+
+The North American Symptomatic Carotid Endarterectomy Trial (NASCET) method, also used in the ACAS trial,
+measures the residual lumen at the point of greatest ICA
+stenosis with the lumen of the normal distal cervical
+ICA.51 Percent stenosis is calculated as: (1 e minimal residual lumen/normal distal cervical ICA diameter)  100.
+However, an alternative method was used in the European Surgical Carotid Trial (ECST).37 The ECST technique
+indexed minimal residual lumen to the diameter of the
+carotid bulb (as opposed to the normal distal cervical
+ICA). Both methods may have inherent inaccuracies.51
+The ECST technique must use arteriographic images to
+estimate the actual location of the carotid bulb wall
+and the NASCET technique may calculate a negative
+value for stenosis when minimal occlusive disease is present at the carotid bifurcation. Currently, the NASCET
+method is more widely used and accepted.52 CTA has
+been shown to be a reliable substitute to formal arteriography in this regard.53
+Summary and recommendations
+(See also Clinical Practice Guidelines document.3)
+1. Duplex ultrasound examination preferably performed
+in an accredited vascular laboratory is the initial diagnostic imaging of choice for evaluating the severity of
+carotid sten

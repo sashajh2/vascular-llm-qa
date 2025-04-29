@@ -1,0 +1,32 @@
+ow.
+ Hypoxia-Inducible Factors (HIFs): When cells are deprived of oxygen (as in the case
+of PAD), they activate hypoxia-inducible factors (HIFs). HIFs are transcription factors
+such as vascular endothelial growth factor (VEGF) and fibroblast growth factor (FGF).
+These factors promote the expression of genes involved in angiogenesis (the formation
+of new blood vessels) and arteriogenesis (the remodeling and enlargement of existing
+collateral vessels) through the stimulation of endothelial cells. Endothelial cells line
+blood vessels and play a central role in angiogenesis. They respond to these growth
+factors enabling endothelial cell proliferation and migration, which are essential for the
+formation of new capillaries in the direction of the hypoxic tissue.
+ Vasodilation: When blood vessels are exposed to reduced oxygen levels, they often
+dilate in an attempt to increase blood fow. This vasodilation can help mobilize and
+enhance the development of collateral vessels.
+ Angiogenesis and Arteriogenesis: Angiogenesis involves the formation of small capillaries, while arteriogenesis involves the enlargement and maturation of existing collateral
+vessels into larger arteries. These processes are driven by growth factors and signaling molecules like vascular endothelial growth factor (VEGF), fibroblast growth factor
+(FGF), and various cytokines. As stated previously, they promote the proliferation and
+migration of endothelial cells and smooth muscle cells, leading to the formation of new
+blood vessels and the remodeling of existing ones.
+
+99
+
+ Shear Stress: As blood fows through collateral vessels, it exerts shear stress on the
+vessel walls. Shear stress is a mechanical force that can trigger the release of molecules
+like nitric oxide, which further stimulates vessel growth and remodeling.
+ Physical Activity: Exercise and physical activity can also stimulate collateralization
+by increasing shear stress on the vessel walls, enhancing collateral vessel growth. Furthermore, physical activity increases oxygen demand of the active tissues creating a
+relative hypoxic environment, leading to collateralization/angiogenesis/arteriogenesis as
+described above. This is why dedicated exercise is an important aspect of treatment for
+claudication.
+The development of collateral circulation in PAD is a gradual process that occurs over time
+in response to the chronic reduction in blood fow. While collateralization can help improve
+perfusion

@@ -1,0 +1,85 @@
+ without a detailed knowledge of the underlying data.
+● Grade 2 recommendations are weaker and reflect ther-
+
+apies where the benefits and risks are uncertain or are
+more closely balanced. For such interventions, patients
+may choose different options based on their underlying values.
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+1452 Meissner et al
+
+Table. Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to treatment
+recommendations
+Recommendation
+
+Benefit vs risk
+
+1A
+
+Clear
+
+1B
+
+Clear
+
+1C
+
+Clear
+
+2A
+
+Balanced or unclear
+
+2B
+
+Balanced or unclear
+
+2C
+
+Balanced or unclear
+
+Quality of evidence
+High: Consistent results from RCTs or
+observational studies with large effects
+Moderate: RCTs with limitations and very
+strong observational studies
+Low: Observational studies
+Very low: Case series, descriptive reports,
+expert opinion
+High: Consistent results from RCTs or
+observational studies with large effects
+Moderate: RCTs with limitations and very
+strong observational studies
+Low: Observational studies
+Very low: Case series, descriptive reports,
+expert opinion
+
+Comment
+Strong recommendation, generalizable
+Strong recommendation; may change with
+further research
+Intermediate recommendation; likely to
+change with further research
+Intermediate recommendation: May vary
+with patient values
+Weak recommendation: May vary with
+patient values
+Weak recommendation: Alternative
+treatments may be equally valid
+
+RCT, Randomized controlled trial.
+Adapted from Guyatt G et al.23
+
+In accordance with the American College of Chest
+Physicians (ACCP) guidelines for the antithrombotic treatment of venous thromboembolic disease,24 we have adopted the language of “recommending” the use of strong
+Grade 1 guidelines and “suggesting” the use of weaker
+Grade 2 guidelines.
+Although trial methodology is related to the quality of
+the evidence, clinicians are actually most interested in reliable estimates of the benefits and harms associated with a
+therapy.21 For high-quality evidence, the effects of therapy
+(beneficial or ill) are precise, and further research is unlikely
+to change our confidence in the estimate of effect. In
+contrast, the estimated effect provided by poor-quality
+evidence is unclear and likely to change as better quality

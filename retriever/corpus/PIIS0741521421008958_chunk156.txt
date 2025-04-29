@@ -1,0 +1,14 @@
+) or (randomised adj3 study) or (randomised adj3 trial) or
+"pragmatic clinical trial" or (random* adj1 allocat*) or (doubl* adj blind*) or (doubl* adj mask*) or (singl* adj blind*) or
+(singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*) or (trebl* adj mask*) or "latin square" or
+placebo* or nocebo* or multivariate or "comparative study" or "comparative survey" or "comparative analysis" or
+(intervention* adj2 study) or (intervention* adj2 trial) or "cross-sectional study" or "cross-sectional analysis" or "crosssectional survey" or "cross-sectional design" or "prevalence study" or "prevalence analysis" or "prevalence survey" or
+"disease frequency study" or "disease frequency analysis" or "disease frequency survey" or crossover or "cross-over" or
+cohort* or "longitudinal study" or "longitudinal survey" or "longitudinal analysis" or "longitudinal evaluation" or
+longitudinal* or ((retrospective or "ex post facto") adj3 (study or survey or analysis or design)) or retrospectiv* or
+"prospective study" or "prospective survey" or "prospective analysis" or prospectiv* or (population adj3 (stud* or survey*
+or analys* or research)) or "concurrent study" or "concurrent survey" or "concurrent analysis" or (("follow-up" or
+followup) adj (stud* or survey or analysis)) or ((observation or observational) adj (study or survey or analysis)) or "case
+study" or "case series" or "clinical series" or "case studies" or "clinical study" or "clinical trial" or (("phase 0" or "phase 1" or
+"phase I" or "phase 2" or "phase II" or "phase 3" or "phase III" or "phase 4" or "phase IV") adj5 (trial or study)) or "evaluation
+study" or "evaluation survey" or "evaluation analysis" or "quant

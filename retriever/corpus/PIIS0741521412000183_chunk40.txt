@@ -1,0 +1,25 @@
+: MM
+
+REFERENCES
+1. Fowkes FJ, Price JF, Fowkes FG. Incidence of diagnosed deep vein
+thrombosis in the general population: systematic review. Eur J Vasc
+Endovasc Surg 2003;25:1-5.
+2. Koopman MM, Prandoni P, Piovella F, Ockelford PA, Brandjes DP,
+Van Der Meer J, et al. Treatment of venous thrombosis with intravenous unfractionated heparin administered in the hospital as compared
+with subcutaneous low-molecular-weight heparin administered at
+home. The Tasman Study Group. N Engl J Med 1996;334:682-7.
+3. Levine M, Gent M, Hirsh J, Leclerc J, Anderson D, Weitz J, et al. A
+comparison of low-molecular-weight heparin administered primarily
+at home with unfractionated heparin administered in the hospital for
+proximal deep-vein thrombosis. N Engl J Med 1996;334:677-81.
+4. Büller HR, Davidson BL, Decousus H, Gallus A, Gent M, Piovella F,
+et al. Fondaparinux or enoxaparin for the initial treatment of symptomatic deep venous thrombosis: a randomized trial. Ann Intern Med
+2004;140:867-73.
+5. Dolovich LR, Ginsberg JS, Douketis JD, Holbrook AM, Cheah G. A
+meta-analysis comparing low-molecular-weight heparins with unfractionated heparin in the treatment of venous thromboembolism: examining
+some unanswered questions regarding location of treatment, product
+type, and dosing frequency. Arch Intern Med 2000;160:181-8.
+6. Douketis JD, Crowther MA, Foster GA, Ginsberg JS. Does the location
+of thrombosis determine the risk of disease recurrence in patients with
+proximal deep vein thrombosis? Am J Med 2001;110:515-9.
+7. Prandoni P, Villalta S, Bagatella P, Rossi L,

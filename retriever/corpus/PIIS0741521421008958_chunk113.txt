@@ -1,0 +1,156 @@
+ mellitus; ESRD,
+end-stage renal disease; HbA1c, hobgoblin A1; HLD, hyperlipidemia; HTN, hypertension; ICA, internal carotid artery; LDL, low-density lipoprotein; LOS,
+length of stay; MI, myocardial infarction; NR, not reported; NSTEMI, non-ST segment elevation myocardial infarction; PAD, peripheral artery disease;
+PCI, percutaneous coronary intervention; PVD, peripheral vascular disease; STEMI, ST segment elevation myocardial infarction; TIA, transient ischemic
+attack; VR, valve replacement.
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e23
+
+Volume 75, Number 1S
+
+Supplementary Table III (online only). Risk of Bias assessment
+Selection
+
+Author, year
+
+Outcomes
+
+Random sequence
+generation:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Allocation
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of
+participants
+or personnel:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of
+outcome
+assessment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Reporting
+bias/selective
+reporting:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Other Sources
+of bias:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Overall
+risk of bias
+
+Low
+
+Question 1: RCTs
+ACST, 20045
+
+A
+
+A
+
+C
+
+A
+
+A
+
+A
+
+A
+
+Kolos et al,4 2015
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Reiff et al, 20191
+
+C
+
+C
+
+B
+
+B
+
+A
+
+A
+
+A
+
+Moderate
+
+Walker et al,3 1995
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Selection
+
+Author, Year
+
+Comparability
+
+Outcome
+
+Selection of the
+Comparability
+Adequacy of follow-up:
+nonexposed cohort:
+of cohorts
+(A

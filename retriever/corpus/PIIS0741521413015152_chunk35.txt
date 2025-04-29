@@ -1,0 +1,42 @@
+1
+W0 I1,2,3 fI3
+W1 I1 fI3
+W1 I2,3 fI2,3
+W2 I0 ﬁ3
+W2 I1 fI2,3
+W2 I2 ﬁ1,2,3
+W2 I3 fI0,1,2,3
+W3 I0 fI2,3
+W3 I1,2,3 fI0,1,2,3
+
+Clinical stage 5 would signify an unsalvageable foot (most often because of
+wound extent or severity of infection).
+
+of patients by clinical stage should yield a better platform for testing the impact of new therapies in
+randomized trials.73 For example, trials targeting reduction
+in amputation within 1 year as a primary end point of
+a revascularization strategy might be focused on the
+subjects who overlap clinical class 4 and moderate/high
+anticipated beneﬁt for revascularization.
+The WIfI classiﬁcation system is not meant to function
+as a stand-alone clinical decision-making tool. Patient risk
+factors and comorbidities also play a major part in selecting
+the best therapy. Existing proposed comorbidity indices
+based on the Prevent III trial,27 the FinnVasc registry,63
+the Eurodiale study,54,55 the BASIL trial,24-26 the Greenville LEGS score,62 and other sources need to be carefully
+analyzed and resynthesized to create a comorbidity index
+that could be used to guide appropriate therapy. Such
+a comorbidity index could also be validated by utilizing
+the strengths of the SVS Vascular Quality Initiative.72
+Additionally, as we move forward, the need for a new
+and simpler anatomic classiﬁcation system that correlates
+with outcomes after open bypass or endovascular therapy
+will become increasingly clear. The scheme would need
+
+to correlate with outcomes and not practice patterns. We
+envision that clinical decision making and outcomes
+comparisons between alternative treatments would be facilitated by deﬁning subgroups of patients across three
+distinct coordinatesdlimb severity (SVS WIfI), patient
+risk (comorbidity index), and anatomic severity. Such
+a properly stratiﬁed, three-dimensional matrix would lead
+to improved clinical

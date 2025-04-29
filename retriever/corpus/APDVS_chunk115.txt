@@ -1,0 +1,35 @@
+, and classification schemes.
+Accurately describe venous disease.
+Describe the venous anatomy of the lower limbs.
+Outline a diagnostic approach and treatment plan for a patient with chronic venous
+disease.
+ Describe treatment options for venous insuﬀciency including conservative and invasive measures.
+Key Facts
+1. Chronic venous disease (CVD) is highly prevalent in the United States, affecting
+25% of women and 15% of men, with 1% to 4% progressing to advanced stages such
+as chronic venous insuﬀciency (CVI) with venous ulcers.
+2. The economic burden of CVD is substantial, with estimated annual healthcare costs
+in the US ranging from $1.9 to $3 billion, primarily impacting Medicare.
+3. CVD arises from venous hypertension due to valvular incompetence, thrombotic
+obstruction, or extrinsic compression, leading to manifestations such as edema,
+hyperpigmentation, and venous ulcers.
+4. Superficial, deep, and perforating veins play crucial roles in venous circulation,
+with dysfunctional valves in the great saphenous vein commonly causing significant
+venous refux.
+5. Duplex ultrasound is the primary diagnostic tool for CVD, assessing venous obstruction and refux. The Clinical-Etiology-Anatomy-Pathophysiology (CEAP) classification system categorizes disease severity based on clinical manifestations and
+pathophysiology.
+6. The Venous Clinical Severity Score (VCSS) complements CEAP for evaluating dis-
+
+153
+
+ease progression and treatment outcomes.
+7. Management of CVD includes conservative approaches (compression therapy), pharmacological interventions, and various procedures including endovenous ablation,
+phlebectomy, and sclerotherapy.
+8. Endovenous treatments such as radiofrequency ablation (RFA) and endovenous
+laser ablation (EVLA) are preferred over traditional surgeries due to lower morbidity and quicker recovery times.
+9. Surgical interventions significantly improve quality of life and symptom relief compared to conservative therapies for severe CVD.
+10. Long-term surveillance with duplex ultrasound is essential to monitor disease progression and recurrence post-treatment, with early intervention shown to accelerate
+ulcer healing and reduce recurrence rates.
+Ď How We Suggest Using the Pre/Post Questions
+The pre/post questions are listed below. They are all multiple choice questions with
+a single

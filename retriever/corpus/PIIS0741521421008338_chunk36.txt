@@ -1,0 +1,113 @@
+ word, unique identiﬁer, synonyms]
+
+14
+15
+16
+
+339
+
+Advanced
+
+2,037,869
+
+Advanced
+
+mortality.fx.
+
+517,821
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+446,608
+
+Advanced
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+6957
+
+Advanced
+
+(Continued on next page)
+
+125S.e11
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Continued.
+#
+
+Searches
+
+Results
+
+Type
+
+17
+
+"natural history".mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+44,966
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+156,132
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+341,189
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+2,427,068
+
+Advanced
+
+21
+
+5 and 20
+
+879
+
+Advanced
+
+22
+
+21 not 12
+
+671
+
+Advanced
+
+23
+
+(trauma* or iatrogen

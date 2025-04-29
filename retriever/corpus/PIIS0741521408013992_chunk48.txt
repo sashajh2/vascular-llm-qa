@@ -1,0 +1,40 @@
+ restore patency in
+AV access (GRADE 2, very low-quality evidence).
+7.1. Evidence
+The choice between open and endovascular interventions to improve the functionality or to restore or maintain
+patency in accesses that show signs of impending failure is
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+based on nonrandomized studies that showed both procedures to be moderately effective and safe. Owing to the lack
+of such randomized comparison, the panel was unable to
+recommend one over the other. Open thrombectomy is
+successful in restoring thrombosed access function.109,110
+Similarly, endovascular techniques using a combined percutaneous mechanical and pharmacologic thrombectomy
+are successful in restoring function in most patients. Further, both open and endovascular interventions may add a
+further average of 12 months of functionality with low
+morbidity and mortality while preserving future sites of
+access.111
+7.2. Values and peferences
+In recommending either method or a combination of
+both to be used for failed or failing AV accesses, the
+committee recognizes the weakness of the evidence that
+may favor one method rather than the other. Because none
+of these methods has been proven to have better short- or
+long-term results, the committee based its recommendation on other factors that may determine outcomes. Such
+factors include the experience of the surgeon, interventionalist, or other AV access specialist and the ability or availability of either method in a certain situation or location
+where a patient presents for care.
+7.3. Technical remarks
+Management of nonfunctional or failed AV access
+A. Access functionality. Access functionality is a very
+important concept. An access can be patent but unusable
+for successful hemodialysis—and thus nonfunctional—and
+such an access provides no benefit to the patient. In fact, a
+nonfunctional access maybe even harmful because the patient may continue to be dialyzed using percutaneous catheters, with their intended complications, while waiting for
+the autogenous access to dilate and mature.
+An access that has failed to mature is patent but not
+functional.12 Failure to mature is more frequently an issue
+with autogenous AV accesses than prosthetic grafts. As
+recommended by the FFBI, every new autogenous access
+should be evaluated for development at 4 weeks

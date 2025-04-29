@@ -1,0 +1,36 @@
+ per aneurysms and not per patients and to present evidence on all outcomes, we summarized data from several selected existing systematic
+reviews. Supplementary Table I (online only) includes
+details of the two clinical questions in the patients, intervention, comparison, outcomes (PICO) format.
+A comprehensive search of several databases from database inception to June 15th, 2018 was conducted without
+language restrictions. The databases included MEDLINE
+Epub Ahead of Print, Medline In-Process & Other NonIndexed Citations, MEDLINE, EMBASE, Cochrane Central
+Register of Controlled Trials, Cochrane Database of
+Systematic Reviews, and Scopus. The search strategy was
+designed and conducted by a medical reference librarian
+with input from the investigators. Controlled vocabulary
+supplemented with keywords was used to search for
+studies of open or endovascular repair of PAAs. The actual
+strategy is available in the Appendix (online only).
+Study selection, data extraction, and methodologic
+quality assessment. Studies were selected and data
+were extracted by pairs of independent reviewers. Data
+extracted included patient and setting description, procedure description, risk of bias indicators and outcome
+data. Because the studies were nonrandomized, we
+used the Newcastle Ottawa tool5 to assess the risk of
+bias. This tool evaluates three main domains: cohort
+selection, comparability, and outcome assessment. We
+did not calculate a score; rather, we made a global
+judgment about the risk of bias in each study.6
+Statistical analysis and certainty in evidence. We
+calculated the odds ratio (OR) with 95% conﬁdence interval (CI) for primary and secondary outcomes, as well as
+determined an incidence rate ratio for amputations
+across the studies. Thus, the OR of a bad outcome (amputation) in which the intervention reduces the outcome
+would be less than one and for a beneﬁcial intervention
+(patency) would be greater than one. Because of anticipated heterogeneity, the DerSimonian and Laird random
+effects model7 was used to pool estimates from the
+included studies. The I2 statistic was used to estimate
+heterogeneity. Analysis was done using R Statistical
+Computing software version 4.0.0 (The R Foundation,
+Vienna, Austria). Data were insufﬁcient to conduct
+
+ARTICLE H

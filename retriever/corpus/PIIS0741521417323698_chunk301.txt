@@ -1,0 +1,26 @@
+whole body”) W/1 (ct or
+cat or cts or scan*)) OR agent* OR “cat scan*” OR
+chemotherap* OR “ct scan*” OR diagnos* OR
+drug* OR image OR images OR imaging OR intervention* OR manag* OR medication* OR microtomograph* OR “micro-tomograph*” OR operat* OR
+pharmacotherap* OR radiotherap* OR reconstruction* OR repair* OR resect* OR SPECT OR surg*
+OR therap* OR tomograph* OR treat* OR ultrasonograph* OR ultrasound* OR xray* OR “x-ray*”)
+3 TITLE-ABS-KEY((meta W/1 analys*) OR (randomized
+W/3 study) OR (randomized W/3 trial) OR
+
+(randomised W/3 study) OR (randomised W/3 trial)
+OR “pragmatic clinical trial” OR (doubl* W/1 blind*)
+OR (doubl* W/1 mask*) OR (singl* W/1 blind*) OR
+(singl* W/1 mask*) OR (tripl* W/1 blind*) OR (tripl*
+W/1 mask*) OR (trebl* W/1 blind*) OR (trebl* W/1
+mask*) OR "latin square" OR placebo* OR nocebo*)
+4 PUBYEAR AFT 1995 AND LANGUAGE(english)
+5 1 and 2 and 3 and 4
+6 DOCTYPE(le) OR DOCTYPE(ed) OR DOCTYPE(bk)
+OR DOCTYPE(er) OR DOCTYPE(no) OR DOCTYPE(sh) OR DOCTYPE(ab)
+7 5 and not 6
+8 PMID(0*) OR PMID(1*) OR PMID(2*) OR PMID(3*) OR
+PMID(4*) OR PMID(5*) OR PMID(6*) OR PMID(7*) OR
+PMID(8*) OR PMID(9*)
+9 7 and not 8
+
+

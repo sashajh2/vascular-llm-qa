@@ -1,0 +1,33 @@
+ of Evidence: B
+(Moderate)
+Rationale and background
+The choice of treatment for patients with CMI should
+represent a shared decision-making process between
+the patient and vascular care provider that involves a
+thorough understanding of the associated risks/beneﬁts
+of any intervention and incorporates the individual patient’s goals of care, including quality of life. The important outcome measures include both perioperative and
+
+Detailed justiﬁcation
+A systematic review and meta-analysis of the literature
+was performed as a component of these guidelines to
+determine the optimal revascularization strategy (ie,
+open vs endovascular) for patients with CMI.12 A total of
+100 observational studies (22 comparative, 78 noncomparative) were identiﬁed that encompassed almost
+19,000 patients. The perioperative complication rate
+was found to be increased in the open group (relative
+risk [RR], 2.19; 95% conﬁdence interval [CI], 1.84-2.60;
+Fig 1), although there was no signiﬁcant increase in the
+30-day mortality rate (5.5% vs 1.4%; RR, 1.57; 95% CI,
+0.84-2.93; Fig 2). Open revascularization was associated
+with a lower risk of 3-year recurrence (RR, 0.47; 95% CI,
+0.34-0.66; Fig 3), but there was no signiﬁcant difference
+in the 3-year survival rate between the groups (RR, 0.96;
+95% CI, 0.86-1.07; Fig 4). Based on these observational
+studies, it was concluded that the endovascular
+approach may offer better early outcomes, although
+the effect may not be as durable even though the
+long-term survival rates seem to be similar with appropriate reintervention when needed. Unfortunately, the
+overall quality of the evidence was deemed to be low.
+The ﬁndings from our meta-analysis are largely consistent with several other comparable reviews examining
+the optimal revascularization strategy for patients with
+CMI (Table II). Saedon et al110 (12 studies and 7365

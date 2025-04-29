@@ -1,0 +1,27 @@
+62,63 Initiating events likely involve altered shear
+stress and mechanical stress forces on the endothelium
+and its glycocalyx (a glycosaminoglycan on the surface
+of endothelial cells); perturbations in nitric oxide production, in vasoactive substance release, and in the expression of monocyte chemoattractant protein 1,
+macrophage inﬂammatory protein 1b, vascular cell adhesion molecule 1 (VCAM-1, CD106), L-selectins and Eselectins, and ICAM-1, with recruitment of leukocytes
+leading to leukocyte transmigration into the vein wall
+and valve, set up an inﬂammatory cascade and production of several cytokines (transforming growth factor
+[TGF]-b1, tumor necrosis factor [TNF]-a, interleukin1) and increased expression of MMPs.48,60 In addition,
+the endothelial glycocalyx is an important structure that
+prevents leukocyte adhesion, inﬂammation, and thrombosis. However, altered shear stress and mechanical
+forces on the vein wall cause leukocyte adhesion, and
+inﬂammation leads to injury and loss of the glycocalyx.64,65 A key component of inﬂammation and in the
+VLU is the expression of MMP and cytokines, which
+have signiﬁcant effects on the vein wall and venous valve,
+the endothelium, and probably the glycocalyx and surrounding tissues, including destruction of the dermis
+with eventual skin changes and ulcer formation.48
+MMPs can be released as a result of mechanical stretch
+(and hence during conditions of venous hypertension)
+and have signiﬁcant effects on the endothelium, venous
+smooth muscle, and adventitia.66,67 MMPs have been
+demonstrated in rat venous tissue to cause venous dilation by several mechanisms, including hyperpolarization
+and inhibition of extracellular calcium mobilization,
+which are tightly regulated by hypoxia-inducible factor
+(HIF).68-70 In a study evaluating varicose veins in CVD
+patients, it was determined that HIF-1a and HIF-2a
+transcriptional factors were overexpressed compared
+with control nonvaricose veins, suggesting that

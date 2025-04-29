@@ -1,0 +1,39 @@
+ number
+of different interventions including angioplasty, stenting, and thrombectomy. An angiogram
+is a procedure in which contrast dye is used to display the vasculature and its disease burden
+under X-ray.
+Ď Tip
+Before an angiogram, one should be aware of all prior interventions a patient has had,
+both open and endovascular. It can be useful to review old operative reports and imaging
+studies in order to know the patient’s current anatomy.
+Ď Tip
+In addition, the patient’s most recent imaging studies should be reviewed including
+ABI/PVRs, arterial duplex, and any axial imaging such as a CTA.
+Please see Claudication Chapter for a summary of ABI/PVR testing and interpretation.
+Procedure:
+ Access is typically obtained in the contralateral common femoral artery and a wire and
+catheter are passed up and over the aortic bifurcation to gain access to the operative
+(ipsilateral) side.
+ A series of angiograms are taken to assess the level of disease and based on this a final
+operative plan will be made.
+ There are multiple options for treatment including angioplasty, stenting, atherectomy,
+thrombectomy, and thrombolysis, to name a few.
+Possible Interventions:
+ Angioplasty: a balloon is advanced across the area of concern (usually atherosclerosis
+causing a fow limitation) and expanded to dilate the area of stenosis.
+
+198
+
+ Stenting: commonly after an angioplasty, a stent is placed to maintain patency of the
+area. There are multiple types of stents (covered above) that can be used depending on
+anatomic location, size, and indication.
+ Atherectomy: a procedure where a calcified plaque is physically removed from the
+artery. This can be done with a cutting blade, a spinning drill-like device, or a laser.
+Ĺ Note
+Considerations for Atherectomy
+As plaque is broken into smaller pieces, there is a significant risk for distal embolization
+of plaque debris. To prevent this, an embolic protection device is often used which can
+filter blood and catch any smaller particulate matter that travels distally. Some of the
+devices include an aspiration device to remove clot and thrombus as it is removed.
+There is ongoing research into the outcomes of atherectomy versus stenting alone, but
+generally, the

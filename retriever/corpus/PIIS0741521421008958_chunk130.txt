@@ -1,0 +1,160 @@
+
+
+A
+
+C
+
+A
+
+A
+
+Low
+
+Yang et al,13
+2016
+
+Prospective
+cohort
+
+A
+
+A
+
+C
+
+A
+
+C
+
+A
+
+A
+
+Low
+
+Retrospective
+cohort
+
+B
+
+A
+
+A
+
+C
+
+B
+
+B
+
+A
+
+Moderate
+
+Oz et al,
+
+104
+
+Peric et al,
+1997
+
+113
+
+Ziada, 2005
+
+112
+
+BMI, Body mass index; N/A, not applicable.
+
+108S.e28
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+APPENDIX (online only).
+Actual Search Strategies
+Question 1: Medical management vs carotid intervention in asymptomatic patients
+Database(s): Embase 1988 to 2019 Week 33, Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other
+
+Non-Indexed Citations 1996 to August 22, 2019, EBM Reviews - Cochrane Central Register of Controlled Trials July
+2019, EBM Reviews - Cochrane Database of Systematic
+Reviews 2005 to August 21, 2019.
+
+Search Strategy:
+1
+
+asymptomatic diseases/
+
+10597
+
+2
+
+asymptomatic.ti,ab,hw,kw.
+
+336353
+
+3
+
+1 or 2
+
+336353
+
+4
+
+exp Carotid Stenosis/
+
+46337
+
+5
+
+carotid artery obstruction/
+
+25245
+
+6
+
+carotid artery disease/
+
+21918
+
+7
+
+(carotid adj1 (arter* or stenosis)).ti,ab,hw,kw.
+
+213263
+
+8
+
+or/4-7
+
+213263
+
+9
+
+3 and 8
+
+16015
+
+10
+
+exp endarterectomy/
+
+34806
+
+11
+
+(carotid adj2 endarterectom*).ti,ab,hw,kw.
+
+31347
+
+12
+
+10 or 11
+
+39920
+
+13
+

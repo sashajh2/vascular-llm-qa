@@ -1,0 +1,129 @@
+
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+1.95 (0.13-29.57)
+
+Death
+
+Illuminati et al,12
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2011
+asymptomatic patients
+
+94
+
+91
+
+185
+
+0.9681 (0.062-15.250)
+
+Stroke
+
+Illuminati et al,12
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2011
+asymptomatic patients
+
+94
+
+91
+
+185
+
+0.0136 (0.00-6.96)
+
+Stroke/death
+
+Illuminati et al,12
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2011
+asymptomatic patients
+
+94
+
+91
+
+185
+
+Stroke/death
+
+Weimar et al,11
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2017
+asymptomatic patients
+
+65
+
+62
+
+127
+
+1.7885 (0.82-3.92)b
+
+Stroke
+
+CEA/CAS and CABG
+Weimar et al,11
+2017
+combined vs CABG ﬁrst in
+asymptomatic patients
+
+65
+
+62
+
+127
+
+2.6231 (0.882-7.800)b
+
+0.121 (0.015-0.950)
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e9
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Continued.
+Outcome
+
+Intervention
+vs Comparison
+
+Author, Year
+
+Group 1
+
+Total
+
+RR (95% CI)
+
+Death
+
+Weimar et al,11
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2017
+asymptomatic patients
+
+65
+
+62
+
+127
+
+2.1462 (0.6

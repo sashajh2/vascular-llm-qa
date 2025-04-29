@@ -1,0 +1,35 @@
+ accurate in identifying calcification but less reliable
+in describing carotid plaque morphology, specifically the
+lipid component, or ulceration. CTA appears less reliable
+than DUS imaging or MRA for assessing plaque morphology.82 Other limitations of this technique include cost
+(compared with DUS), contrast exposure, and the added
+concern of radiation exposure. In addition, a large calcium
+burden can limit the ability to distinguish contrast from
+calcium during postprocessing imaging.
+
+e8 Ricotta et al
+
+D. Catheter-based DSA
+Many authorities still consider carotid conventional
+digital angiography to be the gold standard against all other
+imaging modalities in patients with extracranial cerebrovascular disease. Measurement of carotid stenosis using DSA is
+generally done using the NASCET method.2 Conventional
+angiography is generally reserved for patients with conflicting imaging studies before CEA or in patients considered
+for CAS. DSA provides high-quality imaging that is accurate, objective, and easy to interpret. It can identify lesions
+from the aortic arch to the intracranial vessels. Major limitations of angiography that make it inappropriate as a
+screening modality include its cost and associated risks,
+specifically of stroke.83-85 Overall, DSA is most useful in
+patients when less invasive imaging studies produce conflicting results. When DUS imaging is equivocal, DSA is
+preferred over CT and MR in evaluating patients with renal
+dysfunction (by minimizing contrast load), obesity, or indwelling ferromagnetic material, which render CTA or
+MRA technically inadequate or difficult.
+E. Comparison of CDUS, MRA, CTA, and DSA
+The U.K. Health Technology Assessment concluded
+that although contrast-enhanced MRA was the most accurate imaging modality overall, it was limited by unavailability, inaccessibility, and delays. Therefore, they concluded
+that color DUS imaging remained the preferred imaging
+modality for identifying patients with 70% to 99% stenosis.86 As such, CDUS is the preferred imaging modality for
+the identification of asymptomatic stenosis.
+This recommendation was based on several factors,
+including low cost, a much higher number of strokes likely
+to be prevented in the long-term by the rapid availability of
+CDUS imaging in contrast with other imaging

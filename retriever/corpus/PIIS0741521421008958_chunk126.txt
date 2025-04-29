@@ -1,0 +1,159 @@
+
+(C) Unclear
+
+Reporting
+bias/selective reporting:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Other sources of bias:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Overall risk of bias
+
+Question 5: RCTs
+Illuminati et al,12 2011
+
+A
+
+A
+
+B
+
+C
+
+A
+
+A
+
+A
+
+Moderate
+
+Weimar et al,11 2017
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Selection
+
+Author, year
+
+Study design
+
+Comparability
+
+Outcome
+
+Adequacy of
+follow-up:
+(A) Complete
+follow-up - all patients
+Comparability
+accounted for*
+Selection of the
+of cohorts
+(B) Patients lost to
+nonexposed cohort:
+on the basis of
+follow-up unlikely
+(A) Drawn from the
+the design or
+Assessment
+Was follow-up to introduce bias -small
+Representativeness
+same community as
+analysis
+of outcome:
+long
+number lost- >80%
+of the exposed cohort
+the exposed cohort*
+Ascertainment
+(matching/confounder
+(A) Independent
+enough for follow-up, or description
+(A) Truly representative* (B) Drawn from general
+of exposure:
+adjustment):
+blind assessment*
+outcomes
+of those lost*
+(B) Somewhat
+population (matched for
+(A) Secure
+A) Study controls
+(B) Record linkage*
+to occur:
+(C) Follow-up rate
+representative*
+important criteria)*
+record*
+for age and sex*
+(C) Standard procedure
+A) Yes:
+<80% and no
+(C) No description
+(C) No description of
+(B) written
+(B) Study controls for
+well described*
+$6 months *
+description
+of the derivation
+the derivation of
+self-report*
+BMI and comorbidities*
+(D) Self-report
+(B) No:
+of those lost
+of the cohort
+the nonexposed cohort (C) No description
+(C) No description
+(E) No description
+<6 months
+(D) No statement
+
+Overall
+risk
+of bias
+
+Question 5: Observational studies
+Abbasi et al,91
+2008
+
+Cohort
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+A
+
+Low
+
+Bernhard

@@ -1,0 +1,91 @@
+3 (central or peripheral)).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+1610
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼ti, ot, ab,
+sh, hw, kw, tx, ct]
+
+7223
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+16,218
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral stroke*"
+or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+14
+
+mortality.fx.
+
+15
+
+23
+
+Advanced
+
+156,944
+
+Advanced
+
+0
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+25,091
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp. or
+(chronic disease/and ischemi*.mp.) [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+410
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2076
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+6381
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+27,274
+

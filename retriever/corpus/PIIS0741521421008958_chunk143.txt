@@ -1,0 +1,92 @@
+S.e33
+
+Volume 75, Number 1S
+
+Question 4: Screening high risk patients
+Ovid. Database(s): EBM Reviews - Cochrane Central
+Register of Controlled Trials May 2019, EBM Reviews Cochrane Database of Systematic Reviews 2005 to
+June 26, 2019, Embase 1974 to 2019 July 02, Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other
+Non-Indexed Citations and Daily 1946 to July 02, 2019.
+
+Search Strategy:
+#
+1
+
+Searches
+exp Carotid Arteries/dg [Diagnostic Imaging]
+
+Results
+16743
+
+2
+
+exp Carotid Artery Diseases/di, dg [Diagnosis, Diagnostic Imaging]
+
+21616
+
+3
+
+("arteria carotis" or carotid).ti,ab,hw,kw.
+
+321971
+
+4
+
+1 or 2 or 3
+
+323046
+
+5
+
+exp Ultrasonography, Doppler, Duplex/
+
+28503
+
+6
+
+("carotid duplex" or "color doppler ultraso*" or "doppler color ultraso*" or "duplex doppler ultraso*" or
+"duplex ultraso*").ti,ab,hw,kw.
+
+28981
+
+7
+
+5 or 6
+
+50717
+
+8
+
+4 and 7
+
+9
+
+exp Mass Screening/
+
+10
+
+screen*.ti,ab,hw,kw.
+
+2056301
+
+11
+
+9 or 10
+
+2065959
+
+12
+
+8 and 11
+
+13
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+10729834
+
+14
+
+((alpaca or alpacas or amphibian or amphibians or animal or animals or antelope or armadillo or
+armadillos or avian or baboon or baboons or beagle or beagles or bee or bees or bird or birds or bison
+or bovine or buffalo or buffaloes or buffalos or "c elegans" or

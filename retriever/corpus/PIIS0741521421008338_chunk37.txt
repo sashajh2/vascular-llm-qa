@@ -1,0 +1,118 @@
+iﬁer, synonyms]
+
+341,189
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+2,427,068
+
+Advanced
+
+21
+
+5 and 20
+
+879
+
+Advanced
+
+22
+
+21 not 12
+
+671
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼title, abstract, original title, name of substance word,
+subject heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+406,208
+
+Advanced
+
+24
+
+22 not 23
+
+615
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts)
+
+1
+
+Advanced
+
+26
+
+24 not 25
+
+614
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e12
+
+Volume 75, Number 1S
+
+Natural history search
+Embase <1988 to 2018 Week 25>
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+7855
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+156,043
+
+Advanced
+
+3
+
+1 and 2
+
+1806
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer,

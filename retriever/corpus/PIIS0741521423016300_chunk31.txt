@@ -1,0 +1,58 @@
+.
+
+PROGNOSIS
+Clinical question. In a person with diabetes, suspected
+PAD, and a foot ulcer or gangrene, which non-invasive
+bedside tests, alone or in combination, at any time
+point (including after revascularisation procedures), predict DFU healing, healing after minor amputation, and
+major amputation?
+
+Recommendation 6
+In a person with diabetes and a foot ulcer or gangrene,
+consider performing ankle pressures and ankle brachial index
+(ABI) measurements to assist in the assessment of likelihood
+of healing and amputation.
+Ankle pressure and ABI are weak predictors of healing. A low
+ankle pressure (e.g., < 50 mmHg) or ABI (e.g., < 0.5) may be
+associated with greater likelihood of impaired healing and
+greater likelihood of major amputation.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Recommendation 7
+In a person with diabetes and a foot ulcer or gangrene,
+consider performing a toe pressure measurement to assess
+likelihood of healing and amputation.
+A toe pressure $ 30 mmHg increases the pre-test probability
+of healing by up to 30% and a value < 30 mmHg increases the
+pre-test probability of major amputation by approximately
+20%.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Recommendation 8
+In a person with diabetes and a foot ulcer or gangrene, if a toe
+pressure cannot be performed, consider performing a transcutaneous oxygen pressure (TcPO2) measurement or a skin
+perfusion pressure (SPP) to assess likelihood of healing.
+A TcPO2 $ 25 mmHg increases the pre-test probability of
+healing by up to 45% and value < 25 mmHg increases the
+pre-test probability of major amputation by approximately
+20%. An SPP $ 40 mmHg increases the pre-test probability of
+healing by up to 30%.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The presence of PAD constitutes a substantially increased risk of failure to heal and major lower
+
+limb amputation for people with a diabetes related
+foot ulcer or gangrene. Bedside testing results are an integral component of determining the severity of
+ischaemia and, to that end, to determine the need

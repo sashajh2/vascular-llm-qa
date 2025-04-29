@@ -1,0 +1,39 @@
+ be established before PTA during
+CAS.
+2. Prestent PTA can be performed safely with small
+diameter balloon to nominal pressure.
+3. Post-PTA should only be used for patients with significant residual stenosis.
+Stent selection.
+Open closed cells. Depending on the density of the
+struts, carotid stents can be classiﬁed into open vs closed
+cells. Generally, a free cell area of more than 7 mm2 is
+considered an open cell and is thought to leave larger
+gaps uncovered. Closed-cell design stents have small
+cell areas and may provide effective plaque coverage,
+reducing the risk of debris embolization. However, they
+are less conformable to the carotid anatomy and thus
+cannot be used in tortuous arteries. In contrast, open cell
+designs are more ﬂexible and can accommodate
+tortuous carotid anatomy but have large cell sizes that
+might increase risk of plaque protrusion and potential
+embolization. Current evidence on speciﬁc stent design
+remains controversial, but largely supports beneﬁts of
+close cell design. One small randomized clinical trial of
+40 patients showed no difference in embolization between open and close cell design based on TCD and
+DWI-MRI evaluations.394 A meta-analysis by Kouvelos
+et al395 found no difference in 30-day cerebrovascular
+complications after CAS using open vs closed cell
+
+designs. Results from the SVS Registry also found no
+association between perioperative stroke and stent
+type.396 By contrast, a multicenter study looking at CAS
+free cell area of greater than 7.5 mm2 found a higher
+stroke risk compared with less than 7.5 mm2, suggesting
+closed cells are more protective of stroke than open
+cells.397 A recent pooled analysis of 1557 patients from
+three large randomized trials (EVA-3S, SPACE, and ICSS)
+showed an independent association between closed-cell
+design and reduced risk of periprocedural stroke or
+death.398 However, in a systemic review and comprehensive meta-analysis of 33 studies (including 2 randomized trials), use of an open cell stent design in CAS
+was associated with decreased risk of restenosis
+compared

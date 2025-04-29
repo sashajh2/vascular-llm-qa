@@ -1,0 +1,75 @@
+ 9 and ((clinical or intervention* or evaluation or
+validation or cohort or comparative or
+prospective* or retrospective or "cross section*")
+adj4 (trial* or stud*)).ti,ab,hw,kw.
+
+1367
+
+12 limit 9 to (clinical study or clinical trial, all or
+clinical trial, phase i or clinical trial, phase ii or
+clinical trial, phase iii or clinical trial, phase iv or
+clinical trial or comparative study or controlled
+clinical trial or evaluation studies or meta
+analysis or multicenter study or observational
+study or pragmatic clinical trial or randomized
+controlled trial or systematic reviews or
+validation studies) [Limit not valid in
+Embase,CCTR,CDSR; records were retained]
+
+742
+
+13 10 or 11 or 12
+
+1740
+
+14 remove duplicates from 13
+
+1400
+
+SCOPUS
+1
+
+TITLE-ABS-KEY ( ( ( procedure OR stent* OR surg* OR
+endarterectom* OR cea OR cas OR revasculari* OR
+intervention* ) W/3 ( carotid OR stroke OR tia OR
+"ischemic attack" OR "brain infarct*" OR "ischaemic
+attack" ) ) )
+
+2
+
+TITLE ( ( early OR earlier OR timing OR urgent* OR
+immediat* ) )
+
+3
+
+#1 and #2
+
+4
+
+INDEX(embase) OR INDEX(medline) OR PMID(0* OR 1* OR
+2* OR 3* OR 4* OR 5* OR 6* OR 7* OR 8* OR 9*)
+
+5
+
+#3 and not #4
+
+6
+
+PUBYEAR aft 2015
+
+7
+
+#5 and #6
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e33
+
+Volume 75, Number 1S
+
+Question 4: Screening high risk patients
+Ovid. Database(s): EBM Reviews - Cochrane Central
+Register of Controlled Trials May 2019, EBM Reviews Cochrane Database of Systematic Reviews 2005 to
+June 26, 2019, Embase 1974 to 2019 July 02, Ovid MED

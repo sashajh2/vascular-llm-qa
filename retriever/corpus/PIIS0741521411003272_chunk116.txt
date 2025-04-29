@@ -1,0 +1,30 @@
+ The ClosureRFS Stylet is a
+new intravascular ablation device (VNUS Medical Technologies, San Jose, Calif) available for RFA of the perforating vein. Intraluminal placement of the RF stylet is confirmed by ultrasonography and also by measuring
+impedance: values between 150 and 350 ohms indicate the
+intravascular location of the tip of the probe. Local anesthesia is used to infiltrate the tissues around the stylet before
+treatment, and the patient is then placed in the Trendelenburg position. Treatment is performed with a target tem-
+
+JOURNAL OF VASCULAR SURGERY
+May Supplement 2011
+
+perature of 85°C. All four quadrants of the vein wall are
+treated for 1 minute each. The catheter is then withdrawn 1
+or 2 mm, and a second treatment is performed. The treatment is finished with applying compression to the region of
+the treated perforating vein.
+Endovenous laser ablation. For laser treatment of perforating veins, a 16-gauge angiocatheter (for a 600-␮m
+laser fiber) or a 21-gauge micropuncture needle (for a
+400-␮m laser fiber) can be used.357 Intraluminal placement
+of the access catheter is confirmed by ultrasonography and
+by aspiration of blood at or just below the fascial level. Once
+the fiber is positioned in the vein at or just below the level
+of the fascia, local anesthesia is infiltrated, and various
+methods of energy application are used. Elias357 recommends a pulsed technique with the generator set for 15
+watts and a 4-second pulse interval. Each segment of vein is
+treated twice, thus giving 120 J to each segment. Three
+segments are usually treated. Proebstle and Herdemann359
+also treat the perforating veins at three locations, each
+segment receiving between 60 and 100 J. The rest of the
+procedure is similar to RFA.
+Sclerotherapy. For chemical ablation of perforating
+veins, a 25-, 27-, or 30-gauge needle can be used for
+cannulation. If the

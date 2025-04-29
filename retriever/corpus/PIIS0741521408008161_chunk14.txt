@@ -1,0 +1,39 @@
+ations to these contexts, clinicians should consider these as suggestions (GRADE 2). Similarly, newer
+medical therapies (statins, more potent antiplatelet agents,
+and improved management for diabetes and hypertension)
+might favorably alter the outcome of medical management
+sufficiently to diminish the strength of this recommendation. Newer therapies were included in ACST and their use
+in that study did not result in a diminution of the benefit of
+endarterectomy from that seen in ACAS.
+
+Evidence
+
+Values statement
+
+The efficacy of carotid endarterectomy in asymptomatic
+patients was evaluated in a systematic review and meta-analysis
+that pooled results from three RCTs.2 These trials included
+5223 patients with asymptomatic moderate to severe carotid
+stenosis. The degree of stenosis was ⱖ50% in the Veteran
+Affairs Cooperative Study24 and ⱖ60% in the Asymptomatic
+Carotid Atherosclerosis Study (ACAS) and the Asymptomatic
+Carotid Surgery Trial (ACST).25,26 All three trials had high
+methodological quality including allocation concealment,
+blinded outcome assessment and applied intention-to-treat
+analysis. The incidence of 30-day perioperative stroke or death
+was 2.8%. Patients who underwent carotid endarterectomy
+fared better than those treated medically. The relative risk of
+perioperative stroke, death or any subsequent stroke was 0.69
+(0.57 to 0.83) and the relative risk of perioperative stroke,
+death, or subsequent ipsilateral stroke was 0.71 (0.55 to
+0.90), both favoring endarterectomy. There was no important
+inconsistency in results across trials (I2 ⫽ 0). For the outcome
+of any stroke or death, there was a nonsignificant trend towards fewer events in the surgical group (RR 0.92, 95% CI
+0.83 to 1.02).
+The exclusion criteria for ACAS and ACST were similar
+to those for NASCET, and participating surgeons in both
+studies were preselected for good surgical results. The
+application of our recommendation to excluded groups,
+
+The committee placed a relatively higher value on
+preventing the outcome of stroke with the associated

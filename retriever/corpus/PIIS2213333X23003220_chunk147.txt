@@ -1,0 +1,92 @@
+-related thrombus extension (ARTE)
+according to established guidelines for acute deep vein thrombosis (DVT)
+Domain
+
+Evidence/Panel input
+
+Judgment
+
+How substantial are desirable effects of the
+strategy?
+
+The value of routine treatment of symptomatic DVT is well
+established although it is less certain that the natural history of
+ARTE is identical to DVT.
+
+Probably
+beneﬁcial
+
+How substantial are the undesirable
+anticipated effects?
+
+Low risk of major bleeding (approximately 1%) with direct oral
+anticoagulants. Inconvenience and cost of anticoagulation. High
+cost and inconvenience of routine ultrasound follow-up.
+
+Low
+
+Do the desirable effects outweigh the
+undesirable effects?
+
+Probably favors anticoagulation in symptomatic patients
+
+Probably
+yes
+
+What is the overall certainty of the evidence
+of effects?
+
+Low with uncertain natural history of ARTE
+High certainty regarding low risk of anticoagulation
+
+Low
+
+How large are the resource requirements
+associated with the intervention?
+
+Low: Fewer resources required for anticoagulation in comparison
+with ultrasound follow-up
+
+Low
+
+How large is the incremental cost relative to
+the net beneﬁt?
+
+No available data
+
+Unknown
+
+What would be the effect on health
+inequalities?
+
+None
+
+None
+
+Is the opinion acceptable to key stakeholders?
+
+No data available
+
+Unknown
+
+Is the opinion feasible to implement?
+
+Yes
+
+Yes
+
+Although randomized trials evaluating screening DUS
+vs no ultrasound in asymptomatic patients after saphenous ablation have not been done, two such trials have
+been performed in orthopedic patients.240 These trials
+failed to demonstrate a beneﬁt to routine postoperative
+screening, although major bleeding rates were higher
+in the screening arms.
+In one of the systematic reviews,234 nonthermal techniques were associated with a higher incidence of DVT
+than thermal techniques (0.43 vs 0.23%; P ¼ .02),
+although this difference was due to a higher incidence
+
+of DVT in patients undergoing sclerotherapy
+(Table XXII). Although total VTE events were higher
+among patients undergoing RFA in comparison with
+EVLA (3.1% vs 2.2%; P < .001), EHIT was higher in patients
+undergoing EVLA (4.4% vs 3.0%; P < .001).

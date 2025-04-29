@@ -1,0 +1,36 @@
+ values, which
+predict the stroke risk of a particular plaque. Plaque characterization is not routine in every vascular laboratory and
+requires specific protocols to assure standardization of results.
+B. Magnetic resonance imaging and angiography
+MRA has the advantage of being noninvasive, does not
+require iodinated contrast or ionizing radiation, and provides an unlimited number of projections of the carotid
+lumen from a single acquisition. MRA can also assess
+intrathoracic and intracranial lesions that are not amenable
+to DUS interrogation. MRA does not visualize the surrounding soft tissue structures, unless additional MRI is
+performed, and calcium within the plaque is not defined. It
+
+Ricotta et al e7
+
+cannot be used in patients with implanted ferromagnetic
+devices, such as implantable defibrillators and pacemakers,
+and is of limited use in uncooperative patients and those
+with claustrophobia. The gadolinium-based compounds
+used as a contrast agent for MRA have been associated with
+nephrogenic systemic fibrosis in patients with pre-existing
+renal disorders.76
+MRA has a tendency to overestimate the degree of
+carotid stenosis. The sensitivity and specificity for diagnosing 70% to 99% stenosis with time-of-flight MRA are
+identical to DUS imaging (88% and 84%, respectively);
+however, MRA has a tendency to “over-read” stenosis,
+making it difficult to differentiate more moderate (50% to
+69%) from severe stenosis. Similarly, high-grade stenosis
+will result in a loss of signal on MRA. This does not
+represent a carotid occlusion when the more distal cervical
+carotid is visualized. However, when there is no reconstitution of the cervical carotid artery on MRA, the diagnosis
+of carotid occlusion can be made with a high degree of
+certainty.76,77
+MRI can be used to analyze plaque morphology, specifically the structure of the atherosclerotic plaque. It can
+identify the lipid-rich necrotic core and the fibrous capsule
+with high sensitivity and specificity78 and can distinguish
+between an intact thick, thin, or ruptured fibrous cap.79
+When dedicated protocols are used, MR

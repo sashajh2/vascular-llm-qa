@@ -1,0 +1,132 @@
+: 0
+
+Mild: 1
+
+Moderate: 2
+
+Severe: 3
+
+None
+
+Occasional pain or other
+discomfort (ie, not
+restricting regular daily
+activity)
+
+Daily pain or other discomfort
+(ie, interfering with but not
+preventing regular daily
+activities)
+
+Daily pain or discomfort
+(ie, limits most
+regular daily
+activities)
+
+None
+
+Few: scattered (ie, isolated
+branch varicosities or
+clusters); also includes
+corona phlebectatica
+(ankle flare)
+
+Confined to calf or thigh
+
+Involves calf and thigh
+
+None
+
+Limited to foot and ankle
+area
+
+Extends above ankle but below
+knee
+
+Extends to knee and
+above
+
+None
+or
+focal
+
+Limited to perimalleolar
+area
+
+Diffuse over lower third of calf
+
+Wider distribution
+above lower third of
+calf
+
+None
+
+Limited to perimalleolar
+area
+
+Diffuse over lower third of calf
+
+Wider distribution
+above lower third of
+calf
+
+None
+
+Limited to perimalleolar
+area
+
+Diffuse over lower third of calf
+
+Wider distribution
+above lower third of
+calf
+
+2
+⬎3 mo but ⬍1 y
+
+ⱖ3
+Not healed for ⬎1 y
+
+Diameter 2-6 cm
+
+Diameter ⬎6 cm
+
+0
+NA
+
+⬍3 mo
+
+1
+
+NA
+
+Diameter ⬍2 cm
+
+None: 0
+
+Occasional: 1
+
+Frequent: 2
+
+Always: 3
+
+Not used
+
+Intermittent use of
+stockings
+
+Wears stockings
+most days
+
+Full compliance:
+stockings
+
+Adapted from Vasquez et al.123 Used with permission.
+
+disease due to calf muscle pump dysfunction, but no reflux
+or obstruction was noted on duplex scanning. Air plethysmography remains one of the few noninvasive techniques
+that can quantify reflux reliably98,99 although other parameters have been reported to be variably useful. The Guideline Committee encourages using air plethysmography as
+“best practice” in the evaluation of patients with advance
+CVD if duplex scanning does not provide definitive diagnosis on pathophysiology (CEAP C3-C6).
+Imaging studies
+Contrast venography. Asc

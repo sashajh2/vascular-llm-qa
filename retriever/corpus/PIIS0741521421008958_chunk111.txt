@@ -1,0 +1,98 @@
+id revascularization
+within 90 days before
+receiving CABG
+
+Intolerance to heparin and (A) 37
+(C) 208
+antiplatelet drugs,
+intraluminal carotid artery
+thrombus, chronic carotid
+total occlusion, history of
+ischemic major stroke
+within 3 months, severe
+comorbidity in patients
+not tolerant to
+percutaneous
+intervention, any other
+illness that impeded their
+ability to provide
+informed consent, and
+patients who had a
+previous open heart
+surgery
+
+(A) 66.6
+(C) 64.7
+
+(Continued on next page)
+
+108S.e22
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Supplementary Table II (online only). Continued.
+
+Author, year
+geographic area
+
+Inclusion criteria
+
+Exclusion criteria
+
+Total No.
+of patients (A)
+combined
+(B) CABG ﬁrst (C)
+carotid ﬁrst
+
+Mean
+age, years
+
+Male
+sex, %
+
+Comorbidities
+
+Yang et al,13 2016
+China
+
+Patients with coronary and Coagulopathy, brain
+(A) 20
+carotid artery disease who
+hemorrhage within
+(C) 39
+underwent either hybrid
+3 months, brain infarction
+or staged CAS-off-pump
+within 2 weeks, allergy to
+CABG
+contrast agent, carotid
+artery occlusion, severe
+renal function and
+hepatic function failure
+
+(A) 67.1
+(C) 68.3
+
+(A) 80
+(C) 82
+
+(A) HTN 75%, DM 40%,
+hypercholesterolemia 35%,
+brain infarction history 40%,
+unstable angina 50%
+(C) HTN 69% DM 26%,
+hypercholesterolemia 64%,
+brain infarction history 31%,
+unstable angina 56%
+
+Ziada et al,112 2005
+USA
+
+Patients who require
+NR
+coronary and carotid

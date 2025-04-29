@@ -1,0 +1,36 @@
+ wall stiffness,206-208 wall tension,209 and
+peak AAA wall stress.210-212
+Hall and colleagues have suggested that rupture is
+imminent above a critical aortic wall stress, predicted
+by the law of Laplace and maximum AAA diameter.209
+Several other investigators subsequently demonstrated
+that wall stress is highly dependent on AAA shape rather
+than diameter alone.210-216 With ultrasound-based
+assessment, determination of peak wall stress may
+soon be translatable to real-time assessment of the patient.217 Modeling by computational ﬂuid dynamics has
+suggested that intraluminal hemodynamic conditions
+also inﬂuence AAA growth, remodeling, and risk of
+rupture.218-222
+The peak wall rupture index considers both peak wall
+stress and residual wall strength and has been proposed
+as more predictive than estimates of peak wall stress
+alone.223-225 Further analyses have also incorporated the
+inﬂuence of intraluminal hemodynamic conditions on
+wall stress and strength indices through ﬂuid structure
+interaction simulations.226,227 The value of CTdetermined intraluminal thrombus volume228,229 as
+well as positron emission tomography-CT imaging in
+predicting rupture risk remains uncertain.230,231 The
+utility of positron emission tomography may require
+the development of AAA-speciﬁc radiotracer agents.232
+Beyond an assessment of rupture risk, there is a clear
+role for imaging-based criteria for the prediction of
+disease progression. As revealed in surveillance studies,
+many small AAAs do not enlarge.233 Molecular imaging
+of pathologic processes characteristic of aortic degeneration, including angiogenesis,234 matrix disruption,235
+activated macrophage localization,236 and proteolysis,237
+is being translated to the clinic238-241 and may help identify those patients with an increased likelihood of disease
+progression.
+Gender-speciﬁc rupture indicators have been evaluated, given the increased risk for rupture in women at
+any given aortic diameter. A recent computational study
+of patient-speciﬁc anatomy using ﬁnite element analysis
+was unable to identify signiﬁcant

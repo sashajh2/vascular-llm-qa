@@ -1,0 +1,45 @@
+ rapidly.
+ Occurs when a large stiff hydrophilic wire is passed through a small vessel especially if
+not done under fuoroscopic guidance.
+ Treatment involves transcatheter embolization of the perforation site.
+
+204
+
+Vessel Rupture
+Vessel rupture occurs when a device or balloon is oversized for a vessel and causes a “blowout”
+of a vessel.
+Key points:
+ Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding
+a properly sized balloon in a heavily calcified vessel or by passage of a large device such
+as an EVAR device through a small vessel.
+ Rupture is associated with a high morbidity and mortality especially if there is any delay
+in diagnosis.
+ Immediately upon recognition of vessel rupture, a balloon should be infated in the
+region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered
+for vessel repair.
+ Repair is usually done with a covered stent placed across the rupture. If adequate
+hemostasis cannot be obtained, open repair may be necessary.
+
+Teaching Case
+Scenario
+A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary
+artery disease with stent placement was diagnosed with acute type B aortic dissection three
+weeks ago. He was managed medically in the hospital and sent home after one week with
+blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen
+below:
+The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal
+extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft.
+The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly
+50% stenosis. The left external iliac artery is heavily calcified and stenotic >50%. The right
+common and external iliac artery are patent without evidence of significant atherosclerosis.
+The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in
+the hybrid operating room.
+
+205
+
+Figure 7: CTA
+
+Exam
+HEENT: Pupils round and reactive to light, no lymphadenopathy
+Cardiac: Regular rate and rhythm
+Pulmonary: Clear to auscultation in all lung fields

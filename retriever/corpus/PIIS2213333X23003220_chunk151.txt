@@ -1,0 +1,92 @@
+
+
+Judgment
+
+How substantial are desirable effects of the strategy?
+
+Surgical stripping reduces pain and
+discomfort
+
+Probably
+beneﬁcial
+
+How substantial are the undesirable anticipated effects?
+
+No reduction in VTE
+
+Low
+
+Do the desirable effects outweigh the undesirable effects?
+
+Probably in select circumstances
+
+Probably yes
+
+What is the overall certainty of the evidence of effects?
+
+Low with no RCTs
+
+Low
+
+How large are the resource requirements associated with the
+intervention?
+
+Moderate
+
+Low
+
+How large is the incremental cost relative to the net beneﬁt?
+
+Moderate
+
+Unknown
+
+What would be the effect on health inequalities?
+
+None
+
+None
+
+Is the opinion acceptable to key stakeholders?
+
+Yes
+
+Unknown
+
+Is the opinion feasible to implement?
+
+Yes
+
+Yes
+
+RCT, Randomized controlled trial; VTE, venous thromboembolism.
+
+52
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2024
+
+detected events in asymptomatic patients is unclear
+and requires further study. Data from at least one RCT
+of PEM demonstrated no difference in outcome among
+patients with ultrasound-detected postprocedural
+thrombotic events regardless of whether they were
+treated with anticoagulants or not.206
+11.2. Pharmacological thromboprophylaxis
+11.2.1. For high-risk patients undergoing endovenous
+ablation, we suggest pharmacological thrombo
+prophylaxis.
+GUIDELINE: Grade of recommendation: 2 (weak),
+Quality of Evidence: C (low to very low)
+Rationale. This guideline is consistent with that previously suggested by the AVF/SVS.233 Other guidelines
+include those from the UK Royal Society of Medicine
+which suggest preoperative assessment of all patients for
+both VTE and bleeding risk with pharmacological prophylaxis for 7 to 14 days in intermediate-risk patients and
+for 4 to 6 weeks in high-risk patients.247 The European
+Society for Vascular Surgery recommends VTE risk
+assessment in all patients with consideration of individualized thromboprophylaxis (Class IIa, Level B).56
+Although the weight of the evidence does suggest
+some beneﬁt to pharmacological thromboprophylaxis,
+the evidence is difﬁcult to generalize due

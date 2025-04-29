@@ -1,0 +1,11 @@
+. maintaining a maximum reasonable distance from the source, using the collimator, pulse
+imaging, etc.).
+
+
+Teaching Case
+Scenario
+A 75-year-old male is scheduled for an angiogram of the left lower extremity to investigate and
+potentially treat claudication symptoms. The attending vascular surgeon, with over 25 years
+of experience in endovascular therapy, takes precautionary measures by wearing a thyroid
+shield, prescription glasses, and a 2-piece lead apron. However, due to challenges in navigating the stenosed arterial system, the fuoroscopy time during the procedure was extended.
+Subsequently, the calculated radiation dose amounted to 3 Gy.

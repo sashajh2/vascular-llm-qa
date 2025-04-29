@@ -1,0 +1,35 @@
+26
+
+Journal of Vascular Surgery
+
+Chaikof et al
+
+January 2018
+
+Fig 2. A, Inﬂuence of smoking (current vs ex/never) on aneurysm enlargement in individual studies and metaanalysis (see primary source for individual study citations). B, Inﬂuence of diabetes on aneurysm enlargement in
+individual studies and meta-analysis (see primary source for individual study citations). MASS, Multicenter
+Aneurysm Screening Study; PIVOTAL, Positive Impact of Endovascular Options for Treating Aneurysm Early;
+UKSAT, UK Small Aneurysm Trial. (From Sweeting MJ, Thompson SG, Brown LC, Powell JT. Meta-analysis of
+individual patient data to examine factors affecting growth and rupture of small abdominal aortic aneurysms.
+Br J Surg 2012;99:655-65.).
+
+aneurysm size and among current smokers was lower
+in those with low ABI and diabetes and was unaffected
+by lipids and blood pressure.272 Combining the results
+of 18 surveillance studies with similar imaging and
+assessment protocols, the RESCAN collaborators identiﬁed a pooled growth rate across all studies of 2.2 mm/y,
+with no signiﬁcant difference between men and
+women. When estimates were pooled using randomeffects meta-analysis, following further adjustment for
+all demographics and medical and drug history, rates
+of aneurysm enlargement were signiﬁcantly increased
+in smokers and decreased in those with diabetes
+(Fig 2). Pooled meta-analysis failed to identify the
+effects of any class of drug on aneurysm expansion.9
+After adjustment for initial aneurysm diameter, medical
+history, and demographics, a strong association was
+noted between smoking and rupture (hazard ratio,
+2.02; 95% conﬁdence interval [CI], 1.33-3.06; P ¼ .001)
+and a far higher risk for women than for men (hazard
+ratio, 3.76; 95% CI, 2.58-5.47; P < .001). Rupture risk
+was increased in older participants, those enrolled in
+earlier studies, those with lower

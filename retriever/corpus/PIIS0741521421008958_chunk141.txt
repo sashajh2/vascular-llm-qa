@@ -1,0 +1,74 @@
+or CEA or CAS or revasculari* or intervention*)
+adj3 (carotid or stroke or tia or "ischemic attack"
+or "brain infarct*" or "ischaemic
+attack")).ti,ab,hw,kw.
+
+64373
+
+3
+
+(procedure or stent* or surg* or endarterectom* or
+CEA or CAS or revasculari* or intervention*).ti.
+and exp cerebrovascular accident/
+
+23898
+
+4 (procedure or stent* or surg* or endarterectom* or
+CEA or CAS or revasculari* or intervention*).ti.
+and (cereb* adj (accident or arrest or failure or
+injur* or insufﬁcien* or insult* or attack or
+appolex*)).ti,ab,hw,kw.
+
+19488
+
+5 or/1-4
+
+83123
+
+(Continued on next page)
+
+108S.e32
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Continued.
+6 exp "Early Medical Intervention"/ or "Time-toTreatment"/ or exp "Time Factors"/ or (early or
+earlier or timing or urgent* or immediat*).ti.
+
+1602429
+
+7 5 and 6
+
+6511
+
+8 limit 7 to (english language and yr¼"2017
+-Current") [Limit not valid in CDSR; records were
+retained]
+
+1811
+
+9 8 not ((exp animals/ or exp nonhuman/) not exp
+humans/)
+
+1796
+
+10 9 not ((case* adj3 report*).ti,ab,hw,kw. or case
+report/)
+
+1715
+
+11 9 and ((clinical or intervention* or evaluation or
+validation or cohort or comparative or
+prospective* or retrospective or "cross section*")
+adj4 (trial* or stud*)).ti,ab,hw,kw.
+
+1367
+
+12 limit 9 to (clinical study or clinical trial, all or
+clinical trial, phase i or clinical trial, phase ii or
+clinical trial, phase iii or clinical trial, phase iv or
+clinical trial or comparative study

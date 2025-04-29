@@ -1,0 +1,43 @@
+ the X-ray source emits radiation, radiation scatter occurs, moving upward and outward
+from the source.
+
+216
+
+Terminology
+It is imporant to understanding the terminology related to radiation exposure.
+ The absorbed dose refers to the energy from ionizing radiation per unit mass of exposed
+material, measured in grays (Gy).
+ The equivalent dose represents the mean absorbed dose of a specific organ or tissue,
+measured in sieverts (Sv).
+ The effective dose, also measured in *8sieverts (Sv),** accounts for total-body radiation
+exposure and is guided by the International Commission on Radiological Protection
+(ICRP) guidelines for comparing radiation effects on individuals.
+X-ray technology for imaging comprises two critical components: the radiation source, where
+X-ray photons are generated, and the detector.
+ The shape of the beam from the source is managed by the collimator.
+ As X-ray beam passes through the patient, they are captured by the detector and an
+image is created by image intensifier.
+In endovascular procedures using a C-arm, the detector portion (i.e. image intensifier) is above
+the patient, while the X-ray source is beneath the patient and table.
+
+Principles for Patient Safety and Radiation Exposure
+While any procedure that produces ionizing radiation will expose the patient to some degree
+of risk, it is the responsibility of the patient’s surgeon to ensure that the risk of the procedure
+is minimized as much as possible without compromising the eﬀcacy of the therapy.
+Certain considerations exist for special patient populations including pregnant patients. These
+are discussed later in this chapter.
+A number of core principles should be considered whenever a provider is considering recommending or performing a treatment with ionizing radiation including:
+
+Medical Necessity and Justication for the Procedure
+The potential benefits of the procedure should outweigh the risks of not performing the procedure or performing an alternative procedure without radiation exposure.
+
+217
+
+Exposure Optimization
+The radiation dose delivered, particularly for intraoperative exposures, should be optimized
+to be as low as possible while still achieving adequate image quality for the procedure and
+decision making.
+This includes fuoroscopy techniques such as reducing the time under fuoroscopy by using
+pulsed fuoroscopy as opposed to continuous scanning, collimating the X-ray beam to
+the area of interest and narrowing the beam to only scan structures necessary, adjusting
+the frame rate of fuor

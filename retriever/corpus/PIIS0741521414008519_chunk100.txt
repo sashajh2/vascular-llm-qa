@@ -1,0 +1,96 @@
+21
+2010
+130
+Pronk et al322
+323
+2011
+280
+Carradice et al
+2012
+346
+Rass et al324
+2013
+137
+Rasmussen et al325
+Endovenous radiofrequency ablation vs open surgery
+326
+2005
+65
+Lurie et al
+2005
+28
+Perala et al327
+2006
+55
+Kianifard et al328
+329
+2006
+60
+Stötter et al
+330
+2010
+180
+Helmy ElKaffas et al
+
+Follow-up, years
+
+Recurrence
+
+Neovascularization
+
+1
+2
+2
+1
+1
+2
+5
+
+No difference
+No difference
+No difference
+No difference
+þ Laser
+No difference
+No difference
+
+No difference
+þ Laser
+No difference
+No difference
+No difference
+No difference
+No difference
+
+2
+3
+1
+1
+2
+
+No difference
+No difference
+No difference
+No difference
+No difference
+
+No difference
+No difference
+þ Radiofrequency
+No difference
+No difference
+
+þ Laser, Favored in comparison of laser vs open surgery; þ Radiofrequency, favored in comparison of radiofrequency vs open surgery.
+
+evaluation.331,332 Several ablation techniques remain under investigation, including steam ablation and pharmacomechanical and cyanoacrylate ablation as well as CHIVA
+(ambulatory conservative hemodynamic management of
+varicose veins; one small RCT showed that CHIVA had
+a higher proportion of ulcers heal than with compression
+alone) and ASVAL (ambulatory selective varicose vein
+ablation under local anesthesia).20,257,333-338
+
+Guideline 6.3: Superﬁcial Venous Reﬂux and
+Healed Venous Leg Ulcer
+In a patient with a healed venous leg ulcer (C5) and
+incompetent superﬁcial veins that have axial reﬂux
+directed to the bed of the ulcer, we recommend ablation of the incompetent veins in addition

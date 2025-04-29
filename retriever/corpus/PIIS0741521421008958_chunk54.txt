@@ -1,0 +1,151 @@
+4 days
+
+Hlvacia et al,10
+2017
+
+6
+
+5
+
+11
+
+NA
+
+Stroke
+
+CAS <2 days vs
+2-14 days
+
+Hlvacia et al,10
+2017
+
+6
+
+5
+
+11
+
+NA
+
+Death (perioperative)
+
+CAS <2 days vs
+2-14 days
+
+Hlvacia et al,10
+2017
+
+6
+
+5
+
+11
+
+NA
+
+1087
+
+97
+
+1184
+
+Question 4: Screening high high-risk patients - comparative studies
+Death
+
+Screened vs
+unscreened
+
+Berens et al,44
+1992
+Lin et al,2 2016
+
+Stroke
+
+Screened vs
+unscreened
+
+0.2 (0.13-0.31)
+
+515
+
+2718
+
+3233
+
+0.73 (0.49-1.09)
+
+Overall
+
+1602
+
+2815
+
+4417
+
+0.38 (0-1432.82),
+I2 [ 95%
+
+Berens et al,44
+1992
+
+1087
+
+97
+
+1184
+
+0.33 (0.14-0.79)
+
+Lin et al,2 2016
+Overall
+
+515
+
+2718
+
+3233
+
+1.06 (0.59-1.90)
+
+1602
+
+2815
+
+4417
+
+0.62 (0-1024.93),
+I2 [ 79%
+
+Question 5: Optimal sequence for intervention in patients with combined carotid and coronary diseasea
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e5
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Continued.
+Outcome
+Death
+
+Intervention
+vs Comparison
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Author, Year
+
+Group 1
+
+Bernhard,92 1972
+
+15
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+CEA and

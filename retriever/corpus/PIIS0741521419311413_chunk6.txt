@@ -1,0 +1,15 @@
+66-3.74; P < .00001). There were no differences in steal syndrome, hematoma, infection, pseudoaneuryms, or stenosis, although there was a trend toward
+an increased incidence of postoperative thrombosis (RR, 1.81; 95% CI, 0.95-3.45; P ¼ .07) in one-stage procedures.
+Conclusions
+With improved 2-year primary patency rates that trend towards statistical signiﬁcance and the absence of signiﬁcant
+differences in complications, this study suggests potential beneﬁt of a two-stage over a one-stage procedure for brachiobasilic AVF creation. However, rather than being a deﬁnitive answer, our results merely highlight the continuing need for
+an adequately powered, well- designed, randomized controlled trial to interrogate this question further.
+Main text, Results (Effects of intervention, primary outcomes, paragraph 2):
+The meta-analysis was extended to evaluate the patency outcomes for both procedures. There were no differences
+detected between the one- and two-stage procedures in 1-year primary patency rates (pooled RR, 1.34; 95% CI, 0.901.99; P ¼ .15; nine studies; N ¼ 854), 1-year secondary patency rates (RR, 1.11; 95% CI, 0.63- 1.93; P ¼ .72; eight studies;
+N ¼ 812), 2-year primary patency rates (RR, 1.68; 95% CI, 0.99-2.83; P [ .05), and 2-year secondary patency rates
+(RR, 1.31; 95% CI, 0.69-2.46, P ¼ .41; eight studies; N ¼ 812).
+Discussion (ﬁrst paragraph):
+Twelve studies were included in this review, with a total of 1136 patients who underwent either a one-stage or
+two-stage procedure. In terms of primary outcomes, the pooled evidence from the meta-analyses showed no
+differences in primary ﬁstula

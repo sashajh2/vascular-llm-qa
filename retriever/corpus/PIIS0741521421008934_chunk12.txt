@@ -1,0 +1,61 @@
+
+of the recommended interventions. The availability of
+surgical expertise and institutional experience were
+also factors that were considered when making the
+recommendations. Stroke prevention was considered
+the most critical outcome across all guideline questions, and the overall certainty of the evidence was
+dependent on the certainty for this outcome. The
+guideline committee made strong recommendations
+for the third question (timing of revascularization)
+despite the variable certainty of the direct evidence,
+based on additional indirect evidence and by placing
+greater value on avoiding the possibility of any worsening of neurologic deﬁcits. The strong recommendation against routine screening for average risk
+patients was determined by the lack of comparative
+studies showing improvement in outcomes with
+screening.
+
+Question 1: Is CEA recommended over maximal medical therapy for low surgical risk patients?
+Patients
+Asymptomatic low-risk
+patients with >70%
+internal carotid artery
+stenosis
+
+Intervention
+
+Comparison
+
+Outcomes
+
+CEA
+
+Maximal medical therapy
+
+Stroke and death at 1
+and 5 years
+
+Study
+design
+Randomized controlled trial
+
+8S
+
+AbuRahma et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+Evidence and rationale
+Several randomized controlled trials (RCTs) compared
+CEA and best medical therapy. The results of the ACAS
+(asymptomatic carotid atherosclerosis study)2 and ACST
+(asymptomatic carotid surgery trial)5 favored CEA in the
+treatment of low surgical risk patients with severe asymptomatic carotid artery stenosis. The ACAS, which randomized 1662 patients to immediate CEA vs medical therapy
+demonstrated the superiority of CEA over antiplatelet
+therapy alone for asymptomatic patients with carotid stenosis of >60% (5.1% for surgical patients and 11.0% for patients treated medically; aggregate risk reduction, 53%;
+95% conﬁdence interval [CI], 22%-72%).2 The ACAS recommended CEA for patients aged <80 years as long as
+the expected combined stroke and mortality rate for
+the individual surgeon was not >3%. The conclusions
+from the ACAS were supported by a subsequent larger
+RCT that had randomized 3120 patients to immediate
+CEA vs medical therapy.5

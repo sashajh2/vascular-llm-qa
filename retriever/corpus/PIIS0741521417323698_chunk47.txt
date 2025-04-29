@@ -1,0 +1,41 @@
+ administration of pulmonary bronchodilators for
+at least 2 weeks before aneurysm repair in patients with a
+history of COPD or abnormal results of pulmonary function
+testing.
+Level of recommendation
+
+2 (Weak)
+
+Quality of evidence
+
+C (Low)
+
+Renal insufﬁciency. Preoperative renal insufﬁciency is
+an established risk factor for poor outcome after aneurysm repair. Among patients with moderate renal
+dysfunction (eGFR of 30-60 mL/min), mortality and cardiovascular events are more likely for patients treated
+by OSR than by EVAR.89 However, outcomes are uniformly poor in the presence of severe renal dysfunction
+(eGFR < 30 mL/min), regardless of the type of repair.
+Outcomes are equally poor after EVAR or OSR for the
+patient requiring dialysis, with a 30-day mortality of 11%,
+
+with Kaplan-Meier survival estimates of 66% at 1 year and
+37% at 3 years.117 Median survival was 2 years.117
+Signiﬁcant declines in renal mass and eGFR have been
+documented after OSR and EVAR, even in the setting of
+age-adjusted normal renal function before surgery.118 For
+example, acute kidney injury and chronic kidney injury
+have been noted after complex EVAR with snorkel or
+renal stent placement, with an increased risk among
+women.119 Even transient postoperative renal dysfunction is associated with an increase in mortality, morbidity,
+and the need for additional ICU support.120
+Several strategies have been recommended to minimize renal injury after EVAR or OSR. Hydration with
+either normal saline or sodium bicarbonate is recommended to ensure euvolemia.121 Similarly, given the
+association of ACE inhibitors and angiotensin receptor
+antagonists with hypotension on induction of anesthesia,
+these medications should be held the morning of
+surgery and restarted after the patient is euvolemic.122,123
+Whereas the administration of many agents has been
+evaluated, none have proved of value in limiting renal
+injury after AAA repair. Antioxidants, such as mannitol,
+before or during OSR have demonstrated no beneﬁt.124
+Likewise, fenoldop

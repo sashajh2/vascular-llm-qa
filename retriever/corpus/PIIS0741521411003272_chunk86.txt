@@ -1,0 +1,29 @@
+ RF catheter system, sequential heating of
+the vein is performed at 7-cm intervals, heating the vein to
+120°C in each 20-second cycle. The first segment is treated
+twice. At the end of the procedure, the saphenous vein is
+reimaged to confirm successful obliteration and absence of
+thrombus protrusion into the femoral vein or, if the SSV
+was treated, into the popliteal vein. If a patent segment is
+identified, re-treatment is advisable.
+Postprocedural care. Graduated compression stockings with an ankle pressure of 30 to 40 mm Hg or an elastic
+or nonelastic wrap is placed on the leg at the end of the
+procedure. Early ambulation is encouraged, and the patient
+leaves for home a few hours after the procedure. Recent
+evidence supports elastic compression for at least 1 week
+after superficial venous interventions.205 During this time,
+the patient is asked to have compression of the leg day and
+night. Although the risk of DVT, heat-induced thrombus
+extension, or PE is rare263,264 and therefore the yield is low,
+we suggest postprocedural duplex scanning within 24 to 72
+hours to exclude any thrombotic complication. Evidence to
+support this recommendation is of low quality (GRADE
+2C).
+Thrombosis prophylaxis. Data to support the routine administration of thromboprophylaxis with heparin are
+not available. Selected patients with a history of thrombophlebitis, DVT, known thrombophilia, or obesity are candidates for thrombosis prophylaxis.159 In one case series,
+age ⬎50 years was a predictor of heat-induced thrombus
+extension into the femoral vein.246 Lawrence et al262 reported 500 patients who underwent RFA, and 13 (2.6%)
+experienced thrombus bulging into the femoral vein or
+adherent to its wall, which was treated with low-molecularweight heparin. All of these patients had thrombus retraction to the level of the SFJ in an average of 16 days. A
+significantly higher rate of proximal thrombus extension
+was noted in those patients with a history of D

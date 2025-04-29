@@ -1,0 +1,20 @@
+ meta-analyses have consistently reported beneﬁcial effects of TEVAR over open repair, especially in the
+setting of rupture. Many of the strongest recommendations from this guideline focus on imaging before, during, or after
+TEVAR and include the following:
+In patients considered at high risk for symptomatic TAA or acute aortic syndrome, we recommend urgent imaging,
+usually computed tomography angiography (CTA) because of its speed and ease of use for preoperative planning. Level
+of recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+If TEVAR is being considered, we recommend ﬁne-cut (#0.25 mm) CTA of the entire aorta as well as of the iliac and
+femoral arteries. CTA of the head and neck is also needed to determine the anatomy of the vertebral arteries. Level of
+recommendation: Grade 1 (Strong), Quality of Evidence: A (High).
+We recommend routine use of three-dimensional centerline reconstruction software for accurate case planning and
+execution in TEVAR. Level of recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+We recommend contrast-enhanced computed tomography scanning at 1 month and 12 months after TEVAR and
+then yearly for life, with consideration of more frequent imaging if an endoleak or other abnormality of concern is
+detected at 1 month. Level of recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+Finally, based on our review, in patients who could undergo either technique (within the criteria of the device’s instructions for use), we recommend TEVAR as the preferred approach to treat elective DTA aneurysms, given its reduced
+morbidity and length of stay as well as short-term mortality. Level of recommendation: Grade 1 (Strong), Quality of Evidence: A (High).
+Given the beneﬁts of TEVAR, treatment using a minimally invasive approach is largely based on anatomic eligibility
+rather than on patient-speciﬁc factors, as is the case in open TAA repair. Thus, for isolated lesions of the DTA, TEVAR
+should be the primary method of repair in both the elective and emergent setting based on improved short-term and
+midterm mortality as well as decreased morbidity. (J Vasc Surg 2021;73:55S-83

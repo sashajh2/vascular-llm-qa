@@ -1,0 +1,59 @@
+Natural history search
+SCOPUS
+( ( TITLE-ABS-KEY ( ( "brain w/3 bleed*" ) OR ( acute W/3
+limb* W/3 ischemi* ) OR ( compress* W/3 ruptur* ) OR
+( chronic W/3 ischemi* ) ) ) OR ( TITLE-ABS-KEY ( mortality
+OR morbidity OR amputat* OR thromb* OR ali OR
+"chronic ischemia" OR stroke OR "cerebrovascular accident" OR "brain vascular accident*" OR cvas OR cva OR
+"cerebral stroke*" OR "cerebrovascular stroke" ) ) OR
+( TITLE-ABS-KEY ( "cerebrovascular apoplexy" OR "heart
+attack*" OR "cardiovascular stroke*" OR "intracranial hemorrhage*" OR "intracranial haemorrhag*" OR ich OR "heart
+failure" OR "myocardial infarct*" ) ) ) AND ( ( TITLE-ABSKEY ( "popliteal arter*" AND aneurysm* ) ) OR ( TITLEABS-KEY ( "popliteal artery aneurysm*" ) ) )
+AND NOT
+( ( TITLE-ABS-KEY ( "popliteal arter*" AND aneurysm*
+) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" )
+) ) AND ( TITLE-ABS-KEY ( ( endovascular OR
+intravascular OR angioplasty OR angioscopy )
+OR ( catheteriz* W/3 ( central OR peripheral ) ) OR
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e2
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Patients, intervention, comparison, outcomes (PICOs)
+PICO 1. Which is more effective, open or endovascular repair of PAAs?
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+a
+
+Open approach
+
+Endovascular approach
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+PAAs
+
+PICO2. What is the natural history of untreated PAAs?
+a
+
+PAAs
+
+None
+

@@ -1,0 +1,33 @@
+ATIONS IN
+ANEURYSM REPAIR
+The complexity and intensity of aortic aneurysm treatment result in signiﬁcant costs and resource utilization.
+These initial costs include imaging, preoperative risk
+management, operating room, personnel, implants, and
+recovery. Long-term follow-up and imaging have costs,
+as does the treatment of any complications from the
+initial procedure or failure of the graft itself. Besides these
+provider costs, patients and their families also bear cost
+from lost work productivity and out-of-pocket
+expenditures.
+Contemporary estimates show that in-hospital costs of
+treatment for open repair or EVAR are approximately
+$40,000 in the United States, with lower cost estimates
+in Canada (U.S. $16,000) and other countries.759,760 Implants are a signiﬁcant portion of EVAR costs (34%52%), but these costs are offset by the higher costs after
+open repair from longer hospitalization.761,762 Whereas
+open repair is slightly more expensive during the initial
+
+hospitalization, no signiﬁcant differences are seen in
+long-term follow-up because of the need for surveillance
+imaging and reinterventions after EVAR.
+Calculating cost of care does not shed light on the
+beneﬁt of care. The major beneﬁt of treatment for patients with an aortic aneurysm is increased survival. However, patients endure a decreased quality of life after
+surgery, which may be prolonged should a complication
+occur. Because EVAR confers a lower complication rate
+and smaller incisions compared with open repair, patients undergoing EVAR generally have better healthrelated quality of life within the ﬁrst 12 months, although
+there is no signiﬁcant difference beyond the ﬁrst year.763
+When cost and effectiveness are combined, costeffectiveness analysis can reveal the value of different
+treatment options and also allow comparison to other
+treatments in other ﬁelds. Early Markov decision analysis
+models show that EVAR is cost-effective compared with
+open repair, with an incremental cost-effectiveness ratio
+of $22,826.764 However, contemporary Markov models using data from the DREAM,765 EVAR 1,682 OVER,76

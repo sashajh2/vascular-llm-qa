@@ -1,0 +1,70 @@
+
+
+(A) 76.5
+(C) 75
+
+(A) COPD 21.8%, PAD 25.7%, DM
+28.3%, smoking 15.7%, CVA
+15.7%, MI 36.1%, PCI 34.4%,
+kidney disease 16.1%
+(C) COPD 31.3%, PAD 37.5%, DM
+43.8%, smoking 68.8%, CVA:
+18.8%, MI 50%, PCI 37.5%,
+kidney disease 12.5%
+
+Hertzer et al,100 1978
+USA
+
+Patients who underwent
+N/A
+staged or combined
+repair of signiﬁcant
+simultaneous carotid and
+coronary atherosclerosis
+
+(A) 115
+(C) 59
+
+(A) 59.4
+(C) 57.2
+
+79.31
+
+NR
+
+Hudorovic,101 2006
+Croatia
+
+Patients who underwent
+reverse-staged or
+simultaneous off-pump
+CABG/CEA
+
+(A) 30
+(B) 23
+
+(A) 64.9
+(B) 66
+
+(A) 80
+(B) 87
+
+(A) previous MI 50%, DM 16.7%,
+HLD 36.7%, HTN 43.3%,
+history of smoking 50%,
+obesity 6.7%, CRF 16.7%,
+COPD 13.3%
+(B) previous MI 56.5%, DM 17.4%,
+HLD 34.8%, HTN 47.8%,
+history of smoking 52.2%,
+obesity 8.7%, CRF 17.4%,
+COPD 13%
+
+Illuminati et al,12 2011
+Italy
+
+Elective CABG for triplePatients undergoing urgent (A) 94
+(B) 91
+vessel or left main trunk
+CABG, deﬁned as any
+symptomatic CAD

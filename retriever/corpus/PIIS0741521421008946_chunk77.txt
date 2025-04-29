@@ -1,0 +1,71 @@
+.3 (0.10-0.88)
+
+5.3/33.3
+
+0.11 (0.06-0.19)
+
+30
+
+RCT
+
+AbuRahma
+et al, 1999264
+
+74/74
+
+0/4.0
+
+———a
+
+7/45
+
+0.09 (0.03-0.25)
+
+29
+
+RCT
+
+753/329
+CEA Arm of CREST
+
+1.2/4.0
+
+0.35 (0.15-0.82)
+
+3.1/10.7c
+
+0.27 (0.15-0.48)
+
+24
+
+RCT
+
+Malas et al,
+2015290
+
+a
+
+CI, Conﬁdence interval; OR, odds ratio; RCT, randomized controlled trial.
+a
+Not available or not applicable.
+b
+Only 30-day risk of ipsilateral stroke only.
+c
+For $70%.
+
+series, Wiske et al257 reviewed 28,457 CEAs in the VQI
+from 2012 to 2015 and found no difference in inhospital death or stroke among the different types of cerebral monitoring and shunt strategies. However, the authors did report shorter length of stay among patients
+undergoing awake assessment with local anesthesia.257
+Summary and recommendations. Owing to the
+paucity of suitable data on when to shunt or best shunting methods during CEA, speciﬁc recommendations
+cannot be provided. The committee suggests consideration of arterial shunting during CEA based on practitioner expertise and institutional standards.
+Carotid closure: primary versus patching
+The type of closure after CEA, whether primary closure
+vs patching remains somewhat controversial.259-285 However, most authorities agree that in a small carotid artery
+(#4 mm), particularly in women, and in the presence of
+technical difﬁculties at the ICA end of the arteriotomy,
+patching may decrease the risk of future restenosis. It
+has been suggested that a ﬂow characteristic of patched
+arteries may be superior to those of primary closure for
+minimizing
+early
