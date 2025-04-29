@@ -1,0 +1,33 @@
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+47S
+
+Volume 75, Number 1S
+
+general anesthetics decrease the cerebral metabolic rate
+and may therefore have a neuroprotective effect in the
+presence of cerebral ischemia.225
+Over the past several decades, a number of publications have shown conﬂicting results about anesthesia,
+some favoring general anesthesia, while others favor
+local anesthesia. Halm et al226 conducted a retrospective
+analysis of 1972 patients undergoing CEA by 64 surgeons
+in six New York hospitals in 1997 and 1998. Death or
+stroke occurred in 2.3% in patients without carotid symptoms, 2.9% among those with carotid TIA, and 7.1%
+among patients with perioperative stroke. Two surgical
+techniques reduced the adjusted odds of death or
+stroke: Use of local anesthesia (OR, 0.3; 95% CI, 0.160.58) and patch closure (OR, 0.43; 95% CI, 0.24-0.76).
+Stoner et al227 also reported outcome of 13,622 CEAs performed during a 3-year period at 123 Veteran’s Administration and 13 private academic medical centers. The
+combined risk of stroke, death, or cardiac event was 4%
+and stroke/death risk was 3.4%. Regional anesthesia
+was used in 18% of cases with the following relative risk
+reductions: stroke 17%, death 24%, cardiac events 33%,
+and the composite outcome 31% (OR, 0.69; P ¼ .008).
+The authors concluded that the use of regional anesthesia signiﬁcantly reduced perioperative complications,
+however did admit the low use of regional anesthesia
+may represent selection bias.
+Results from randomized controlled trials, metaanalyses, and registries. One of the strongest Level 1 evidence sources on anesthesia is the General Anesthesia
+vs Local Anesthesia for Carotid Surgery (GALA) trial.228
+The two groups did not show any signiﬁcant differences regarding primary outcome (stroke, MI, or death)
+(Table

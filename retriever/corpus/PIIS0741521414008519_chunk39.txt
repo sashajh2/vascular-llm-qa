@@ -1,0 +1,84 @@
+
+Anterior accessory great saphenous vein
+Posterior accessory great saphenous vein
+Superﬁcial accessory great saphenous vein
+Anterior thigh circumﬂex vein
+Posterior thigh circumﬂex vein
+Small saphenous vein
+Saphenopopliteal junction
+Terminal valve
+Preterminal valve
+Cranial extension of small saphenous vein
+Superﬁcial accessory small saphenous vein
+Intersaphenous veins
+Lateral venous system
+Dorsal venous network of the foot
+Dorsal venous arch of the foot
+Superﬁcial metatarsal veins (dorsal/plantar)
+Plantar venous subcutaneous network
+Superﬁcial digital veins (dorsal/plantar)
+Lateral marginal vein
+Medial marginal vein
+
+Common femoral vein
+Femoral vein
+Deep femoral vein
+Medial circumﬂex femoral vein
+Lateral circumﬂex femoral vein
+Deep femoral communicating veins
+Sciatic vein
+Popliteal vein
+Genicular venous plexus
+Anterior tibial veins
+Posterior tibial veins
+Fibular or peroneal veins
+Sural veins
+Soleal veins
+Gastrocnemius veins
+Medial
+Lateral
+Intergemellar
+Medial plantar veins
+Lateral plantar veins
+Deep plantar venous arch
+Deep metatarsal veins (plantar/dorsal)
+Deep digital veins (plantar/dorsal)
+Pedal vein
+
+Gluteal perforators
+Superior gluteal
+Midgluteal
+Lower gluteal
+Thigh perforators
+Medial thigh
+Femoral canal
+Inguinal
+Anterior thigh
+Lateral thigh
+Posterior thigh
+Posteromedial
+Sciatic
+Posterolateral
+Pudendal
+Knee perforators
+Medial knee
+Suprapatellar
+Lateral knee
+Infrapatellar
+Popliteal fossa
+Leg (calf) perforators
+Medial leg
+Paratibial
+Posterior tibial
+Anterior leg
+Lateral leg
+Posterior leg
+Medial gastrocnemius
+Lateral gastrocnemius
+Intergemellar
+Para-achillean
+Ankle perforators
+Medial ankle
+Anterior ankle
+Lateral ankle
+Foot perforators

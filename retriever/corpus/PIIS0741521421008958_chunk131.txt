@@ -1,0 +1,151 @@
+w,kw.
+
+213263
+
+8
+
+or/4-7
+
+213263
+
+9
+
+3 and 8
+
+16015
+
+10
+
+exp endarterectomy/
+
+34806
+
+11
+
+(carotid adj2 endarterectom*).ti,ab,hw,kw.
+
+31347
+
+12
+
+10 or 11
+
+39920
+
+13
+
+carotid artery stent/
+
+1088
+
+14
+
+exp Carotid Arteries/
+
+112308
+
+15
+
+exp Stents/
+
+240571
+
+16
+
+(carotid adj2 stent*).ti,ab,hw,kw.
+
+14474
+
+17
+
+14 and 15
+
+8431
+
+18
+
+13 or 16 or 17
+
+19587
+
+19
+
+exp *angioplasty/
+
+70066
+
+20
+
+carotid angioplasty/
+
+639
+
+21
+
+"carotid angioplast*".ti,ab,hw,kw.
+
+2964
+
+22
+
+or/19-21
+
+71434
+
+23
+
+("best medical therap*" or "no surgery").ti,ab,hw,kw.
+
+175005
+
+24
+
+((conservative or medical) adj (manag* or treat* or therap*)).ti,ab,hw,kw.
+
+359760
+
+25
+
+(statin* or antiplatelet*).ti.
+
+59470
+
+26
+
+Platelet Aggregation Inhibitors/
+
+74332
+
+27
+
+(platelet* adj1 aggregat* adj1 inhibit*).ti,ab,hw,kw.
+
+43743
+
+28
+
+Antihypertensive Agents/
+
+129542
+
+29
+
+("blood pressure" adj3 lowering).ti,ab,hw,kw.
+
+19043
+
+30
+
+Hypolipidemic Agents/
+
+31
+
+or/23-30
+
+819988
+
+32
+
+12 or 18 or 22 or 31
+
+9222

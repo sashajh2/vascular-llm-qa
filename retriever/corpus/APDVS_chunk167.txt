@@ -1,0 +1,39 @@
+ exposure. A lead apron alone and or lead glasses alone is
+inadequate for optimal protection making answers b, c, and d incorrect. A full-face
+shield will be of greater protection than glasses which makes answer e incorrect.
+2. A 25 year old medical student has been invited to observe endovascular stent placement
+for an infrarenal AAA. In addition to wearing appropriate PPE, what can the medical
+student do to reduce their exposure during the case?
+A. Stand as close to the radiation source as possible.
+B. Turn their back to the radiation source.
+
+211
+
+C. Stand as far from the radiation source as possible.
+D. Wear a radiation badge.
+Answer
+C. Stand as far from the radiation source as possible.
+Discussion: Increasing one’s distance from the radiation source is a key measure to to
+reduce radiation exposure. Radiation exposure decreases as the distance from the source
+increases. This phenomenon follows an inverse square law (1/d^2). Standing close to
+the source will increase their radiation dose making answer a incorrect. If wearing a lead
+smock, turning one’s back to the radiation source will render the PPE useless. If wearing
+a leaded vest and skirt, turning one’s back has no effect. Wearing a radiation badge is
+beneficial for long-term monitoring of radiation exposure but does not affect the amount
+of radiation exposure.
+3. A 55 year old vascular surgeon who has been practicing for 20 years has noticed some
+subtle changes in his vision. What is the most likely underlying disease process?
+A. Optical neuropathy
+B. Glaucoma
+C. Opacification of the lens
+D. Retinal angiopathy
+Answer
+C. Opacification of the lens
+Discussion: The lens is the most radiosensitive componenet of the eye. Lens opacification
+(i.e. cataracts) is the most common adverse effect of radiation exposure to the eye. There
+was no mention of increased intraocular pressure or abnormal fundoscopic exam making
+answers a, b, and d incorrect.
+4. A 65 year old female is presenting to the hospital for endovascular repair of a complicated
+AAA. There is prolonged radiation time with a calculated absorbed dose of 3.5 Gy. What
+is the most likely skin exam finding during the patient’s hospital course?
+A. Skin necrosis

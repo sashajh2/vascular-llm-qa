@@ -1,0 +1,21 @@
+/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial" OR
+(random* W/1 allocat*) OR (doubl* W/1 blind*) OR (doubl*
+W/1 mask*) OR (singl* W/1 blind*) OR (singl* W/1 mask*) OR
+(tripl* W/1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/1
+blind*) OR (trebl* W/1 mask*) OR "latin square" OR placebo* OR nocebo* OR multivariate OR "comparative
+study" OR "comparative survey" OR "comparative analysis" OR (intervention* W/2 study) OR (intervention* W/2
+trial) OR "cross-sectional study" OR "cross-sectional analysis" OR "cross-sectional survey" OR "cross-sectional
+design" OR "prevalence study" OR "prevalence analysis"
+OR "prevalence survey" OR "disease frequency study"
+OR "disease frequency analysis" OR "disease frequency
+survey" OR crossover OR "cross-over" OR cohort* OR "longitudinal study" OR "longitudinal survey" OR "longitudinal analysis" OR "longitudinal evaluation" OR
+longitudinal* OR ((retrospective OR "ex post facto") W/3
+(study OR survey OR analysis OR design)) OR retrospectiv* OR "prospective study" OR "prospective survey" OR
+"prospective analysis" OR prospectiv* OR (population W/
+3 (stud* or survey* or analys* or research)) OR "concurrent
+study" OR "concurrent survey" OR "concurrent analysis"
+OR (("follow-up" or followup) W/1 (stud* or survey or analysis)) OR ((observation or observational) W/1 (study or survey or analysis)) OR "case study" OR "case series" OR
+"clinical series" OR "case studies" OR "clinical study" OR
+"clinical trial" OR (("phase 0" or "phase 1" or "phase I" or
+"phase 2" or "phase II" or "phase 3" or "phase III" or "phase
+4" or "phase IV") W/5 (trial

@@ -1,0 +1,55 @@
+ XIX. Continued.
+First
+author,
+year (ref.)
+
+Patients/Limbs
+
+Intervention
+
+Deak,
+2022212
+
+1070 patients (C2:
+469, C3-C6: 601)
+
+EVLA (n ¼ 550)
+
+Comparison
+PEM (520)
+
+Outcome
+
+Study design
+
+Reﬂux eliminated in 93.5%
+(514/550) after PEM and 92.8%
+(482/520) after EVLA; 3-year
+follow-up; no neurologic or
+cardiac adverse events after
+PEM
+
+Retrospective
+nonrandomized
+comparative
+study
+
+AE, Adverse event; DVT, deep vein thrombosis; EVLA, endovenous laser ablation; GSV, great saphenous vein; PE, pulmonary embolism; PEM, polidocanol endovenous microfoam; RCT, randomized controlled trial; VCSS, Venous Clinical Severity Score; VV, varicose veins.
+
+7.1.2 For patients with symptomatic telangiectasias
+or reticular veins we suggest transcutaneous laser
+treatment if the patient has sclerosant allergy, needle
+phobia, sclerotherapy failure or small veins (<1 mm)
+with telangiectatic matting.
+GUIDELINE. Grade of recommendation 2 (weak),
+Quality of Evidence B (moderate)
+Rationale and evidence. Surface lasers used to treat
+telangiectasias have wavelength between 532 nm and
+1064 nm.187 The Nd:YAG 1064 nm laser has shown results close to sclerotherapy but more pain was reported
+after laser treatment.188 Parlar et al188 recommended
+laser for those who have needle phobia, allergy to sclerosants and for small veins with telangiectatic matting,
+while sclerotherapy is more effective for larger, feeder
+veins. A 2021 Cochrane review186 found no clear difference in resolution or improvement of telangiectasias or
+matting when laser was compared with sclerotherapy.
+There was maybe less hyperpigmentation (RR, 0.57; 95%
+CI, 

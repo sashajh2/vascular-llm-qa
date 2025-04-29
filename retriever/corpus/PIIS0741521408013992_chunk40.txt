@@ -1,0 +1,34 @@
+, (3) prepump arterial pressure, and (4) DU
+scanning. Unlike clinical evaluation, most surveillance
+methods require the use of specialized equipment and
+trained technicians. Each of these methods has a high
+positive predictive value for identifying access dysfunction
+when applied to the correct setting and to the indicated
+type of access (autogenous or prosthetic access, catheter). A
+description of how to perform these tests can be found in
+the NKF-KDOQI Clinical Practice Guidelines.9 The clinical value of each test is summarized below:
+1. Access blood flow measurements. Access blood flow is
+the best determinant of access function. As a prosthetic
+access develops progressive stenosis, access blood flow falls
+progressively. A number of studies have shown that a
+prosthetic access blood flow rate of ⬍600 mL/min, or one
+that has decreased by ⬎25% from the previous baseline, has
+a high predictive value for significant stenosis (87% to
+100%).95,96 This test is most useful for autogenous AV
+access, where venous pressure surveillance is less reliable.
+The most common methods of measuring access flow can
+be performed in 10 to 15 minutes while the patient is on
+dialysis, after reversing the arterial and venous lines. The
+measurement uses ultrasound dilution (Fick principle) by
+measuring the rate of change in ultrasound transmission in
+the venous line after infusion of a saline bolus through the
+arterial line. The KDOQI Guidelines recommend monthly
+measurement of access flow. It requires specialized equipment and a trained technician.
+2. Static venous dialysis pressure. The greatest value of
+static venous dialysis pressure (VDP) is in prosthetic accesses, but is of little or no value as a surveillance tool for
+autogenous accesses because of the high incidence of lowflow etiologies proximal to the venous needle in autogenous accesses where VDP is measured.
+Measurement of dynamic VDP (at a low dialysis blood
+flow of 200 ml/min) is a relative poor marker of autogenous or prosthetic access stenosis. It is affected by multiple
+factors, including the dialysis blood flow, needle diameter,
+type of dialysis machine, and the patient’s blood pressure.
+Better standardization can be achieved

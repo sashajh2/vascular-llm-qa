@@ -1,0 +1,26 @@
+, Geisbusch P, Kotelis D, MullerEschner M, Gasser TC, et al. Finite element analysis in
+asymptomatic, symptomatic, and ruptured abdominal
+aortic aneurysms: in search of new rupture risk predictors.
+Eur J Vasc Endovasc Surg 2015;49:239-45.
+225. McGloughlin TM, Doyle BJ. New approaches to abdominal
+aortic aneurysm rupture risk assessment: engineering insights with clinical gain. Arterioscler Thromb Vasc Biol
+2010;30:1687-94.
+226. Xenos M, Labropoulos N, Rambhia S, Alemu Y, Einav S,
+Tassiopoulos A, et al. Progression of abdominal aortic
+aneurysm towards rupture: reﬁning clinical risk assessment
+using a fully coupled ﬂuid-structure interaction method.
+Ann Biomed Eng 2015;43:139-53.
+227. Figueroa CA, Baek S, Taylor CA, Humphrey JD. A computational
+framework for ﬂuid-solid-growth modeling in cardiovascular
+simulations. Comput Methods Appl Mech Eng 2009;198:
+3583-602.
+228. Stenbaek J, Kalin B, Swedenborg J. Growth of thrombus
+may be a better predictor of rupture than diameter in patients with abdominal aortic aneurysms. Eur J Vasc Endovasc Surg 2000;20:466-9.
+229. Golledge J, Iyer V, Jenkins J, Bradshaw B, Cronin O,
+Walker PJ. Thrombus volume is similar in patients with
+ruptured and intact abdominal aortic aneurysms. J Vasc
+Surg 2014;59:315-20.
+230. Courtois A, Nusgens BV, Hustinx R, Namur G, Gomez P,
+Somja J, et al. 18F-FDG uptake assessed by PET/CT in
+abdominal aortic aneurysms is associated with cellular and
+molecular alterations pref

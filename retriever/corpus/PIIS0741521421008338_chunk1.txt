@@ -1,0 +1,20 @@
+2.16; 95% CI,
+1.23-3.09) and more wound complications (OR, 5.18; 95% CI, 2.19-12.26). There was no statistically signiﬁcant difference in
+primary patency at 3 years (OR, 1.38; 95% CI, 0.97-1.97), secondary patency (OR, 1.59; 95% CI, 0.84-3.03), mortality at the
+longest follow-up (OR, 0.49; 95% CI, 0.21-1.17), mortality at 30 days (OR, 0.28; 95% CI, 0.06-1.36), or amputation (incidence rate
+ratio, 0.85; 95% CI, 0.56-1.31). The certainty in these estimates was, in general, low. Studies of PAA natural history suggest that
+thromboembolic complications and amputation develop at a mean observation time of 18 months and they are frequent.
+One study showed that at 5 years, approximately one-half of the patients had complications.
+Conclusions: This systematic review provides event rates for outcomes important to patients with PAAs. Despite the low
+certainty of the evidence, these rates along with surgical expertise and anatomic feasibility can help patients and
+surgeons to engage in shared decision-making. (J Vasc Surg 2022;75:121S-5S.)
+Keywords: Meta-analysis; Guideline; Popliteal; Aneurysm
+
+Although peripheral artery aneurysms are rare, popliteal
+artery aneurysms (PAAs) are the most common type of
+peripheral arterial aneurysm with a reported prevalence
+rate of 0.007% in men, and 0.001% in women. Patients
+with PAAs are at increased risk of concomitant abdominal
+aortic aneurysms (33%) and contralateral PAA disease
+(50%).1,2 Given the anatomic location of the popliteal
+artery

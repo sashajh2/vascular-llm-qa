@@ -1,0 +1,31 @@
+ of a pulse. The type
+of waveform provides important information about the characteristics of blood fow. These
+waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these
+waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis,
+and determine the effectiveness of treatment interventions.
+Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type
+of waveform provides important information about the characteristics of blood fow. These
+waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these
+waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis,
+and determine the effectiveness of treatment interventions.
+ Triphasic Waveform:
+ A triphasic waveform consists of three phases: forward fow during systole, a brief reverse
+fow during early diastole, and a second forward fow component during late diastole.
+ Clinical Significance: Triphasic waveforms are typically found in healthy, unobstructed
+arteries. They represent normal arterial blood fow. These waveforms are seen in arteries serving well-perfused tissues where resistance is low, and blood fow is unimpeded.
+Triphasic waveforms are commonly observed in the larger arteries of the extremities, such
+as the femoral and brachial arteries.
+ Biphasic Waveform:
+ A biphasic waveform displays two phases: an initial forward fow during systole (when
+the heart contracts and ejects blood) followed by brief reverse or “refected” fow during
+early diastole.
+ Clinical Significance: Biphasic waveforms are often associated with moderate arterial
+stenosis. The reverse fow component indicates some degree of obstruction. They can be
+observed in patients with early-stage PAD or moderate occlusions. Biphasic waveforms
+suggest that some blood is able to fow past the obstruction during systole but encounters
+resistance during diastole.
+ Monophasic Waveform:
+ A monophasic waveform consists of a single, continuous fow signal that moves in one
+direction. It typically lacks a distinct reverse or “refected” fow signal.
+ Clinical Significance: Monophasic waveforms are often seen in arteries downstream from
+significant stenosis or occlusion. In these cases,

@@ -1,0 +1,25 @@
+
+surgery and three after EVLA. The risk of DVT was lower
+for endovenous procedures than for open surgery.
+Prophylaxis was associated with a nonsigniﬁcant
+reduction in the composite risk of DVT, PE, and superﬁcial venous thrombosis (pooled RR, 0.63; 95% CI,
+0.04-10.43; P ¼ .74) and of DVT alone (pooled RR, 0.59,
+0.08-4.60; P ¼ .61). There was signiﬁcant heterogeneity
+in both results. Notably, conﬁning the analysis to randomized trials did show a signiﬁcant reduction in the
+
+risk of DVT (0.22 vs 4.15%: RR, 0.05; 95% CI, 0.02-0.13,
+P < .00,001). Among the two studies reporting
+bleeding risk, there was no difference among those
+receiving or not receiving prophylaxis. Although a few
+included studies evaluated the efﬁcacy of fondaparinux
+and rivaroxaban as well as short vs extended courses of
+prophylaxis, conclusions based on the available data
+are difﬁcult.
+A second broader meta-analysis included 47 randomized trials, 105 prospective cohort studies, 67 retrospective cohort studies, and 2 case control studies including
+a total of 476, 266 patients undergoing a variety of superﬁcial endovenous interventions with exclusion of open
+venous surgery.32 Notably, most studies excluded patients with a history of DVT. Although signiﬁcant heterogeneity precluded analysis of all study arms, among
+prospective studies additional pharmacological prophylaxis reduced the incidence of DVT to 0.73% (95% CI,
+0.52%-1.02%) from 1.31% (1.15%-1.48%) for mechanical
+prophylaxis alone (compression stockings/bandages).
+No signiﬁcant difference was noted between singledose and extended pharmacoprophylaxis. There were
+no signiﬁcant differences in PE (0.14

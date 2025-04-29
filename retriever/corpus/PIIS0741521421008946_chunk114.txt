@@ -1,0 +1,36 @@
+380
+Summary and recommendations.
+Access.
+1. Proper imaging of the aortic arch and carotid bifurcation are recommended preoperatively.
+2. Transfemoral access can be used in younger patients
+and aortic arch free of obvious disease.
+3. Transradial and transbrachial access is especially
+beneﬁcial in left ICA lesions in patients with bovine
+anatomy or prior carotid subclavian bypass.
+4. TCAR has advantages of avoiding the diseased
+tortuous arch and providing CEA like protection.
+Technical considerations
+Use of cerebral protection devices/TCAR. Cerebral
+protection devices have resulted in lower risk of distal
+embolization. The results from the EVA-3S reported
+signiﬁcantly lower 30-day stroke risk in patients undergoing transfemoral CAS with EPD compared with those
+without EPD (7.5% vs 25%; P ¼ .03). An EPD was required
+in all patients enrolled in the CREST, and the Centers for
+Medicare and Medicaid Services requires an EPD in all
+
+patients undergoing CAS to be considered for reimbursement. A meta-analysis of more than 15,000 CAS
+procedures showed a 45% decrease in stroke and death
+with an EPD.359 Currently, cerebral embolic protection
+can be achieved via distal microporous ﬁlters, distal occlusion devices, proximal occlusion with ﬂow reversal,
+and with the TCAR with the dynamic ﬂow reversal neuroprotection system. The choice of device is often
+dependent on physician preference and familiarity. The
+distal ICA with minimal tortuosity and adequate diameter and length must be available for suitable placement
+of a distal EPD.
+Evidence regarding the superiority of one protection
+device over another is limited. The Prevention of Cerebral Embolization by Proximal Balloon Occlusion
+compared with Filter Protection during Carotid Artery
+Stenting (PROFI) study is the only randomized trial
+that compared ﬁlter-protected vs proximal balloonprotected transfemoral CAS. The study reported a
+signiﬁcantly lower incidence of ischemic lesions after
+proximal occlusion compared with distal ﬁlters (6.5%
+vs 29

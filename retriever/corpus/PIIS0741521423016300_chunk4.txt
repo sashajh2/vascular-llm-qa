@@ -1,0 +1,36 @@
+rene, evaluate
+pedal Doppler waveforms in combination with ankle brachial
+index (ABI) and toe brachial index (TBI) measurements to identify
+the presence of peripheral artery disease (PAD).
+No single modality has been shown to be optimal for the diagnosis
+of PAD, and there is no value above which PAD can be excluded.
+However, PAD is less likely in the presence of ABI 0.9 e 1.3; TBI $
+0.70; and triphasic or biphasic pedal Doppler waveforms.
+5. In a person with diabetes without a foot ulcer in whom a
+non-emergency invasive foot procedure is being considered,
+peripheral artery disease should be excluded by performing
+assessment of pedal Doppler waveforms in combination with
+ankle brachial index and toe brachial index.
+
+Prognosis
+
+6. In a person with diabetes and a foot ulcer or gangrene, consider
+performing ankle pressures and ankle brachial index (ABI)
+measurements to assist in the assessment of likelihood of healing
+and amputation.
+Ankle pressure and ABI are weak predictors of healing. A low
+ankle pressure (e.g., < 50 mmHg) or ABI (e.g., < 0.5) may be
+associated with a greater likelihood of impaired healing and
+greater likelihood of major amputation.
+7. In a person with diabetes and a foot ulcer or gangrene, consider
+performing a toe pressure measurement to assess likelihood of
+healing and amputation.
+A toe pressure $ 30 mmHg increases the pre-test probability of
+healing by up to 30% and a value < 30 mmHg increases the
+pre-test probability of major amputation by approximately 20%.
+8. In a person with diabetes and a foot ulcer or gangrene, if a toe
+pressure cannot be performed, consider performing a transcutaneous oxygen pressure (TcPO2) measurement or a skin perfusion
+pressure (SPP) to assess likelihood of healing.
+A TcPO2 $ 25 mmHg increases the pre-test probability of healing
+by up to 45% and value < 25 mmHg increases the pre-test probability of major amputation by approximately 20%. An SPP $ 40
+mmHg increases the pre-test probability of healing by

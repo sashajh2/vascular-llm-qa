@@ -1,0 +1,85 @@
+Y
+Volume 61, Number 3S
+
+Conte and Pomposelli et al 7S
+
+Summary of evidence: Diagnosis of peripheral arterial disease (PAD)
+
+Clinical question
+Accuracy of ABI in
+patients suspected
+to have PAD
+Accuracy of anatomic
+imaging studies and
+physiologic
+noninvasive studies
+in patients suspected
+to have PAD
+
+Beneﬁts and harms
+of screening
+asymptomatic
+individuals with ABI
+Incremental value of
+adding ABI to
+traditional risk
+assessment tools
+(Framingham risk
+assessment)
+
+Quality of
+evidence
+
+Data source
+
+Finding
+
+Multiple nonrandomized
+diagnostic studies with
+comparison with the gold
+standard
+Nonrandomized diagnostic
+studies with comparison
+with the gold standard
+
+ABI <0.9 has a sensitivity ranging from 79% to
+95% with a speciﬁcity of >95%43
+
+A-B
+
+The combination of segmental limb pressures and
+pulse volume recordings had a diagnostic
+accuracy of 97%.44 Duplex ultrasound imaging
+to detect a stenosis $50% in the aortoiliac tract:
+sensitivity, 86%; speciﬁcity, 97%; for the
+femoropopliteal tract: sensitivity, 80%; speciﬁcity,
+96%; for the infragenicular arteries: sensitivity,
+83%; speciﬁcity, 84%.45 Accuracy of CT and MR
+imaging were >90%46,47
+No data on beneﬁt or harm in patient-important
+outcomes48
+
+B-C
+
+Reclassiﬁcation of risk and change in treatment
+recommendations in w19% of men and 36% of
+women49
+
+C
+
+No data
+
+Meta-analysis of cohort
+studies. Evidence is
+considered indirect
+because risk score is a
+surrogate outcome
+
+C
+
+ABI, Ankle-brachial index; CT, computed tomography; MR, magnetic resonance.
+3. MANAGEMENT OF ASYMPTOMATIC
+PATIENTS WITH PAD
+The incidence of asymptomatic PAD in the U.S. population is substantial, extends across gender and race divisions,
+and may be readily conﬁrmed by use of the ABI.11,50 An
+important question is whether identiﬁ

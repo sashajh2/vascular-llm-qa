@@ -1,0 +1,38 @@
+on clinical experience, judgment, values, and preferences.
+The GRADE system allows us to separate the strength of
+our recommendations from the quality of our supporting
+data. The authors of this article recognize that the data
+from which these guidelines were formulated are imperfect
+and that our values played a significant role in guideline
+formulation. Furthermore, the huge variability among patients with cerebrovascular disease, both in their anatomic
+and physiologic features, makes application of guidelines
+problematic. Often patients do not mesh cleanly with the
+criteria established for clinical trial eligibility.
+We also recognize that the very criteria used to define
+patient cohorts are subject to change. For example, we have
+used degree of stenosis to define various patient cohorts
+throughout. Symptomatic patients with ⬍50% stenosis are
+determined to be best served by medical therapy alone,
+while those with ⱖ50% stenosis are deemed to require
+surgery. Asymptomatic patients with ⱖ60% stenosis are
+deemed candidates for endarterectomy, while in those with
+⬍60% stenosis, medical therapy is preferred. The severity of
+stenosis may not be the best predictor of plaque behavior,
+but it is reproducibly quantifiable and currently used as the
+measure of disease severity in all clinical trials. We recognize
+that in the future these guidelines will be revised if new
+methodologies can better predict the clinical behavior of
+atherosclerotic plaques.
+Consensus eluded the authors in several areas. We could
+not completely agree on the role of carotid stenting in asymptomatic patients. We did agree that data supporting stenting in
+this setting were of poor quality because of the absence of a
+medically managed control group. A majority felt that patients
+with acceptable medical risk, high anatomic risk, and compelling carotid pathology should be considered candidates for
+stenting. A minority felt that in the absence of trials comparing
+medical therapy with stenting in this cohort, such a recommendation, even as GRADE 2 was ill advised.
+We also failed to reach consensus over many details in
+the technical performance of endarterectomy and stenting.
+Originally we had hoped to present technical guidelines using
+the GRADE system, but we found both that supporting data
+were inconsistent and generally of low quality and that all
+recommendations

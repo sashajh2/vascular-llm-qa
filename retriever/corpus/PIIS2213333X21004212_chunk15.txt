@@ -1,0 +1,37 @@
+ stripping; IPV, incompetent perforator vein; NBCA, n-butyl cyanoacrylate; RFA, radiofrequency ablation; RCT,
+randomized controlled trial; RR, relative risk/rate ratio for adverse events; SEPS, subfascial endoscopic perforator surgery; SFJ, saphenofemoral
+junction; SFL/S, saphenofemoral ligation and stripping; SMD, standardized mean difference; UGFS, ultrasound-guided foam sclerotherapy.
+
+Farah et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+1161
+
+Volume 10, Number 5
+
+Fig. PRISMAﬂow diagram.
+
+selection, index test, reference standard, and ﬂow and
+timing. Certainty in estimates for key outcomes was
+evaluated using the GRADE approach20-22 (Table II).
+Statistical analysis. The relative risk (RR) was extracted
+or calculated for binary outcomes. We calculated standardized mean difference (SMD) for continuous results
+when studies used different measures for the same effect (eg, pain scale). When studies used the same
+outcome measure, we used the original scale and
+expressed results as a weighted mean difference. Rate
+ratios (ie, the ratio of the incidence rate of events within
+a given time between the intervention and the comparison) were calculated for AEs. The DerSimonian and
+Laird random effects method was used to combine effect sizes. We evaluated heterogeneity between studies
+using I2 indicator. Analyses were based on the intentionto-treat principle for RCTs or the number of patients
+initially assigned to the interventions at the start of the
+study for observational studies.
+
+Subgroup and sensitivity analysis. A prespeciﬁed
+subgroup analyses were conducted based on patient characteristics (eg, age, sex), intervention techniques, concomitant interventions (eg, phlebectomy, sclerotherapy), and
+publication timeline (ie, before and after 2016) for thermal
+techniques. We also conducted sensitivity analyses in
+which we excluded high risk of bias studies. We were
+unable to evaluate clinical class of venous disease (CEAP
+classiﬁcation-200423 vs CEAP classiﬁcation-202016) owing
+to lack of comparative

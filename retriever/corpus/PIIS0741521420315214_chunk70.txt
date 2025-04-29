@@ -1,0 +1,36 @@
+161 patients from
+7 hospitals during a 15-year period showed a lower incidence of the composite end point of stroke, paraplegia,
+and death in the TEVAR cohort compared with open
+repair (36.2% vs 21.7%; P < .05), but no difference was
+seen in the individual outcomes because of small
+numbers.204 Long-term outcomes have been reasonable
+after TEVAR for ruptured DTA. A review of 21 patients
+treated with TEVAR with a median follow-up of
+>5 years reported a late mortality of 52% with only one
+known aorta-related death.205
+Most of the large series evaluating TEVAR for ruptured
+DTA are from administrative databases, such as Medicare
+and the National Inpatient Sample, and lack the
+anatomic granularity that would allow meaningful comparison of the cohort of patients undergoing each procedure (open TAA repair vs TEVAR). In addition, it is
+difﬁcult to determine the state of the patient at the
+time of presentation as it is possible that one approach
+is favored in stable patients and another is used when
+a patient presents in extremis. Within these limitations,
+it appears that TEVAR for ruptured DTA is associated
+with improved survival and lower morbidity compared
+with open repair.5
+Recommendation 35: We recommend TEVAR over
+open repair for the treatment of ruptured DTA when it
+is anatomically feasible. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate)
+
+SURVEILLANCE AFTER TEVAR
+Surveillance after TEVAR is critical to identify endoleaks
+after initial placement and to evaluate whether longterm complications appear, such as migration, aneurysm
+expansion despite no evidence of endoleak (type V endoleak, so-called endotension), new endoleaks, device failure (fracture, migration, component separation),
+stenosis, or occlusion. In addition, long-term evaluation
+may detect signs of graft infection. The most often reported protocol after TEVAR for aneurysm surveillance
+is clinical examination and CT scans at 1 month,
+6 months, and yearly thereafter.206,207 When TEVAR is
+placed for emergent indications, earlier evaluation either
+during hospitalization or within 1 week of placement

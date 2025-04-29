@@ -1,0 +1,30 @@
+-term radiation exposure on ocular health.
+The increased understanding of these risks has prompted a greater emphasis on the importance of safety equipment to protect the eyes. Proper use of protective gear such as lead
+glasses and face shields is crucial for minimizing radiation exposure to ocular tissues.
+
+The Skin and Radiation Exposure:
+Skin changes of varying severity are a well-documented adverse reaction to radiation exposure. These changes can range from mild redness and irritation to severe necrosis and the
+development of secondary skin cancers. Importantly, these changes may not always manifest
+immediately.
+Adverse effects to the skin vary according to the cumulative dose of radiation. For example, at
+the large cumulative dose of 50 Gy, fibrosis may occur, presenting as induration, skin retraction,
+edema, restricted motion, ulceration, and necrosis. (Bennardo et al. 2021) This underscores
+the importance of understanding a patient’s radiation exposure history, as it could increase
+their susceptibility to radiation-induced injury.
+The most commonly encountered adverse skin effect is acute radiation dermatitis.
+ Acute radiation dermatitis characterized by redness and ulceration, can occur with relatively low doses, such as 2 Gy. [Stewart et al. (2012)](Bennardo et al. 2021)
+ This level of exposure is concerning not only for individuals undergoing routine radiation therapy for cancer treatment but also for those in prolonged surgeries requiring fuoroscopy, as highlighted in Weerakkody’s study on endovascular aneurysm repair (EVAR).
+(Weerakkody et al. 2008b)
+ Symptoms of acute radiation dermatitis typically appear within 2 to 24 hours
+following exposure.
+
+225
+
+ As the radiation dose increases, the severity of side effects worsens, and the time to onset
+of these effects also lengthens. For instance, a single radiation dose of 10 Gy may result
+in dermal atrophy, but this may not be evident until more than 10 weeks after exposure.
+(Stewart et al. 2012)
+This discussion doesn’t cover all possible adverse effects related to skin radiation exposure.
+Rather, it provides an overview of common findings based on typical exposure scenarios in
+vascular surgery patients. Further information on the effects of single and cumulative radiation
+doses on the skin can be found in studies by Stewart ((

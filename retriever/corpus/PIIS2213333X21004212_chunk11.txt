@@ -1,0 +1,47 @@
+ Epub Ahead of Print, In-Process & Other
+Non-Indexed Citations, and Daily, Ovid EMBASE, Ovid
+Cochrane Central Register of Controlled Trials, Ovid
+Cochrane Database of Systematic Reviews, and Scopus.
+The search strategy was designed and conducted by a
+medical reference librarian with input from the
+
+investigators. We also included references from experts
+and bibliographies of included trials. Controlled vocabulary supplemented with keywords was used to search for
+English studies of DUS examination for the detection of
+saphenous vein incompetence, endovenous ablation, surgical stripping for saphenous vein incompetence in adults
+with varicose veins, and ablation of incompetent perforator
+veins in adults with simple varicose veins. The detailed
+search strategy listing all search terms used and how they
+are combined is available in Appendix A (online only).
+Study selection and data extraction. Two reviewers
+independently screened titles and abstracts of candidate
+studies. Included studies by either reviewer were retrieved
+for full-text screening. Pairs of independent reviewers
+screened the full text of eligible studies. The
+
+1160
+
+Farah et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+September 2022
+
+methodologic quality of studies and collected descriptive,
+methodologic, and outcomes data were determined by
+the reviewers. Data from included studies were extracted
+by pairs of independent reviewers using a standardized
+form created by a web-based program (DistillerSR,
+Evidence Partners, Ottawa, Canada). Disagreements were
+resolved by consensus or by a third reviewer.
+Risk of bias and certainty of the evidence. Two independent reviewers assessed the risk of bias in the included
+studies. The Cochrane tool for risk of bias assessment was
+used for randomized clinical trials.17 This tool considers six
+
+domains, including sequence generation, allocation
+concealment, blinding of participants, incomplete
+outcome data, selective outcome reporting, and other
+sources of bias such as the source of funding and conﬂict
+of interest. We used a modiﬁed version of the NewcastleOttawa scale for observational studies,18 focusing on the
+exposed cohort’s representativeness and nonexposed
+cohort, ascertainment of exposure and outcomes,
+comparability of cohorts, and adequacy of follow-up

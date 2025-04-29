@@ -1,0 +1,30 @@
+ive determination of fow and directionality can be augmented to a carotid artery stenosis workup by diagnostic angiography. This requires femoral artery access and includes contrast
+administration, as well as a small risk of periprocedural embolization. However, it offers additional physiologic evaluation that might not be present in DSA and that is inherently lacking
+in CTA and MRA studies.
+
+54
+
+Asymptomatic Carotid Atery Stenosis Screening
+The 2021 SVS clinical practice guidelines outline the following recommendations. In asymptomatic patients who qualify for carotid artery stenosis screening, duplex ultrasound is the
+recommended choice over CTA, MRA, or other imaging modalities.
+Routine screening is not recommended for clinically asymptomatic carotid artery stenosis
+for individuals without significant risk factors for carotid disease.
+Screening is recommended for clinically asymptomatic carotid artery stenosis in individuals with significant risk factors** for carotid disease. High-risk groups include:
+ Patients with lower extremity peripheral artery disease (PAD)
+ Patients undergoing coronary artery bypass surgery (CABG)
+ Patients aged >= 55 years with at least two traditional atherosclerotic risk factors (hyperlipidemia, hypertension, etc.)
+ Patients aged >= 55 years and active cigarette smoking
+ Patients with diabetes, hypertension, or coronary artery disease (CAD)
+ Patients with clinically occult cerebral infarction noted on brain imaging studies.
+The presence of a carotid bruit increases the likelihood of detecting significant stenosis. Asymptomatic patients with an abdominal aortic aneurysm (AAA) or previous radiotherapy to the
+neck who do not meet the criteria of any of the high-risk groups above do not require screening.
+It has been shown that the prevalence of carotid stenosis increases proportionally with the
+number of risk factors present.
+
+Treatment
+Carotid Artery Endarterectomy (CEA)
+This procedure has been performed since the 1950s, either by plaque endarterectomy and
+patch angioplasty or primary arterial repair. To prevent arterial restenosis, patch angioplasty
+has become the standard of arterial closure after plaque removal. The procedure can involve
+cerebral monitoring including electroencephalography (EEG), transcranial Doppler (TCD) and
+stump pressure monitoring or be

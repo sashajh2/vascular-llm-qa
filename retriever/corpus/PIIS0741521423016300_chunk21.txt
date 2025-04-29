@@ -1,0 +1,53 @@
+aging - digital subtraction angiography [DSA], magnetic resonance angiography [MRA], computed tomography angiography [CTA], colour Duplex ultrasound
+[CDUS]) should be performed to accurately and reliably
+diagnose PAD?
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1109
+
+Volume 78, Number 5
+
+Recommendation 1
+In a person with diabetes without a foot ulcer, take a relevant
+history for peripheral artery disease, examine the foot for signs
+of ischaemia and palpate the foot pulses at least annually, or
+with any change in clinical status of the feet.
+Grade
+Strong
+
+Certainty of evidence
+Low
+
+Recommendation 2
+In a person with diabetes without a foot ulcer, if peripheral
+artery disease (PAD) is suspected, consider performing pedal
+Doppler waveforms in combination with ankle brachial index
+(ABI) and toe brachial index (TBI). No single modality has been
+shown to be optimal for the diagnosis of PAD and there is no
+value above which PAD can be excluded. However, PAD is less
+likely in the presence of ABI 0.9 e 1.3; TBI $ 0.70; and triphasic
+or biphasic pedal Doppler waveforms.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. Diagnosis and treatment of PAD is critical
+due to the increased risk of developing DFU as well as
+the increased rate of complications from co-existent
+cardiovascular disease including myocardial infarction
+and stroke.35 Evidence for the diagnostic accuracy of
+pulse palpation for PAD in people with diabetes without
+DFU is limited with two studies of low quality demonstrating that although presence of pulses does not
+exclude disease, there is a small increase in ability to rule
+disease in where a foot pulse is absent or weak (positive
+likelihood ratio [PLR] 1.84 e 2.46).44,45 The PLR gives the
+change in odds of experiencing an outcome if the test is
+positive, whereas the negative likelihood ratio (NLR) expresses a change in odds of experiencing an outcome if
+the test is negative. A PLR or NLR of 1.0 means that the
+test does not change the probability of the outcome over
+and above the pre-test probability and

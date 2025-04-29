@@ -1,0 +1,23 @@
+. Wall stress distribution on threedimensionally reconstructed models of human abdominal aortic aneurysm. J Vasc Surg 2000;31:760-9.
+215. Vande Geest JP, Wang DH, Wisniewski SR, Makaroun MS,
+Vorp DA. Towards a noninvasive method for determination
+of patient-speciﬁc wall strength distribution in abdominal
+aortic aneurysms. Ann Biomed Eng 2006;34:1098-106.
+216. Malkawi AH, Hinchliffe RJ, Xu Y, Holt PJ, Loftus IM,
+Thompson MM. Patient-speciﬁc biomechanical proﬁling in
+abdominal aortic aneurysm development and rupture.
+J Vasc Surg 2010;52:480-8.
+217. Kok AM, Nguyen VL, Speelman L, Brands PJ, Schurink GW,
+van de Vosse FN, et al. Feasibility of wall stress analysis of
+abdominal aortic aneurysms using three-dimensional ultrasound. J Vasc Surg 2015;61:1175-84.
+218. Goergen CJ, Azuma J, Barr KN, Magdefessel L, Kallop DY,
+Gogineni A, et al. Inﬂuences of aortic motion and curvature
+on vessel expansion in murine experimental aneurysms.
+Arterioscler Thromb Vasc Biol 2011;31:270-9.
+219. Les AS, Shadden SC, Figueroa CA, Park JM, Tedesco MM,
+Herfkens RJ, et al. Quantiﬁcation of hemodynamics in
+abdominal aortic aneurysms during rest and exercise using
+magnetic resonance imaging and computational ﬂuid dynamics. Ann Biomed Eng 2010;38:1288-313.
+220. Les AS, Yeung JJ, Schultz GM, Herfkens RJ, Dalman RL,
+Taylor CA. Supraceliac and infrarenal aortic ﬂow in patients
+with abdominal aortic aneurysms: mean ﬂows, waveforms,

@@ -1,0 +1,143 @@
+014
+
+25
+
+27
+
+52
+
+0.72 (0.13-3.96)
+
+Cerebral hyperperfusion CEA <2 days vs
+2-14 days
+
+Tanious et al,8
+2018
+
+649
+
+3707
+
+4356
+
+1.632 (0.34-7.84)
+
+6
+
+Death
+(perioperative)
+
+CEA <2 days vs
+2-5 days
+
+Avgerinos et al,9
+2017
+
+96
+
+322
+
+418
+
+0.6708 (0.079-5.670)
+
+Death 30 days
+
+CEA <2 days vs
+2-5 days
+
+Avgerinos et al,9
+2017
+
+96
+
+322
+
+418
+
+0.559 (0.068-4.587)
+
+Stroke
+
+CEA <2 days vs
+2-5 days
+
+Avgerinos et al,9
+2017
+
+96
+
+322
+
+418
+
+1.8061 (0.740-4.399)
+
+MI
+
+CEA <2 days vs
+2-5 days
+
+Avgerinos et al,9
+2017
+
+96
+
+322
+
+418
+
+1.1181 (0.23-5.45)
+
+Death
+(perioperative)
+
+CEA <2 days vs
+>6 days
+
+Avgerinos et al,9
+2017
+
+96
+
+571
+
+667
+
+2.974 (0.27-32.48)
+
+Death 30 days
+
+CEA <2 days vs
+>6 days
+
+Avgerinos et al,9
+2017
+
+96
+
+571
+
+667
+
+0.9913 (0.12-8.14)
+
+Stroke
+
+CEA <2 days vs
+>6 days
+
+Avgerinos et al,9
+2017
+
+96
+
+571
+
+667
+
+4.1635 (1.62-10.67)
+
+MI
+
+CEA <

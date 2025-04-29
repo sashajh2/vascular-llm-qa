@@ -1,0 +1,28 @@
+61.
+ J, Berkman ND,
+9. Sterne JA, Hernán MA, Reeves BC, Savovic
+Viswanathan M, et al. ROBINS-I: a tool for assessing risk of bias in
+non-randomised studies of interventions. BMJ 2016;355:i4919.
+ J, Page MJ, Elbers RG, Blencowe NS, Boutron I,
+10. Sterne JA, Savovic
+et al. RoB 2: a revised tool for assessing risk of bias in randomised
+trials. BMJ 2019;366:I4898.
+11. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al.
+The Newcastle-Ottawa Scale (NOS) for assessing the quality of
+nonrandomised studies in meta-analyses. Oxford; 2000.
+12. Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ,
+Reitsma JB, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med 2011;155:
+529-36.
+13. Hayden JA, van der Windt DA, Cartwright JL, Côté P, Bombardier C.
+Assessing bias in studies of prognostic factors. Ann Intern Med
+2013;158:280-6.
+_
+14. Schünemann H, Brozek
+J, Guyatt G, Oxman A. The GRADE handbook. UK: Cochrane Collaboration London; 2013.
+15. Dewidar O, Lotﬁ T, Langendam MW, Parmelli E, Saz Parkinson Z,
+Solo K, et al. Good or best practice statements: proposal for the
+operationalisation and implementation of GRADE guidance. BMJ
+Evid Based Med 2023;28:189-96.
+16. Frank U, Nikol S, Belch J, Boc V, Brodmann M, Carpentier PH, et al.
+ESVM Guideline on peripheral arterial disease. Vasa 2019;48:1-79.
+1

@@ -1,0 +1,48 @@
+ elucidate
+the cause of the GDAA or PDAA and its treatment.201
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (Moderate)
+
+Previous studies have made the distinction in size
+threshold for repair of visceral artery aneurysms on the
+basis of whether the aneurysm is a true aneurysm or a
+pseudoaneurysm.205 This is based on the fact that pseudoaneurysms are at higher risk of rupture and should
+therefore be repaired regardless of size. However, it is
+known that many of the PDAAs and GDAAs that have
+ruptured can be small and <10 mm.206 In fact, a singlecenter review of all visceral aneurysms found that PDAAs
+were strongly associated with rupture (P < .0002).207
+Thus, GDAAs and PDAAs should be repaired regardless
+of size and regardless of true vs false aneurysm in patients who have acceptable operative or interventional
+risk.117,208-213
+A Markov model decision analysis was performed to
+assess the effectiveness of preventive treatment of patients with PDAA based on risk.214 The authors argued
+that whereas 60% of PDAAs present ruptured regardless
+of size, the natural history of unruptured aneurysms
+cannot be determined by that of ruptured aneurysms.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+31S
+
+Volume 72, Number 1S
+
+Assuming a mortality rate of 21% after rupture, they
+found that preventive treatment was dominated by no
+treatment if mortality rates of preventive treatment
+were >1.4%, >2.6%, >3.8%, and >4.8% at annual rupture
+rates of 1%, 2%, 3%, and 4%, respectively, for an 80-yearold patient. Preventive treatment was dominated by no
+treatment if mortality rates of preventive treatment
+were >3.3%, >5.9%, >8.0%, and >9.7% at annual rupture
+rates of 1%, 2%, 3%, and 4%, respectively, for a 50-year-old
+patient.
+Predictive

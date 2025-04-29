@@ -1,0 +1,29 @@
+30
+Guideline 5.3: Multicomponent Compression
+Bandage
+We suggest the use of multicomponent compression bandage over single-component bandages for the
+treatment of venous leg ulcers. [GRADE - 2; LEVEL
+OF EVIDENCE - B]
+The possible difference in healing outcomes between
+single-layer and multilayer compression bandages has
+been evaluated in four trials, three of which have been published. In two trials, the number of participants was small
+(n ¼ 27 and 34) and showed no difference between treatment groups.279,294,295 However, a large RCT with 245
+patients demonstrated improved healing at 24 weeks
+(67% vs 49%; P ¼ .009) in the multilayer (4LB) bandage
+group compared with the single-layer group.296 In addition, 4LB were associated with faster wound closure (78
+vs 168 days; P ¼ .001) compared with the single-layer
+group.
+A recent meta-analysis identiﬁed six trials directly
+comparing multicomponent bandages containing elastic
+with those not containing elastic. Data from 797 patients
+(ﬁve trials with independent patient data available) demonstrated 30% improved healing with 4LB compared with
+those with SSB (odds ratio, 1.31; 95% CI, 1.09-1.58;
+P ¼ .0005).297 These data might in part be explained by
+the skill of the health care professional in achieving optimal
+sub-bandage pressures and graduated compression. In
+comparing 4LB with SSB in countries where the medical
+staff is familiar with applying SSB (eg, Netherlands and
+Austria), there was no signiﬁcant difference between the ulcer healing rates after 3 months (33 of 53 ¼ 62% healed
+with 4LB vs 43 of 59 ¼ 73% with SSB).297-299 Studies
+comparing different versions of the 4LB (proprietary and
+nonproprietary) were similar in outcomes, and thus a speciﬁc 4LB is not endorsed.3

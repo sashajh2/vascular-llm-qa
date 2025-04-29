@@ -1,0 +1,36 @@
+ or "painless
+heart ischemia*" or "painless ischaemia*" or "painless
+ischemia*" or "painless myocardial ischaemia*" or "painless myocardial ischemia*" or "paroxysmal atrial ﬁbrillation*" or "post heart infarction syndrome*" or "post
+infarctation syndrome*" or "post infarction syndrome*"
+or "postinfarction syndrome*" or "postmyocard infarction
+syndrome*" or "postmyocardial infarction syndrome*" or
+"postprandial angina pectoris" or "premonitory infarction
+sign" or "second heart attack*" or "silent cardiac
+ischaemia*" or "silent cardiac ischemia*" or "silent heart
+ischaemia*" or "silent heart ischemia*" or "silent
+ischaemia*" or "silent ischemia*" or "silent myocardial
+ischaemia*" or "silent myocardial ischemia*" or stenocardia or "stress cardiomyopath*" or "stress induced cardiomyopath*"
+or
+"subendocardial
+infarct*"
+or
+"subendocardial
+ischaemia*"
+or
+"subendocardial
+ischemia*" or takotsubo or "tako-tsubo" or "takotsubo cardiomyopath*" or "takotsubo syndrome*" or "transient left
+ventricular apical ballooning" or "transient left ventricular
+apical ballooning syndrome*" or "transmural cardiac
+infarct*" or "transmural heart infarct*")
+3 TITLE-ABS-KEY("aorta coronary artery bypass*" OR
+"aorta coronary bypass graft*" OR "aorta coronary bypass*"
+OR "aorta coronary vein bypass graft*" OR "aorta coronary
+vein bypass*" OR "aorta coronary vein shunt" OR "aortic
+coronary artery bypass*" OR "aortic coronary bypass*"
+OR "aorticocoronary anastomosis" OR "aorto coronary artery bypass*" OR "aorto coronary bypass graft*" OR "aorto
+coronary vein bypass*" OR "aortocoronary anastomosis"
+OR
+"aortocoronary
+artery
+bypass
+graft*

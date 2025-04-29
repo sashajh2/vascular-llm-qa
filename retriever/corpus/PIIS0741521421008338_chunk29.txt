@@ -1,0 +1,88 @@
+S
+
+Question 1: Endovascular approach/Open approach
+Ovid MEDLINE(R) 1946 to Present and Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Ovid
+MEDLINE(R) Daily
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼title, abstract, original title, name
+of substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+10,442
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword
+heading word, protocol supplementary concept word, rare disease supplementary
+concept word, unique identiﬁer, synonyms]
+
+146,943
+
+Advanced
+
+3
+
+1 and 2
+
+1961
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, original title, name of substance
+word, subject heading word, ﬂoating sub-heading word, keyword heading word,
+protocol supplementary concept word, rare disease supplementary concept word,
+unique identiﬁer, synonyms]
+
+412
+
+Advanced
+
+5
+
+3 or 4
+
+1961
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+45,273
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+106,278
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular
+procedure*" or "intravascular technique*" or angioplasty or angioscopy).mp.
+[mp¼title, abstract, original title, name of substance word, subject heading word,
+ﬂoating sub-heading word, keyword heading word, protocol supplementary
+concept word, rare disease supplementary concept word, unique identiﬁer

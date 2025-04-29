@@ -1,0 +1,89 @@
+raft (c-TAG)
+
+Medtronic92
+
+Valiant Captivia
+
+Iliac/femoral
+diameter, mm
+
+Aortic outer
+diameter, mm
+
+Proximal landing
+zone, mm
+
+Distal landing
+zone, mm
+
+4-8.7, depending on sheath
+
+16-42a
+
+$20
+
+$20
+
+7.3-8.3, depending on sheath
+
+18-42
+
+$20
+
+$20
+
+Cook Medical
+
+Zenith Alpha
+
+6.0-7.7, depending on graft size
+
+22-42
+
+$20
+
+$20
+
+Boltonc Medical94
+
+Relay
+
+7.3-8.7, depending on sheath
+
+19-42
+
+15-25
+
+15-25
+
+93
+
+b
+
+a
+
+Gore measures inner aortic diameter for graft sizing.
+Cook recalled all Zenith Alpha TEVAR grafts with proximal or distal diameter of 18 to 22 mm and recalled the indication for blunt traumatic aortic
+injury on March 22, 2017.95
+c
+Now Terumo.
+b
+
+grafting of the thoracic aorta is technically feasible and
+nonrandomized studies suggest reduction of early
+adverse outcomes, such as paraplegia, mortality, and
+hospital stay, high-quality randomized controlled trials
+assessing clinically relevant outcomes including open
+conversion, aneurysm exclusion, endoleaks, and late
+mortality are needed.86,87 In addition, although there
+are no randomized, controlled prospective trials
+comparing open and endovascular TAA repair and probably never will be, industry-sponsored trials and registry
+data (Table) suggest clinical equipoise in centers experienced in both techniques.77-81,84,85,88-95
+Recommendation 10: In patients who could undergo
+either technique (within the criteria of the device’s instructions for use), we recommend TEVAR as the
+preferred approach to treat elective DTA aneurysms,
+given its reduced morbidity and length of stay as well
+as short-term mortality. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: A (High)
+Indications for repair
+TE

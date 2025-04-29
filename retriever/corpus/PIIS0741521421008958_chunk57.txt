@@ -1,0 +1,168 @@
+Brow et al,93 1999
+
+Overall
+Stroke
+
+Group 2
+
+Bernhard,
+
+92
+
+1972
+
+NA
+
+NA
+
+Brow et al,93 1999
+
+23
+
+9
+
+32
+
+4.33 (0.01-2681.88)
+
+Chiappini et al,95
+2005
+
+140
+
+40
+
+180
+
+0.29 (0.04-1.96)
+
+Giangola et al,98
+1996
+
+28
+
+12
+
+40
+
+Hudorovic,101
+2006
+
+30
+
+23
+
+53
+
+Newman et al,14
+1987
+
+10
+
+12
+
+22
+
+Peric et al,105 1997
+
+37
+
+38
+
+75
+
+Rosenthal et al,107
+1984
+
+22
+
+8
+
+30
+
+NA
+
+Urschel et al,110
+1976
+
+7
+
+17
+
+24
+
+NA
+
+312
+
+160
+
+472
+
+Overall
+
+NA
+0.26 (0.06-1.15)
+NA
+2.05 (0.55-7.61)
+
+0.64 (0.09-4.34),
+I2 [ 45%
+
+(Continued on next page)
+
+108S.e6
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Supplementary Table I (online only). Continued.
+Outcome
+
+Intervention
+vs Comparison
+
+Author, Year
+
+Group 1
+
+Total
+
+RR (95% CI)
+
+Stroke/death
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+1.7885 (0.82-3.92)b
+
+Stroke
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Weimar et al,11
+2017
+
+65
+
+62
+
+127
+
+2.623

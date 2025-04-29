@@ -1,0 +1,16 @@
+ "ischemic
+heart arrest*" or "ischemic heart disease*" or "ischemic myocardium" or "ischemic time" or "Kounis syndrome*" or "left
+ventricular apical ballooning" or "left ventricular apical ballooning syndrome*" or "left ventricular ballooning" or
+"myocardial anoxia" or "myocardial ﬁber necros*" or "myocardial hibernation*" or "myocardial hypoxia" or "myocardial
+infarct" or "myocardial infarct*" or "myocardial ischaemia*" or "myocardial ischemia*" or "myocardial necros*" or
+"myocardial reinfarct*" or "myocardium hypoxia*" or "myocardium infarct*" or "myocardium ischaemia*" or
+"myocardium ischemia*" or "myocardium necros*" or "no reﬂow phenomenon" or "painless cardiac ischaemia*" or
+"painless cardiac ischemia*" or "painless heart ischaemia*" or "painless heart ischemia*" or "painless ischaemia*" or
+"painless ischemia*" or "painless myocardial ischaemia*" or "painless myocardial ischemia*" or "paroxysmal atrial
+ﬁbrillation*" or "post heart infarction syndrome*" or "post infarctation syndrome*" or "post infarction syndrome*" or
+"postinfarction syndrome*" or "postmyocard infarction syndrome*" or "postmyocardial infarction syndrome*" or
+"postprandial angina pectoris" or "premonitory infarction sign" or "second heart attack*" or "silent cardiac ischaemia*"
+or "silent cardiac ischemia*" or "silent heart ischaemia*" or "silent heart ischemia*" or "silent ischaemia*" or "silent
+ischemia*" or "silent myocardial ischaemia*" or "silent myocardial ischemia*" or stenocardia or "stress cardiomyopath*"
+or "stress induced cardiomyopath*" or "subendocardial infarct*" or "subendocardial ischaemia*" or "subendocardial
+ischemia*" or takot

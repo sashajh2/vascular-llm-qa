@@ -1,0 +1,95 @@
+ Classiﬁcation
+System: foot Infection category adapted from Mills et al.
+(reference 84)
+
+Recommendation 11
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene who is being considered for revascularisation, evaluate the entire lower extremity arterial circulation
+(from aorta to foot) with detailed visualisation of the below
+knee and pedal arteries.
+Grade
+
+Clinical description
+
+IDSA
+
+IWGDF
+Class
+
+0
+
+Wound without purulence or
+manifestations of infection
+
+Uninfected
+
+1
+
+1
+
+> 2 manifestations of
+infection, erythema (< 2 cm),
+pain or tenderness, warmth,
+induration or purulent
+discharge
+
+Mild
+
+2
+
+2
+
+Local infection in a patient
+who is systemically stable as
+described above with
+erythema > 2cm, or involving
+subcutaneous structures e.g.,
+abscess, osteomyelitis, septic
+arthritis or fasciitis
+
+Moderate
+
+3
+
+3
+
+Infection in patient with
+systemic or metabolic
+toxicity (systematic
+inﬂammatory response
+syndrome/ sepsis)
+
+Severe
+
+4
+
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+As per Recommendations 1 e 4, clinical examination
+and bedside testing should be the ﬁrst line testing undertaken to diagnose the presence of PAD. When
+revascularisation is being considered further anatomical information on the arteries of the lower limb
+should be obtained to assess the presence, severity,
+and distribution of arterial stenoses or occlusions. In
+this process, adequate imaging of the tibial and pedal
+vessels is of critical importance, particularly in planning
+
+IDSA ¼ The Infectious Diseases Society of America; IWGDF ¼ International Working Group on the Diabetic Foot.
+
+1116
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+below knee and foot arteries.20 In many centres DSA is
+typically used when MRA or CTA are not available, fail
+to adequately deﬁne the arterial anatomy, or when
+an endovascular intervention is planned. Arterial imaging should allow complete anatomical staging from
+aorta to foot using, for example, TASC for aorto-ili

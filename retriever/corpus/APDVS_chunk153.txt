@@ -1,0 +1,46 @@
+ a lesser degree to the shape of the container (i.e. vessel). - The Coda balloon
+(Cook Medical, Bloomington, IN) is semi-compliant and used to temporarily occlude
+large vessels.
+Non-Compliant balloons: - Non-compliant infate to a predetermined shape and size. They are commonly used in angioplasty of peripheral and/or visceral stenosed vessels.
+
+Figure 4: Angioplasty with a non-compliant balloon courtesty of J. Heuser, and Wikimedia.
+Intraoperatively surgeons will often ask for the pressures of the balloon before using. Noncompliant balloons have a nominal pressure, which is the average pressure in atmospheres
+(atm) required to infate the balloon to its predetermined size, and a burst pressure, where
+99.9% of balloons will not burst if infated to this pressure.
+
+193
+
+Stents
+Stents may be covered or uncovered. Covered stents do not allow fow between the lumen
+of the stent and surrounding tissues, in contrast to uncovered (bare metal) stents which
+do allow fow through the stent.
+Stents can be categorized by the means of deployment.
+Self-expanding stents use a recoil mechanism during deployment to achieve a set diameter
+using stored energy from the packing of the stent.
+Key characteristics of self-expanding stents:
+
+Flexible
+Low profile
+Deformable
+Low radial force (lower dissection risk)
+
+Balloon-expandable stents are packaged around a balloon. The surgeon uses the balloon
+inside the stent to achieve a specific diameter based on the pressure used to infate the balloon. As the diameter of the stent increases with higher balloon pressure, the length of stent
+decreases.
+Key characteristics of balloon-expandable stents:
+
+
+Rigid
+Large profile
+Maintains shape over time
+More accurate deployment
+High radial force (higher risk of dissection)
+
+Ď Tip
+Highly tortuous vessels often require a self-expanding stent because of the increased
+fexibility needed to prevent kinking or in-stent restenosis.
+Heavily calcified vessels often require the increased radial force of balloonexpandable stents to achieve full patency.
+
+Endografts
+Endografts are tubes of fabric and interwoven metal used to exclude the diseased segment of
+an artery from circulation. The goal of an endograft

@@ -1,0 +1,59 @@
+ references,
+from which 29 evidence synthesis reports (systematic
+reviews and meta-analyses) were used to grade the
+quality of evidence (Table I) in various topics that relate
+to AAA, such as screening, diagnosis, surveillance, and
+treatment.
+
+GENERAL APPROACH TO THE PATIENT
+History and risk factors for AAA
+The risk of an AAA as well as of aneurysm enlargement
+and rupture for each patient and related family members can largely be determined by a thorough medical,
+family, and social history. Abdominal aortic ultrasound
+screening studies obtained in the United States between
+2003 and 2008 were analyzed from >3 million men and
+women, from diverse racial, ethnic, and socioeconomic
+backgrounds.33 Participants completed a 36-item questionnaire on demographic and medical, social, and family history information as well as self-reported weight and
+height.
+These data were used to generate a multivariable
+model for risk, which conﬁrmed age as the most significant risk factor for development of an AAA, with a
+signiﬁcant increase in risk for the ages of 65 to 69 years
+(odds ratio [OR], 5.4) and 75 to 79 years (OR, 14.5).
+
+Journal of Vascular Surgery
+
+Chaikof et al
+
+13
+
+Volume 67, Number 1
+
+Table I. Evidence proﬁles derived from evidence synthesis reports (systematic reviews and meta-analyses) that were
+identiﬁed through an umbrella systematic review
+Systematic reviews
+
+Question/comparison
+
+Findings (quality of evidence)
+
+Screening, diagnosis, and preoperative surveillance
+Guirguis-Blake, 20144
+Cosford, 20115
+Takaji, 20106
+
+Effectiveness of screening for AAA
+
+Alamoudi, 20157
+Concannon, 20148
+
+Diagnostic accuracy of imaging for
+AAA compared with digital
+subtraction angiography
+
+d
+
+d
+
+Screening (primarily in men >65 years) was associated with reduction in AAA mortality (high); absolute reduction: 4 per 1000; number needed to
+screen: 238
+The mean reported sensitivities and speciﬁ

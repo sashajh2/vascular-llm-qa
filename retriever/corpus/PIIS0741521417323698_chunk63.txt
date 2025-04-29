@@ -1,0 +1,43 @@
+ In the absence of a smoking history, the
+prevalence drops to 2%. The prevalence of AAA is 0.8%
+in a similar age group of women who have a past history
+of smoking, but for women who are current smokers, the
+prevalence is 2%. In women who have never smoked,
+AAA prevalence is <0.60%.254
+In 2007, following passage of the Screening Abdominal
+Aortic Aneurysms Very Efﬁciently (SAAAVE) amendment
+in 2006, the U.S. Centers for Medicare and Medicaid Services began offering one-time screening by ultrasound
+for men aged 65 to 75 years if they had smoked $100 cigarettes in their lifetime and for men and women with a
+family history of AAA disease as part of their Welcome
+to Medicare physical examination. As originally
+mandated, the screening could be ordered only by the
+primary care physician within 6 months of the activation
+of Medicare beneﬁts.253 However, by 2012, it was
+
+Journal of Vascular Surgery
+
+Chaikof et al
+
+25
+
+Volume 67, Number 1
+
+apparent that <3% of abdominal ultrasound claims were
+for SAAAVE-speciﬁc AAA screening, and although
+abdominal ultrasound examinations in the affected age
+groups had increased, there was no discernible effect
+on AAA rupture or all-cause mortality.255 Subsequent
+Medicare eligibility guidelines have been modiﬁed to
+allow additional physician specialists to order the tests
+and to increase the window of eligibility.
+Many additional opportunities exist to improve
+screening and surveillance practices in the United States.
+Currently, 40% of operative repairs in Medicare beneﬁciaries are performed late in the course of the disease,
+suggesting that a prior screening opportunity had been
+missed.256 A signiﬁcant portion of patients present with
+rupture despite known AAA status.256 In an analysis of a
+cohort of >3 million individuals, it was suggested that
+small changes in recommended eligibility requirements,
+such as accounting for the impact of accumulated cardiovascular risk factors, would improve the screening
+yield for women, nonsmokers, and other groups traditionally considered at lower risk.33
+Effective use of the electronic health record

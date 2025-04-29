@@ -1,0 +1,95 @@
+5
+
+0
+
+$65
+
+2
+
+Age, years
+#75
+
+0
+
+>75
+
+1
+
+Gender
+Male
+
+0
+
+Female
+
+1
+
+Comorbidities
+Myocardial disease
+
+1
+
+Cerebrovascular disease
+
+1
+
+Chronic obstructive pulmonary disease
+
+2
+
+Laboratory value
+Creatinine, mg/dL
+<1.5
+
+0
+
+1.5 to <2
+
+2
+
+$2
+
+2
+
+EVAR, Endovascular aneurysm repair; OAR, open aneurysm repair.
+From Eslami MH, Rybin D, Doros G, Kalish JA, Farber A; Vascular Study
+Group of New England. Comparison of a Vascular Study Group of New
+England risk prediction model with established risk prediction models
+of in-hospital mortality after elective abdominal aortic aneurysm repair.
+J Vasc Surg 2015;62:1125-33.e2.
+
+larger than 6.5 cm, 5-year survival was 28%. In a recent
+study, those patients declined for AAA repair had a 2year survival of 35%.311 Thus, for a patient with high operative risk and shortened life expectancy, rupture risk
+must be high for beneﬁt to be obtained from EVAR.
+We suggest informing patients contemplating open repair or
+EVAR of their VQI perioperative mortality risk score.
+Level of recommendation
+
+2 (Weak)
+
+Quality of evidence
+
+C (Low)
+
+EVAR
+EVAR has rapidly expanded as the preferred approach
+for treatment of AAA since the ﬁrst report >25 years
+ago.312,313 Since the introduction of EVAR, the annual
+number of deaths from intact and ruptured AAAs has
+signiﬁcantly decreased in the United States. This has
+coincided with an increase in elective AAA repair and a
+decrease in the diagnosis and repair of ruptured AAAs.51
+Considerations for percutaneous repair. EVAR has
+evolved since its inception with the development of
+
+Table VI, B. Risk categorization based on mortality risk
+scoring scheme (Table VI, A) for patients undergoing repair
+of an abdominal aortic aneurysm (AAA)
+Points
+
+Probability of
+mortality, %
+
+0
+
+0.12

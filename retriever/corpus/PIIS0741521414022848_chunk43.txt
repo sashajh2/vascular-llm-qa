@@ -1,0 +1,36 @@
+ extent of disease,
+and whether they are best treated with EVT or open surgical therapy. This enables a more comprehensive discussion about risks, beneﬁts, and durability trade-offs for
+
+JOURNAL OF VASCULAR SURGERY
+March Supplement 2015
+
+various treatment options. Currently used imaging modalities include CTA,129,130 MRA,131 duplex ultrasound
+imaging,132 and catheter angiography. Although all modalities may provide excellent imaging of the arterial circulation, each has its own unique set of advantages and
+disadvantages and may vary in quality and availability
+from institution to institution. Consequently, the modality
+of choice varies widely depending on clinical practice.
+There is insufﬁcient evidence at present to deﬁne the
+most efﬁcient, cost-effective strategy for arterial imaging
+in this population.
+Catheter arteriography represents the gold standard
+due to superior image resolution and the unique ability
+of being able to perform a diagnostic study and EVT at
+the same time. However, catheter arteriography is invasive
+and may be complicated by contrast nephropathy, allergic
+reactions, and access-site events.
+Modern, multislice spiral CT scans are noninvasive and
+provide image resolution of nearly the same quality as conventional arteriography. Moreover, the imaging data set
+can be reconﬁgured into different formats, including axial,
+coronal, sagittal, and three-dimensional images. However,
+CTA requires a large dose of intravenous contrast and is
+subject to artifact degradation due to calciﬁcation.
+MRA has poorer resolution than angiography or CTA,
+but its images are not degraded by calcium, and like CTA,
+is noninvasive. Image quality is enhanced by the use of gadolinium; however, its use is contraindicated in patients with
+signiﬁcant renal impairment due to the potential risk of
+causing nephrogenic systemic ﬁbrosis. In addition, MRA
+cannot be used in patients with pacemakers and a variety
+of other implanted medical devices.
+Duplex ultrasound arterial examination is most
+commonly used as a screening modality to conﬁrm the diagnosis and to determine the severity of disease both before
+and after treatment. It is occasionally used as a primary imaging modality during EVT, principally in the setting of isolated focal disease in the superﬁcial fem

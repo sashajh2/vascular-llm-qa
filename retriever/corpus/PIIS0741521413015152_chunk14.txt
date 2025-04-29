@@ -1,0 +1,36 @@
+ of major factors that
+place a limb at risk for amputation. The proposed SVS
+Lower Extremity Threatened Limb Classiﬁcation System
+is based simply on grading each of the three major factors
+(Wound, Ischemia, and foot Infection [WIfI]). This classiﬁcation system is hereinafter referred to as SVS WIfI. It is
+based on a scale from 0 to 3, where 0 represents none, 1
+mild, 2 moderate, and 3 severe (Table II). This classiﬁcation represents a synthesis of multiple previously published
+classiﬁcation schemes that merges systems focused on diabetic foot ulcers and pure ischemia models. A brief description of its derivation and underlying rationale follows. The
+terms grades, classes, and stages as used in this document
+are clariﬁed in Table III.
+
+JUSTIFICATION FOR AN UPDATED
+CLASSIFICATION SYSTEM
+
+THE SVS WIfI CLASSIFICATION SYSTEM
+
+An improved understanding of the underlying disease
+and advances in therapy, particularly endovascular procedures, has rendered existing classiﬁcation schemes obsolete
+while simultaneously highlighting the need for a more
+comprehensive system. The concept of a single dichotomous hemodynamic cutoff point for CLI no longer applies
+to the majority of patients encountered in current clinical
+practice; various degrees of ischemia may prove “critical”
+depending on the overall status of the limb. It has become
+clear that limb ischemia does not have sharp cutoff points
+but consists of a gradual spectrum in the pattern of
+a sigmoidal curve (Fig). Wound healing, thus, depends
+not only on the degree of ischemia, but also on the extent
+and depth of the wound and the presence and severity of
+infection. Thus, some patients with moderate ischemia
+may heal faster with revascularization or even require it
+to heal large wounds, although they do not meet current
+
+With respect to wound categorization, both the Fontaine14 and Rutherford8 classiﬁcations of lower extremity
+ischemia lack sufﬁcient detail. DFU classiﬁcations such as
+perfusion, extent/size, depth/tissue loss, infection, sensation (PEDIS),43 University of Texas (UT),34 variants
+of sepsis, arteriopathy, denervation (SAD),37,38

@@ -1,0 +1,63 @@
+;
+moderate
+methodologic quality
+
+Leake et al,38
+2017
+
+PAA repair
+
+Meta-analysis of 14
+studies, including
+4880 PAA repairs
+(OPAR, 3915; EPAR,
+1210)
+
+OPAR had longer LOS (SMD, 2.158; 95%
+CI, 1.225-3.090; P < .001) and fewer
+reinterventions (OR, 0.275; 95% CI,
+0.166-0.454; P < .001); primary
+patency was better for OPAR at 1 and
+3 years (RR, 0.607 [P ¼ .01]; RR, 0.580
+[P ¼ .006], respectively); no difference
+in secondary patency at 1 and 3 years
+(RR, 0.770 [P ¼ .458]; RR, 0.642
+[P ¼ .073], respectively)
+
+Systematic review of
+one low-quality RCT
+and observational
+studies
+
+Patients with PAA
+
+15 OPAR, 15 EPAR,
+comparison of
+outcomes
+
+Similar outcomes between OPAR and
+EPAR
+
+Single-center,
+prospective
+randomized trial of
+low power but
+appropriate method
+
+Antonello et al,39
+2005
+
+Comparison of 43 OPAR Equal outcomes across all compared
+and 21 EPAR
+between OPAR and EPAR
+outcomes
+
+Retrospective singleinstitution analysis;
+moderate
+methodologic quality
+
+Recommendation 5: We recommend that intervention for thrombotic and/or embolic complications of PAA be stratiﬁed by the severity of
+ALI at presentation. We recommend that patients with mild to moderate ALI (Rutherford grade I and IIa) and severely obstructed
+tibiopedal arteries undergo thrombolysis or pharmacomechanical intervention to improve runoff status, with prompt transition to
+deﬁnitive PAA repair. We recommend that patients with severe ALI (Rutherford grade IIb) should undergo prompt surgical or
+endovascular PAA repair, with the use

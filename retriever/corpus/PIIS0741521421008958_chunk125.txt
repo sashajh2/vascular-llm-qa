@@ -1,0 +1,167 @@
+those lost*
+(B) Somewhat
+population (matched for
+Ascertainment
+A) Study controls
+(B) Record linkage*
+Was follow-up
+(C) Follow-up rate
+representative*
+important criteria)*
+of exposure:
+for age and sex*
+(C) Standard procedure
+long enough for
+<80%
+(C) No description of
+(C) No description of
+(A) Secure record*
+(B) Study controls for
+well described*
+outcomes to occur:
+and no description
+the derivation
+the derivation of the
+(B) written self-report*
+BMI and comorbidities*
+(D) Self report
+(A) Yes: $6 months*
+of those lost
+of the cohort
+nonexposed cohort
+(C) No description
+(C) No description
+(E) No description
+(B) No: <6 months
+(D) No statement
+
+Author, year
+
+Overall
+risk of
+bias
+
+B
+
+N/A
+
+A
+
+N/A
+
+B
+
+B
+
+A
+
+Moderate
+
+A
+Yamamoto
+et al,89 2006
+
+N/A
+
+B
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+Moderate
+
+Yun et al,90
+2010
+
+N/A
+
+A
+
+N/A
+
+B
+
+N/A
+
+N/A
+
+Moderate
+
+Wanamaker
+et al,88 2012
+
+A
+
+Selection
+Random sequence
+generation:
+(A) Low risk*
+(B) High Risk
+(C) Unclear
+
+Author, year
+
+Outcomes
+
+Allocation
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of participants
+or personnel:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of outcome
+assessment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High Risk
+(C) Unclear
+
+Reporting
+bias/selective reporting:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Other sources of bias:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Overall risk of bias
+
+Question 5: RCTs
+Illuminati et al,12 2011
+
+A
+
+A
+
+B
+
+C
+
+A
+
+A
+
+A
+
+Moderate
+
+Weimar et al,11 

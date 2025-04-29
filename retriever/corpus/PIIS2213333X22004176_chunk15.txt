@@ -1,0 +1,37 @@
+ as a reﬂection of
+the degree of conﬁdence in the estimated treatment effect. Rating the quality of the evidence (also termed the
+certainty of evidence) as A, B, or C starts with the study
+design. Because they are less subject to bias, RCTs will
+have the highest level of evidence, with other sources of
+evidence, such as observational studies, ranked lower in
+the hierarchy. This rating can be downgraded when (1)
+the RCT has serious methodologic limitations such as
+inadequate blinding, allocation concealment, or loss to
+follow-up; (2) the results were inconsistent among the
+RCTs; (3) the RCTs were indirectly relevant (ie, did not
+directly apply to the patients, interventions, or outcomes
+of interest); (4) the results were imprecise owing to the
+small number of studies and events, or wide conﬁdence
+intervals for both beneﬁts and harm were present; and
+(5) a reporting bias was likely to be present.28,29 For grade
+A recommendations, conﬁdence in the treatment effect is
+high, and further research would be unlikely to change
+the estimate of effect. In contrast, for grade C recommendations, further research would be very likely to affect the
+estimate of the effect.
+
+The second component of GRADE is to determine the
+strength of a recommendation, which includes an assessment of the relative balance between the potential beneﬁts
+and harm of an intervention, patient values and preferences, and other contextual factors. The implications of a
+grade 1, or strong recommendation, are that the potential
+beneﬁts of an intervention clearly outweigh the potential
+harms and burdens; and virtually all well-informed patients
+would choose such an intervention, and the physician can
+conﬁdently recommend the treatment without a detailed
+knowledge of the underlying data. In contrast, for grade 2
+or weak recommendations, the beneﬁts and risks will be
+more balanced or uncertain; thus, different patients could
+choose different treatment options according to their
+values and preference. The physician must be familiar
+with the underlying data before making such a recommendation and should counsel patients appropriately. The present guidelines have used the word “recommend” for grade
+1 or strong recommendations and the word “suggest” for
+grade 2 or weak recommendations.

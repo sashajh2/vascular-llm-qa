@@ -1,0 +1,40 @@
+ant OR ruminants OR salmon
+OR sheep OR shrimp OR slug OR slugs OR swine OR
+tamarin OR tamarins OR toad OR toads OR trout OR urchin OR urchins OR vole OR voles OR waxworm OR waxworms OR worm OR worms OR xenopus OR "zebra ﬁsh"
+OR zebraﬁsh) AND NOT (human OR humans or patient
+or patients))
+7 5 and not 6
+8 DOCTYPE(ed) OR DOCTYPE(bk) OR DOCTYPE(er) OR
+DOCTYPE(no) OR DOCTYPE(sh)
+9 7 and not 8
+10 INDEX(embase) OR INDEX(medline) OR PMID(0* OR
+1* OR 2* OR 3* OR 4* OR 5* OR 6* OR 7* OR 8* OR 9*)
+11 9 and not 10
+Question 3: Timing of intervention in stroke
+Database(s): Embase 1988 to 2019 Week 33, Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other
+Non-Indexed Citations 1996 to August 20, 2019, EBM Reviews - Cochrane Central Register of Controlled Trials July
+2019, EBM Reviews - Cochrane Database of Systematic
+Reviews 2005 to August 21, 2019.
+Search Strategy:
+1
+
+("Carotid Artery, External"/ and stents/) or Carotid
+Stenosis/surgery or exp carotid artery
+obstruction/su or "Endarterectomy, Carotid"/ or
+exp Carotid Artery, External/su
+
+28675
+
+2 ((procedure or stent* or surg* or endarterectom*
+or CEA or CAS or revasculari* or intervention*)
+adj3 (carotid or stroke or tia or "ischemic attack"
+or "brain infarct*" or "ischaemic
+attack")).ti,ab,hw,kw.
+
+64373
+
+3
+
+(procedure or stent* or surg* or endarterectom* or
+CEA or CAS or revasculari* or intervention*).ti.
+and exp cerebrovascular accident

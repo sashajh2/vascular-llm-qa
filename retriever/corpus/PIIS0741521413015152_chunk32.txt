@@ -1,0 +1,33 @@
+
+pressure, but arch incomplete and heel ischemic).
+Examples:
+1. Patient Alpha presents with a noninfected, full-thickness, dorsal foot wound with exposed tendon and an ABI of 0.45 with a TP of
+38 mm Hg.
+Initial WIfI ¼ W2 I2 fI 0
+The patient does not respond to simple wound care, so a revascularization is planned.
+Simpliﬁed reclassiﬁcation prior to revascularization is:
+W2 I2 (a)
+2. Patient Beta presents with ABI 0.45, TP 38 mm Hg, and what appears to be a shallow dorsal foot ulcer with induration and >2 cm of
+peri-wound cellulitis. Purulence is expressed from the wound and at exploration, an abscess in the tendon sheath requires open drainage,
+debridement:
+Initial WIfI ¼ W1 I2 fI 2
+The cellulitis and purulence resolve after incision, drainage and 3 days of antibiotic therapy, but the wound is now full thickness with
+exposed tendon:
+Simpliﬁed reclassiﬁcation prior to revascularization is:
+W2 I2 (b)
+ABI, Ankle-brachial index; CKD, chronic kidney disease; TP, toe pressure.
+
+respect to risk of major limb amputation at one year. The
+anticipated beneﬁt of revascularization, however, is high.
+Example 2. A 55-year-old man with diabetes, dry
+gangrene of two toes and a <2-cm rim of cellulitis at the
+base of the toes, but without systemic or metabolic toxicity
+has absent pedal pulses. The ABI is 1.5. The TP is 35 mm
+Hg. He would be classiﬁed as Wound 2 Ischemia 2 foot
+Infection 1 or WIfI 221. The clinical stage would be 4
+(high risk of amputation); the anticipated beneﬁt of
+revascularization is also high.
+Example 3. A 44-year-old woman without a previous
+diagnosis of diabetes presents to the emergency room with
+systemic sepsis, a fever of 39.5 C, an elevated white blood
+cell count of 26,000, and serum blood glucose of 6

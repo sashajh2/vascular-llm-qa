@@ -1,0 +1,67 @@
+ness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access failure with interventions at 12 months
+25
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access failure with interventions at 36 months
+20
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+CI, Confidence interval; N/A, Not applicable; RR, relative risk.
+a
+Only three of 83 studies were randomized.
+b
+In many studies, the two cohorts were not similar at baseline, blinded outcome assessment was not used, and loss to follow-up and funding source were not
+reported.
+c
+Not all of the included studies reported this outcome; thus, outcome may have been collected and not reported.
+d
+The proportion of heterogeneity that is not attributed to chance is ⬎50%.
+e
+RR ⬍0.50.
+f
+The imbalance in the number of the two groups suggests that surgeons in these studies performed many more autogenous access placements than they did of
+prosthetic ones, implying possible lack of experience in prosthetic access placement and biased selection of patients.
+
+autogenous access is associated with a lower incidence of
+death and access infection and with a higher primary and
+secondary patency at 12 and 36 months.14 Subgroup analysis of 13 studies showed a significant access location–
+complication interaction, suggesting that the benefit of
+autogenous access compared with prosthetic access in
+terms of lowering the incidence of the three complications
+of steal, aneurysm, and hematoma is significantly more in
+the case of lower arm autogenous access compared with
+upper arm autogenous access, with RRs of 0.20 (95%
+confidence interval [CI], 0.06-0.68) for the lower arm
+autogenous subgroup and 1.29 (95% CI, 0.43-3.91) for
+the upper arm autogenous subgroup (P ⫽ .03 ). An overall
+summary of the evidence derived from this systematic review is presented in Table I. Autogenous hemodialysis
+access options can be maximized by using venous transposition procedures (eg, the radial

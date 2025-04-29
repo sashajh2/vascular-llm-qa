@@ -1,0 +1,26 @@
+ 8 RCTs (9
+publications)30,31,33,37,39-41,58,60 had a high risk of bias mainly
+owing to inadequate randomization, inadequate random
+sequence generation, allocation concealment, unclear
+blinding of outcome assessors, possible selective reporting,
+and other sources of bias such as funding sources; 3
+RCTs32,36,42 had a low risk of bias. Ten observational
+studies63-66,70-73,109,110 had a low overall risk of bias, ﬁve
+studies62,67-69,111 had an intermediate risk of bias, and one
+study61 had a high risk of bias owing to lack of ascertainment of exposure, comparability of cohort, assessment of
+outcomes, and lack of follow-up. The mean age was
+47.5 years, with 65.3% women. Most of the patients had a
+CEAP classiﬁcation of C2 to C6 (Supplementary Tables I-III,
+online only).
+Outcomes at 1 month.
+Anatomic closure. HL/S was associated with higher
+anatomic closure rates than RFA (RR, 1.09; 95% CI, 1.011.18; 1 study109).
+Pain. Compared with endovenous laser ablation
+(EVLA), HL/S was associated with lower likelihood of being pain free (RR, 0.39; 95% CI, 0.29-0.54; I2 ¼ 0.00%; 2
+studies61,69), and increased need for analgesia (RR, 1.83;
+95% CI, 1.17-2.86; I2 ¼ 0.00%; 2 studies28,64).
+Pigmentation. HL/S was associated with a lower risk of
+pigmentation than RFA (RR, 0.61; 95% CI, 0.45-0.83;
+I2 ¼ 0.00%; 4 studies39,71,72,104).
+
+

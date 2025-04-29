@@ -1,0 +1,106 @@
+weak),
+Quality of Evidence: C (low to very low)
+
+Table XXIV. Treatment of superﬁcial venous thrombosis
+First author, Year
+
+Patients/Limbs
+
+Intervention
+
+DiNisio
+201834
+
+7296
+
+Fondaparinux,
+rivaroxaban, LMWH,
+unfractionated
+heparin, NSAIDS,
+compression,
+topical, IM, IM,
+surgical
+
+Duffett
+201935
+
+6862
+
+Prandoni, 2022255
+
+Casian,
+2022256
+
+Comparison
+
+Outcome
+
+Study design
+
+Placebo (few)
+
+SVT extension, VTE,
+pain, bleeding
+
+RCTs for
+systematic review
+
+NSAIDs,
+anticoagulant
+therapies, surgical
+therapies
+
+Placebo, No
+therapy (few)
+
+DVT, PE
+
+RCT, cohort for
+Systematic review
+
+374
+
+LMWH,
+fondaparinux, VKA,
+DOAC (full
+anticoagulation)
+
+Preventive
+anticoagulation
+
+SVT extension, VTE,
+bleeding
+
+Retrospective,
+registry
+
+190/195
+
+Anticoagulation,
+surgery
+
+None
+
+SVT recurrence,
+extension, VTE
+
+Prospective
+observational
+
+DOAC, Direct oral anticoagulant; LMWH, low-molecular-weight heparin; NSAID, nonsteroidal anti-inﬂammatory drug; PE, pulmonary embolism; RCT,
+randomized controlled trial; SVT, superﬁcial vein thrombosis; VKA, vitamin K agonist; VTE, venous thromboembolism.
+
+38
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+January 2024
+
+8.1.3. For patients with symptomatic reﬂux in the GSV
+or SSV, we suggest ablation of the reﬂuxing venous
+trunk and staged phlebectomy or UGFS of the varicosities only if anatomical or medical reasons are present.
+We suggest shared decision-making with the patient
+regarding timing of the procedure.
+GUIDELINE: Grade of recommendation: 2 (weak),
+Quality of Evidence: C

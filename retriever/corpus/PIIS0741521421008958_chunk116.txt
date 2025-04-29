@@ -1,0 +1,170 @@
+A
+
+A
+
+Low
+
+Author, year
+Question 2: RCTs
+
+Naylor,31 1998
+
+A
+
+A
+
+B
+
+C
+
+A
+
+A
+
+A
+
+Moderate
+
+Steinbauer et al,40 2008
+
+C
+
+C
+
+C
+
+C
+
+A
+
+C
+
+B
+
+High
+
+Selection
+
+Author, year
+
+Comparability
+
+Outcome
+
+Adequacy of
+follow-up:
+A) Complete
+follow-up - all
+Selection of the
+Comparability
+patients accounted for*
+nonexposed cohort:
+of cohorts
+(B) Patients lost to
+A) Drawn from the same
+on the basis of
+follow-up unlikely to
+community as the
+the design
+Assessment of
+introduce bias -small
+Representativeness of
+exposed cohort*
+Ascertainment
+or analysis
+outcome:
+number lost- >80%
+the exposed cohort
+(B) Drawn from general
+of exposure:
+(matching/confounder
+A) Independent
+follow-up, or description
+A) Truly representative* population (matched for
+A) Secure
+adjustment):
+blind assessment*
+of those lost*
+(B) Somewhat
+important criteria)*
+record*
+A) Study controls
+(B) Record linkage*
+Was follow-up
+(C) follow-up rate
+representative*
+(C) No description of the
+(B) written
+for age and sex*
+(C) Standard procedure long enough for
+<80% and
+(C) No description of
+derivation of the
+self-report*
+(B) Study controls for
+well described*
+outcomes to occur:
+no description
+the derivation
+nonexposed
+(C) No
+BMI and comorbidities*
+(D) Self report
+A) Yes: $1 month*
+of those lost
+Study design
+of the cohort
+cohort
+description
+(C) No description
+(E) No description
+(B) No: <1 month
+(D) No statement
+
+Overall
+risk of bias
+
+Question 3: Observational studies
+Avgerinos
+et al,9 2017
+
+Retrospective A
+cohort
+
+A
+
+A
+
+A
+
+B
+
+A
+
+D
+
+Low
+
+Azzini
+et al,6 2016
+
+Cohort
+
+A
+
+A
+
+A
+
+C
+
+B
+
+A
+
+D
+
+Moderate
+
+Barbetta
+et al,

@@ -1,0 +1,41 @@
+should include documentation of the clinical class of
+the chronic venous disorder. The panel recommends using the recently updated 2020 CEAP classiﬁcation system and reporting standards as a good practice
+statement (Table II).15 Each clinical class (C0-C6) can be
+further characterized with a subscript letter, according to
+the presence or absence of symptoms (S, symptomatic;
+A, asymptomatic; eg, C2A or C2S). Symptoms include
+aching, pain, tightness, skin irritation, heaviness, muscle
+cramps, and other complaints attributable to venous
+dysfunction.31 The basic CEAP classiﬁcation can be used
+for clinical practice, and the full CEAP classiﬁcation system should be used for clinical research. For patients
+with C2 disease (varicose veins), the most recent CEAP
+clinical classiﬁcation requires a different diagnostic and
+treatment strategy for recurrent varicose veins. Thus,
+such patients should now be identiﬁed with the
+subscript “r” for recurrence (ie, C2r).15
+Guideline 2. High ligation and surgical stripping vs
+endovenous ablation
+Guideline 2.1.
+2.1.1. For patients with symptomatic varicose veins
+and axial reﬂux in the GSV or SSV who are candidates
+for intervention, we recommend superﬁcial venous
+intervention over long-term compression stockings.
+
+240
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+March 2023
+
+Level of recommendation: grade 1 (strong), quality of
+evidence: B (moderate)
+2.1.2. For patients with symptomatic varicose veins
+and axial reﬂux in the AAGSV or PAGSV who are candidates for intervention, we suggest superﬁcial venous
+intervention over compression stockings.
+Level of recommendation: grade 2 (weak), quality of
+evidence: C (low to very low)
+2.1.3. For patients with symptomatic varicose veins
+and axial reﬂux in the superﬁcial truncal veins, we suggest compression therapy for primary treatment if the
+patient’s ambulatory status and underlying medical
+conditions warrant a conservative approach, or if the

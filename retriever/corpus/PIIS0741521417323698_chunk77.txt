@@ -1,0 +1,39 @@
+ of recommendation
+
+1 (Strong)
+
+Quality of evidence
+
+C (Low)
+
+Assessment of operative risk and life expectancy
+Several prediction models developed to estimate operative risk for open AAA repair and EVAR hold the promise
+of better informing patients of their individual risk of
+perioperative mortality and provide surgeons a useful
+tool to ensure an informed discussion with patients
+and their families. Risk prediction models for aneurysm
+repair were ﬁrst developed in the 1990s, largely derived
+from relatively small cohorts of several hundred patients
+treated by OSR.303 The most well known of this ﬁrst generation of risk model were the Glasgow Aneurysm Score
+(GAS), the Leiden Score, and the Hardman Index. As one
+example, the GAS was developed from a cohort of 268
+open AAA repairs, of which 41% of patients presented
+with ruptured aneurysms and the overall mortality was
+20%. The risk score accounted for age, presence of shock,
+renal disease, and history of myocardial or cerebrovascular disease.304 The European Collaborators on Stent/graft
+Techniques for aortic Aneurysm Repair (EUROSTAR) suggested that the GAS could be used to estimate mortality
+for EVAR with 30-day mortality of 1.1% for GAS <74, 2.1%
+for GAS of 74 to 84, and 5.3% for GAS >84.305
+During the past 7 years, a variety of new risk scoring
+schemes have been derived from an assessment of patients who have undergone either open repair or EVAR
+to speciﬁcally account for the mortality risk associated
+
+with EVAR. Egorova and coworkers used Medicare data
+to identify EVAR patients with increased operative risk
+due to the presence of many of the same risk factors
+for mortality that had been previously identiﬁed among
+patients undergoing open repair, including age, renal
+failure, congestive heart failure, peripheral artery disease,
+and liver disease.306 They found that only 3.4% of Medicare patients undergoing EVAR had an operative risk
+>5%, but a subset, which represented <1% of patients
+undergoing EVAR, was identiﬁed with a predicted mortality of >10%.

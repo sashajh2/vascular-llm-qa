@@ -1,0 +1,29 @@
+ vessel manipulation and/or clamping embolizes
+into the ECA where it could cause extracranial ischemia rather than the ICA where it
+could cause intracranial ischemia (i.e. ischemic stroke). A useful mnemonic to remember
+
+52
+
+the clamping order is ICE for ICA, CCA, and ECA. The order when unclamping is the
+opposite, ECI. The rational is similar. By unclamping the ECA first, remaining debris
+or debris loosened during removal of the clamps will fow up the ECA rather than the
+ICA. By unclamping the CCA second, and dislodged debris will fow down the open ECA
+rather than the ICA. The ICA is unclamped last. Options A and B are dangerous as they
+do not minimize the risk of embolus fowing into the ICA. Option C is simply incorrect.
+
+Introduction
+Hemispheric stroke related to carotid artery stenosis is a leading cause of both disability and
+death in the United States. Underlying etiologies for stroke include occlusive or hemorrhagic
+events with roughly 80% being related to occlusive pathology through embolus or in-situ
+thrombosis, the remaining 20% attributable to hemorrhage. Roughly 15% of stroke victims
+have a transient ischemic attack (TIA) that fully resolved prior to a later stroke event. Risk
+factors for carotid plaque formation are related to age, smoking, coronary artery disease,
+diabetes, hyperlipidemia, hypertension and family history of stroke. Due to carotid bulb
+anatomy, the most common area of plaque formation is within the proximal internal carotid
+artery. As plaque stenosis increases over time, the systolic velocity increases to maintain
+fow volumes which intensifies shear stress. This shear stress increases likelihood of plaque
+rupture, platelet aggregation and thromboembolization. There are multiple seminal studies
+that describe cohort comparisons of asymptomatic and symptomatic carotid artery stenosis
+with outcomes related to optimal medical management alone or as adjunct to surgical repair.
+Symptomatic carotid stenosis is described as carotid stenosis >50% with unilateral stroke, TIA
+or amaurosis fugax on

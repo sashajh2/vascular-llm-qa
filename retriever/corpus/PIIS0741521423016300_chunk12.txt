@@ -1,0 +1,35 @@
+ results of the participants with diabetes were reported separately. All included studies were assessed for quality and risk
+of bias with the following instruments, depending on the
+type of study: Quality in Prognosis Studies, the revised quality appraisal tool for studies of diagnostic reliability,
+ROBINS-I (for assessing risk of bias in non-randomised
+studies of interventions), the Newcastle-Ottawa Scale (for
+non-randomised studies, including observational and
+cohort studies where details regarding allocation to intervention groups was not provided), and the Cochrane risk
+of bias 2 tool for randomised controlled trials.8e13 For each
+PICO the quality of evidence was graded for risk of bias,
+inconsistency, imprecision, publication bias, and overall
+quality. The certainty of the evidence was then rated as
+high, moderate, low, or very low.
+The GRADE evidence to decision approach was subsequently used for the development of the recommendations during online discussions of the Writing Committee
+(which were all recorded and available for later review
+from the Secretary). In developing each recommendation
+and its strength the following aspects were taken into account: beneﬁts, harms, effect size, and certainty; balance
+of beneﬁts and harms; resource use; acceptability; feasibility; equity. The strength of each recommendation was
+graded as Strong or Conditional. All Writing Committee
+members voted on each recommendation. For a Strong
+Recommendation at least 75% and for a Conditional
+Recommendation at least 60% had to agree. After each
+recommendation, a rationale is provided for how each
+recommendation was determined.1,14
+There were situations where sufﬁcient direct evidence
+supporting the formulation of a recommendation could
+not be identiﬁed, but performing the actions recommended would very likely result in clear beneﬁt, or not performing the test or intervention in marked harm. In these
+situations, an ungraded Best Practice Statement was
+formulated with a rationale explaining how the statement
+
+was arrived at and how GRADE criteria for developing such
+a statement were considered, as advised in a recent publication of the GRADE group on this topic.15 According to
+GRADE, such recommendations should be formulated as
+actionable statements when they are deemed necessary
+for practice and when the desirable effects of an intervention clearly outweigh its undesirable effects. Although in
+these cases direct evidence is lacking, they should be

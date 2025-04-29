@@ -1,0 +1,56 @@
+ for Vascular Surgery; TcPO2, transcutaneous oxygen pressure; TP, toe pressure; UT, University of Texas.
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 223
+
+Table I. Continued.
+Ischemia
+
+Infection
+
+Yes, cutoffs for CLI;
+Category 4: Resting AP <40 mm Hg; Flat or
+barely pulsatile ankle or forefoot PVR;
+TP <30 mm Hg
+Category 5/6: AP <60 mm Hg; ﬂat or
+barely pulsatile ankle or forefoot PVR;
+TP <40 mm Hg
+
+No
+
+Cutoff values for CLI based on European
+consensus document:
+Ischemic rest pain >2 weeks with AP <50 mm
+Hg or TP <30 mm Hg ulcer and gangrene;
+AP <50 mm Hg, TP <30 mm Hg, absent pedal
+pulses in patient with diabetes
+Yes, 3 grades; CLI cutoff
+Grade 1: no PAD symptoms, ABI >0.9, TBI
+>0.6, TcPO2 >60 mm Hg;
+Grade 2: PAD symptoms, ABI <0.9, AP
+>50 mm Hg, TP >30 mm Hg, TcPO2 3060 mm Hg;
+Grade 3: AP <50 mm Hg, TP <30 mm Hg,
+TcPO2 <30 mm Hg
+
+No
+
+Comments
+Pure ischemia model PAD classiﬁcation system
+includes milder forms of PAD (categories 1-3);
+Categories 4-6 based on cutoff values for CLI;
+No spectrum of ischemia, does not
+acknowledge potential need for
+revascularization with <CLI cutoff depending
+on wound extent/infection; Not intended for
+patients with diabetes; Wound classes not
+sufﬁciently detailed; Omits infection as a trigger
+Pure ischemia model; No clear deﬁnitions of
+spectrum of hemodynamics; Minimal
+description of wounds; Infection omitted
+
+Yes, grades 1-4; see IDSA classiﬁcation (Table II)
+
+Primarily intended for DFUs; Ulcer grades
+validated; Includes perfusion assessment,

@@ -1,0 +1,38 @@
+ous
+ablation is unfortunately difﬁcult due to the very low
+number of events and limited statistical power. Although
+inconsistent across studies, suggested risk factors for
+EHIT/DVT have included age, male gender, CEAP class,
+personal or family history of VTE, known thrombophilia,
+reduced mobility, obesity, hormone therapy, active cancer, concomitant procedures including sclerotherapy
+and microphlebectomy, large GSV diameter, and a history of SVT.41,233,242,247,248 Given such uncertainty,
+deciding who constitutes a high-risk patient requires
+some degree of clinical judgment at present. Although
+one single-center study has shown the Caprini risk
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+Gloviczki et al
+
+53
+
+Volume 12, Number 1
+
+assessment score to be associated with the development
+of EHIT (OR, 1.58; 95% CI, 1.24-2.0; P ¼ .0002), only ultrasound identiﬁed EHIT I to II were found in this study and
+it remains unclear whether the Caprini score is predictive
+of clinically relevant thrombotic events after superﬁcial
+venous intervention.248
+Currently, no speciﬁc guidelines address the role of VTE
+risk stratiﬁcation in the ambulatory surgery setting. Data
+from patients undergoing both inpatient and outpatient
+procedures suggests that identiﬁcation of patient and
+procedural related risk factors allows for identiﬁcation
+of 15- to 20-fold variation in VTE risk. Individualized risk
+stratiﬁcation allows for the identiﬁcation of low-risk patients in whom the risk-beneﬁt ratio is unfavorable, and
+potentially for the identiﬁcation of patients at high VTE
+risk in whom the beneﬁt of receiving chemical chemoprophylaxis outweighs the attendant bleeding risk. A
+widely accepted risk threshold is a calculated VTE risk
+of 3%, assuming a two-fold reduction in VTE events
+compared with expected bleeding events from administration of an anticoagulant.241 Currently, no VTE risk
+assessment model (RAM) has been validated in patients

@@ -1,0 +1,26 @@
+ the situation is amenable to getting a CT angiogram to measure anatomic dimensions, several
+components of the aneurysm anatomy should be assessed to determine anatomic suitability for
+EVAR. These include the length, width, angulation of the aneurysm, and presence of disease
+at the aneurysm neck (i.e. the aortic segment between the lowest renal artery and the proximal
+extent of the aortic dilatation).
+Ď Tip
+ See page 71 of the Gore Vascular/Endovascular Surgery Combat Manual in the additional resources (?@sec-additionalresources) for a high-yield EVAR planning
+and sizing considerations chart.
+ Video Tutorial: Endovascular Aortic Repair Preoperative Sizing with Dr. Sharif
+Ellozy. This is above the level of medical students, but for those who are interested,
+watch it here.
+The access vessels, including the bilateral iliac and femoral arteries, must be healthy enough to
+allow sheaths, wires and catheters to pass through them. Calcification due to atherosclerosis
+can make arterial access diﬀcult, and if vessels are so diseased as to be completely occluded,
+wires and devices may not be able to travel past the occlusion. Additionally, the iliac arteries must be within the appropriate diameter and length dimensions to accommodate the
+
+chosen stent graft. Lastly, certain anatomic anomalies such as a horseshoe kidney must be
+evaluated to ensure the appropriateness of EVAR for repair. With recent innovations in endovascular devices and intra-operative imaging, many factors that were once contraindications
+to EVAR have now become considerations when planning for EVAR. This is to say, as technology advances, EVAR is increasingly possible and safe for patients with diﬀcult anatomy
+and co-morbidities.
+EVAR Complications
+Although a more recent development relative to open surgical repair (OSR), EVAR is not
+without risk of complications. EVAR may be complicated by injury to access vessels such as
+femoral occlusion or iliac avulsion (aka, “iliac-on-a-stick”), wire trauma from the relatively
+stiff wires that are used to deliver the stent graft, rupture of the aneurysm, and endoleak.
+Endoleak is the term used to describe ongoing blood fow in the aneurysm sac after st

@@ -1,0 +1,35 @@
+ or 26
+
+2298
+
+28
+
+remove duplicates from 27
+
+1589
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" OR carotid)
+2 TITLE-ABS-KEY(angioplast* OR endarterectom* OR
+"endoluminal repair*" OR endovascular* OR stent*)
+3 TITLE-ABS-KEY((randomized W/3 study) OR (randomized W/3 trial) OR (randomised W/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial" OR
+(random* W/1 allocat*) OR (doubl* W/1 blind*) OR (doubl*
+W/1 mask*) OR (singl* W/1 blind*) OR (singl* W/1 mask*) OR
+(tripl* W/1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/1
+blind*) OR (trebl* W/1 mask*) OR "latin square" OR placebo* OR nocebo*)
+4 PUBYEAR AFT 2010
+5 1 and 2 and 3 and 4
+6 TITLE-ABS-KEY((alpaca OR alpacas OR amphibian OR
+amphibians OR animal OR animals OR antelope OR armadillo OR armadillos OR avian OR baboon OR baboons OR
+beagle OR beagles OR bee OR bees OR bird OR birds OR
+bison OR bovine OR buffalo OR buffaloes OR buffalos OR
+"c elegans" OR "Caenorhabditis elegans" OR camel OR
+camels OR canine OR canines OR carp OR cats OR cattle
+OR chick OR chicken OR chickens OR chicks OR chimp
+OR chimpanze OR chimpanzees OR chimps OR cow OR
+cows OR "D melanogaster" OR "dairy calf" OR "dairy calves"
+OR deer OR dog OR dogs OR donkey OR donkeys OR
+drosophila OR "Drosophila melanogaster" OR duck OR
+duckling OR ducklings OR ducks OR equid OR equids
+OR equine OR equines OR feline OR felines OR ferret OR
+ferrets OR ﬁnch OR ﬁnches OR ﬁsh OR �

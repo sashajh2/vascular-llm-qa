@@ -1,0 +1,106 @@
+394848
+11474
+3161249
+
+28 exp Cross-Sectional Studies/
+
+608046
+
+29 exp Cohort Studies/
+
+2495260
+
+30 exp longitudinal study/
+
+385839
+
+31 exp retrospective study/
+
+1554990
+
+32 exp prospective study/
+
+1124740
+
+33 exp population research/
+
+99621
+
+34 exp observational study/
+
+235258
+
+35 clinical study/
+
+157470
+
+36 exp Evaluation Studies/
+
+303929
+
+37 exp quantitative study/
+
+38977
+
+38 exp validation studies/
+
+173402
+
+39 exp quasi experimental study/
+40 in vivo study/
+
+6285
+352164
+
+41 exp panel study/
+
+892
+
+42 exp replication study/
+
+2045
+
+43 exp Feasibility Studies/
+
+180401
+
+44 exp correlational study/
+
+37270
+
+45 exp case-control studies/
+
+1175433
+
+46 exp conﬁdence interval/
+
+165843
+
+47 exp regression analysis/
+
+847587
+
+48 exp proportional hazards model/
+
+164667
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e37
+
+Volume 75, Number 1S
+
+Continued.
+#
+
+Searches
+
+Results
+
+49 ((meta adj analys*) or metaanalys* or (systematic* adj3 review*) or (control* adj3 study) or (control* adj3 trial) or
+22899279
+(randomized adj3 study) or (randomized adj3 trial) or (randomised adj3 study) or (randomised adj3 trial) or
+"pragmatic clinical trial" or (random* adj1 allocat*) or (doubl* adj blind*) or (doubl* adj mask*) or (singl* adj blind*) or
+(singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*) or (trebl* adj

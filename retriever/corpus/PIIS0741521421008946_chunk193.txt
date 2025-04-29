@@ -1,0 +1,24 @@
+
+The relative costs of CAS and CEA will clearly impact
+hospital proﬁtability. An analysis of the National Inpatient
+Sample from 2001 through 2008 identiﬁed 181,200 CEA
+and 12,485 CAS procedures. Median costs for uncomplicated CEA and CAS cases were $1466 and $3272 higher
+than the average Medicare reimbursement, respectively.
+Median costs for patients with intermediate levels of comorbid conditions for CEA and CAS cases were $2847
+and $4926 higher than Medicare reimbursements,
+respectively. For patients with the highest levels of comorbid conditions, the median costs for CEA and CAS
+were $23,399 and $21,750 higher than Medicare reimbursements, respectively.666 These ﬁndings were supported by a single institution study of 169 patients
+undergoing CEA and 132 patients undergoing CAS. Hospital reimbursement was 16% higher for CAS compared
+with CEA ($12,000 6 $7372 vs $10,160 6 6840; P ¼ .02).
+However, hospital net revenue was 29% higher ($3487
+vs $2603) among patients undergoing CEA compared
+with CAS owing to much higher CAS supply costs.667
+Several investigators have reported long-term cost efﬁcacy analyses of CAS and CEA. In one report, outcomes of
+447 patients undergoing CEA in a single institution were
+compared with CAS outcomes in the literature. A Markov
+decision model was constructed that included procedural costs and long-term cost of morbidities such as
+stroke. Procedural costs of CEA and CAS were $7871
+and $10,133, respectively. Assuming a procedural stroke
+rate of 0.9% for CEA and 5.0% for CAS, and a 30-day mortality rate of 0% for CEA and 1.2% for CAS, CEA was found
+to be associated with a lifetime saving of $7017 per patient and an increase in quality-adjusted life years saved
+of 0.16.

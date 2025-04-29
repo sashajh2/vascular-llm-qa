@@ -1,0 +1,85 @@
+.71
+
+4
+
+> 10 years ago
+
+0.87
+
+<.0001
+
+0.42
+
+0.41-0.43
+
+9
+
+Fruits and vegetables, >3 times/week
+
+0.10
+
+<.0001
+
+0.91
+
+0.88-0.92
+
+1
+
+Nuts, >3 times/week
+
+0.11
+
+<.0001
+
+0.90
+
+0.89-0.93
+
+1
+
+Exercise, $1 time/week
+
+0.15
+
+<0001
+
+0.86
+
+0.85-0.88
+
+2
+
+0.18
+
+<0001
+
+1.20
+
+1.17-1.22
+
+2
+
+BMI $25 kg/m
+
+2
+
+BMI, Body mass index; CI, conﬁdence interval; OR, odds ratio.
+The model was developed on 50% of the Life Line Screening cohort and validated on the other 50%. The area under the receiver operating characteristic curve of the model (C statistic) was 0.893. From this model, a scoring system was derived. The overall accuracy of the scoring system as
+measured by the C statistic was 0.842.
+From Kent KC, Zwolak RM, Egorova NN, Riles TS, Manganaro A, Moskowitz AJ, et al. Analysis of risk factors for abdominal aortic aneurysm in a cohort of
+more than 3 million individuals. J Vasc Surg 2010;52:539-48.
+
+16
+
+Chaikof et al
+
+Journal of Vascular Surgery
+January 2018
+
+Fig 1. The annual adult per capita cigarette consumption and age-adjusted abdominal aortic aneurysm (AAA)
+deaths per 100,000 white men by year in the United States. (From Lederle FA. The rise and fall of abdominal
+aortic aneurysm. Circulation 2011;124:1097-9.).
+
+capita cigarette consumption in American adults has
+been paralleled by a similar decline

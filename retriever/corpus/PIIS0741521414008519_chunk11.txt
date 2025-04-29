@@ -1,0 +1,27 @@
+ 2;
+LEVEL OF EVIDENCE - A]
+Guideline 4.21: Preparation for Cellular Therapy
+We suggest a therapeutic trial of appropriate compression and wound bed moisture control before application
+of cellular therapy. [GRADE - 2; LEVEL OF EVIDENCE - C] We recommend that adequate wound bed preparation, including complete removal of slough, debris, and any necrotic tissue, be completed before the application
+of a bilayered cellular graft. [GRADE - 1; LEVEL OF EVIDENCE - C] We recommend additional evaluation and
+management of increased bioburden levels before the application of cellular therapy. [GRADE - 1; LEVEL OF
+EVIDENCE - C]
+Guideline 4.22: Frequency of Cellular Therapy Application
+We suggest reapplication of cellular therapy as long as the venous leg ulcer continues to respond on the basis of
+wound documentation. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 4.23: Tissue Matrices, Human Tissues, or Other Skin Substitutes
+We suggest the use of a porcine small intestinal submucosal tissue construct in addition to compression therapy
+for the treatment of venous leg ulcers that have failed to show signs of healing after standard therapy for 4 to 6
+weeks. [GRADE - 2; LEVEL OF EVIDENCE - B]
+Guideline 4.24: Negative Pressure Therapy
+We suggest against routine primary use of negative pressure wound therapy for venous leg ulcers. [GRADE - 2;
+LEVEL OF EVIDENCE - C]
+Guideline 4.25: Electrical Stimulation
+We suggest against electrical stimulation therapy for venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 4.26: Ultrasound Therapy
+We suggest against routine ultrasound therapy for venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - B]
+COMPRESSION
+Guideline 5.1: CompressiondUlcer Healing
+In a patient with a venous leg ulcer, we recommend compression therapy over no compression therapy to increase venous leg ulcer healing rate. [GRADE - 1; LEVEL OF EVIDENCE - A]
+Guideline 5.2: CompressiondUlcer Recurrence
+In a patient with a healed venous leg ulcer, we suggest compression therapy to

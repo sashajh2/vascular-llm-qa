@@ -1,0 +1,58 @@
+)
+
+1.2  1012
+
+Numerous; including CHD, IA,
+cancers, and Alzheimer
+disease
+
+DAB2 interacting protein
+(DAB2IP)
+
+rs7025486
+
+0.25
+
+1.21 (1.14-1.28)
+
+4.6  1010
+
+CHD, pulmonary embolus, PAD
+
+Low-density lipoprotein
+receptor-related protein
+1 (LRP1)
+
+rs1466535
+
+0.68
+
+1.15 (1.10-1.21)
+
+4.5  1010
+
+CHD, Coronary heart disease; CI, conﬁdence interval; IA, intracranial aneurysm; OR, odds ratio; PAD, peripheral artery disease; RAF, risk allele frequency
+in population; rs#, reference SNP ID number; SNP, single-nucleotide polymorphism.
+a
+P values are taken from the ﬁrst report demonstrating association with AAA.
+b
+Replicated in multiple populations.
+From Golledge J, Kuivaniemi H. Genetics of abdominal aortic aneurysm. Curr Opin Cardiol 2013;28:290-6.
+
+variability in reporting of aneurysm diameter, particularly
+in research studies, which have included diameter
+measurements based on outer wall to outer wall, inner
+wall to inner wall, and anterior outer wall to posterior
+inner wall.191 Diameter measurements based on orthogonal rendering as well as path lengths and centerline
+measurements have been largely superseded by the
+adoption of three-dimensional reformatting software
+and dedicated computer workstations to obtain curved
+multiplanar reformatted images.192
+The increasingly small size and low cost of portable
+ultrasound units and absence of radiation or administration of nephrotoxic contrast material with ultrasound
+have made it the preferred technique for aneurysm
+screening and surveillance.193-195 However, aneurysm
+diameter measurements, whether through the use of
+CT or ultrasound imaging, are most reliable and reproducible when standardized measurement techniques
+are used and the maximum transverse dimension
+measured orthogonal to the vessel axis is reported. Moreover, it is essential that ultrasound

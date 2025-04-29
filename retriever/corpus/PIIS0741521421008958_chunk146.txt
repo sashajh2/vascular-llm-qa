@@ -1,0 +1,49 @@
+
+6
+
+17
+
+15 not 16
+
+779
+
+18
+
+remove duplicates from 17
+
+534
+
+108S.e34
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" or carotid)
+2 TITLE-ABS-KEY("carotid duplex" OR "color doppler
+ultraso*" OR "doppler color ultraso*" OR "duplex doppler
+ultraso*" OR "duplex ultraso*")
+3 TITLE-ABS-KEY(screen*)
+4 1 and 2 and 3
+5 TITLE-ABS-KEY((alpaca OR alpacas OR amphibian OR
+amphibians OR animal OR animals OR antelope OR
+armadillo OR armadillos OR avian OR baboon OR baboons OR beagle OR beagles OR bee OR bees OR bird
+OR birds OR bison OR bovine OR buffalo OR buffaloes
+OR buffalos OR "c elegans" OR "Caenorhabditis elegans"
+OR camel OR camels OR canine OR canines OR carp OR
+cats OR cattle OR chick OR chicken OR chickens OR
+chicks OR chimp OR chimpanze OR chimpanzees OR
+chimps OR cow OR cows OR "D melanogaster" OR "dairy
+calf" OR "dairy calves" OR deer OR dog OR dogs OR donkey
+OR donkeys OR drosophila OR "Drosophila melanogaster"
+OR duck OR duckling OR ducklings OR ducks OR equid
+OR equids OR equine OR equines OR feline OR felines
+OR ferret OR ferrets OR ﬁnch OR ﬁnches OR ﬁsh OR ﬂatworm OR ﬂatworms OR fox OR foxes OR frog OR frogs
+OR "fruit ﬂies" OR "fruit ﬂy" OR "G mellonella" OR "Galleria
+mellonella" OR geese OR gerbil OR gerbils OR goat OR
+goats OR goose OR gorilla OR gorillas OR hamster OR
+hamsters OR hare OR hares OR heifer OR heifers OR horse
+OR horses OR insect OR insects OR

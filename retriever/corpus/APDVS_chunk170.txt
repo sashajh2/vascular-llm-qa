@@ -1,0 +1,41 @@
+ incorrect. If the badge is
+worn at the level of the chest, the dose will also not be the most accurate, making answer
+b incorrect.
+
+Introduction
+The use of radiation is fundamental to a vascular surgeon’s practice. Intraoperative fuoroscopy,
+computer tomography (CT), and plain film X-rays (to a lesser extent) are crucial tools in
+vascular surgery. The vascular surgery patient will likely undergo all these radiation-based
+imaging studies.
+Vascular surgeons and other professionals (nurses, scrub technicians, imaging technicians, etc.)
+can be exposed to significant levels of radiation over a career of performing intraoperative
+fuoroscopy/angiography and endovascular surgery. As the medical community is well aware
+of these risks, many initiatives are underway to decrease the amount of radiation required to
+perform studies and interventions.
+Vascular patients are also exposed to radiation, although often at higher doses over shorter
+periods of time. Educating oneself about radiation and radiation safety is essential. This
+chapter will explore the basics of radiation, radiation safety principles and measures, and
+potential adverse outcomes of significant radiation exposure.
+
+214
+
+Radiation Penetrance
+A critical concept to understand when discussing occupational and patient exposure to radiation is penetrance.
+ Penetrance refers to the ability of emitted radiation to penetrate into or through materials and is defined as the fraction of radiation passing through a given object (or the
+inverse of attenuation).
+ The density of materials or tissues determines their ability to attenuate or block
+X-rays.
+ Dense tissues (bone) or materials (lead) absorb a greater fraction of radiation while less
+dense tissues (skin) or materials (water) allow for deeper penetration.
+This concept is especially relevant to vascular surgeons and their patients as an increasing
+proportion of vascular procedures are performed endovascularly under live fuoroscopy which
+utilizes X-rays.
+
+Figure 1: Penetrating power of different types of radiation - alpha, beta, gamma and neutrons
+courtesty of Openclipart and Juhele. X-rays have similar penetrance to gamma rays.
+
+Radiation types
+Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will
+focus on ionizing radiation, which is encountered by medical professionals in clinical settings.
+Ionizing radiation falls within the higher frequency range of the electromagnetic spectrum. The
+commonly discussed types of ionizing radiation include X-rays,

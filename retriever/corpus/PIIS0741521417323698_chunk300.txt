@@ -1,0 +1,53 @@
+ink or minks or monkey or monkeys or mouse
+or mule or mules or nematode or nematodes or octopus or octopuses or orangutan or “orang-utan”
+or orangutans or “orang-utans” or oxen or parrot or parrots or pig or pigeon or pigeons or piglet
+or piglets or pigs or porcine or primate or primates or quail or rabbit or rabbits or rat or rats
+or reptile or reptiles or rodent or rodents or ruminant or ruminants or salmon or sheep or shrimp
+or slug or slugs or swine or tamarin or tamarins or toad or toads or trout or urchin or urchins or vole
+or voles or waxworm or waxworms or worm or worms or xenopus or “zebra ﬁsh” or zebraﬁsh)
+not (human or humans)).mp.
+
+7471491
+
+23
+
+20 not (21 or 22)
+
+2133
+
+24
+
+remove duplicates from 23
+
+1361
+
+39942
+28727775
+
+36488
+41292
+220499
+
+560
+333090
+9804
+
+2158
+
+Journal of Vascular Surgery
+
+Chaikof et al
+
+77.e2
+
+Volume 67, Number 1
+
+Scopus.
+1 TITLE-ABS-KEY(“abdominal aorta aneurysm*” OR
+“abdominal aortic aneurysm*” OR “aortic abdominal aneurysm*”)
+2 TITLE-ABS-KEY(((volume* or PET or spiral or helical
+or 3d or beam or 4d or “whole body”) W/1 (ct or
+cat or cts or scan*)) OR agent* OR “cat scan*” OR
+chemotherap* OR “ct scan*” OR diagnos* OR
+drug* OR image OR images OR imaging OR intervention* OR manag* OR medication* OR microtomograph* OR “micro-tomograph*” OR operat* OR
+pharmacotherap* OR radiotherap* OR reconstruction* OR repair* OR resect

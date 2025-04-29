@@ -1,0 +1,33 @@
+ They measure the total exposure accumulated over a set period of time. It’s important to note that these devices specifically
+measure ionizing radiation and not other forms.
+There are several types of badges available. Film badges are commonly used in clinical practice.
+They are worn by a single person and are evaluated every 30 days. Other types of badges
+provide real-time quantification of radiation exposure, with readings recorded at the beginning
+and end of each shift. A radiation oﬀcer is typically tasked with tracking these exposure
+levels.
+Ĺ Note
+Please find more information about radiation badges here:
+When an individual’s exposure approaches a certain threshold, which is typically set below
+the maximum allowable dose for a year, measures are taken to further minimize their exposure. For instance, if an employee has reached a significant exposure level two months into the
+year, the radiation compliance oﬀcer would discuss strategies to reduce their exposure. Strategies include maintaining greater distance from radiation sources, rotating through cases more
+frequently, and avoiding involvement in procedures with a higher risk of elevated radiation
+levels.
+If an employee surpasses their annual exposure limits, they are typically prohibited from
+participating in procedures involving radiation for the remainder of the year. The specific
+limits of exposure are detailed later in the chapter.
+
+220
+
+Lead Glasses and Eye Protection
+In the endovascular suite, it’s common to see individuals wearing leaded glasses. A 2016 study
+compared different types of glasses and their effectiveness in reducing radiation exposure. The
+results showed that all leaded glasses outperformed non-leaded safety glasses, with an average
+reduction in dose of approximately 90.3%. (Waddell et al. 2016) This study is just one of
+many that highlight the eﬀcacy of lead glasses in minimizing eye exposure during procedures
+involving radiation.
+Despite the significant reduction achieved with the use of lead safety glasses, there’s a caveat
+regarding a false sense of security. Due to the scattering of radiation during procedures, the
+eye can be exposed to radiation at oblique angles (i.e. around the glasses), leading to increased
+exposure and limited reduction in dose. (Kirkwood et al. 2020) In such scenarios, the optimal
+solution for reducing eye exposure would be a full visor or face shield with lateral eye
+shielding. A study by Sam

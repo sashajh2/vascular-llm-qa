@@ -1,0 +1,29 @@
+ identiﬁcation of medical conditions that affect ulcer healing and other nonvenous causes of
+ulcers. [BEST PRACTICE]
+Guideline 3.3: Wound Documentation
+We recommend serial venous leg ulcer wound measurement and documentation. [BEST PRACTICE]
+Guideline 3.4: Wound Culture
+We suggest against routine culture of venous leg ulcers and only to obtain wound culture specimens when clinical evidence of infection is present. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 3.5: Wound Biopsy
+We recommend wound biopsy for leg ulcers that do not improve with standard wound and compression
+therapy after 4 to 6 weeks of treatment and for all ulcers with atypical features. [GRADE - 1; LEVEL OF
+EVIDENCE - C]
+Guideline 3.6: Laboratory Evaluation
+We suggest laboratory evaluation for thrombophilia for patients with a history of recurrent venous thrombosis
+and chronic recurrent venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 3.7: Arterial Testing
+We recommend arterial pulse examination and measurement of ankle-brachial index on all patients with venous
+leg ulcer. [GRADE - 1; LEVEL OF EVIDENCE - B]
+Guideline 3.8: Microcirculation Assessment
+We suggest against routine microcirculation assessment of venous leg ulcers but suggest selective consideration
+as an adjunctive assessment for monitoring of advanced wound therapy. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 3.9: Venous Duplex Ultrasound
+We recommend comprehensive venous duplex ultrasound examination of the lower extremity in all patients
+with suspected venous leg ulcer. [GRADE - 1; LEVEL OF EVIDENCE - B]
+Guideline 3.10: Venous Plethysmography
+We suggest selective use of venous plethysmography in the evaluation of patients with suspected venous leg
+ulcer if venous duplex ultrasound does not provide deﬁnitive diagnostic information. [GRADE - 2; LEVEL OF
+EVIDENCE - B]
+Guideline 3.11: Venous Imaging
+We suggest selective computed tomography venography, magnetic resonance venography, contrast venography,
+and/or intravascular ultrasound in patients with suspected venous leg ulcer

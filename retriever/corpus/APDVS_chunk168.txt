@@ -1,0 +1,38 @@
+ common adverse effect of radiation exposure to the eye. There
+was no mention of increased intraocular pressure or abnormal fundoscopic exam making
+answers a, b, and d incorrect.
+4. A 65 year old female is presenting to the hospital for endovascular repair of a complicated
+AAA. There is prolonged radiation time with a calculated absorbed dose of 3.5 Gy. What
+is the most likely skin exam finding during the patient’s hospital course?
+A. Skin necrosis
+B. Burn
+C. No acute findings as the dose were too low
+D. Erythema
+
+212
+
+Answer
+D. Erythema
+Discussion: With a dose of 3.5 Gy, the most likely result will be transient erythema
+between 2 to 24 hours from exposure. This can be found in table 2. Skin necrosis can
+occur, but it would need much higher doses making answer a wrong. It would be incorrect
+to say the dose is too low as 3.5 Gy making answer c invalid, and also below the threshold
+to cause a burn making answer b incorrect as well.
+5. A 42 year old male on hemodialysis from a left upper extremity brachiocephalic fistula
+for CKD is seen for a fistulogram due the patient having trouble pulling during dialysis.
+The patient is placed in the supine position with left arm extended. The c-arm is initially
+perpendicular to the operating table. To achieve better views of the proximal vessels,
+the c-arm is rotated counterclockwise (from the perspective of looking from the patient’s
+feet superiorly) so that the image intensifier is rotated more towards the patient’s right
+shoulder. What is the appropriate name for the c-arm position?
+A. LAO (left anterior oblique)
+B. RAO (right anterior oblique)
+C. Cranial
+D. Caudal
+E. AP (anterior posterior)
+Answer
+B. RAO (right anterior oblique)
+Discussion: When the image intensifier is rotated more towards the right shoulder, this
+is the RAO position making answer a correct. If the c-arm were rotated clockwise, with
+the c-arm over the left shoulder, this would be the LAO position. As no mention was
+made of rotating the c-arm towards the head or foot of the

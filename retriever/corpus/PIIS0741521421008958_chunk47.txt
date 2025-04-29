@@ -1,0 +1,140 @@
+19
+
+113
+
+203
+
+316
+
+0.45 (0.051-3.97)
+
+Ipsilateral stroke
+at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+24
+
+31
+
+55
+
+6.46 (0.81-51.69)
+
+Ipsilateral stroke
+at 5 years
+
+Medical management
+vs CEA
+
+ACST, 2004
+
+1560
+
+1560
+
+3120
+
+4.77 (2.6338-8.6359)
+
+MI at 1 year
+
+Medical management
+vs CEA
+
+Reiff et al,1 2019
+
+113
+
+203
+
+316
+
+0.6 (0.0245-14.5234)
+
+Bonati et al,16 2015
+
+836
+
+837
+
+1673
+
+0.36 (0.12-1.14)
+
+Brooks et al,20 2001
+
+51
+
+53
+
+104
+
+11.43 (0.02-7320.48)
+
+Eckstein et al,21 2008
+
+589
+
+607
+
+1196
+
+0.86 (0.26-2.8)
+
+Ederle et al,24 2009
+
+253
+
+251
+
+504
+
+0.57 (0.17-1.91)
+
+Hoffman et al,27 2008
+
+10
+
+10
+
+20
+
+NA
+
+Howard et al,33 2011
+
+653
+
+668
+
+1321
+
+0.03 (0-17.9)
+
+Mas et al,28 2014
+
+262
+
+265
+
+527
+
+1.52 (0.26-9.01)
+
+Naylor,31 1998
+
+10
+
+7
+
+17
+
+2664
+
+2698
+
+5

@@ -1,0 +1,28 @@
+the first step in management. Heparin may even be started during the diagnostic work-up if
+there is a high clinical suspicion of ALI. Initial labs that should be ordered include a CBC,
+CMP, baseline fibrinogen, and a type and screen.
+
+Operative management
+As far as surgical options go, ALI can be managed with endovascular surgery, open surgery,
+or through a hybrid approach. The algorithm above shows considerations for when to pursue
+an endovascular vs. open approach.
+Surgical Revascularization
+Surgical revascularization options include catheter embolectomy/thrombectomy, surgical bypass, endarterectomy, and hybrid procedures if indicated.
+Embolectomy/thrombectomy with a Fogarty embolectomy catheter has remained the gold
+standard for treatment of both acute and chronic thromboembolic disease. The use of a Fogarty
+embolectomy catheter requires a surgical cutdown depending on the location of obstruction,
+control of infow and outfow branches, therapeutic anticoagulation, and an arteriotomy. After
+the arteriotomy is made, the catheter is passed both proximally and distally until all of the
+thrombus is removed and there is confirmation of pulsatile infow and distal back-bleeding.
+The last step is an on-table angiogram to confirm the patency of the treated vessels.
+Arterial bypass is an option in cases where catheter thrombectomy/endovascular intervention fails or when a patient has known PAD and is presenting with an acute-on chronic picture
+as it may provide a more long-term solution.
+Thromboendarterectomy is typically performed as part of a hybrid procedure in cases
+of ALI. It is often utilized to improve fow in cases of common femoral artery acute in situ
+thrombosis in chronic atherosclerotic disease, to collaterals, and to infow and outfow of bypass
+graft anastomoses, An example of a case utilizing a hybrid approach would be if a patient
+presented with ALI and was found to have a bypass graft occlusion. The occlusion is treated
+with a traditional embolectomy using a Fogarty balloon and a common femoral endarterectomy
+is additionally performed to improve graft infow.
+Endovascular Management
+Endovascular surgery for the management of ALI provides minimally invasive options

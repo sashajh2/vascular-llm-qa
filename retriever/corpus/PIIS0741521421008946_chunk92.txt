@@ -1,0 +1,65 @@
+)
+
+4/0
+
+———a
+
+RCT
+
+3/1d
+
+———a
+
+0/2e
+
+———a
+
+RCT
+
+ACUSEAL (PTFE)/Vascu-Guard patch
+Stone et al, 2014308
+
+100/100
+
+Systemic/meta-analysis
+
+Patch material during CEA
+
+Bond et al, 2004304,c (Cochrane review)
+
+1280 patients
+7 RCTs
+
+No obvious differences in perioperative stroke/death rate using synthetic or vein patch
+No differences in long-term follow-up
+Risk of major arterial complications (patch infection/rupture) <1% on vein and synthetic patches
+3 of 348 (0.9%) had vein patch blowout, 1 fatal
+2 of 359 (0.6%) had synthetic patch rupture, 1 fatal
+
+Texakalidis et al, 2018310
+
+3,234 patients
+18 studies
+
+30 day stroke, MI, wound infection, death, cranial nerve palsy, carotid artery
+thrombosis and death, long-term stroke and restenosis were similar between
+venous vs synthetic patch
+No differences in 30-day stroke, death, TIA, carotid artery thrombosis and
+long-term restenosis were detected between Dacron and synthetic polytetraﬂuoroethylene patch
+
+CI, Conﬁdence interval; ePTFE, expanded polytetraﬂuoroethylene; MI, myocardial infarction; OR, odds ratio; RCT, randomized controlled trial; TIA,
+transient ischemic attack.
+a
+Not available or not applicable.
+b
+Conventional PTFE vs collagen-impregnated Dacron patch (Hemashield).
+c
+ACUSEAL vs Finesse (Ultrathin Dacron) (PTFE).
+d
+Transient ischemic attack/stroke.
+e
+Restenosis of $70%.
+
+samples of eversion endarterectomy in which 1855 patients underwent 2244 CEAs using the eversion technique. In this study, 410 patients had 474 CEAs by the
+standard technique. Operative mortality risk was 1% on
+the eversion group

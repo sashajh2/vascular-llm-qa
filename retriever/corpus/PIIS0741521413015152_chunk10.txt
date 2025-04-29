@@ -1,0 +1,60 @@
+
+on wound extent/infection; Not intended for
+patients with diabetes; Wound classes not
+sufﬁciently detailed; Omits infection as a trigger
+Pure ischemia model; No clear deﬁnitions of
+spectrum of hemodynamics; Minimal
+description of wounds; Infection omitted
+
+Yes, grades 1-4; see IDSA classiﬁcation (Table II)
+
+Primarily intended for DFUs; Ulcer grades
+validated; Includes perfusion assessment, but
+with cutoff for CLI; Gangrene not separately
+categorized; Includes validated IDSA infection
+categories
+
+Yes 6 based on ABI <0.8
+
+Yes, 6 wounds with frank purulence or >2 of the
+following (warmth, eythema, lymphangitis,
+edema, lymphadenopathy, pain, loss of
+function) considered infected
+
+Primarily intended for DFUs; Includes validated
+ulcer categories; PAD and infection included,
+but only as 6 with no grades/spectrum
+
+No
+
+No for soft tissue component; included only as
+osteomyelitis
+
+Orthopedic classiﬁcation intended for diabetic feet;
+No hemodynamics; Gangrene from infection
+not differentiated from that due to ischemia;
+Osteomyelitis included; Soft tissue infection not
+separated from bone infection
+
+Pulse palpation only, no hemodynamics
+
+Yes, 1 ¼ no infection; 2 ¼ cellulitis; 3 ¼
+osteomyelitis
+
+Intended for DFUs; Also includes neuropathy;
+Does not mention gangrene; No hemodynamic
+information; Perfusion assessment based on
+pulse palpation only
+
+Yes, grades 0-3;
+Grade 0: AP >80 mm Hg, ABI 0.9-1.2;
+Grade 1: AP 70-80 mm Hg, ABI 0.7-0.89, TP
+55-80 mm Hg;
+Grade 2: AP 55-69 mm Hg, ABI 0.5-0.69, TP
+30-54 mm Hg;
+Grade 3: AP <55 mm Hg, ABI <0.5,
+TP <30 mm Hg
+
+Yes, grades 0-3;
+Grade 0: none;
+Grade 1: mild. erythema 0.
