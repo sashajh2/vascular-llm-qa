@@ -94,7 +94,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
 if __name__ == "__main__":
     # Limit training epochs to avoid overfitting
     # Use dropout and regularization
-    # Source generation and explaations will likely be shaky at first!
+    # Source generation and explanations will likely be shaky at first!
     
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name_or_path", type=str, required=True)

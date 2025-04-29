@@ -12,12 +12,12 @@ with open("retriever/faiss_index/metadata.json") as f:
 
 embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-def get_chunk_by_index(idx, chunk_dir="raw/rag_chunks"):
+def get_chunk_by_index(idx, chunk_dir="retriever/corpus"):
     """Given a FAISS index, load the corresponding chunk text."""
     filename = metadata[idx]["filename"]
     path = os.path.join(chunk_dir, filename)
     with open(path, "r") as f:
-        return f.read()
+        return filename, f.read()
 
 # next; include golden for training
 def retrieve_docs(question, include_relevant=True, top_k=4):
