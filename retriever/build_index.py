@@ -24,8 +24,13 @@
 #       4. Save metadata (chunk_to_file mapping) as a JSON
 
 import os
-from utils.data_utils import extract_text  # Your helper for text extraction
+# from utils.data_utils import extract_text  # Your helper for text extraction
 from transformers import AutoTokenizer
+
+def extract_text(path):
+    with open(path) as f:
+        return f.read()
+
 
 def chunk_text_with_tokenizer(text, tokenizer, chunk_size=500, overlap=100):
     tokens = tokenizer.encode(text)
@@ -40,7 +45,7 @@ def chunk_text_with_tokenizer(text, tokenizer, chunk_size=500, overlap=100):
     return chunks
 
 #This should be put in a util file (maybe data_utils). Call via the cmd line
-def process_documents(raw_dir="data/raw", corpus_dir="retriever/corpus", chunk_size=500, overlap=100, tokenizer_name="FreedomIntelligence/Apollo-0.5B"):
+def process_documents(raw_dir="data/raw/rag", corpus_dir="retriever/corpus", chunk_size=500, overlap=100, tokenizer_name="FreedomIntelligence/Apollo-0.5B"):
     """
     Processes raw documents: extracts text, chunks it, and saves to corpus directory.
     
@@ -75,6 +80,8 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import os
 import json
+
+process_documents()
 
 # 1. Load text chunks
 corpus_dir = "retriever/corpus/"
