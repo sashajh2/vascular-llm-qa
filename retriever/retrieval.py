@@ -1,32 +1,53 @@
+import os
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import json
+import random
 
 # Load FAISS index and corpus (assumes pre-built)
-faiss_index = faiss.read_index("retriever/faiss_index/my_index.faiss")
-with open("retriever/faiss_index/corpus.json") as f:
-    corpus = json.load(f)
+faiss_index = faiss.read_index("retriever/faiss_index/corpus.index")
+with open("retriever/faiss_index/metadata.json") as f:
+    metadata = json.load(f)
 
 embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-def retrieve_docs(question, include_golden=True, top_k=4):
-    # Embed question
+def get_chunk_by_index(idx, chunk_dir="raw/rag_chunks"):
+    """Given a FAISS index, load the corresponding chunk text."""
+    filename = metadata[idx]["filename"]
+    path = os.path.join(chunk_dir, filename)
+    with open(path, "r") as f:
+        return f.read()
+
+# next; include golden for training
+def retrieve_docs(question, include_relevant=True, top_k=4):
+    """Retrieve documents for a question.
+    
+    If include_relevant=True: return top-k FAISS retrieved docs.
+    If include_relevant=False: return true distractors, sampled randomly while excluding top matches.
+    """
+    
+    # Embed the question
     question_embedding = embedder.encode([question])
-    _, indices = faiss_index.search(np.array(question_embedding), top_k)
+    question_embedding = np.array(question_embedding).reshape(1, -1)
+    
+    # Search FAISS index
+    _, indices = faiss_index.search(question_embedding, top_k)
+    retrieved_indices = list(indices[0])
 
-    docs = [corpus[str(idx)] for idx in indices[0]]
-
-    # Optionally add/remove golden doc
-    if include_golden:
-        golden_doc = get_golden_doc(question)  # Your function to fetch golden
-        # Insert golden doc at the start (and remove a distractor if needed)
-        docs = [golden_doc] + docs[:-1]
-
-    return docs
-
-def get_golden_doc(question):
-    # Dummy golden doc fetcher for now
-    return "Relevant information about the correct answer."
+    if include_relevant:
+        # Return the top-k most similar documents
+        return [get_chunk_by_index(idx) for idx in retrieved_indices[:top_k]]
+    
+    else:
+        # Build candidate pool by excluding top-k retrieved
+        all_indices = set(range(len(metadata)))
+        blocked_indices = set(retrieved_indices[:top_k])
+        candidate_indices = list(all_indices - blocked_indices)
+        
+        # Randomly sample true distractors
+        distractor_indices = random.sample(candidate_indices, top_k)
+        return [get_chunk_by_index(idx) for idx in distractor_indices]
+        
 
 
