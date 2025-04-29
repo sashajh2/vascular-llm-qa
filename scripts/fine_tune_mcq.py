@@ -53,19 +53,15 @@ def generate_dataset(dataset, tokenizer):
 
 
 
-def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
+def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=3):
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
-    dataset = load_dataset_from_jsonl(data_path)
-    train_dataset, test_dataset = train_test_split(dataset)
+    train_dataset = load_dataset_from_jsonl(train_data_path)
 
     # NEW: Generate full training set
     tokenized_train_examples = generate_dataset(train_dataset, tokenizer)
     tokenized_train_dataset = Dataset.from_list(tokenized_train_examples)
-
-    tokenized_test_examples = generate_dataset(test_dataset, tokenizer)
-    tokenized_test_dataset = Dataset.from_list(tokenized_test_examples)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -102,14 +98,14 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name_or_path", type=str, required=True)
-    parser.add_argument("--data_path", type=str, required=True)
+    parser.add_argument("--train_data_path", type=str, required=True)
     parser.add_argument("--output_dir", type=str, required=True)
     parser.add_argument("--epochs", type=int, default=3)
     args = parser.parse_args()
 
     fine_tune(
         model_name_or_path=args.model_name_or_path,
-        data_path=args.data_path,
+        train_data_path=args.train_data_path,
         output_dir=args.output_dir,
         num_train_epochs=args.epochs,
     )
