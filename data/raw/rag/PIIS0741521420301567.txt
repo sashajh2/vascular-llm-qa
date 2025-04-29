@@ -1,0 +1,4368 @@
+SOCIETY FOR VASCULAR SURGERY DOCUMENT
+The Society for Vascular Surgery clinical practice
+guidelines on the management of visceral aneurysms
+Rabih A. Chaer, MD,a Christopher J. Abularrage, MD,b Dawn M. Coleman, MD,c Mohammad H. Eslami, MD,a
+Vikram S. Kashyap, MD,d Caron Rockman, MD,e and M. Hassan Murad, MD,f Pittsburgh, Pa; Baltimore, Md;
+Ann Arbor, Mich; Cleveland, Ohio; New York, NY; and Rochester, Minn
+
+ABSTRACT
+These Society for Vascular Surgery Clinical Practice Guidelines describe the care of patients with aneurysms of the visceral
+arteries. They include evidence-based size thresholds for repair of aneurysms of the renal arteries, splenic artery, celiac
+artery, and hepatic artery, among others. Speciﬁc open surgical and endovascular repair strategies are also discussed.
+They also describe speciﬁc circumstances in which aneurysms may be repaired at smaller sizes than these size thresholds, including in women of childbearing age and false aneurysms. These Guidelines offer important recommendations
+for the care of patients with aneurysms of the visceral arteries and long-awaited guidance for clinicians who treat these
+patients. (J Vasc Surg 2020;72:3S-39S.)
+
+TABLE OF CONTENTS
+SUMMARY OF RECOMMENDATIONS ............................
+Renal artery aneurysm (RAA) ......................................
+Splenic artery aneurysm (SAA) ..................................
+Celiac artery aneurysm (CAA) .....................................
+Gastric and gastroepiploic artery aneurysms .
+Hepatic artery aneurysm (HAA) ................................
+Superior mesenteric artery aneurysm (SMAA)
+Jejunal, ileal, and colic artery aneurysms ..........
+Pancreaticoduodenal artery aneurysm
+(PDAA) and gastroduodenal artery aneurysm
+(GDAA) .............................................................................................
+INTRODUCTION .........................................................................
+METHODS .....................................................................................
+Guideline framework .........................................................
+Evidence synthesis ...............................................................
+RENAL ARTERY ANEURYSM (RAA) ...............................
+SPLENIC ARTERY ANEURYSM (SAA) ............................
+CELIAC ARTERY ANEURYSM (CAA) ...............................
+GASTRIC AND GASTROEPIPLOIC ARTERY
+ANEURYSMS ...............................................................................
+HEPATIC ARTERY ANEURYSM (HAA) ...........................
+Hepatic artery pseudoaneurysm ..............................
+True HAA .....................................................................................
+
+3S
+3S
+4S
+5S
+6S
+6S
+7S
+7S
+8S
+8S
+9S
+9S
+10S
+10S
+14S
+18S
+
+SUPERIOR MESENTERIC ARTERY ANEURYSM
+(SMAA) ...........................................................................................
+JEJUNAL, ILEAL, AND COLIC ARTERY
+ANEURYSMS ...............................................................................
+PANCREATICODUODENAL ARTERY ANEURYSM
+(PDAA) AND GASTRODUODENAL ARTERY
+ANEURYSM (GDAA) ................................................................
+REFERENCES .............................................................................
+
+26S
+27S
+29S
+33S
+
+SUMMARY OF RECOMMENDATIONS
+
+21S
+23S
+24S
+24S
+
+Renal artery aneurysm (RAA). 1.1: In patients who are
+thought to have RAAs, we recommend computed
+tomography angiography (CTA) as the diagnostic tool
+of choice. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+1.2: In patients who are thought to have RAA and have
+increased radiation exposure risks or renal insufﬁciency,
+we recommend non-contrast-enhanced magnetic resonance angiography (MRA) to establish the diagnosis.
+Level of recommendation: Grade 1 (Strong), Quality of
+Evidence: C (Low).
+
+From the Division of Vascular Surgery, University of Pittsburgh Medical Center,
+
+Landry, Mahmoud Malas, Katherine McGinigle, J. Sheppard Mondy, Marc
+
+Pittsburgha; the Division of Vascular Surgery, Johns Hopkins Hospital, Baltimoreb; the Division of Vascular Surgery, University of Michigan Hospitals,
+Ann Arborc; the Division of Vascular Surgery, University Hospitals Case Medi-
+
+Schermerhorn, Cynthia Shortell.
+Correspondence: Rabih A. Chaer, MD, University of Pittsburgh Medical Center,
+200 Lothrop St, Pittsburgh, PA 15213 (e-mail: chaerra@upmc.edu).
+
+cal Center, Clevelandd; the Division of Vascular Surgery, New York University
+
+The editors and reviewers of this article have no relevant ﬁnancial relationships to
+
+Langone Medicine Center, New Yorke; and the Mayo Clinic Evidence-Based
+
+disclose per the JVS policy that requires reviewers to decline review of any
+
+Practice Center, Rochester.f
+
+manuscript for which they may have a conﬂict of interest.
+
+Author conﬂict of interest: none.
+
+0741-5214
+
+Independent peer review and oversight have been provided by members of
+
+Copyright Ó 2020 by the Society for Vascular Surgery. Published by Elsevier Inc.
+
+the Society for Vascular Surgery Document Oversight Committee: Drs
+
+https://doi.org/10.1016/j.jvs.2020.01.039
+
+Thomas L. Forbes (Chair), Ruth Bush (Vice-Chair), Neal Barshes, Keith Calligaro, Ronald L. Dalman, Mark Davies, Yazan Duwayri, Alik Farber, Gregory
+
+3S
+
+4S
+
+Chaer et al
+
+Journal of Vascular Surgery
+July Supplement 2020
+
+Technical remark: Non-contrast-enhanced MRA is best
+suited to children and women of childbearing potential
+or those who have contraindications to CTA or MRA
+contrast materials (ie, pregnancy, renal insufﬁciency, or
+gadolinium contrast material allergy).
+1.3: We recommend the use of catheter-based angiography both for preoperative planning and to better delineate distal renal artery branches that may be
+inadequately assessed on conventional cross-sectional
+imaging. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: C (Low).
+2.1: In patients with noncomplicated RAA of acceptable
+operative risk, we suggest treatment for aneurysm size
+>3 cm. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+2.2: We recommend emergent intervention for any size
+RAA resulting in patient symptoms or rupture. Level of
+recommendation: Grade 1 (Strong), Quality of
+Evidence: B (Moderate).
+2.3: In patients of childbearing potential with noncomplicated RAA of acceptable operative risk, we suggest
+treatment regardless of size. Level of recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+2.4: In patients with medically refractory hypertension
+and functionally important renal artery stenosis, we suggest treatment regardless of size. Level of recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+3.1: We suggest daily antiplatelet therapy (ie, aspirin,
+81 mg) for patients with RAA. Level of recommendation:
+Grade 2 (Weak), Quality of Evidence: C (Low).
+3.2: We suggest open surgical reconstructive techniques for the elective repair of most RAAs in patients
+with acceptable operative risk. Level of recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+3.3: We suggest ex vivo repair and autotransplantation
+for complex distal branch aneurysms over nephrectomy
+when it is technically feasible. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+3.4: We suggest endovascular techniques for the elective repair of anatomically appropriate RAAs to include
+stent graft exclusion of main RAAs in patients with
+poor operative risk and embolization of distal and parenchymal aneurysms. Level of Recommendation: Grade 2
+(Weak), Quality of Evidence: B (Moderate).
+3.5: We suggest consideration of laparoscopic and
+robotic techniques as an interventional alternative based
+on institutional resources and surgeon experience with
+minimally invasive techniques. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+4.1: We suggest screening female patients of childbearing age with RAA for ﬁbromuscular dysplasia with
+a focused history and one-time axial imaging study (ie,
+CTA or MRA) to assess for cerebrovascular, mesenteric,
+and iliac artery dysplasia. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: C (Low).
+
+5.1: We suggest completion imaging after open surgical
+reconstruction for RAA, before hospital discharge, by way
+of axial imaging with CTA or MRA or arteriography in
+select cases, and long-term follow-up with surveillance
+imaging. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+5.2: For patients managed nonoperatively, we suggest
+annual surveillance imaging until two consecutive studies
+are stable; thereafter, surveillance imaging may be
+extended to every 2 to 3 years. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+Splenic artery aneurysm (SAA). 1.1: We recommend
+computed tomography angiography as the initial diagnostic tool of choice for SAAs. Level of Recommendation: Grade 1 (Strong), Quality of Evidence: C (Low).
+1.2: In patients with suspected SAAs and pre-existing
+renal insufﬁciency limiting the use of iodinated contrast
+material, we recommend magnetic resonance angiography to establish diagnosis. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: C (Low).
+1.3: We recommend using arteriography when noninvasive studies have not sufﬁciently demonstrated the status
+of relevant collateral blood ﬂow and when endovascular
+intervention is planned. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate).
+2.1: We recommend emergent intervention for
+ruptured SAAs. Level of Recommendation: Grade 1
+(Strong), Quality of Evidence: A (High).
+2.2: We recommend treatment of nonruptured splenic
+artery pseudoaneurysms of any size in patients of acceptable risk because of the possibility of rupture. Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+2.3: We recommend treating nonruptured splenic
+artery true aneurysms of any size in women of childbearing age because of the risk of rupture. Level of
+Recommendation: Grade 1 (Strong), Quality of
+Evidence: B (Moderate).
+2.4: We recommend treating nonruptured splenic
+artery true aneurysms >3 cm, with a demonstrable
+increase in size, or with associated symptoms in patients
+of acceptable risk because of the risk of rupture.
+Level of Recommendation: Grade 1 (Strong), Quality of
+Evidence: C (Low).
+2.5: We suggest observation over repair for small (<3 cm),
+stable asymptomatic splenic artery true aneurysms or
+those in patients with signiﬁcant medical comorbidities
+or limited life expectancies. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: C (Low).
+3.1: In patients with ruptured SAA discovered at laparotomy, we suggest treatment with ligation with or without
+splenectomy, depending on the aneurysm location.
+Level of Recommendation: Grade 2 (Weak), Quality of
+Evidence: B (Moderate).
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+5S
+
+Volume 72, Number 1S
+
+3.2: In patients with ruptured SAA diagnosed on preoperative imaging studies, we suggest treatment with
+open surgical or appropriate endovascular techniques
+based on the patient’s anatomy and underlying clinical
+condition. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: B (Moderate).
+3.3: We suggest elective treatment of SAA using an
+endovascular approach if it is anatomically feasible. However, elective treatment may appropriately involve open
+surgical, endovascular, or laparoscopic methods of intervention, depending on the patient’s anatomy and underlying clinical condition. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+3.4: In treatment of SAA, we suggest that the splenic
+artery does not routinely require preservation or revascularization. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+3.5: In treatment of distal SAA adjacent to the hilum of
+the spleen, we suggest open surgical techniques
+including possible splenectomy as opposed to endovascular methods, given concern for the possibility of endorgan ischemia, including splenic infarction and pancreatitis. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+3.6: In pregnant women with SAA, treatment decisions
+should be individualized regardless of size, and the potential morbidity to both the mother and fetus should
+be considered. (Ungraded best practice statement.)
+4.1: We suggest screening of patients with SAAs for
+other intra-abdominal, intrathoracic, intracranial, and peripheral artery aneurysms. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+5.1: In patients in whom an SAA is being observed with
+a nonoperative or noninterventional approach, we suggest annual surveillance with computed tomography or
+ultrasound to assess for growth in size. Level of
+Recommendation: Grade 2 (Weak), Quality of
+Evidence: B (Moderate).
+5.2: After endovascular intervention for SAAs, we
+suggest periodic surveillance with computed tomography angiography, ultrasound, or magnetic resonance
+angiography to assess for the possibility of endoleak or
+other continued aneurysm perfusion that could lead
+to a continued risk of aneurysm growth or rupture.
+Level of Recommendation: Grade 2 (Weak), Quality of
+Evidence: B (Moderate).
+Celiac artery aneurysm (CAA). 1.1 We suggest computed
+tomography angiography (CTA) as the initial diagnostic
+tool of choice for CAAs. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+1.2 We suggest magnetic resonance angiography in patients with suspected CAA and pre-existing renal insufﬁciency limiting the use of iodinated contrast material.
+Level of Recommendation: Grade 2 (Weak), Quality of
+Evidence: B (Moderate).
+
+1.3 We suggest arteriography when noninvasive studies
+have not sufﬁciently demonstrated the status of relevant
+collateral blood ﬂow or when endovascular intervention
+is planned. Level of Recommendation: Grade 2
+(Weak), Quality of Evidence: C (Low).
+2.1 We recommend emergent intervention for ruptured
+CAAs. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: A (High).
+2.2 We recommend treatment of nonruptured celiac
+artery pseudoaneurysms of any size in patients of acceptable operative risk because of the possibility of rupture.
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate).
+2.3 We recommend treatment of nonruptured celiac
+artery true aneurysms >2 cm, with a demonstrable increase in size, or with associated symptoms in patients
+of acceptable risk because of the risk of rupture. Level
+of Recommendation: Grade 1 (Strong), Quality of Evidence: C (Low).
+2.4 We suggest observation over intervention for small
+(<2 cm), stable asymptomatic CAAs or those in patients
+with signiﬁcant medical comorbidities or limited life expectancy. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+3.1 In patients with ruptured CAA discovered at laparotomy, we suggest ligation if sufﬁcient collateral circulation
+to the liver can be documented. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+3.2 In patients with ruptured CAA diagnosed on preoperative imaging studies who are stable, we recommend treatment with open surgical or appropriate
+endovascular methods based on the patient’s anatomy
+and underlying clinical condition. Level of Recommendation: Grade 1 (Strong), Quality of Evidence: B
+(Moderate).
+3.3 For the elective treatment of CAA, we suggest using
+an endovascular intervention if it is anatomically feasible.
+However, elective treatment may appropriately involve
+open surgical, endovascular, or laparoscopic methods
+of intervention, depending on the patient’s anatomy
+and underlying clinical condition. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+3.4 To determine the need for revascularization of the
+celiac artery and its branches in treating CAA, we suggest
+evaluating the status of the superior mesenteric artery,
+gastroduodenal artery, and other relevant collateral circulation, which must be carefully documented on preoperative CTA or angiography. Level of Recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate).
+4.1 We suggest screening patients with CAAs for other
+arterial aneurysms. Level of Recommendation: Grade 2
+(Weak), Quality of Evidence: B (Moderate).
+5.1 In patients in whom a CAA is being observed with a
+nonoperative or noninterventional approach, we suggest
+annual surveillance with CTA scans to assess for growth
+
+6S
+
+Chaer et al
+
+Journal of Vascular Surgery
+July Supplement 2020
+
+in size. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: B (Moderate).
+5.2: After endovascular intervention for CAAs, we suggest periodic surveillance with appropriate imaging
+studies to assess for the possibility of endoleak or aneurysm reperfusion that could lead to a continued risk of
+aneurysm growth or rupture. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+Gastric and gastroepiploic artery aneurysms. 1.1: In patients who are thought to have gastric or gastroepiploic
+artery aneurysms, we recommend computed tomography angiography (CTA) as the diagnostic tool of choice.
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate).
+1.2: In patients who are thought to have gastric and gastroepiploic artery aneurysms and have high radiation
+exposure risks or renal insufﬁciency, we recommend
+non-contrast-enhanced magnetic resonance angiography (MRA) for diagnosis. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: C (Low).
+Technical remark: Non-contrast-enhanced MRA is best
+suited to children and women of childbearing potential
+or those who have contraindications to CTA or MRA
+contrast materials (ie, pregnancy, renal insufﬁciency, or
+gadolinium contrast material allergy).
+1.3: We recommend the use of catheter-based angiography for all emergent cases presenting with rupture,
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate), and electively for preoperative planning, Level of Recommendation: Grade 1
+(Strong), Quality of Evidence: C (Low).
+2.1: We recommend treatment of all gastric artery and
+gastroepiploic artery aneurysms of any size. Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+3.1: We recommend endovascular embolization for ﬁrstline treatment of gastric artery and gastroepiploic artery
+aneurysms. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+4.1: We suggest abdominal axial imaging to screen for
+concomitant abdominal aneurysms. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+4.2: We suggest one-time screening CTA (or MRA) of the
+head, neck, and chest for those patients with segmental
+arterial mediolysis. Level of Recommendation: Grade 2
+(Weak), Quality of Evidence: C (Low).
+5.1: We suggest interval surveillance (ie, every 1224 months) with axial imaging (ie, CTA or MRA) in cases
+of segmental medial arteriolysis in light of reported cases
+of rapid arterial transformation. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+5.2: We suggest postembolization surveillance every 1 to
+2 years with axial imaging to assess for vascular
+
+remodeling and evidence of aneurysm reperfusion. Level
+of Recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+Hepatic artery aneurysm (HAA). 1.1: In patients who are
+thought to have HAA, we recommend computed tomography angiography (CTA) as the diagnostic tool of
+choice. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+1.2: In patients with HAA who are considered for intervention, we recommend mesenteric angiography for
+preoperative planning. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate).
+2.1: Given the high propensity of rupture and signiﬁcant
+antecedent mortality, we recommend that all hepatic artery pseudoaneurysms, regardless of cause, be repaired
+as soon as the diagnosis is made. Level of Recommendation: Grade 1 (Strong), Quality of Evidence: A (High).
+2.2.a: We recommend repair of all symptomatic HAAs
+regardless of size. Level of Recommendation: Grade 1
+(Strong), Quality of Evidence: A (High).
+2.2.b: In asymptomatic patients without signiﬁcant
+comorbidity, we recommend repair if true HAA is
+>2 cm, Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: A (High), or if aneurysm enlarges
+>0.5 cm/y, Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: C (Low). In patients with signiﬁcant
+comorbidities, we recommend repair if HAA is >5.0 cm.
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate).
+2.3. We recommend repair of HAA in patients with vasculopathy or vasculitis, regardless of size, Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence: C (Low). We recommend repair in HAA patients
+with positive blood cultures, Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: C (Low).
+3.1: We recommend an endovascular-ﬁrst approach to
+all HAAs if it is anatomically feasible (ie, if this approach
+maintains arterial circulation to the liver). Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence:
+A (High).
+3.2: In patients with extrahepatic aneurysms, we recommend open and endovascular techniques to maintain
+liver circulation. Level of Recommendation: Grade 1
+(Strong), Quality of Evidence: A (High).
+3.3: In patients with intrahepatic aneurysms, we recommend coil embolization of the affected artery, Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate). In patients with large intrahepatic
+aneurysms, we recommend resection of the involved
+lobe of liver to avoid signiﬁcant liver necrosis, Level of
+Recommendation: Grade 1 (Strong), Quality of Evidence:
+C (Low).
+4.1: We suggest abdominal axial imaging to screen for
+concomitant intra-abdominal aneurysms in patients
+who did not have CTA at the time of HAA diagnosis
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+7S
+
+Volume 72, Number 1S
+
+Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+4.2: We suggest one-time screening CTA or magnetic
+resonance angiography of the head, neck, and chest for
+those patients with nonatherosclerotic causes of HAA.
+Level of Recommendation: Grade 2 (Weak), Quality of
+Evidence: B (Moderate).
+5.1: We suggest annual follow-up with CTA or noncontrast-enhanced computed tomography to observe
+patients with asymptomatic HAA. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+Superior mesenteric artery aneurysm (SMAA). 1.1: In
+patients with SMAAs, we recommend computed tomography angiography (CTA) as the diagnostic tool of choice.
+Level of Recommendation: Grade 1 (Strong), Quality of
+Evidence: B (Moderate).
+1.2: We recommend mesenteric angiography to delineate anatomy in preoperative planning for SMAA repair.
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate).
+2.1: We recommend repair of all true SMAAs and pseudoaneurysms as soon as the diagnosis is made regardless
+of size. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: A (High).
+2.2: We suggest careful observation of SMAA because of
+dissection unless refractory symptoms develop. Level of
+Recommendation: Grade 2 (Weak), Quality of Evidence:
+B (Moderate).
+3.1: We recommend an endovascular-ﬁrst approach to all
+SMAAs if it is anatomically feasible. Level of Recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+4.1: We suggest abdominal axial imaging to screen for
+concomitant intra-abdominal aneurysms in patients
+who did not have CTA at the time of diagnosis. Level of
+Recommendation: Grade 2 (Weak), Quality of Evidence:
+B (Moderate).
+5.1: We suggest annual CTA to observe postsurgical patients. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: B (Moderate).
+Jejunal, ileal, and colic artery aneurysms. 1.1: In patients
+who are thought to have jejunal artery, ileal artery, and
+colic artery aneurysms, we recommend computed tomography angiography (CTA) as the diagnostic tool of
+choice. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+1.2: In patients with high radiation exposure risks or
+renal insufﬁciency, we recommend non-contrastenhanced magnetic resonance angiography (MRA) for
+diagnosis. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: C (Low).
+Technical remark: Non-contrast-enhanced MRA is best
+suited to children and women of childbearing potential
+or those who have contraindications to CTA or MRA
+
+contrast materials (ie, pregnancy, renal insufﬁciency, or
+gadolinium contrast material allergy).
+1.3: We recommend the use of catheter-based angiography for all emergent cases presenting with rupture,
+Level of Recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate), and electively for preoperative planning, Level of Recommendation: Grade 1
+(Strong), Quality of Evidence: C (Low).
+1.4: We suggest screening all patients with jejunal, ileal,
+and colic artery aneurysms for vasculitis with routine inﬂammatory markers. Level of Recommendation: Grade
+2 (Weak), Quality of Evidence: C (Low).
+2.1: We recommend elective intervention for jejunal and
+ileal artery aneurysms >2 cm in maximal diameter and for
+all colic artery aneurysms, any size. Level of Recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate).
+2.2: We recommend emergent intervention for any jejunal, ileal, or colic artery aneurysm, any size, resulting in
+patient symptoms or rupture and all mesenteric branch
+vessel pseudoaneurysms. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: A (High).
+3.1: We suggest open surgical ligation or aneurysm excision for cases of jejunal, ileal, and colic artery aneurysms
+when laparotomy is being considered for hematoma
+evacuation or bowel assessment for viability. Level of
+Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+3.2: We suggest endovascular embolization for cases of
+jejunal, ileal, and colic artery aneurysm. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+3.3: We suggest medical treatment of nonruptured,
+asymptomatic ileal, jejunal, and colic artery aneurysms
+associated with polyarteritis nodosa. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+4.1: We suggest abdominal axial imaging to screen for
+concomitant abdominal aneurysms. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+4.2: We suggest one-time screening CTA (or MRA) of the
+head, neck, and chest for those patients with segmental
+arterial mediolysis. Level of Recommendation: Grade 2
+(Weak), Quality of Evidence: B (Moderate).
+5.1: We suggest interval surveillance (ie, every 1224 months) with axial imaging (ie, CTA or MRA) for cases
+of segmental medial arteriolysis in light of reported cases
+of rapid arterial transformation and to monitor regression
+in cases of polyarteritis nodosa. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+5.2: We suggest postembolization surveillance every 1 to
+2 years with axial imaging to assess for vascular remodeling and evidence of aneurysm reperfusion. Level of
+Recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate).
+
+8S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Pancreaticoduodenal artery aneurysm (PDAA) and
+gastroduodenal artery aneurysm (GDAA). 1.1: In patients
+who are thought to have GDAA and PDAA, we recommend computed tomography angiography (CTA) as the
+diagnostic tool of choice. Level of Recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate).
+1.2: In patients in whom celiac stenosis is suspected, we
+suggest further workup with duplex ultrasound to elucidate whether the stenosis is hemodynamically signiﬁcant. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low).
+1.3: In patients with high radiation exposure risks or
+renal insufﬁciency, we suggest non-contrast-enhanced
+magnetic resonance angiography (MRA) for diagnosis.
+Level of Recommendation: Grade 2 (Weak), Quality of
+Evidence: C (Low).
+Technical remark: Non-contrast-enhanced MRA is best
+suited to children and women of childbearing potential
+or those who have contraindications to CTA or MRA
+contrast materials (ie, pregnancy, renal insufﬁciency, or
+gadolinium contrast material allergy).
+2.1: In patients with noncomplicated GDAA and PDAA
+of acceptable operative risk, we recommend treatment
+no matter the size of the aneurysm because of the risk
+of rupture. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+3.1: In patients with intact and ruptured aneurysms, we
+recommend coil embolization as the treatment of
+choice. Level of Recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+3.2: In patients in whom coil embolization is not
+feasible, we suggest covered stenting or stent-assisted
+coil embolization as a treatment option in select cases
+of GDAA and PDAA. Level of Recommendation: Grade
+2 (Weak), Quality of Evidence: C (Low).
+3.3: In patients with appropriate anatomy, we suggest
+transcatheter embolization with liquid embolic agents
+as a treatment option for both GDAA and PDAA. Level
+of Recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+3.4: In patients with suitable anatomy, we suggest ﬂowdiverting, multilayered stents as a treatment option for
+GDAA and PDAA, although these have not been
+adequately studied to be recommended as a primary
+treatment modality. Level of Recommendation: Grade
+2 (Weak), Quality of Evidence: C (Low).
+3.5: In patients with nonruptured aneurysms, we
+suggest open surgical reconstruction if needed to preserve ﬂow. Level of Recommendation: Grade 2 (Weak),
+Quality of Evidence: B (Moderate).
+3.6: In patients with concomitant stenosis or occlusion,
+we suggest celiac artery reconstruction. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: B
+(Moderate).
+4.1: In patients with median arcuate ligament
+syndrome, we suggest screening for GDAA or PDAA
+
+with CTA or duplex ultrasound. Level of Recommendation: Grade 2 (Weak), Quality of Evidence: C (Low).
+5.1: In patients status post treatment of GDAA and
+PDAA, we recommend follow-up imaging after endovascular treatment of GDAA and PDAA to rule out
+persistent ﬂow through the aneurysm sac. Level of
+Recommendation: Grade 1 (Strong), Quality of
+Evidence: B (Moderate).
+
+INTRODUCTION
+Aneurysms of the visceral arteries are a rare but
+clinically important vascular condition. Of all intraabdominal aneurysms, only approximately 5% affect
+the visceral arteries. Visceral artery aneurysms include
+both true aneurysms and pseudoaneurysms. Many
+true visceral artery aneurysms are degenerative or
+atherosclerotic in nature, with histologic specimens
+demonstrating reduced smooth muscle, disruption of
+elastic ﬁbers, and deﬁciency of the arterial media.1
+Other common causes of visceral artery aneurysms
+include ﬁbromuscular dysplasia, collagen vascular diseases, inﬂammatory conditions, and other rare
+inherited illnesses, such as the Ehlers-Danlos syndrome.
+As such, in patients with multiple aneurysms or aneurysms in different visceral beds, genetic testing is indicated for diagnostic and prognostic purposes. In
+contrast to the causes of true aneurysms of the visceral
+vessels, visceral artery pseudoaneurysms are most
+commonly related to trauma, iatrogenic injury, local inﬂammatory processes, or infection.
+The clinical signiﬁcance of visceral artery aneurysms is
+mainly related to their potential for rupture and the
+extreme challenge of emergent diagnosis and treatment
+of these uncommon aneurysms once rupture has
+occurred. Nearly one-fourth of visceral artery aneurysms
+reported in the literature have presented with rupture,
+and the reported mortality rate of these diagnosed ruptures is at least 10% and is likely to be much higher.2,3 Reported deaths after ruptured celiac artery aneurysms
+and ruptured splenic artery aneurysms in pregnant
+women approach 100%. Because of the increased use
+of sophisticated forms of intra-abdominal imaging,
+including magnetic resonance imaging (MRI), magnetic
+resonance angiography (MRA), computed tomography
+(CT), and CT angiography (CTA), occult visceral artery aneurysms are being diagnosed with increased frequency.
+These detailed imaging studies are allowing an
+improved ability for vascular surgeons to identify asymptomatic lesions and an enhanced potential for preoperative or preprocedural planning and elective treatment of
+these aneurysms. Improvements in endovascular therapies have also allowed an enhanced ability for treatment
+of these often anatomically complex lesions with a large
+variety of individualized and precise catheter-based
+therapies.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+9S
+
+Volume 72, Number 1S
+
+However, the natural history of visceral aneurysms
+and their potential for rupture or other complications
+are relatively poorly deﬁned because of their overall
+scarcity. The majority of the reports in the literature
+consist of only one or two cases. Larger institutional
+case series have been reported but rarely consist of
+more than a compilation of several dozen cases. The
+recent increase in the reports of visceral aneurysms in
+the literature is mainly related to an escalation in the
+use of novel and varied catheter-based techniques for
+their treatment. Whereas much valuable information
+may be gained from reading these individual reports,
+they may be inherently predisposed toward a representation of unusual presentations and successful outcomes. However, it is clear even from these numerous
+case reports that a signiﬁcant proportion of visceral artery aneurysms present with rupture; therefore, an
+aggressive approach to their diagnosis and management certainly seems warranted.
+It is somewhat difﬁcult to precisely characterize
+which factors in an individual aneurysm will predispose to rupture. Splenic artery aneurysms are thought
+to have a particular tendency toward rupture, especially during the third trimester of pregnancy.4 Visceral
+artery pseudoaneurysms certainly have a higher
+rupture potential than true aneurysms. Although larger
+size would certainly seem to imply a higher chance of
+rupture, small visceral aneurysms can rupture as well.
+There is no ﬁrm evidence that calciﬁcation in a visceral
+artery aneurysm protects against a risk of rupture.
+When it occurs, rupture of visceral artery aneurysms
+can occur into the peritoneal cavity, retroperitoneal
+space, gastrointestinal tract, or biliary tract. Free
+rupture into the peritoneal cavity resulting in hemoperitoneum is often termed abdominal apoplexy.
+Rupture of visceral artery aneurysms may also be
+manifested with life-threatening gastrointestinal hemorrhage as well.
+Although not directed by randomized prospective
+trials, general principles of management of visceral artery aneurysms do exist. Because of their potential for
+rupture, most visceral artery pseudoaneurysms,
+mycotic aneurysms, and many larger true aneurysms
+warrant intervention. Treatment can generally be
+accomplished by either open surgical or endovascular
+approaches. The treatment goal is to prevent aneurysm expansion and potential rupture by exclusion
+from the arterial circulation while maintaining necessary distal or collateral bed perfusion. Depending on
+the location of the aneurysm, this can be accomplished in a variety of ways. In areas of the visceral
+circulation with an abundance of collateral ﬂow, for
+example, in the splenic artery, proximal and distal
+ligation of the aneurysm segment is a viable surgical
+option. This can also be accomplished with endovascular isolation of the aneurysmal segment, either by
+
+placement of a stent graft or by coil embolization
+of the proximal and distal arterial segment. The
+preferred treatment of an individual patient and
+aneurysm must be carefully based on the particular
+anatomy and any associated clinical conditions as
+well as the underlying condition of the patient. The
+purpose of these guidelines is to inform the diagnosis, treatment options, screening, and follow-up of
+visceral aneurysms based on the available published
+literature and the Grading of Recommendations
+Assessment, Development, and Evaluation (GRADE)
+approach.5
+
+METHODS
+Guideline framework. The committee used the
+GRADE approach to rate the quality of evidence (conﬁdence in the estimates) and to grade the strength of
+recommendations. This system, adopted by >100 other
+organizations, categorizes recommendations as strong
+GRADE 1 or weak (also called conditional) GRADE 2
+on the basis of the quality of evidence, the balance between desirable effects and undesirable ones, the patient’s values and preferences, and the required
+resources.
+GRADE 1 recommendations are meant to identify
+practices for which beneﬁt clearly outweighs risk. These
+recommendations can be made by clinicians and
+accepted by patients with a high degree of conﬁdence.
+GRADE 2 recommendations are made when the beneﬁts and risks are more closely matched and are more
+dependent on speciﬁc clinical scenarios. In general,
+physician and patient preferences play a more important role in the decision-making process in these
+circumstances.
+The Society for Vascular Surgery adapts GRADE so
+that the level of evidence to support the recommendation is divided into three categories: A (high quality), B
+(moderate quality), and C (low quality). Conclusions
+based on high-quality evidence are unlikely to change
+with further investigation, whereas those based on
+moderate-quality evidence are more likely to be
+affected by further scrutiny. Those based on lowquality evidence are the least supported by current
+data and the most likely to be subject to change in
+the future.
+A GRADE 1 recommendation can occasionally be made
+on the basis of low-quality (C) evidence. A full explanation of the GRADE approach has been presented to the
+vascular surgery community.5-7 The Committee reached
+consensus about all the recommendations and the level
+of supporting evidence. These guidelines will require periodic updates to become a “living document” that will
+be modiﬁed as techniques are further reﬁned, technology develops, medical therapy improves, and new data
+emerge.
+
+10S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Evidence synthesis. The Committee commissioned a
+systematic review of MEDLINE, Embase, Cochrane databases, and Scopus that had wide inclusion criteria. The
+review included studies with 10 patients or more that reported outcomes of patients with visceral artery aneurysm treated with an open or endovascular approach.
+Studies were comparative or noncomparative but had
+to have longitudinal follow-up and to evaluate an
+outcome of interest (mortality, need of reintervention,
+myocardial infarction, stroke, end-organ ischemia, endorgan infarction, deep venous thrombosis, pulmonary
+embolism, postembolization syndrome, respiratory
+complications, gastrointestinal complications, coil
+migration, post-endovascular aortic repair rupture,
+rupture during intervention, or wound complications [eg,
+surgical site infection]). The systematic review eventually
+summarized data from 80 observational studies that
+were mostly noncomparative. Data were available on
+2845 aneurysms (1279 renal artery; 775 splenic artery; 359
+hepatic artery; 226 pancreaticoduodenal and gastroduodenal arteries; 95 superior mesenteric artery; 87 celiac
+artery; 15 jejunal, ileal, and colic arteries; 9 gastric and
+gastroepiploic arteries).8
+A methodology group independently selected and
+appraised studies and subsequently collaborated with
+the committee to integrate evidence into recommendations. The Committee provided additional references
+and monitored the literature for new evidence emerging
+after the original search.
+
+RENAL ARTERY ANEURYSM (RAA)
+
+obtained for unrelated reasons. In a multicenter study,
+CTA (58%) was the most commonly used modality for
+the diagnosis and evaluation of RAAs, followed by noncontrast-enhanced CT (24%), MRA (6%), catheter angiography (5%), and ultrasound (4%).14 CTA with multiplanar,
+maximal intensity projection reconstruction, volume
+rendering, and three-dimensional reconstructions better
+assess the arterial anatomic details of the renal arteries at
+all branch levels, including intrapelvic and intraparenchymal locations.15-17 Thickness sections of 1 mm, if available,
+should be favored for better anatomic deﬁnition.
+Furthermore, the three-dimensional reconstructions
+may give a better representation of the number and relation of all involved branches compared with twodimensional catheter angiography or ultrasound.
+In certain patients, compromised renal function puts
+them at increased risk of contrast-induced nephropathy.
+In an effort to avoid the nephrotoxic effects of iodinated
+contrast agents, non-contrast-enhanced MRA has been
+used to assess the renal arteries. MRA can be performed
+with a “breath-hold” steady-state free precession
+sequence or time-spatial labeling inversion pulse technique. Studies evaluating steady-state free precession sequences have shown excellent concordance as well as
+interobserver agreement with contrast-enhanced
+MRA.18,19 Furthermore, time-spatial labeling inversion
+pulse non-contrast-enhanced MRA has also shown
+promise compared with contrast-enhanced CTA with
+74% sensitivity, 93% speciﬁcity, and 90% accuracy.20
+Whereas contrast-enhanced ultrasound has been used
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of RAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients who are thought to have RAA, we recommend CTA as the diagnostic
+tool of choice, with 1-mm-thickness sections if available.
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+In patients who are thought to have RAA and have increased radiation exposure
+risks or renal insufﬁciency, we recommend non-contrast-enhanced MRA to
+establish the diagnosis (Grade 1C).
+
+1 (Strong)
+
+C (Low)
+
+1 (Strong)
+
+C (Low)
+
+Technical remark: Non-contrast-enhanced MRA is best suited to children and
+women of childbearing potential or those who have contraindications to CTA
+or MRA contrast materials (ie pregnancy, renal insufﬁciency, or gadolinium
+contrast material allergy).
+1.3
+
+If preoperative planning and recognition of distal renal artery branches cannot be
+adequately assessed on conventional cross-sectional imaging (CTA), we
+recommend the use of catheter-based angiography.
+
+RAAs occur in approximately 0.1% of the population,
+although the absolute incidence is unknown.9 Autopsy
+studies are likely to underestimate RAA incidence at
+0.01% to 0.09%,10,11 whereas angiographic studies are
+likely to overestimate this at 0.73% to 0.97%.12,13 Overall,
+RAAs are most commonly identiﬁed on imaging
+
+in the evaluation of RAAs, this technique has not been
+compared with other invasive and noninvasive angiographic techniques and is operator dependent.21 MRA
+may also be considered in young patients and for routine
+surveillance to decrease the risk of radiation-induced
+malignant transformation with cumulative exposure.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+11S
+
+Volume 72, Number 1S
+
+Whereas three-dimensional CTA is the diagnostic tool
+of choice for RAAs, the anatomic association of multiple
+renal arteries may limit the surgeon’s ability to plan a
+successful endovascular treatment. In such cases, preoperative three-dimensional rotational catheter-based
+angiography may be of great beneﬁt in planning optimal
+working angles.22 Furthermore, three-dimensional rotational catheter-based angiography has been shown to
+be advantageous compared with two-dimensional catheter-based angiography in 75% of cases in evaluating the
+neck, feeding arteries, and relationship between
+branches of RAA.23
+The ability of CTA to assess microaneurysms of the
+distal renal vasculature may also be limited even with
+comprehensive renal-speciﬁc CT protocols. This is due
+to the rapid background enhancement of the renal parenchyma of the cortex.24 In such cases, CTA may show
+parenchymal infarcts or extrarenal hematomas, consistent with distal microaneurysmal disease as seen in cases
+of polyarteritis nodosa. However, catheter-based angiography
+is
+better
+to
+directly
+visualize
+distal
+microaneurysms.25
+
+several series support no incidence of rupture during
+the surveillance of nonoperative RAAs out to
+270 months.9,14,30,35-39 Most recent estimates suggest a
+median annualized growth rate of 0.06 to
+0.6 mm.14,39,40 The most recent and largest multiinstitutional retrospective series of nonoperative RAA
+surveillance found no difference in growth rate based
+on aneurysm morphology or calciﬁcation.14 These authors also reported the successful surveillance of 88 aneurysms measuring 2 to 3 cm and 7 aneurysms
+measuring >3 cm without complication or rupture.
+The revised 3-cm size threshold for repair is based on
+limited literature, however, making this a Grade 2C
+conditional recommendation where variation in care
+is acceptable on the basis of individualized clinical decision-making.
+It is unclear based on the current literature whether
+branch aneurysms or saccular aneurysms behave differently, but classic teaching associates such aneurysm
+morphology with a more aggressive risk of rupture. As
+such, they might merit invasive treatment regardless of
+size.
+
+2. Size criteria and alternative indications for intervention
+Recommendations for indications for intervention in RAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2.1
+
+In patients with noncomplicated RAA of acceptable operative risk, we suggest
+treatment for aneurysm size >3 cm.
+
+2 (Weak)
+
+C (Low)
+
+2.2
+
+We recommend emergent intervention for any size RAA resulting in patient symptoms
+or rupture.
+
+1 (Strong)
+
+B (Moderate)
+
+2.3
+
+In patients of childbearing potential with noncomplicated RAA of acceptable operative
+risk, we suggest treatment regardless of size.
+
+2 (Weak)
+
+B (Moderate)
+
+2.4
+
+In patients with medically refractory hypertension and functionally important renal
+artery stenosis, we suggest treatment regardless of size.
+
+2 (Weak)
+
+C (Low)
+
+Previous guidelines have suggested the repair of most
+visceral artery aneurysms >2 cm in maximum diameter.26 Whereas no prospective or randomized trial
+directly compares operative repair of intermediate
+RAAs >2 cm with surveillance, the natural history of
+these aneurysms appears more benign than historic
+rates have suggested, with lower associated risks of
+rupture, slow to null rates of growth, and improved survival after rupture apparent from more contemporary
+series.
+The natural history of RAAs appears to be that of slow or
+no growth.27 Contemporary reports do not support historic series that described rupture rates as high as 14%
+to 30% with associated mortality of 80%.9,28,29 Modernday rupture rates are estimated at 3% to 5%, with nongestational mortality improved to <10%.9,30-34 Most ruptures are diagnosed at the time of presentation, and
+
+Ruptured RAAs are associated with a mortality of
+approximately 10% in the general population and
+maternal and fetal death in 55% and 85%, respectively.37,41 Emergent surgery is required to prevent exsanguination; aortic control may be necessary. In many
+cases, renal artery reconstruction and renal salvage may
+not be feasible, and thus nephrectomy should be
+considered.
+Pregnancy has been associated with increased risk and
+rates of rupture, presumptively secondary to hemodynamic changes and increased vascular volume and
+ﬂow during pregnancy, abdominal pressure changes
+secondary to mass effect from the gravid uterus, and hormonal changes that may disrupt the vessel wall.27,41-43
+Pregnancy-associated rupture appears to complicate
+the third trimester in most cases, with postpartum
+rupture infrequently referenced in case reports only.44,45
+
+12S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Whereas no large-scale studies detail the true incidence
+of gestational renal aneurysm rupture, in a series of
+180,000 pregnancies brought to term, no ruptures were
+identiﬁed.46 Despite this, small aneurysm size (ie, 1 cm)
+at rupture and high historic rates of maternal and fetal
+mortality that approximate 56% to 92% and 82% to
+100%, respectively, support the more aggressive treatment of RAAs in women of childbearing potential.36,41,47
+Contemporary outcomes for both mother and fetus
+may be improving as there are reports of gestational
+rupture with both maternal and fetal survival.44,48
+Two-thirds of patients with RAA also have
+hypertension.9,31,36,37,39,40,49-52 Clinically relevant renal artery stenosis is present in 7% to 66% of patients with RAA
+across series, and although renal artery occlusive disease
+is not evidenced in all RAA patients with hypertension, it
+does remain a valid indication for intervention. Whereas
+the mechanism driving hypertension in RAA patients remains elusive, additional hypotheses include distal parenchymal embolization, compression or kinking of
+associated renal artery branches, and hemodynamic
+changes from turbulent blood ﬂow within the aneurysm
+resulting in decreased distal renal artery perfusion
+pressures.9,27,49,53,54 Whatever the etiology, most series
+suggest improvement or cure in the majority of hypertensive patients undergoing RAA reconstruction, particularly
+if renovascular hypertension is identiﬁed during the
+preoperative workup.14,31,32,36-39,49,51,52,55 Martin et al36
+evaluated for renovascular hypertension preoperatively
+and demonstrated that 100% of those operated on
+with documented renovascular hypertension improved
+or were cured of hypertension, whereas only 60% of
+those with an unremarkable workup for stenosis were
+cured or improved. Pfeiffer et al50 similarly noted a
+differential
+improvement
+in
+hypertension
+after
+aneurysm repair in those with documented renal artery
+stenosis (67%) in comparison to those without
+stenosis (29%).
+
+Distal parenchymal embolization has been described
+in 8% to 11% of patients with RAA and may be associated
+with the presence of mural thrombus within the aneurysm sac.49,50 Duplex ultrasound may demonstrate evidence of microembolization, although elevated
+resistance in this setting may be difﬁcult to differentiate
+from nephrosclerosis.27
+The variable conventional in situ reconstructions available include aneurysm resection with primary angioplastic closure (with or without branch reimplantation),
+patch angioplasty, primary reanastomosis, interposition
+bypass, aortorenal bypass, splanchnic-renal bypass, and
+plication of small aneurysms. Surgery consistently offers
+low elective mortality rates that approach 0% across series.14,32,34,37-39,49,51,56-58 Perioperative morbidity is not
+insigniﬁcant and is mainly reported <20% after in situ
+reconstruction, and secondary nephrectomy rates,
+when reported, are 0% to 21%.14,31,32,34,37-39,49,51 In addition, the reported durable primary patency rates (93%100%) are of utmost importance in light of the young
+age of many patients and excellent projected longterm survival that averages 90% at 10 years.31,32,49,59
+The technical approach selected should be dictated
+entirely by the patient’s arterial and aneurysmal anatomy.
+Whereas there are no prospective or randomized
+data comparing open surgical techniques, Henke et al37
+noted no difference in long-term event-free outcome
+of patients undergoing aneurysmectomy with angioplastic closure or aneurysmectomy with bypass, with
+mean life span calculated at 108 and 130 months,
+respectively. Pfeiffer et al50 demonstrated superior
+patency rates for angioplastic repairs in comparison
+to those reconstructions requiring saphenous vein
+interposition (100% vs 73%). Moreover, this technique
+yields no recurrent aneurysmal degeneration with
+follow-up.37,50 Whereas cooled (4 ) renal perfusion
+supplemented with mannitol or prostaglandin E has
+been advocated by several authors either routinely or
+
+3. Treatment options
+Recommendations for treatment of RAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+We suggest daily antiplatelet therapy (ie, low-dose aspirin) for patients with RAA.
+
+2 (Weak)
+
+C (Low)
+
+3.2
+
+We suggest open surgical reconstructive techniques for the elective repair of most
+RAAs in patients with acceptable operative risk.
+
+2 (Weak)
+
+B (Moderate)
+
+3.3
+
+We suggest ex vivo repair and autotransplantation for complex distal branch
+aneurysms over nephrectomy when it is technically feasible.
+
+2 (Weak)
+
+B (Moderate)
+
+3.4
+
+We suggest endovascular techniques for the elective repair of anatomically appropriate
+RAAs to include stent graft exclusion of main RAAs in patients with poor operative
+risk and embolization of distal and parenchymal aneurysms.
+
+2 (Weak)
+
+B (Moderate)
+
+3.5
+
+We suggest consideration of laparoscopic and robotic techniques as an interventional
+alternative based on institutional resources and surgeon experience with minimally
+invasive techniques.
+
+2 (Weak)
+
+C (Low)
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+13S
+
+Volume 72, Number 1S
+
+when >30 to 40 minutes of warm renal ischemia is
+anticipated to reduce the risk of acute tubular necrosis,
+there are no prospective or randomized data to support this practice.37,49,50,60
+Although historically treated with nephrectomy, current data support that complex distal branch lesions
+are best approached with ex vivo repair and autotransplantation. The largest series of such follow.
+Murray et al61 have described a 92% success rate with
+in situ bifurcation and ex vivo multibranch replacement with branched and unbranched internal iliac artery autograft in 12 patients without mortality or major
+morbidity. Gallagher et al62 reported on seven ex vivo
+reconstructions after laparoscopic nephrectomy for
+complex aneurysmal disease to avoid incisional
+morbidity; these authors described excellent technical
+success, no mortality, no ureteral morbidity, and 28%
+incidence of perioperative morbidity. Chandra et al38
+compared in situ and ex vivo reconstructions for renal
+aneurysm across 10 patients and noted no signiﬁcant
+difference in hospital length of stay, morbidity (20%),
+mortality (null), or need for reoperation at follow-up.
+In addition, 100% of reconstructions were patent by
+imaging obtained during the ﬁrst year of follow-up.
+Case reports and small series that suggest indications
+for endovascular repair have broadened with the introduction of three-dimensional detachable coils, nonadhesive liquid embolic agents (eg, Onyx [Medtronic,
+Irvine, Calif]), remodeling techniques (which include
+balloon- and stent-assisted coiling), and ﬂow diverter
+stents (eg, the Cardiatis multilayer stent [Cardiatis,
+Isnes, Belgium]), although traditional endovascular
+therapies have simply used embolization techniques
+for distal and parenchymal aneurysms and stent graft
+exclusion for main renal artery lesions.63-70 Technical
+success across larger series is reported as 73% to
+100%, with highly variable rates of morbidity (13%-
+
+Prospective comparisons of open and endovascular
+therapies for RAA are needed, although the feasibility
+of such a trial is limited primarily by the low frequency
+of this pathologic process. To this end, there have been
+retrospective comparisons. A recent statewide database
+review identiﬁed 215 patients who underwent RAA repair
+between 2000 and 2006.33 These authors noted a significant increase in the number of RAA repairs with a stable
+number of open repairs and an increase in the number
+of endovascular repairs. Analysis of in-hospital outcome
+events revealed similar mortality rates (1.1% endovascular
+vs 3.3% open) and variable patterns of perioperative
+morbidity; open repair was associated with more cardiac
+(P ¼ .053) and infectious (P ¼ .053) complications,
+whereas endovascular repair was associated with more
+hemorrhagic complications (P ¼ .08), presumed to be
+access related. Importantly, a signiﬁcant reduction in
+median hospital length of stay and need for postdischarge nursing services was identiﬁed in the endovascular cohort accompanied by a trend toward lower cost.
+Additional retrospective comparisons of open and endovascular procedures have reported no signiﬁcant difference in mortality, perioperative morbidity, freedom
+from reintervention, or decline in renal function and the
+beneﬁt of a shortened length of stay.2,14,34
+Robot-assisted laparoscopy techniques for RAA repair
+have only more recently been described.77-80 This
+approach typically requires a multidisciplinary collaborative procedural team of vascular, general, transplantation, and urology surgeons. The dexterity of the robotic
+arms reportedly confers a technical advantage to complex aneurysmectomy and intracorporeal vascular suturing for reconstruction. Technical success has been
+reported in case series with warm ischemia times between 15 and 60 minutes; however, a direct comparison
+to open and endovascular techniques has yet to be
+performed.77,78,80
+
+4. Additional screening
+Recommendations for treatment of RAA
+Recommendation
+4.1
+
+We suggest screening female patients with RAA for ﬁbromuscular dysplasia
+with a focused history and one-time axial imaging study (ie, CTA or MRA) to
+assess for cerebrovascular, mesenteric, and iliac artery dysplasia.
+
+60%) that include mainly evidence of end-organ malperfusion radiographically from thromboembolism
+and subsequent postembolectomy syndrome.6,34,71-75
+Midterm follow-up is available out to 3 to 4 years in
+certain series.72,74,76 Access-related complication, arterial dissection, and renal compromise are uncommon,
+and low rates of recanalization have been observed
+requiring reintervention (4%-13%).6,71-75
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+C (Low)
+
+RAAs are associated with ﬁbromuscular dysplasia in up
+to 68% of cases and concomitant arterial aneurysms
+affecting the aorta and visceral and iliac vessels in 7%
+to 30% of cases.14,31,34,36,37,39,40,50,51,58 The most recent scientiﬁc statement from the American Heart Association
+recommends a focused vascular review of symptoms
+for all patients diagnosed with ﬁbromuscular dysplasia,
+with an emphasis on quality of life-impairing symptoms
+
+14S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+like migraine headache, tinnitus, and neck pain.81 In
+addition, one-time screening for occult aortic or arterial
+aneurysm in these patients is recommended.
+
+diagnosis of incidental SAAs in the United States is primarily related to the liberal use of cross-sectional imaging studies.84 Most SAAs currently are detected
+
+5. Follow-up and surveillance
+Recommendations for treatment of RAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+5.1
+
+We suggest completion imaging after open surgical reconstruction for RAA, before
+hospital discharge, by way of axial imaging with CTA or MRA or arteriography in select
+cases, and long-term follow-up with surveillance imaging.
+
+2 (Weak)
+
+C (Low)
+
+5.2
+
+For patients managed nonoperatively, we suggest annual surveillance imaging until
+two consecutive studies are stable; thereafter, surveillance imaging may be extended
+to every 2 to 3 years
+
+2 (Weak)
+
+B (Moderate)
+
+Most earlier series advocate completion imaging before
+hospital discharge by way of arteriography or ultrasound.
+In the more modern era, this can probably be replaced
+with axial imaging with CTA or MRA, obviating the limitations of ultrasound in the postoperative period and the
+invasiveness of angiography and long-term follow-up
+with surveillance imaging.9,31,37,49,50,61
+The natural history of RAAs appears to be that of slow to
+null growth. Most recent estimates suggest a median
+annualized growth rate of 0.06 to 0.6 mm.14,39,40 The
+most recent and largest multi-institutional retrospective
+series of nonoperative RAA surveillance found no difference in growth rate based on aneurysm morphology or
+calciﬁcation.14 Whereas short-term follow-up at 1 year remains prudent for a newly diagnosed RAA, longer intervals between surveillance imaging may be appropriate,
+provided the patient’s compliance with follow-up can
+be ensured.
+
+SPLENIC ARTERY ANEURYSM (SAA)
+
+incidentally during diagnostic imaging performed for
+other indications.83 Whereas plain radiography, ultrasound, CT, MRA, and arteriography have identiﬁed
+SAAs, CTA remains the initial diagnostic and evaluative
+tool of choice.83
+CTA is an important imaging modality for the vascular
+system and has been established as the method of
+choice for the diagnosis, treatment planning, and
+follow-up of most diseases of the abdominal arteries
+including the aorta and visceral vessels. Besides being
+able to assess the location and size of the SAA, CTA
+may also reveal rupture, intra-abdominal hemorrhage,
+and associated underlying diseases. In addition, nearly
+all necessary data for planning endovascular treatment
+can be obtained by multidimensional CTA.83 Ultrasound
+examination of visceral vessels is inhibited by shadowing
+from bowel gas as well as by obesity; however, its sensitivity to detect SAA <3 cm is poor.83,85 MRA may certainly
+play a role in patients in whom CTA is contraindicated.
+However, in 2006, Pilleul et al86 compared the use of
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of SAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+We recommend CTA as the initial diagnostic tool of choice for SAAs, with 1-mmthickness sections if available.
+
+1 (Strong)
+
+C (Low)
+
+1.2
+
+In patients with suspected SAAs and pre-existing renal insufﬁciency limiting the
+use of iodinated contrast material, we recommend MRA to establish diagnosis.
+
+1 (Strong)
+
+C (Low)
+
+1.3
+
+We recommend using arteriography when noninvasive studies have not
+sufﬁciently demonstrated the status of relevant collateral blood ﬂow and when
+endovascular intervention is planned.
+
+1 (Strong)
+
+B (Moderate)
+
+Although they were once thought to be uncommon,
+splenic and other visceral artery aneurysms are being
+diagnosed with increasing frequency with the use of
+advanced imaging techniques.82,83 The increasing
+
+MRA and CTA for the analysis of splanchnic aneurysms
+and thought that the sensitivity of MRA was suboptimal
+in the case of small aneurysms.
+Formal arteriography may rarely be necessary for preinterventional planning when noninvasive studies have not
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+15S
+
+Volume 72, Number 1S
+
+sufﬁciently demonstrated the status of relevant anatomy or
+collateral blood ﬂow. However, it is most frequently performed at the time of a planned endovascular intervention.
+
+pseudoaneurysms are at increased risk for rupture
+and that diameter is not necessarily a reliable predictor
+of rupture.92
+
+2. Treatment indications, size criteria, and true vs false aneurysms
+Recommended criteria for invasive intervention for SAA
+Strength of
+recommendation
+
+Recommendation
+
+Quality of
+evidence
+
+2.1
+
+We recommend emergent intervention for ruptured SAAs.
+
+1 (Strong)
+
+A (High)
+
+2.2
+
+We recommend treatment of nonruptured splenic artery pseudoaneurysms of any size
+in patients of acceptable risk because of the possibility of rupture.
+
+1 (Strong)
+
+B (Moderate)
+
+2.3
+
+We recommend treating nonruptured splenic artery true aneurysms of any size in
+women of childbearing age because of the risk of rupture.
+
+1 (Strong)
+
+B (Moderate)
+
+2.4
+
+We recommend treating nonruptured splenic artery true aneurysms $3 cm, with a
+demonstrable increase in size, or with associated symptoms in patients of acceptable
+risk because of the risk of rupture.
+
+1 (Strong)
+
+C (Low)
+
+2.5
+
+We suggest observation over repair for small (<3 cm), stable asymptomatic splenic
+artery true aneurysms or those in patients with signiﬁcant medical comorbidities or
+limited life expectancies.
+
+2 (Weak)
+
+C (Low)
+
+The natural history of visceral aneurysms and their potential for rupture or other complications are relatively
+poorly deﬁned because of their overall scarcity. However,
+it is clear even from the numerous case series in the literature that a signiﬁcant proportion of visceral artery aneurysms present with rupture; therefore, a relatively
+aggressive approach to their diagnosis and management
+certainly seems warranted. The overall mortality of
+ruptured SAAs is as high as 25%.87
+SAAs in young women are thought to have a particular
+tendency toward rupture, especially during the third
+trimester of pregnancy.88 Pregnancy may be associated
+with 20% to 50% of all ruptures.89 Rupture of an SAA
+during pregnancy has devastating maternal and fetal
+mortality rates of 80% and 90%, respectively.90,91
+Depending on the entirety of vessel wall involvement,
+SAAs can be subdivided into true aneurysms or pseudoaneurysms.
+Splenic
+artery
+pseudoaneurysms
+certainly have a higher rupture potential than true aneurysms. Furthermore, some evidence suggests that
+pseudoaneurysms display relatively rapid growth rates,
+implicating a focus on early intervention regardless of
+size. In the series by Tulsyan et al,1 in which 48 visceral
+aneurysms were treated, 80% of 28 pseudoaneurysms
+were symptomatic at presentation as opposed to
+30% of 20 true aneurysms. Pitton et al92 reported a review of 233 patients with 253 visceral artery aneurysms.
+The rate of rupture at presentation was noted to be
+signiﬁcantly higher in visceral pseudoaneurysms than
+in true aneurysms (76.3% vs 3.1%). There were 35 ruptures in their series. There was no signiﬁcant difference
+in size between ruptured and nonruptured visceral aneurysms. The authors concluded that visceral
+
+Nevertheless, several large case series of SAA management have included an observation cohort with acceptable results.93-95 General guidelines state that true
+SAAs <3 cm, asymptomatic, and showing little or no
+growth can be safely observed and monitored with serial
+imaging studies. As indicated before, splenic artery pseudoaneurysms and SAAs in women who are either pregnant or of childbearing age should be treated
+regardless of size.90,96 There is no ﬁrm evidence to
+show that aneurysm calciﬁcation protects against
+growth or rupture, but calciﬁed SAAs may be associated
+with smaller size at initial diagnosis.94
+A large review was reported from the Mayo Clinic
+involving 217 patients with SAAs. Of these patients, 168
+underwent nonoperative management for a mean
+period of 75 months.95 The mean size in the nonoperative group was 2.1 cm with a range from 0.8 to 5 cm in
+diameter. Approximately half of these aneurysms were
+monitored with serial imaging, of which only 10% were
+noted to have growth averaging 0.06 cm/y. No rupture
+or other complications related to the SAAs occurred,
+and only 3 of the original 168 required eventual intervention because of aneurysm growth. Similar results were reported by Lakin et al94 in review of the Cleveland Clinic
+experience of 128 SAAs managed during a 15-year period.
+This observational cohort of 66 SAAs had a mean size of
+1.7 cm at presentation with a range from 0.8 to 4.2 cm.
+Serial imaging was available for 94% of the aneurysms,
+and these patients received an average of 2.5 CT scans
+during 4.6 years of follow-up. The average growth rate
+was a nominal 0.2 mm/y during 3.1 years of follow-up.
+There were again no ruptures or other complications
+attributed to the aneurysms in the observed group.
+
+16S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Observation of small, <3-cm, true aneurysms therefore
+seems an appropriate approach except in women of
+childbearing age.
+Additional suggested indications for intervention in
+SAAs include patients with portal hypertension, patients
+who may require liver transplantation, patients whose
+aneurysm has a nonatherosclerotic or nondegenerative
+cause, and patients whose aneurysm demonstrates interval growth >0.5 cm/y.97
+
+performed operation. This is clearly required when the
+aneurysm involves intrasplenic branches within the
+splenic parenchyma. Distal pancreatectomy may occasionally be warranted in treatment of these distal lesions
+as well.98,99 Laparoscopic repair of SAA by clipping or
+exclusion has been reported; intraoperative ultrasound
+is believed to be an important adjunct to this procedure.100 Combined laparoscopic occlusion and coil embolization has been proposed as a treatment method for
+
+3. Treatment options
+Recommendations for treatment of SAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+In patients with ruptured SAA discovered at laparotomy, we suggest treatment with
+ligation with or without splenectomy, depending on the aneurysm location.
+
+2 (Weak)
+
+B (Moderate)
+
+3.2
+
+In patients with ruptured SAA diagnosed on preoperative imaging studies, we suggest
+treatment with open surgical or appropriate endovascular techniques based on the
+patient’s anatomy and underlying clinical condition.
+
+2 (Weak)
+
+B (Moderate)
+
+3.3
+
+We suggest elective treatment of SAA using an endovascular approach if it is
+anatomically feasible. However, elective treatment may appropriately involve open
+surgical, endovascular, or laparoscopic methods of intervention, depending on the
+patient’s anatomy and underlying clinical condition.
+
+2 (Weak)
+
+B (Moderate)
+
+3.4
+
+In treatment of SAA, we suggest that the splenic artery does not routinely require
+preservation or revascularization.
+
+2 (Weak)
+
+C (Low)
+
+3.5
+
+In treatment of distal SAA adjacent to the hilum of the spleen, we suggest open
+surgical techniques including possible splenectomy as opposed to endovascular
+methods, given concern for the possibility of end-organ ischemia, including splenic
+infarction and pancreatitis.
+
+2 (Weak)
+
+C (Low)
+
+3.6
+
+In pregnant women with SAA, treatment decisions should be individualized regardless
+of size, and the potential morbidity to both the mother and fetus should be
+considered.
+
+Ungraded best practice
+statement
+
+Treatment of SAA can generally be accomplished by
+either open surgical or endovascular approaches. In
+areas of the visceral circulation with an abundance of
+collateral ﬂow, as in the splenic artery, proximal and
+distal ligation of the aneurysm segment is a viable surgical option. This can also be accomplished with endovascular isolation of the aneurysmal segment, either by
+placement of a stent graft or by coil embolization of
+the proximal and distal arterial segment. The preferred
+treatment of an individual patient and aneurysm must
+be carefully based on the particular anatomy and any
+associated clinical conditions as well as the underlying
+condition of the patient.
+The traditional surgical management of SAA includes
+proximal and distal ligation and aneurysmectomy for lesions in the proximal or middle portion of the splenic artery. Revascularization of the distal splenic artery is
+generally not warranted because collateral ﬂow to the
+spleen is maintained by the short gastric arteries. For
+more distal lesions adjacent to the splenic hilum and
+for mycotic aneurysms, excision with or without splenectomy has traditionally been the most commonly
+
+aberrant SAA located in the retropancreatic position, in
+which traditional surgical exposure would be exceedingly difﬁcult.101
+Endovascular approaches to managing visceral artery
+aneurysms offer the beneﬁt of low procedural morbidity
+and mortality and are generally considered to be the
+preferred initial approach to most anatomically suitable
+visceral aneurysms considered appropriate for intervention.1 Endoluminal ablation of SAAs has been shown in
+multiple reported series to be highly technically successful, but there is some concern of end-organ malperfusion
+and aneurysm reperfusion during follow-up.1,102
+Endovascular treatment options include coil embolization of the splenic artery both proximal and distal to the
+aneurysm itself, effectively “trapping” the lesion. Other
+options for a saccular-type aneurysm include embolization of the aneurysm sac itself with coils or cyanoacrylate
+glue and occlusion of the lesion with percutaneous or
+open thrombin injection.103 In addition, stent grafting
+has been performed, particularly for saccular lesions of
+the mid splenic artery. There has been concern about
+splenic infarction or pancreatitis when embolization of
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+17S
+
+Volume 72, Number 1S
+
+very distal splenic artery lesions has been performed.104,105
+In a review of 48 endovascular procedures for visceral artery pseudoaneurysms, 20 interventions on the splenic artery were performed.1 Six end-organ infarcts in this series
+were identiﬁed; all were within the splenic bed. Two additional patients displayed splenic atrophy on CT scanning
+after prior embolization of the splenic artery, without
+obvious clinical evidence for initial splenic infarction. In
+another report, one episode of splenic infarction associated with severe pancreatitis was noted after embolization of a distal splenic artery lesion.105 However, other
+authors have noted splenic infarction after embolization
+of even more proximal SAAs as well.7
+Ruptured SAAs are challenging and represent a true surgical emergency. Patients should be expeditiously transferred to the operating room for exploratory laparotomy in
+the setting of hemodynamic collapse. Ligation of the
+splenic artery proximally and distally is required. Patients
+presenting with ruptured SAA are most often treated with
+concomitant splenectomy without vascular reconstruction.
+
+superior to open surgery in this model. However, the authors concluded that elderly patients should be considered for conservative therapy, given the small
+incremental beneﬁt and high cost. An open surgical
+approach may remain appropriate in cases of rupture
+and pregnancy-related SAAs107 as well as in the setting
+of mycotic aneurysms.
+Patients undergoing urgent ligation of SAA or splenectomy should be vaccinated on or after postoperative day 14 to decrease the risk of overwhelming
+postsplenectomy sepsis due to organisms such as
+Streptococcus pneumoniae, Haemophilus inﬂuenzae
+type B, and Neisseria meningitidis. Patients undergoing elective repair of SAA who are at risk of splenic
+loss if the splenic artery cannot be preserved
+with planned embolization or with known preoperative anatomic challenges to stent grafting that
+could lead to fallback embolization should be
+considered for vaccination at least 14 days BEFORE
+intervention.
+
+4. Screening
+Recommendations for screening of patients with SAA
+Recommendation
+4.1
+
+We suggest screening of patients with SAAs for other intra-abdominal, intrathoracic,
+intracranial, and peripheral artery aneurysms.
+
+The immediate beneﬁts associated with endovascular
+intervention include local anesthesia, shorter hospital
+stay, and faster recovery. Drawbacks to endovascular
+therapy include end-organ embolization and a relatively higher rate of failure compared with open surgery. Last, patients with splenic artery ablation for
+SAA can develop postembolization syndrome with
+ongoing pain, fevers, and other systemic symptoms.
+Complete exclusion of ﬂow within the aneurysm sac
+occurred in 97% of interventions with follow-up imaging in the Cleveland Clinic experience. In the Mayo
+Clinic experience, initial intervention was successful
+98% of the time. Coiling was used alone in 75% of
+the cases and in combination with at least one other
+technique in 11% of cases.
+The risk of end-organ ischemia appears to be an especially salient concern pertaining to endovascular repair.
+Some authors have concluded that patients with aneurysmal disease at the splenic hilum may be better
+managed with open repair and splenectomy.105
+A study using a Markov decision model compared open
+surgery vs endovascular repair vs conservative therapy for
+a patient with SAA.106 Endovascular repair was found to
+be associated with highest quality of life and to be the
+most cost-effective strategy for most groups, and it was
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+B (Moderate)
+
+SAAs may be multiple and may be found in association
+with other visceral and nonvisceral aneurysms. In a review of 212 cases of SAAs seen during a two-decade
+period at a single institution, 3.3% of patients were found
+to have concomitant visceral aneurysms, with the most
+common location being extrahepatic (2.3%) and additionally including aneurysms in the celiac, superior
+mesenteric, gastric, and pancreaticoduodenal territories.108 In addition, 14.3% of patients were found to
+have concomitant nonvisceral aneurysms, with the
+most common location being renal (7.4%) and abdominal aortic (3.7%) and additionally including aneurysms
+in the carotid, intracerebral, thoracic aortic, and popliteal
+territories.108
+SAAs selected for conservative management with
+observation require surveillance to assess for progression
+and size growth. The mode of assessment and the
+appropriate imaging technique depend on the visibility
+of the aneurysm to the various imaging techniques available.84 CT or ultrasound should be performed every
+12 months; CT is generally preferred because of the
+detailed cross-sectional imaging provided, and it can
+be done with or without contrast enhancement.84
+This strategy appears to be safe on the basis of the literature described earlier from the Mayo Clinic94 and the
+
+18S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+5. Surveillance and follow-up
+Recommendations for surveillance and follow-up of SAA patients
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+5.1
+
+In patients in whom an SAA is being observed with a nonoperative or noninterventional
+approach, we suggest annual surveillance with CT or ultrasound to assess for growth
+in size.
+
+2 (Weak)
+
+B (Moderate)
+
+5.2
+
+After endovascular intervention for SAAs, we suggest periodic surveillance with CTA,
+ultrasound, or MRA to assess for the possibility of endoleak or aneurysm reperfusion
+that could lead to a continued risk of aneurysm growth or rupture.
+
+2 (Weak)
+
+B (Moderate)
+
+Cleveland Clinic.93 There were again no ruptures or other
+complications attributed to the aneurysms in the
+observed group.
+In the study of Saltzberg et al,105 a total of 38 visceral aneurysms were observed during a mean follow-up period
+of 31 months, including 5 celiac aneurysms and 25
+splenic aneurysms. The mean diameter in the observation group was 2 cm. No known ruptures or interventions
+occurred in the observation group, but complete followup was available in only 50% of the patients.
+
+Treatment failure including persistent perfusion, recanalization, and coil migration has been observed. The potential for early or late failure, such as growth in sac size
+or leak that would require reintervention, requires early
+and serial imaging follow-up.93,97 Because artifact due
+to the radiopaque materials used may make sensitive
+CT evaluation difﬁcult, some authors recommend
+contrast-enhanced ultrasound or MRI as follow-up imaging techniques.6,97
+
+CELIAC ARTERY ANEURYSM (CAA)
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of CAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+We suggest CTA as the initial diagnostic tool of choice for CAAs.
+
+2 (Weak)
+
+B (Moderate)
+
+1.2
+
+We suggest MRA in patients with suspected CAA and pre-existing renal insufﬁciency
+limiting the use of iodinated contrast material.
+
+2 (Weak)
+
+B (Moderate)
+
+1.3
+
+We suggest arteriography when noninvasive studies have not sufﬁciently demonstrated
+the status of relevant collateral blood ﬂow or when endovascular intervention is
+planned.
+
+2 (Weak)
+
+C (Low)
+
+Continued surveillance, even after secondary technical
+success, is imperative as the natural history of visceral artery aneurysms after endovascular treatment remains
+unclear. This is especially true of saccular aneurysms
+treated with coil or thrombin embolization; unlike formal
+exclusion with a covered stent, these aneurysms are not
+technically “excluded” from arterial circulation. Indeed,
+sac thrombosis may not protect the aneurysm sac from
+pressure transmitted through thrombus, and eventual
+sac growth or rupture may still occur.109,110 Reports of
+reperfusion and even rupture after “successful” embolization of visceral aneurysms support the notion that a
+thrombosed aneurysm may not represent the deﬁnitive
+treatment in all cases.111,112 Other authors also noted
+that regular follow-up with duplex ultrasound or CT is
+necessary for patients with visceral aneurysms treated
+by embolization.113 The recanalization rates after endovascular intervention were 18% and 30%, respectively, in
+two reported series.111,114
+
+Although they were once thought to be uncommon,
+CAAs are being diagnosed with increasing frequency
+with the use of advanced imaging techniques.82,83 The
+increasing diagnosis of incidental visceral aneurysms in
+the United States is primarily related to the liberal use
+of cross-sectional imaging studies.84 Most visceral aneurysms currently are detected incidentally during diagnostic imaging performed for other indications.83
+Whereas plain radiography, ultrasound, CT, MRA, and
+arteriography have identiﬁed CAAs, CTA remains the
+initial diagnostic and evaluative tool of choice.83
+Besides being able to assess the location and size of the
+CAA, CTA may also reveal rupture, intra-abdominal hemorrhage, and associated underlying diseases as well as
+celiac axis stenosis, which should be systematically evaluated on axial imaging of patients with CAAs. In addition,
+nearly all necessary data for planning endovascular treatment can be obtained by multidimensional CTA.83
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+19S
+
+Volume 72, Number 1S
+
+Ultrasound examination of visceral vessels is inhibited by
+shadowing from bowel gas as well as by obesity; however, its sensitivity to detect CAA of <3 cm is poor.83,85 MRA
+may certainly play a role in patients in whom CTA is contraindicated. However, in 2006, Pilleul et al86 compared
+the use of MRA and CTA for the analysis of splanchnic aneurysms and believed that the sensitivity of MRA was
+suboptimal in the case of small aneurysms.
+Formal arteriography may rarely be necessary for preinterventional planning when noninvasive studies have not
+sufﬁciently demonstrated the status of relevant anatomy
+or collateral blood ﬂow. However, it is most frequently
+performed at the time of a planned endovascular
+intervention.
+
+that CAAs after spontaneous dissection behave differently,
+and no distinct recommendation for this subgroup can be
+made. Similarly, patients with post-stenotic dilation of the
+celiac artery due to compression by the median arcuate
+ligament have a different pathologic process and require
+individualized decision-making. They should be treated
+conservatively unless they become symptomatic or are
+determined to have true aneurysmal degeneration.
+Like other visceral aneurysms, pseudoaneurysms of the
+celiac artery appear more prone to rupture than true aneurysms, and most authors recommend treatment of all
+visceral pseudoaneurysms in any anatomic territory. In
+the series by Tulsyan et al1 in which 48 visceral aneurysms
+were treated, 80% of 28 pseudoaneurysms were symp-
+
+2. Treatment indications, size criteria, and true vs false aneurysms
+Recommended intervention criteria for CAA
+Strength of
+recommendation
+
+Recommendation
+
+Quality of
+evidence
+
+2.1
+
+We recommend emergent intervention for ruptured CAAs.
+
+1 (Strong)
+
+A (High)
+
+2.2
+
+We recommend treatment of nonruptured celiac artery pseudoaneurysms of any size
+in patients of acceptable operative risk because of the possibility of rupture.
+
+1 (Strong)
+
+B (Moderate)
+
+2.3
+
+We recommend treatment of nonruptured celiac artery true aneurysms >2 cm, with a
+demonstrable increase in size, or with associated symptoms in patients of acceptable
+risk because of the risk of rupture.
+
+1 (Strong)
+
+C (Low)
+
+2.4
+
+We suggest observation over intervention for small (<2 cm), stable asymptomatic CAAs
+or those in patients with signiﬁcant medical comorbidities or limited life expectancy.
+
+2 (Weak)
+
+C (Low)
+
+Numerous case reports and series in the literature have
+shown that a signiﬁcant proportion of CAAs present with
+rupture. Therefore, an aggressive approach to their diagnosis and management certainly seems warranted. Reported mortality after ruptured CAA approaches 100%.
+CAAs appear to have a strong tendency to rupture with
+a resultant high mortality rate; it was reported that 33 of
+34 patients with CAA diagnosed in 1943 died of rupture.115
+The overall reported risk for rupture appears to range
+from 10% to 20%.116,117 The majority of patients with
+CAA have been described as symptomatic at presentation, although occult asymptomatic aneurysms are
+more likely to be diagnosed radiologically in the current
+era. Rupture has been reported to occur in approximately 5% of celiac trunk aneurysms ranging from 15 to
+22 mm in diameter and in 50% to 70% of those that
+exceed 32 mm in diameter.118,119
+There are no absolute size criteria with which to direct
+the indication for treatment; however, treatment of lesions
+>2 cm seems appropriate. Despite this, in a reported series
+of 18 CAAs in which nonoperative management was performed in 8 asymptomatic patients, only one subsequent
+rupture was noted to occur.117 The other observed CAAs
+had no evidence of enlargement or rupture during a
+mean 91-month follow-up period.117 In patients with spontaneous dissection of the visceral arteries, aneurysmal
+degeneration is rare.120,121 There is no evidence to suggest
+
+tomatic at presentation as opposed to 30% of 20 true aneurysms. Pitton et al92 reported a review of 233 patients
+with 253 visceral artery aneurysms. The rate of rupture
+at presentation was noted to be signiﬁcantly higher in
+visceral pseudoaneurysms than in true aneurysms
+(76.3% vs 3.1%). There were 35 ruptures in their series.
+There was no signiﬁcant difference in size between
+ruptured and nonruptured visceral aneurysms. The authors concluded that visceral pseudoaneurysms are at
+increased risk for rupture and that diameter is not necessarily a reliable predictor of rupture.92
+In an additional series of 155 patients with visceral
+aneurysms, Guo et al122 found no signiﬁcant difference
+of the diameters between symptomatic and asymptomatic patients (36.9 vs 33.6 mm). Pseudoaneurysms
+were more common in the patients who presented
+with rupture. Symptomatic patients had a signiﬁcantly
+higher 30-day mortality.122 Celiac aneurysms were
+more likely to be in the symptomatic group, whereas
+splenic aneurysms were more likely to be in the
+asymptomatic group. Most of the ruptures were in
+pseudoaneurysms (80%).122 Of a total of eight celiac
+lesions, ﬁve were symptomatic. Tetreau et al123
+reviewed 112 patients with splanchnic aneurysms,
+including 44 splenic aneurysms and 6 celiac aneurysms. Of the celiac aneurysms, one was ruptured at
+a diameter of 17 mm.
+
+20S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+In the appropriate clinical scenario, speciﬁcally in patients with pancreatitis or infected pancreatic pseudocysts, coexisting CAAs should be suspected to be
+mycotic in nature. Although the literature is sparse in
+this subgroup, they should be excised regardless of size,
+given the high risk of progression to rupture.
+
+Aneurysmorrhaphy for isolated saccular lesions of the celiac artery has also been reported.87
+Endovascular approaches to managing CAAs offer the
+potential beneﬁt of low procedural morbidity and mortality and are generally considered to be the preferred
+initial approach to most anatomically suitable visceral an-
+
+3. Treatment options
+Recommendations for treatment of CAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+In patients with ruptured CAA discovered at laparotomy, we suggest ligation if
+sufﬁcient collateral circulation to the liver can be documented.
+
+2 (Weak)
+
+C (Low)
+
+3.2
+
+In patients with ruptured CAA diagnosed on preoperative imaging studies who
+are stable, we recommend treatment with open surgical or appropriate
+endovascular methods based on the patient’s anatomy and underlying clinical
+condition.
+
+1 (Strong)
+
+B (Moderate)
+
+3.3
+
+For the elective treatment of CAA, we suggest using an endovascular intervention
+if it is anatomically feasible. However, elective treatment may appropriately
+involve open surgical, endovascular, or laparoscopic methods of intervention,
+depending on the patient’s anatomy and underlying clinical condition.
+
+2 (Weak)
+
+B (Moderate)
+
+3.4
+
+To determine the need for revascularization of the celiac artery and its branches
+in treating CAA, we suggest evaluating the status of the superior mesenteric
+artery, gastroduodenal artery, and other relevant collateral circulation, which
+must be carefully documented on preoperative CTA or angiography.
+
+2 (Weak)
+
+B (Moderate)
+
+Historically, surgical treatment of CAAs was the only
+feasible option for management. Open surgical options
+included aneurysmectomy, aneurysmorrhaphy, aortoceliac or aortohepatic bypass, and ligation.98,116 The necessity of celiac or celiac branch revascularization depends
+on several factors, including the location of the aneurysm
+and the nature of the collateral mesenteric circulation.
+Simple ligation of the celiac artery is a viable option in
+a meaningful proportion of cases and has been undertaken in as much as 35% of reported surgically treated
+cases in the literature.116 Ligation of the celiac artery is
+reportedly well tolerated in most cases but may be problematic in patients with underlying hepatic disease. Ligation can be used for emergency treatment of celiac trunk
+aneurysms with a relatively low risk of hepatic
+ischemia.113 When the celiac artery is ligated, collateral
+ﬂow is provided by the superior mesenteric, pancreaticoduodenal, and gastroduodenal arteries. The standard
+surgical approach involving revascularization is celiac
+aneurysmectomy with aortoceliac bypass grafting, most
+commonly using prosthetic materials.117 In one reported
+series of nine patients undergoing elective open surgical
+repair, revascularization was performed in 89%.117
+
+eurysms considered appropriate for intervention.1 Reported successful endovascular techniques have included
+coil or glue embolization, percutaneous or open thrombin
+injection, and endovascular stent grafting.3,124-129 One
+report of ﬁve cases of endovascular occlusion of CAA
+revealed no ischemic sequelae and uniformly good technical results.130 Late coil migration into the stomach with
+development of a fatal aortogastric ﬁstula has been reported after coil embolization of a CAA.131 However, there
+are signiﬁcantly fewer reports in the literature of CAAs being
+treated by endovascular techniques compared with SAAs.
+Because CAAs typically involve the proximal portion of the
+celiac trunk, absence of a proximal landing zone may limit
+endovascular treatment with coils.99,107 This can be potentially achieved with embolization using endovascular
+plugs, which can allow a more controlled and precise occlusion of the celiac axis.
+Roberts et al132 reported on a series of emergently
+treated hemorrhaging celiac or mesenteric artery aneurysms using an initial endovascular approach to all patients in whom the diagnosis was made on
+preoperative imaging studies. Ultimately, open surgical
+treatment was required in <5% of cases.
+
+4. Screening
+Recommendations for screening of patients with CAA
+
+4.1
+
+Recommendation
+
+Strength of
+Recommendation
+
+Quality of
+Evidence
+
+We suggest screening patients with CAAs for other arterial aneurysms.
+
+2 (Weak)
+
+B (Moderate)
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+21S
+
+Volume 72, Number 1S
+
+CAAs are associated with other visceral artery aneurysms in 40% of cases and with aortic aneurysms in
+20% of cases.133,134 Of patients with a CAA, 18% to
+20% will have an aortic aneurysm, and 18% to 38%
+will have an additional visceral artery aneurysm.135 Peripheral artery aneurysms are seen in 18% to 67% of
+patients.117
+
+sac thrombosis may not protect the aneurysm sac from
+pressure transmitted through thrombus, and eventual
+sac growth or rupture may still occur.109,110 Reports of
+reperfusion and even rupture after “successful” embolization of visceral aneurysms support the notion that a
+thrombosed aneurysm may not represent the deﬁnitive
+treatment in all cases.111,112 Regular follow-up with duplex
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of CAA patients
+Strength of
+recommendation
+
+Recommendation
+
+Quality of
+evidence
+
+5.1
+
+In patients in whom a CAA is being observed with a nonoperative or noninterventional
+approach, we suggest annual surveillance with CTA scans to assess for growth in size.
+
+2 (Weak)
+
+B (Moderate)
+
+5.2.
+
+After endovascular intervention for CAAs, we suggest periodic surveillance with
+appropriate imaging studies to assess for the possibility of endoleak or other
+continued aneurysm perfusion that could lead to a continued risk of aneurysm
+growth or rupture.
+
+2 (Weak)
+
+B (Moderate)
+
+In a reported series of 18 CAAs in which nonoperative
+management was performed in 8 asymptomatic patients, only one subsequent rupture was noted to
+occur.117 The other observed CAAs had no evidence of
+enlargement or rupture during a mean 91-month
+follow-up period.117 Because rupture of CAAs has been
+reported to occur at diameters <20 mm, close radiologic
+follow-up of those selected for observation with yearly CT
+scans is appropriate.
+Continued surveillance, even after secondary technical
+success, is imperative as the natural history of visceral artery aneurysms after endovascular treatment remains
+unclear. This is especially true of saccular aneurysms
+treated with coil or thrombin embolization; unlike formal
+exclusion with a covered stent, these aneurysms are not
+technically “excluded” from arterial circulation. Indeed,
+
+ultrasound or CT is necessary for patients with visceral
+aneurysms treated by embolization because of the risk
+of recanalization.111-114
+Treatment failures including persistent perfusion,
+recanalization, and coil migration have been observed.
+The potential for early or late failure, such as growth in
+sac size or leak that would require reintervention, requires early and serial imaging follow-up.93,97 Because
+artifact due to the radiopaque materials used may
+make sensitive CT evaluation difﬁcult, some authors
+recommend contrast-enhanced ultrasound or MRI as
+follow-up imaging techniques.6,97
+
+GASTRIC AND GASTROEPIPLOIC ARTERY
+ANEURYSMS
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of gastric and gastroepiploic artery aneurysms
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients who are thought to have gastric or gastroepiploic artery aneurysms,
+we recommend CTA as the diagnostic tool of choice
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+In patients who are thought to have gastric or gastroepiploic artery aneurysms
+and have high radiation exposure risks or renal insufﬁciency, we recommend
+non-contrast-enhanced MRA for diagnosis.
+
+1 (Strong)
+
+C (Low)
+
+1 (Strong)
+
+B (Moderate)
+C (Low)
+
+Technical remark: Non-contrast-enhanced MRA is best suited to children and
+women of childbearing potential or those who have contraindications to CTA
+or MRA contrast materials (ie, pregnancy, renal insufﬁciency, or gadolinium
+contrast material allergy).
+1.3
+
+We recommend the use of catheter-based angiography for all emergent cases
+presenting with rupture (Grade 1B) and electively for preoperative planning
+(Grade 1C).
+
+22S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Gastric and gastroepiploic artery aneurysms account for
+approximately 4% to 5% of all visceral aneurysms,
+affecting men more frequently than women (three to
+one).87 Etiologic risk factors include primarily arterial
+dysplasia with segmental arterial mediolysis and periarterial inﬂammation like pancreatitis and vasculitis;
+atherosclerosis, when present, is believed to be a secondary process.87,111,136 Axial imaging, ideally with CTA, remains the diagnostic study of choice as it detects
+incidental and asymptomatic aneurysms and guides surgical and endovascular planning.137,138
+
+supports catheter-based embolization of gastric and gastroepiploic artery aneurysms as the new standard of care,
+with multiple case reports and small series documenting
+successful aneurysm occlusion with coils and thrombin injection.1,2,141-143 Embolization for gastric and gastroepiploic
+artery aneurysms, even ruptured, offers >90% technical
+success and low morbidity and mortality. Stent grafting
+has been described but remains anecdotal.1,144
+Axial imaging as recommended will screen for
+concomitant nonaortic intra-abdominal arterial aneurysms, which are common.136,139,145
+
+2. Size criteria for invasive intervention
+Recommended criteria for invasive intervention in gastric and gastroepiploic aneurysms
+Strength of
+recommendation
+
+Recommendation
+2.1
+
+We recommend treatment of all gastric artery and gastroepiploic artery
+aneurysms of any size.
+
+Gastric artery aneurysms are 10 times more common
+than gastroepiploic artery aneurysms. Although patients
+may present with abdominal pain, up to 90% of patients
+have historically presented acutely ruptured, with evidence of gastrointestinal bleeding more common than
+intraperitoneal rupture (1/3).87,111 Treatment is recommended for all gastric and gastroepiploic artery aneurysms,
+regardless of size, in light of this rupture risk at relatively
+small aneurysm sizes.139
+
+1 (Strong)
+
+Quality of
+evidence
+B (Moderate)
+
+We recommend screening for cerebrovascular and coronary artery aneurysm when the diagnosis of segmental
+arterial mediolysis is suspected, given the systemic nature of this arterial dysplasia, with one-time screening
+CTA or MRA of the head, neck, and chest.136,146
+We recommend routine interval surveillance (ie, every
+12 months) with axial imaging (ie, CTA or MRA) in cases
+of segmental medial arteriolysis in light of reported cases
+of rapid arterial transformation.147
+
+3. Treatment options
+Recommended criteria for invasive intervention in gastric and gastroepiploic aneurysms
+Recommendation
+3.1
+
+We recommend endovascular embolization for ﬁrst-line treatment of gastric
+artery and gastroepiploic artery aneurysms
+
+Surgical management has historically relied on simple
+arterial ligation or excision without reconstruction, whereas
+intramural aneurysms required a wedge excision of
+involved gastric wall.2,56,87,140 Contemporary literature
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (Moderate)
+
+We recommend postembolization surveillance every
+1 to 2 years with axial imaging to assess for vascular
+remodeling
+and
+evidence
+of
+aneurysm
+reperfusion.1,148,149
+
+4. Screening for concomitant aneurysms
+Recommendations for screening of gastric and gastroepiploic artery aneurysm patients
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+4.1
+
+We recommend abdominal axial imaging to screen for concomitant abdominal
+aneurysms.
+
+2 (Weak)
+
+B (Moderate)
+
+4.2
+
+We recommend one-time screening CTA (or MRA) of the head, neck, and chest
+for those patients with segmental arterial mediolysis.
+
+2 (Weak)
+
+C (Weak)
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+23S
+
+Volume 72, Number 1S
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of gastric and gastroepiploic artery aneurysm patients
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+5.1
+
+We suggest interval surveillance (ie, every 12-24 months) with axial imaging
+(ie, CTA or MRA) in cases of segmental medial arteriolysis in light of
+reported cases of rapid arterial transformation.
+
+2 (Weak)
+
+B (Moderate)
+
+5.2
+
+We suggest postembolization surveillance every 1 to 2 years with axial
+imaging to assess for vascular remodeling and evidence of aneurysm
+reperfusion.
+
+2 (Weak)
+
+C (Moderate)
+
+HEPATIC ARTERY ANEURYSM (HAA)
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of HAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients who are thought to have HAA, we recommend CTA as the diagnostic
+tool of choice.
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+In patients with HAA who are considered for intervention, we recommend
+mesenteric angiography for preoperative planning.
+
+1 (Strong)
+
+B (Moderate)
+
+HAA is the second most common type of visceral artery
+aneurysm reported.56,98,134 The actual incidence of HAA is
+unknown; the commonly used incidence ﬁgures are
+derived from small case series, autopsy, and anecdotal
+evidence. In a large series reported from the Mayo Clinic,
+the incidence of HAA was noted to be 0.002% among
+the 2,091,965 patients seen at the Mayo Clinic between
+1980 and 1986.150 Most HAAs are diagnosed incidentally
+
+on CT performed for unrelated issues and are most
+commonly observed during the sixth decade of life
+with a 3:2 male predominance.150
+Given the numerous collaterals from the gastroduodenal artery and right gastric branches, both open surgical ligation and endovascular embolization of these
+aneurysms are reported. To evaluate the collaterals, selective angiography and high-resolution CTA are
+recommended.
+
+2. Size criteria for invasive intervention
+Recommendations for diagnosis and evaluation of HAA
+Strength of
+recommendation
+
+Quality of
+evidence
+
+Given the high propensity of rupture and signiﬁcant antecedent mortality, we
+recommend that all hepatic artery pseudoaneurysms, regardless of cause, be
+repaired as soon as the diagnosis is made.
+
+1 (Strong)
+
+A (High)
+
+2.2.a
+
+We recommend repair of all symptomatic HAAs regardless of size.
+
+1 (Strong)
+
+A (High)
+
+2.2.b
+
+In asymptomatic patients without signiﬁcant comorbidity, we recommend repair
+if true HAA is >2 cm (Grade 1A) or if aneurysm enlarges >0.5 cm/y (Grade 1C). In
+patients with signiﬁcant comorbidities, we recommend open repair if HAA is
+>5.0 cm (Grade 1B).
+
+1 (Strong)
+
+A (High)
+
+Recommendation
+2.1
+
+B (Moderate)
+C (Low)
+2.3
+
+We recommend repair of HAA in patients with vasculopathy or vasculitis,
+regardless of size (Grade 1C). We recommend repair in HAA patients with
+positive blood cultures (Grade 1C)
+
+1 (Strong)
+
+C (Low)
+
+24S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+Hepatic artery pseudoaneurysm. False aneurysm of the
+hepatic artery accounts for 25%93 to 80%148 of reported
+cases and often occurs after iatrogenic injury or penetrating or blunt liver trauma, leading to symptomatic
+presentation of these aneurysms. These antecedent
+clinical events along with speciﬁc imaging distinguish
+false aneurysms from true aneurysms. Imaging ﬁndings,
+which include focal arterial disruption in the setting of
+otherwise normal arteries and inﬂammatory changes
+around an irregular aneurysm sac, are reported.1 The
+majority of pseudoaneurysms are symptomatic at presentation, thereby differing from true aneurysms, with
+gastrointestinal bleeding or hemobilia.1,148
+True HAA. The true natural history of HAA is unknown
+because of the rarity of these aneurysms, making any
+recommendation for repair of asymptomatic HAA
+controversial. In the series published by the Mayo Clinic,
+these aneurysms appeared to be relatively benign with
+a slow rate of enlargement and relatively uncommon
+rate of rupture.150 Retrospective series of ruptured
+
+low rate of comorbidities in the presence of
+collaterals.151,152
+There is an association between HAA and the patients
+with ﬁbromuscular dysplasia, vasculitis, systemic lupus
+erythematosus or polyarteritis nodosa, Takayasu arteritis, and Wegener granulomatosis.153-158 Congenital
+causes of HAA, such as Marfan syndrome, EhlersDanlos syndrome, and Osler-Weber-Rendu syndrome,
+are reported.159 Patients with ﬁbromuscular dysplasia
+and polyarteritis nodosa are at signiﬁcant risk of HAA
+rupture, accounting for 50% of ruptured HAA in one
+series.150 Bacterial endocarditis was the main cause of
+HAA before the adequate treatment of endocarditis
+with antibiotics was widespread.153 Aneurysm rupture
+is reported with a wide range of 14%150 to 80%,159
+but given the retrospective nature of these studies,
+the true risk of rupture is unknown. Nonatherosclerotic
+aneurysms, however, are at signiﬁcantly higher risk of
+rupture as they often present as multiple aneurysms.150,153-159
+
+3. Treatment options
+Recommendations for treatment of HAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+We recommend an endovascular-ﬁrst approach to all HAAs if it is anatomically
+feasible (ie, if this approach maintains arterial circulation to the liver).
+
+1 (Strong)
+
+A (High)
+
+3.2
+
+In patients with extrahepatic aneurysms, we recommend open and endovascular
+techniques to maintain liver circulation.
+
+1 (Strong)
+
+A (High)
+
+3.3
+
+In patients with intrahepatic aneurysms, we recommend coil embolization of the
+affected artery (Grade 1B). In patients with large intrahepatic HAA, we recommend
+resection of the involved lobe of liver to avoid signiﬁcant liver necrosis (Grade 1C).
+
+1 (Strong)
+
+B (Moderate)
+
+C (Low)
+
+aneurysms suggest that the majority of these lesions
+rupture when they are >2 cm in diameter.93 In one series,
+when patients were observed nonoperatively for
+68 months, only 27% of patients showed enlargement of
+the aneurysm without any complication.150 Given these
+ﬁndings, Abbas et al150 recommended careful observation for aneurysms <5 cm among high-risk patients and
+repair for lesions >2 cm only among low-risk patients
+unless these aneurysms enlarge or become symptomatic. Given the signiﬁcant high rate of morbidity and
+mortality after HAA rupture (30% mortality rate in one
+series150) and overall low rate of morbidity and mortality
+after elective HAA repair (0% mortality in the same series150), the current recommendation is for repair of aneurysms >2.0 cm in diameter in low-risk patients and
+>5.0 cm among high-risk patients if open repair is
+planned. In these patients, endovascular therapy with
+stent or coil embolization of the HAA can be contemplated at the same size criteria as in low-risk patients,
+provided there is adequate collateralization, given the
+
+Both open and endovascular options exist for HAA
+repair. All retrospective case series have shown that the
+outcome for visceral artery aneurysms after open or
+endovascular repair yielded similar long-term results,
+but morbidity is signiﬁcantly worse with open repair
+than with the endovascular approach.2,7 With the
+improvement of endovascular techniques and relative
+low morbidity associated with endovascular repair, endovascular techniques should be preferentially offered in
+anatomically suitable candidates.
+The majority of these aneurysms are extrahepatic (75%80%).150,153,159 Most are solitary aneurysms, with multiple
+HAAs reported in only 8% of these series.150 The ideal
+procedure of choice should allow the exclusion of aneurysm while maintaining the liver circulation, which can
+be achieved by either resection of the aneurysm with
+interposition graft or by placement of a stent graft and
+endovascular exclusion of the aneurysm. Given the possibility of central liver necrosis despite adequate collateral
+ﬂow by endovascular exclusion,93 in low-risk patients,
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+25S
+
+Volume 72, Number 1S
+
+open surgical revascularization using autologous vein
+conduit is recommended if endovascular stent graft
+exclusion is not possible.151 Temporary occlusion of the
+hepatic artery during reconstruction may guide revascularization or ligation of the HAA.151 More distal extrahepatic HAA branches are often associated with biliary
+inﬂammation, making these repairs challenging. Endovascular repair of extrahepatic HAA depends on the collaterals and location of the HAA, similar to open repair.
+Given that maintenance of distal organ perfusion is
+important, in patients with proper hepatic artery, endovascular repair requires covered stent exclusion of the
+aneurysm rather than coil embolization.
+The Table represents the summary of treatment recommendations for all extrahepatic aneurysms.
+Intrahepatic aneurysms will require resection of the
+lobe in which the aneurysm is located. Given the signiﬁcant comorbidities associated with liver resection, endovascular interventions have become the primary
+treatment modality for these intrahepatic lesions when
+feasible. Complications of embolization include hepatic
+ischemia, abscess, cholecystitis, and possible recanalization.151,161,162 Coil embolization is discouraged in patients
+with large parenchymal lesions or if large segments of
+liver are at risk of ischemia. In these patients, liver lobe
+resection should be considered.
+
+As noted, most patients with HAA are diagnosed
+with CT performed for other reasons.150 Given the
+sensitivity and speciﬁcity of CTA for diagnosis of other
+intra-abdominal aneurysms, we recommend CTA to
+diagnose other intra-abdominal aneurysms. In thin
+patients, abdominal duplex ultrasound is sensitive
+and speciﬁc in detecting abdominal or iliac artery aneurysms, but this study needs to be performed on individual arteries and therefore may miss other
+noninvestigated vessels.
+There is an association between HAA and the patients
+with ﬁbromuscular dysplasia, vasculitis, systemic lupus
+erythematosus or polyarteritis nodosa, Takayasu arteritis,
+and Wegener granulomatosis.153-158 This screening study
+may detect other pathologic processes that will require
+attention. In addition, congenital causes of HAA, such
+as Marfan syndrome, Ehlers-Danlos syndrome, and
+Osler-Weber-Rendu syndrome, are reported.159 Axial
+CTA or MRA may detect thoracic or intracerebral
+aneurysms.
+Given that these are slow-growing aneurysms,150
+annual follow-up is adequate. CTA with or without
+contrast enhancement provides the best modality to
+observe these aneurysms. Abdominal duplex ultrasound
+can also be used in certain patients to observe these
+aneurysms.
+
+4. Screening for concomitant aneurysm and vascular disease
+Recommendations for screening of patients with HAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+4.1
+
+We suggest abdominal axial imaging to screen for concomitant intraabdominal aneurysms in patients who did not have CTA at the time of
+HAA diagnosis.
+
+2 (Weak)
+
+B (Moderate)
+
+4.2
+
+We suggest one-time screening CTA or MRA of the head, neck, and chest
+for those patients with nonatherosclerotic causes of HAA.
+
+2 (Weak)
+
+B (Moderate)
+
+Table. Summary of treatment recommendations for extrahepatic aneurysms
+Location of extrahepatic HAA
+Common hepatic artery
+
+Treatment1,2,7,148,160
+
+Indication
+Ruptured
+
+Open surgical ligation
+
+Symptomatic
+
+Endovascular embolization
+
+Asymptomatic (>2 cm)
+
+Resection/reconstruction
+
+Asymptomatic in patients with
+ﬁbromuscular dysplasia or
+polyarteritis nodosa
+
+Aneurysmorrhaphy
+
+Endovascular
+Covered stent
+Coil embolization
+Proper hepatic
+
+Same as above
+
+Resection with arterial reconstruction
+
+Proximal right or left hepatic
+branches
+
+Same as above
+
+Resection with arterial reconstruction
+
+Endovascular stent graft
+
+Endovascular stent graft
+
+26S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of HAA patients
+Recommendation
+5.1
+
+We suggest annual follow-up with CTA or non-contrast-enhanced CT
+to observe patients with asymptomatic HAA.
+
+SUPERIOR MESENTERIC ARTERY ANEURYSM
+(SMAA)
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+B (Moderate)
+
+endocarditis by nonhemolytic streptococcus.166,169
+Atherosclerosis accounts for 25% of cases of SMAA,
+whereas inﬂammatory conditions such as pancreatitis
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of SMAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients with SMAA, we recommend CTA as the diagnostic tool of choice.
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+We recommend mesenteric angiography to delineate anatomy in preoperative
+planning for SMAA repair.
+
+1 (Strong)
+
+B (Moderate)
+
+Symptomatic SMAA presents with similar symptoms as
+other acute abdominal emergencies, such as perforated
+viscus, making the diagnosis difﬁcult without an appropriate level of suspicion.163 Although many SMAAs show
+a rim of calciﬁcation on plain kidney, ureter, and bladder
+radiography164 and duplex ultrasound can be helpful in
+diagnosis,165 CTA is the most expeditious and reliable
+diagnostic tool.166 Isolated superior mesenteric artery
+dissection has been diagnosed more routinely because
+of an increase in use of CTA for patients who present
+with abdominal pain.167,168
+
+and trauma are the other causes of SMAA.169 Mycotic
+SMAAs usually present in younger patients (<50 years
+of age), whereas nonmycotic SMAAs are seen in older patients.169 Unlike other visceral aneurysms, 70% to 90% of
+SMAAs are symptomatic at the time of presentation,
+with abdominal pain the most common symptom, followed by abdominal mass, fever, nausea, and gastrointestinal bleeding.166,170 The natural history of SMAA
+appears to be one of expansion and rupture,92,166 with
+38% to 50% of patients presenting with ruptured aneurysm92,170; the mortality rate is 30% to 90%.92 At the
+
+2. Size criteria for invasive intervention (true and false aneurysms)
+Recommended intervention criteria for SMAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2.1
+
+We recommend repair of all SMAAs and pseudoaneurysms as soon as the
+diagnosis is made regardless of size.
+
+1 (Strong)
+
+A (High)
+
+2.2
+
+We suggest careful observation of SMAA because of dissection unless refractory
+symptoms develop.
+
+2 (Weak)
+
+B (Moderate)
+
+SMAA represents 3.5% to 8% of visceral artery aneurysm
+cases,1,98 and autopsy results suggest that these aneurysms constitute 1 in every 12,000 to 19,000 autopsies.169
+Although the etiology of these aneurysms is diverse,
+SMAA most commonly results from an infectious cause
+or dissection,166 with the superior mesenteric artery the
+most common site of infection outside of the aorta.166
+The most common reason for mycotic aneurysm of the
+superior mesenteric artery is subacute bacterial
+
+same time, the overall mortality from elective repair of
+SMAA is <15%,171 and the mortality is even better when
+endovascular procedures are used for elective SMAA
+repair.1 Given the signiﬁcant incidence of rupture and
+the high mortality after repair of ruptured SMAA, once
+SMAAs are diagnosed, they should be treated.
+Inferior mesenteric artery aneurysms are rare and are
+sparsely reported in the literature172-174; they have been
+described in patients with collagen vascular disease or
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+27S
+
+Volume 72, Number 1S
+
+vasculitis. Given the rarity of this condition, no speciﬁc
+guidelines were generated, and the management of
+those patients should be individualized.
+Some authors have pointed to the possible association
+of dissection and aneurysmal degeneration of the
+dissected artery.175 Yun et al168 classiﬁed these isolated
+dissections into three groups based on angiographic
+ﬁndings. In patients followed up by Dong et al167 or
+Yun et al,168 no aneurysmal degenerations were
+observed. Initial treatment of these entities is often antiplatelet therapy unless symptoms recur or are refractory
+to conservative management.168 The presence of superior mesenteric artery dissection is not an indication for
+repair as the majority are treated conservatively without
+any need for intervention.167,168
+
+CTA of abdomen and pelvis has signiﬁcant speciﬁcity
+and sensitivity for detecting concomitant visceral artery
+aneurysm and has proved to be the best modality in
+detecting visceral artery aneurysm.166,177
+Annual CTA scans are speciﬁc and sensitive in following
+up the repair and assess other vascular beds.166,177
+
+JEJUNAL, ILEAL, AND COLIC ARTERY
+ANEURYSMS
+Aneurysms of the jejunal, ileal, and colic arteries account for <3% of all visceral aneurysms, affecting men
+and women equally beyond the sixth decade of
+life.87,163 Most of the literature on these aneurysms is
+limited to case reviews and small case numbers within
+
+3. Treatment options
+Recommendations for treatment of SMAA
+Recommendation
+3.1
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (High)
+
+We recommend an endovascular-ﬁrst approach to all SMAAs if it is
+anatomically feasible.
+
+Treatment must be individualized on the basis of anatomy and characteristics of the SMAA. Angiography is critical to delineate superior mesenteric artery anatomy and
+collaterals. Both open and endovascular techniques
+must exclude the aneurysm and maintain patency of
+the vessels. Endovascular procedures are signiﬁcantly
+less morbid than open procedures and should be preferentially offered if it is anatomically feasible. Endovascular
+interventions include coil embolization and use of
+covered stents,176 with good results.
+The signiﬁcant issue with endovascular repair is that
+SMAA beyond the proximal few centimeters will include
+major tributaries that must be preserved. Sacriﬁce of
+these vessels during an endovascular approach will
+lead to signiﬁcant morbidity. In such cases, when an
+endovascular approach leads to signiﬁcant loss of collaterals, strong consideration should be given to open
+repair. Open repair options include open surgical procedures such as simple ligation of aneurysm, aneurysmorrhaphy in case of saccular aneurysms, and repair
+with an interposition graft. Open resection may require
+intestinal resection, particularly in symptomatic patients.
+Close observation for occurrence of peritoneal symptoms
+is essential after either type of repair.
+
+the context of larger series on visceral aneurysms. We
+recommend CTA as the diagnostic modality of choice
+for these aneurysms; often in asymptomatic patients,
+this modality identiﬁes a visceral branch aneurysm incidentally.99,178,179 MRA may also be considered. Axial imaging of the abdomen will facilitate the assessment of
+other abdominal aneurysms, which are common as
+referenced before. Arteriography is invaluable for aneurysm identiﬁcation preoperatively and in operative planning, and it is mandatory for patients with polyarteritis
+nodosa to assess for additional aneurysms.180
+Aneurysms of the jejunal, ileal, and colic arteries are
+associated with medial degeneration, infection, inﬂammation, various autoimmune diseases (ie, polyarteritis
+nodosa and Behçet disease), and connective tissue disorders. Multiple aneurysms are identiﬁed in approximately
+10% of cases.87,111,136,146,181-184 Atherosclerosis, when present, is thought to be a secondary process. We recommend conﬁrmation of the diagnosis of polyarteritis
+nodosa in any patient with a history of fever, arthralgia,
+weakness, abdominal pain, or pleuritic chest pain that
+accompanies mesenteric branch aneurysm.107
+Whereas patients may present with abdominal pain,
+most jejunal and ileal artery aneurysms are
+
+4. Screening for concomitant aneurysm
+Recommendations for screening of patients with SMAA
+Recommendation
+4.1
+
+We suggest abdominal axial imaging to screen for concomitant intraabdominal aneurysms in patients who did not have CTA at the time of
+diagnosis.
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+B (Moderate)
+
+28S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of SMAA patients
+Recommendation
+5.1
+
+We suggest annual CTA to observe postsurgical patients.
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+B (Moderate)
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of jejunal, ileal, and colic artery aneurysms
+Strength of
+recommendation
+
+Recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients who are thought to have jejunal artery, ileal artery, and colic artery
+aneurysms, we recommend CTA as the diagnostic tool of choice.
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+In patients with high radiation exposure risks or renal insufﬁciency, we
+recommend non-contrast-enhanced MRA for diagnosis.
+
+1 (Strong)
+
+C (Moderate)
+
+Technical remark: Non-contrast-enhanced MRA is best suited to children and
+women of childbearing potential or those who have contraindications to CTA
+or MRA contrast materials (ie, pregnancy, renal insufﬁciency, or gadolinium
+contrast material allergy).
+1.3
+
+We recommend the use of catheter-based angiography for all emergent cases
+presenting with rupture (Grade 1B) and electively for preoperative planning
+(Grade 1C).
+
+1 (Strong)
+
+B (Moderate)
+
+1.4
+
+We suggest screening all patients with jejunal, ileal, and colic artery aneurysms
+for vasculitis with routine inﬂammatory markers.
+
+2 (Weak)
+
+C (Moderate)
+
+C (Moderate)
+
+2. Size criteria for invasive intervention (true aneurysms vs pseudoaneurysms)
+Recommended intervention criteria for jejunal, ileal and colic artery aneurysms
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2.1
+
+We recommend elective intervention for jejunal and ileal artery aneurysms
+>2 cm in maximal diameter and for all colic artery aneurysms, any size.
+
+1 (Strong)
+
+B (Moderate)
+
+2.2
+
+We recommend emergent intervention for any jejunal, ileal, or colic artery
+aneurysm, any size, resulting in patient symptoms or rupture and all
+mesenteric branch vessel pseudoaneurysms.
+
+1 (Strong)
+
+A (High)
+
+asymptomatic. Colic artery aneurysms, however, cause
+symptoms, primarily abdominal pain, in nearly 90% of
+patients.166 Rupture may complicate up to 30% of jejunal
+and ileal artery aneurysms and up to 70% of colic artery
+aneurysms, resulting in gastrointestinal bleeding and
+mortality rates that approach 20% to 50%.140,166 Treatment is recommended for all jejunal and ileal artery aneurysms >2 cm and for all colic branch aneurysms,
+regardless of size.166,184
+We recommend emergent intervention for any jejunal,
+ileal, or colic artery aneurysm, any size, resulting in patient symptoms or rupture and all mesenteric branch
+vessel pseudoaneurysms (Grade 1A).
+Interpretation of the existing data on mesenteric
+branch aneurysms is limited by small numbers and
+anecdotal reports. In addition, most of the existing
+studies do not delineate true aneurysms from false
+
+aneurysms, and the visceral bed is often excluded from
+analysis.
+Surgical management has historically relied on simple
+arterial ligation or aneurysm excision without
+reconstruction.56,87,140,169,184,185 This remains a conservative option for rupture, in which case exploratory laparotomy facilitates the evacuation of hematoma,
+deﬁnitive aneurysm treatment, and bowel assessment
+for viability. Enterectomy or colectomy may be
+required as intramural aneurysms and those associated
+with bowel necrosis require resection of the involved
+bowel at the time of aneurysm exclusion. Robust collateralization often permits simple aneurysm ligation
+or resection without reconstruction. However, special
+consideration is required in patients with a previous
+colectomy as the collateral network might be
+incomplete.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+29S
+
+Volume 72, Number 1S
+
+3. Treatment options
+Recommendations for treatment of jejunal, ileal, and colic artery aneurysms
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+We suggest open surgical ligation or aneurysm excision for cases of jejunal, ileal, and
+colic artery aneurysms when laparotomy is being considered for hematoma
+evacuation or bowel assessment for viability.
+
+2 (Weak)
+
+B (Moderate)
+
+3.2
+
+We suggest endovascular embolization for cases of jejunal, ileal, and colic artery
+aneurysm.
+
+2 (Weak)
+
+B (Moderate)
+
+3.3
+
+We suggest medical treatment of nonruptured, asymptomatic ileal, jejunal, and colic
+artery aneurysms associated with polyarteritis nodosa.
+
+2 (Weak)
+
+B (Moderate)
+
+Transcatheter embolization with coils, Onyx, and glue (nbutyl cyanoacrylate) has been increasingly used, especially for cases of acute rupture and gastrointestinal
+bleeding.1,7,111,186-188 Endovascular interventions offer precise localization of the aneurysm, assessment of collateral
+ﬂow, lower risk for patients who are not good operative
+candidates, easier approach to aneurysms for which surgical exposure would be difﬁcult, and decreased length of
+stay.1,111 These beneﬁts are balanced with a risk of intestinal
+necrosis, perforation, and late stricture requiring reoperation in addition to primary technical failures and failed hemostasis in the setting of rupture.189-193
+Regression of aneurysms resulting from polyarteritis
+nodosa after cytotoxic or immunosuppressive treatment
+is well documented.107 As such, medical therapy should
+be considered ﬁrst line for these patients with nonruptured, asymptomatic aneurysms, with repeated arteriography staged at 3 to 4 months to ascertain regression.
+
+arterial mediolysis is suspected, given the systemic nature of this arterial dysplasia, with one-time screening
+CTA or MRA of the head, neck, and chest.146
+We recommend routine interval surveillance (ie, every
+12 months) with axial imaging (ie, CTA or MRA) in cases
+of segmental medial arteriolysis in light of reported cases
+of rapid arterial transformation.147
+We recommend postembolization surveillance every 1
+to 2 years with axial imaging to assess for vascular
+remodeling.1
+
+PANCREATICODUODENAL ARTERY ANEURYSM
+(PDAA) AND GASTRODUODENAL ARTERY
+ANEURYSM (GDAA)
+CTA has become the most common diagnostic tool for
+PDAA and GDAA, given its accuracy, wide availability,
+and promptness.194,195 Enhancement patterns vary ac-
+
+4. Screening for concomitant aneurysms
+Recommendations for screening of patients with jejunal, ileal, and colic artery aneurysms
+Strength of
+recommendation
+
+Recommendation
+
+Quality of
+evidence
+
+4.1
+
+We suggest abdominal axial imaging to screen for concomitant abdominal aneurysms.
+
+2 (Weak)
+
+B (Moderate)
+
+4.2
+
+We suggest one-time screening CTA (or MRA) of the head, neck, and chest for those
+patients with segmental arterial mediolysis.
+
+2 (Weak)
+
+B (Moderate)
+
+Axial imaging as recommended will screen for
+concomitant nonaortic intra-abdominal arterial aneurysms, which are common.
+We recommend screening for cerebrovascular and coronary artery aneurysm when the diagnosis of segmental
+
+cording to the amount of thrombus within the aneurysm. Multiplanar reformations and three-dimensional
+reconstructions can aid in determining the relationship
+of the surrounding vasculature and parent vessels. In
+cases of ruptured GDAA and PDAA, CTA is the diagnostic
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of jejunal, ileal, and colic artery aneurysm patients
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+5.1
+
+We suggest interval surveillance (ie, every 12-24 months) with axial imaging (ie, CTA
+or MRA) for cases of segmental medial arteriolysis in light of reported cases of rapid
+arterial transformation and to monitor regression in cases of polyarteritis nodosa.
+
+2 (Weak)
+
+B (Moderate)
+
+5.2
+
+We suggest postembolization surveillance every 1 to 2 years with axial imaging
+to assess for vascular remodeling and evidence of aneurysm reperfusion.
+
+2 (Weak)
+
+B (Moderate)
+
+30S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+1. Diagnosis and evaluation
+Recommendations for diagnosis and evaluation of PDAA and GDAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1.1
+
+In patients who are thought to have GDAA and PDAA, we recommend CTA as the
+diagnostic tool of choice.
+
+1 (Strong)
+
+B (Moderate)
+
+1.2
+
+In patients in whom celiac stenosis is suspected, we suggest further workup with
+duplex ultrasound to elucidate whether the stenosis is hemodynamically signiﬁcant.
+
+2 (Weak)
+
+C (Low)
+
+1.3
+
+In patients with high radiation exposure risks or renal insufﬁciency, we suggest noncontrast-enhanced MRA for diagnosis.
+
+2 (Weak)
+
+C (Low)
+
+Technical remark: Non-contrast-enhanced MRA is best suited to children and women
+of childbearing potential or those who have contraindications to CTA or MRA contrast
+materials (ie, pregnancy, renal insufﬁciency, or gadolinium contrast material allergy).
+
+tool of choice because it can provide arterial-phase,
+venous-phase, and non-contrast-enhanced images in a
+rapid manner.137 Furthermore, ﬁndings of diaphragmatic
+crura hypertrophy, a focal narrowing of the proximal celiac axis with a hooked appearance, and retrograde ﬁlling
+of the dorsal pancreatic and pancreaticoduodenal arteries on three-dimensional CTA are suggestive of median arcuate ligament syndrome and may direct the
+surgeon to consider a median arcuate ligament release
+in addition to treatment of the GDAA or PDAA.196
+
+Although non-contrast-enhanced MRA sequences can
+be more time-consuming than contrast-enhanced
+MRA, non-contrast-enhanced MRA has almost the
+same sensitivity for detecting vascular abnormalities
+and a high negative predictive value. Non-contrastenhanced MRA (like contrast-enhanced MRA) can be superior and complementary to ultrasound in evaluating
+most parts of the body because it is not limited by acoustic windows, particularly in the thoracoabdominal vasculature.202-204
+
+2. Size criteria for invasive intervention
+Recommended intervention criteria for PDAA and GDAA
+Recommendation
+2.1
+
+In patients with noncomplicated GDAA and PDAA of acceptable operative risk, we
+recommend treatment no matter the size of the aneurysm because of the risk of
+rupture.
+
+Non-contrast-enhanced CT scans may show only a soft
+tissue mass in the aneurysm bed that can be confused
+with
+adenopathy
+or
+pancreatic
+or
+duodenal
+neoplasm.160,194
+Contrast-enhanced MRA has been shown to correlate
+well with CTA,86 but it should not be used in emergent
+cases as acquisition times are longer than for CTA.197
+Postprocessing maximum intensity projection images
+are similar to those of conventional angiography,
+providing a roadmap for therapeutic interventions.179
+Finally, duplex ultrasound may delineate larger aneurysms, but information on parent artery anatomy is insufﬁcient.59 Accuracy can be decreased because of the
+patient’s body habitus, calciﬁed vessel walls, and limited
+spatial resolution.198,199
+Duplex ultrasound is one of the most common diagnostic techniques used to evaluate the celiac axis for median arcuate ligament syndrome.200 It can provide realtime inspiratory and expiratory data, helping elucidate
+the cause of the GDAA or PDAA and its treatment.201
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (Moderate)
+
+Previous studies have made the distinction in size
+threshold for repair of visceral artery aneurysms on the
+basis of whether the aneurysm is a true aneurysm or a
+pseudoaneurysm.205 This is based on the fact that pseudoaneurysms are at higher risk of rupture and should
+therefore be repaired regardless of size. However, it is
+known that many of the PDAAs and GDAAs that have
+ruptured can be small and <10 mm.206 In fact, a singlecenter review of all visceral aneurysms found that PDAAs
+were strongly associated with rupture (P < .0002).207
+Thus, GDAAs and PDAAs should be repaired regardless
+of size and regardless of true vs false aneurysm in patients who have acceptable operative or interventional
+risk.117,208-213
+A Markov model decision analysis was performed to
+assess the effectiveness of preventive treatment of patients with PDAA based on risk.214 The authors argued
+that whereas 60% of PDAAs present ruptured regardless
+of size, the natural history of unruptured aneurysms
+cannot be determined by that of ruptured aneurysms.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+31S
+
+Volume 72, Number 1S
+
+Assuming a mortality rate of 21% after rupture, they
+found that preventive treatment was dominated by no
+treatment if mortality rates of preventive treatment
+were >1.4%, >2.6%, >3.8%, and >4.8% at annual rupture
+rates of 1%, 2%, 3%, and 4%, respectively, for an 80-yearold patient. Preventive treatment was dominated by no
+treatment if mortality rates of preventive treatment
+were >3.3%, >5.9%, >8.0%, and >9.7% at annual rupture
+rates of 1%, 2%, 3%, and 4%, respectively, for a 50-year-old
+patient.
+Predictive factors of rupture, whether size, demographics, or comorbid disease, are few. A review of the
+English literature found that 32% of ruptured patients
+were female and 61% were male.215 In one single-center
+study, rupture was associated with male sex (P ¼ .02)
+and a trend toward rupture in patients with celiac stenosis (P ¼ .10).216 Thus, male patients should be considered
+for elective repair even in the presence of moderate
+operative risk.
+
+Long-term success may be related to angiographic
+ﬁndings seen on completion imaging. The RaymondRoy Occlusion Classiﬁcation is a system for evaluating
+aneurysm occlusion after endovascular coiling with
+three classes based on completion imaging at the
+end of the procedure.218 Class I is deﬁned as complete
+obliteration; class II, a residual neck; and class III, a residual aneurysm. Class III can be further subdivided
+into IIIa, residual contrast within coil interstices, and
+IIIb, residual aneurysm with contrast material along
+the sidewall of the aneurysm. Class IIIa aneurysms
+tend to have a higher rate of subsequent thrombosis,
+whereas IIIb aneurysms tend to have a higher rate of
+re-treatment.219
+Whereas survival is unrelated to operative technique in
+repair of intact aneurysms, endovascular repair of
+ruptured aneurysms is associated with both improved
+overall survival and aneurysm-related survival compared
+with open surgery.4,209
+
+3. Treatment options
+Recommendations for treatment of PDAA and GDAA
+Recommendation
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+3.1
+
+In patients with intact and ruptured aneurysms, we recommend coil embolization as
+the treatment of choice.
+
+1 (Strong)
+
+B (Moderate)
+
+3.2
+
+In patients in whom coil embolization is not feasible, we suggest covered stenting or
+stent-assisted coil embolization as a treatment option in select cases of GDAA and
+PDAA.
+
+2 (Weak)
+
+C (Low)
+
+3.3
+
+In patients with appropriate anatomy, we suggest transcatheter embolization with
+liquid embolic agents as a treatment option for both GDAA and PDAA.
+
+2 (Weak)
+
+C (Low)
+
+3.4
+
+In patients with suitable anatomy, we suggest ﬂow-diverting, multilayered stents as a
+treatment option for GDAA and PDAA, although these have not been adequately
+studied to be recommended as a primary treatment modality.
+
+2 (Weak)
+
+C (Low)
+
+3.5
+
+In patients with nonruptured aneurysms, we suggest open surgical reconstruction if
+needed to preserve ﬂow.
+
+2 (Weak)
+
+B (Moderate)
+
+3.6
+
+In patients with concomitant stenosis or occlusion, we suggest celiac artery
+reconstruction.
+
+2 (Weak)
+
+B (Moderate)
+
+Coil embolization of GDAA and PDAA has recently
+become the treatment of choice whether the aneurysm
+is ruptured or not.4,190,195,209,211-213,216 Different catheter
+conﬁgurations can be employed, but a triaxial system consisting of a sheath-guiding catheter, a 4F or 5F catheter,
+and a microcatheter provides stable support through
+tortuous vessels or in treating distal arterial beds as well
+as rapid exchange of the microcatheter if necessary.1
+Although it is not imperative, exclusion of all inﬂow and
+outﬂow vessels is necessary to reduce the risk of recurrent
+sac pressurization from antegrade or retrograde perfusion.6 End-organ perfusion is typically maintained by the
+dense collateral network of these vessels, but isolated
+coil packing of the aneurysm sac alone can be sufﬁcient
+if the inﬂow vessel is vital for organ perfusion.217 Immediate
+technical success rates are >90%.
+
+Covered stenting may be performed when the artery
+proximal and distal to the aneurysm is of suitable diameter with a low degree of tortuosity.212 Successful covered
+stenting with a Viabahn stent (W. L. Gore & Associates,
+Flagstaff, Ariz)220 as well as with an Advanta V12 stent
+graft (Atrium Medical, Hudson, NH)221 has been reported.
+Advantages of this technique include preservation of
+ﬂow through the artery; however, it may be limited by
+the discrepancy in arterial seal zone diameters as well
+as by the ability to pass the stent through tortuous
+anatomy.216
+The liquid embolic agent n-butyl 2-cyanoacrylate
+(NBCA) has been used to treat cases of both ruptured
+and unruptured GDAA and PDAA.222 A theoretical
+advantage of embolization with liquid embolic agents
+is the ability to embolize small, tortuous vessels that
+
+32S
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+July Supplement 2020
+
+may be too small to selectively catheterize for coil embolization.6,132,213,223 The NBCA must be premixed with
+iodized oil to control its polymerization and to make it
+radiopaque.224 A 1:3 ratio, or 25% NBCA, increases the
+polymerization time to 4 seconds, although distal embolization may still occur.225
+Ethylene vinyl alcohol (Onyx) has also been used successfully to treat PDAA.65 Onyx is dissolved in dimethyl
+sulfoxide and is suspended in radiopaque micronized
+tantalum powder; it does not need to be mixed. When
+concomitant balloon occlusion of the parent vessel is
+used, injection of the Onyx directly into the aneurysm
+through a microcatheter preserves the inﬂow and
+outﬂow vessels. When balloon occlusion is not used,
+the inﬂow and outﬂow vessels can be obliterated as well.
+Flow-diverting stents are a burgeoning technology that
+was ﬁrst introduced for the treatment of intracranial aneurysms. Flow-diverting stents are placed in the parent
+
+This is thought to result in retrograde ﬂow through the
+pancreaticoduodenal arteries, leading to turbulent ﬂow,
+which ultimately causes aneurysmal dilation. Interestingly, celiac stenosis is more common in PDAA than in
+GDAA.229 Whereas coil embolization can lead to endorgan hepatic ischemia and liver failure, the overall risk
+is likely to be low.208 However, a low threshold for celiac
+revascularization should be considered in patients with
+symptoms of mesenteric insufﬁciency at baseline or
+when there is a risk of compromising end-organ perfusion with aneurysm treatment, and postoperative liver
+function test results should be monitored closely.4,212 In
+cases of median arcuate ligament syndrome, celiac
+revascularization can be achieved with division of the
+median arcuate ligament and celiac plexus, aortoceliac
+bypass, or renohepatic bypass.230 In cases not associated
+with median arcuate ligament compression, primary
+stenting of a celiac stenosis is an option.216,231
+
+4. De novo screening and screening for concomitant aneurysms
+Recommendations for screening of patients with PDAA and GDAA
+Recommendation
+4.1
+
+In patients with median arcuate ligament syndrome, we suggest screening for GDAA or
+PDAA with CTA or duplex ultrasound.
+
+artery in an effort to improve laminar ﬂow within the
+parent artery and to reduce blood ﬂow within the aneurysm sac to the point of thrombosis.226 Furthermore,
+these stents preserve ﬂow through collateral side
+branches. The stents require an overall porosity of 50%
+to 70%, or 30% to 50% metallic coverage. Stents such
+as the Pipeline Embolization Device (ev3, Plymouth,
+Minn), the SILK Arterial Reconstruction Device (Balt
+Extrusion, Montmorency, France), and the Cardiatis
+multilayer stent are available; however, only the Cardiatis
+multilayer stent has been used to treat a GDAA. At
+6 months, the Cardiatis stent was patent with complete
+thrombosis of the aneurysm sac.227 Patients are treated
+with dual antiplatelet regimens postoperatively. In patients with suitable anatomy, ﬂow-diverting, multilayered
+stents may become a treatment option for GDAA and
+PDAA, although these have not been adequately studied
+to be recommended as a primary treatment modality at
+this point.
+Open surgical treatment of GDAA and PDAA is technically feasible with a perioperative morbidity and mortality for nonruptured aneurysms of approximately 9.4%
+and 1.3%, respectively.59 Techniques include ligation
+and excision with end-to-end anastomosis.59,211,212,223
+However, mortality for ruptured GDAA and PDAA undergoing open repair approaches 30%.4,209
+Celiac axis stenosis or occlusion is frequently associated
+with aneurysms of the pancreaticoduodenal arcade.228
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+2 (Weak)
+
+C (Low)
+
+Few data exist regarding screening for GDAA and
+PDAA. However, based on the fact that celiac stenosis
+is associated with 50% to 60% of these aneurysms, it
+would seem prudent to examine the gastroduodenal
+artery and pancreaticoduodenal arcade by either
+duplex ultrasound or CTA once a celiac stenosis is
+diagnosed.232 Pulsed Doppler ultrasound can distinguish between aneurysms and other masses of the
+pancreas, although it may be limited by patient factors
+such as bowel gas.233
+There is no association of GDAA or PDAA with aneurysms outside the visceral circulation. Therefore,
+screening for concomitant aneurysms outside the
+abdomen is of little value.
+It is well known that endovascular treatment of GDAA
+and PDAA may be associated with the long-term
+complication of aneurysm reperfusion.6,209 Although no
+studies have evaluated the recurrence rates of GDAA or
+PDAA after endovascular coiling, recanalization after
+endovascular treatment of visceral artery aneurysms occurs in 9% to 15% of patients.111,113,190,234 This may be
+due to insufﬁcient packing, long-term coil compaction,
+or delayed coil migration.235,236 Thus, follow-up imaging
+is crucial.59,235
+A radiopaque agent is necessary for embolization; however, this creates a signiﬁcant radioartifact on follow-up
+imaging.1,56 Whereas CTA is the most commonly used
+follow-up study modality, certain reports have found
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+33S
+
+Volume 72, Number 1S
+
+5. Follow-up and surveillance
+Recommendations for follow-up and surveillance of PDAA and GDAA patients
+Recommendation
+5.1
+
+In patients status post treatment of GDAA and PDAA, we recommend follow-up
+imaging after endovascular treatment of GDAA and PDAA to rule out persistent ﬂow
+through the aneurysm sac.
+
+that it cannot accurately determine reperfusion of an
+aneurysm sac because of the degree of radioartifact.237
+More recently, three-dimensional contrast-enhanced
+MRA has been shown to be a safe and effective way to
+provide postoperative follow-up.238 This technique has
+a 91% accuracy in deﬁning hemodynamic status and
+complications with little metallic artifact.239
+Concerns about repeated radiation exposure have
+prompted some to recommend duplex ultrasound as
+an alternative surveillance technique.1,6,56,209 Contrastenhanced ultrasound is a less expensive and noninvasive
+technique that has been shown to clearly identify ﬂow in
+and around a metallic coil pack.240 Thus, contrastenhanced ultrasound may be optimal for long-term
+surveillance.
+Finally, digital subtraction angiography is the “gold
+standard” for deﬁning reperfusion of the aneurysm sac.
+However, this is typically reserved for cases in which reintervention of an enlarging aneurysm sac is
+necessary.1,56,72
+The frequency of surveillance imaging is not well established, but it is unlikely that aneurysm reperfusion will
+occur if it is completely obliterated and thrombosed on
+the ﬁrst postprocedural imaging study. As such, the value
+of long-term surveillance after embolization is not justiﬁed. In addition, given the lack of clear association of
+GDAA and PDAA with metachronous visceral aneurysms,
+surveillance for the development of new visceral aneurysms is also not well established.
+
+REFERENCES
+1. Tulsyan N, Kashyap VS, Greenberg RK, Sarac TP, Clair DG,
+Pierce G, et al. The endovascular management of visceral
+artery aneurysms and pseudoaneurysms. J Vasc Surg
+2007;45:276-83; discussion: 283.
+2. Cochennec F, Riga CV, Allaire E, Cheshire NJ, Hamady M,
+Jenkins MP, et al. Contemporary management of
+splanchnic and renal artery aneurysms: results of endovascular compared with open surgery from two European
+vascular centers. Eur J Vasc Endovasc Surg 2011;42:340-6.
+3. Wagner WH, Allins AD, Treiman RL, Cohen JL, Foran RF,
+Levin PM, et al. Ruptured visceral artery aneurysms. Ann
+Vasc Surg 1997;11:342-7.
+4. Suzuki K, Kashimura H, Sato M, Hassan M, Yokota H,
+Nakahara A, et al. Pancreaticoduodenal artery aneurysms
+associated with celiac axis stenosis due to compression by
+median arcuate ligament and celiac plexus. J Gastroenterol
+1998;33:434-8.
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (Moderate)
+
+5. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for
+Vascular Surgery including the experience with the GRADE
+framework. J Vasc Surg 2011;53:1375-80.
+6. Lagana D, Carraﬁello G, Mangini M, Dionigi G, Caronno R,
+Castelli P, et al. Multimodal approach to endovascular
+treatment of visceral artery aneurysms and pseudoaneurysms. Eur J Radiol 2006;59:104-11.
+7. Sachdev U, Baril DT, Ellozy SH, Lookstein RA, Silverberg D,
+Jacobs TS, et al. Management of aneurysms involving
+branches of the celiac and superior mesenteric arteries: a
+comparison of surgical and endovascular therapy. J Vasc
+Surg 2006;44:718-24.
+8. Barrionuevo P, Malas MB, Nejim B, Haddad A, Morrow A,
+Ponce O, et al. A systematic review and meta-analysis of the
+management of visceral artery aneurysms. J Vasc Surg
+2019;70:1694-9.
+9. Stanley JC, Rhodes EL, Gewertz BL, Chang CY, Walter JF,
+Fry WJ. Renal artery aneurysms. Signiﬁcance of macroaneurysms exclusive of dissections and ﬁbrodysplastic
+mural dilations. Arch Surg 1975;110:1327-33.
+10. Leadbetter WF, Burkland CF. Hypertension in unilateral
+renal disease. J Urol 1938;39:611-26.
+11. Plouin PF, Perdu J, La Batide-Alanore A, Boutouyrie P,
+Gimenez-Roqueplo AP, Jeunemaitre X. Fibromuscular
+dysplasia. Orphanet J Rare Dis 2007;2:28.
+12. Cragg AH, Smith TP, Thompson BH, Maroney TP,
+Stanson AW, Shaw GT, et al. Incidental ﬁbromuscular
+dysplasia in potential renal donorsdlong-term clinical
+follow-up. Radiology 1989;172:145-7.
+13. Andreoni KA, Weeks SM, Gerber DA, Fair JH, Mauro MA,
+McCoy L, et al. Incidence of donor renal ﬁbromuscular
+dysplasia: does it justify routine angiography? Transplantation 2002;73:1112-6.
+14. Klausner JQ, Lawrence PF, Harlander-Locke MP,
+Coleman DM, Stanley JC, Fujimura N, et al. The contemporary management of renal artery aneurysms. J Vasc Surg
+2015;61:978-84.
+15. Zhang LJ, Yang GF, Qi J, Shen W. Renal artery aneurysm:
+diagnosis and surveillance with multidetector-row
+computed tomography. Acta Radiol 2007;48:274-9.
+16. Smith PA, Fishman EK. Three-dimensional CT angiography:
+renal applications. Semin Ultrasound CT MR 1998;19:413-24.
+17. Johnson PT, Fishman EK. Computed tomography angiography of the renal and mesenteric vasculature: concepts
+and applications. Semin Roentgenol 2011;46:115-24.
+18. Angeretti MG, Lumia D, Cani A, Barresi M, Cardim LN,
+Piacentino F, et al. Non-enhanced MR angiography of renal
+arteries: comparison with contrast-enhanced MR angiography. Acta Radiol 2013;54:749-56.
+19. Mohrs OK, Petersen SE, Schulze T, Zieschang M, Kux H,
+Schmitt P, et al. High-resolution 3D unenhanced ECGgated respiratory-navigated MR angiography of the renal
+arteries: comparison with contrast-enhanced MR angiography. AJR Am J Roentgenol 2010;195:1423-8.
+
+34S
+
+Chaer et al
+
+Journal of Vascular Surgery
+July Supplement 2020
+
+20. Albert TS, Akahane M, Parienty I, Yellin N, Catala V,
+Alomar X, et al. An international multicenter comparison of
+time-SLIP unenhanced MR angiography and contrastenhanced CT angiography for assessing renal artery stenosis: the renal artery contrast-free trial. AJR Am J Roentgenol 2015;204:182-8.
+21. Granata A, Floccari F, Clementi A, Di Lullo L, Fiorini F.
+Contrast-enhanced ultrasound reveals renal artery aneurysm after detection of ‘parapelvic lithiasis. Clin Exp Nephrol 2014;18:174-5.
+22. Seo JM, Park KB, Kim KH, Jeon P, Shin SW, Park HS, et al.
+Clinical and multidetector CT follow-up results of renal artery aneurysms treated by detachable coil embolization
+using 3D rotational angiography. Acta Radiol 2011;52:854-9.
+23. Endo H, Shimizu T, Kodama Y, Miyasaka K. Usefulness of 3dimensional reconstructed images of renal arteries using
+rotational digital subtraction angiography. J Urol 2002;167:
+2046-8.
+24. Kaufman JAK. Renal arteries. In: Kaufman JA, Lee MJ, editors. Vascular and interventional radiology. The requisites.
+Philadelphia: Mosby; 2004. p. 323-49.
+25. Liu PS, Platt JF. CT angiography of the renal circulation.
+Radiol Clin North Am 2010;48:347-65. viii-ix.
+26. Hirsch AT, Haskal ZJ, Hertzer NR, Bakal CW, Creager MA,
+Halperin JL, et al. ACC/AHA 2005 Practice Guidelines for the
+management of patients with peripheral arterial disease
+(lower extremity, renal, mesenteric, and abdominal aortic):
+Executive summaryda collaborative report from the
+American Association for Vascular Surgery/Society for
+Vascular Surgery, Society for Cardiovascular Angiography
+and Interventions, Society for Vascular Medicine and
+Biology, Society of Interventional Radiology, and the ACC/
+AHA Task Force on Practice Guidelines (Writing Committee
+to Develop Guidelines for the Management of Patients
+With Peripheral Arterial Disease). Circulation 2006;113:
+1474-547.
+27. Coleman DM, Stanley JC. Renal artery aneurysms. J Vasc
+Surg 2015;62:779-85.
+28. Cerny JC, Chang CY, Fry WJ. Renal artery aneurysms. Arch
+Surg 1968;96:653-63.
+29. Ippolito JJ, Leveen HH. Treatment of renal artery aneurysms. J Urol 1960;83:10-6.
+30. Henriksson C, Lukes P, Nilson AE, Pettersson S. Angiographically discovered, non-operated renal artery aneurysms. Scand J Urol Nephrol 1984;18:59-62.
+31. Robinson WP 3rd, Bafford R, Belkin M, Menard MT. Favorable outcomes with in situ techniques for surgical repair of
+complex renal artery aneurysms. J Vasc Surg 2011;53:684-91.
+32. Pfeiffer H, Weiss FU, Karger B, Aghdassi A, Lerch MM,
+Brinkmann B. Fatal cerebro-renal oxalosis after appendectomy. Int J Legal Med 2004;118:98-100.
+33. Hislop SJ, Patel SA, Abt PL, Singh MJ, Illig KA. Therapy of
+renal artery aneurysms in New York State: outcomes of
+patients undergoing open and endovascular repair. Ann
+Vasc Surg 2009;23:194-200.
+34. Tsilimparis N, Reeves JG, Dayama A, Perez SD, Debus ES,
+Ricotta JJ 2nd. Endovascular vs open repair of renal artery
+aneurysms: outcomes of repair and long-term renal function. J Am Coll Surg 2013;217:263-9.
+35. Tham G, Ekelund L, Herrlin K, Lindstedt EL, Olin T,
+Bergentz SE. Renal artery aneurysms. Natural history and
+prognosis. Ann Surg 1983;197:348-52.
+36. Martin RS 3rd, Meacham PW, Ditesheim JA, Mulherin JL Jr,
+Edwards WH. Renal artery aneurysm: selective treatment
+for hypertension and prevention of rupture. J Vasc Surg
+1989;9:26-34.
+
+37. Henke PK, Cardneau JD, Welling TH 3rd, Upchurch GR Jr,
+Wakeﬁeld TW, Jacobs LA, et al. Renal artery aneurysms: a
+35-year clinical experience with 252 aneurysms in 168 patients. Ann Surg 2001;234:454-62; discussion: 462-3.
+38. Chandra A, O’Connell JB, Quinones-Baldrich WJ,
+Lawrence PF, Moore WS, Gelabert HA, et al. Aneurysmectomy with arterial reconstruction of renal artery aneurysms in the endovascular era: a safe, effective treatment
+for both aneurysm and associated hypertension. Ann Vasc
+Surg 2010;24:503-10.
+39. Klausner JQ, Harlander-Locke MP, Plotnik AN, Lehrman E,
+DeRubertis BG, Lawrence PF. Current treatment of renal
+artery aneurysms may be too aggressive. J Vasc Surg
+2014;59:1356-61.
+40. Wayne EJ, Edwards MS, Stafford JM, Hansen KJ,
+Corriere MA. Anatomic characteristics and natural history of
+renal artery aneurysms during longitudinal imaging surveillance. J Vasc Surg 2014;60:448-52.
+41. Cohen JR, Shamash FS. Ruptured renal artery aneurysms
+during pregnancy. J Vasc Surg 1987;6:51-9.
+42. Wexler BC. Spontaneous arteriosclerosis of the mesenteric,
+renal, and peripheral arteries of repeatedly bred rats. Circ
+Res 1964;15:485-96.
+43. Wexler BC. Spontaneous arteriosclerosis in repeatedly bred
+male and female rats. J Atheroscler Res 1964;4:57-80.
+44. Hellmund A, Meyer C, Fingerhut D, Muller SC, Merz WM,
+Gembruch U. Rupture of renal artery aneurysm during late
+pregnancy: clinical features and diagnosis. Arch Gynecol
+Obstet 2016;293:505-8.
+45. Hwang PF, Rice DC, Patel SV, Mukherjee D. Successful
+management of renal artery aneurysm rupture after cesarean section. J Vasc Surg 2011;54:519-21.
+46. McCarron JP Jr, Marshall VF, Whitsell JC 2nd. Indications for
+surgery on renal artery aneurysms. J Urol 1975;114:177-80.
+47. Soliman KB, Shawky Y, Abbas MM, Ammary M, Shaaban A.
+Ruptured renal artery aneurysm during pregnancy, a clinical dilemma. BMC Urol 2006;6:22.
+48. Graff J, Schalte G, Jovanovic V. [Rupture of a renal artery
+aneurysm during delivery]. Aktuelle Urol 2003;34:350-3.
+49. English WP, Pearce JD, Craven TE, Wilson DB, Edwards MS,
+Ayerdi J, et al. Surgical management of renal artery aneurysms. J Vasc Surg 2004;40:53-60.
+50. Pfeiffer T, Reiher L, Grabitz K, Grunhage B, Hafele S,
+Voiculescu A, et al. Reconstruction for renal artery aneurysm: operative techniques and long-term results. J Vasc
+Surg 2003;37:293-300.
+51. Hupp T, Allenberg JR, Post K, Roeren T, Meier M, Clorius JH.
+Renal artery aneurysm: surgical indications and results. Eur
+J Vasc Surg 1992;6:477-86.
+52. Dzsinich C, Gloviczki P, McKusick MA, Pairolero PC,
+Bower TC, Hallett JW Jr, et al. Surgical management of
+renal artery aneurysm. Cardiovasc Surg 1993;1:243-7.
+53. Heﬂin LA, Street CB, Papavassiliou DV, Kem DC, Wu DH,
+O’Rear EA. Transient stenotic-like occlusions as a possible
+mechanism for renovascular hypertension due to aneurysm. J Am Soc Hypertens 2009;3:192-200.
+54. Down LA, Papavassiliou DV, O’Rear EA. Arterial deformation
+with renal artery aneurysm as a basis for secondary hypertension. Biorheology 2013;50:17-31.
+55. Bastounis E, Pikoulis E, Georgopoulos S, Alexiou D,
+Leppaniemi A, Boulafendis D. Surgery for renal artery aneurysms: a combined series of two large centers. Eur Urol
+1998;33:22-7.
+56. Pulli R, Dorigo W, Troisi N, Pratesi G, Innocenti AA, Pratesi C.
+Surgical treatment of visceral artery aneurysms: a 25-year
+experience. J Vasc Surg 2008;48:334-42.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+35S
+
+Volume 72, Number 1S
+57. Morita K, Seki T, Iwami D, Sasaki H, Fukuzawa N,
+Nonomura K. Long-term outcome of single institutional
+experience with conservative and surgical management for
+renal artery aneurysm. Transplant Proc 2012;44:1795-9.
+58. Lumsden AB, Salam TA, Walton KG. Renal artery aneurysm:
+a report of 28 cases. Cardiovasc Surg 1996;4:185-9.
+59. Marone EM, Mascia D, Kahlberg A, Brioschi C, Tshomba Y,
+Chiesa R. Is open repair still the gold standard in visceral
+artery aneurysm management? Ann Vasc Surg 2011;25:
+936-46.
+60. Jibiki M, Inoue Y, Kudo T, Toyofuku T. Surgical procedures
+for renal artery aneurysms. Ann Vasc Dis 2012;5:157-60.
+61. Murray SP, Kent C, Salvatierra O, Stoney RJ. Complex
+branch renovascular disease: management options and
+late results. J Vasc Surg 1994;20:338-45; discussion: 346.
+62. Gallagher KA, Phelan MW, Stern T, Bartlett ST. Repair of
+complex renal artery aneurysms by laparoscopic nephrectomy with ex vivo repair and autotransplantation. J Vasc
+Surg 2008;48:1408-13.
+63. Abath C, Andrade G, Cavalcanti D, Brito N, Marques R.
+Complex renal artery aneurysms: liquids or coils? Tech Vasc
+Interv Radiol 2007;10:299-307.
+64. Dib M, Sedat J, Raffaelli C, Petit I, Robertson WG, Jaeger P.
+Endovascular treatment of a wide-neck renal artery bifurcation aneurysm. J Vasc Interv Radiol 2003;14:1461-4.
+65. Bratby MJ, Lehmann ED, Bottomley J, Kessel DO,
+Nicholson AA, McPherson SJ, et al. Endovascular embolization of visceral artery aneurysms with ethylene-vinyl
+alcohol (Onyx): a case series. Cardiovasc Intervent Radiol
+2006;29:1125-8.
+66. Meyer C, Verrel F, Weyer G, Wilhelm K. Endovascular management of complex renal artery aneurysms using the
+multilayer stent. Cardiovasc Intervent Radiol 2011;34:637-41.
+67. Paci E, Mincarelli C, Fichetti M, Alborino S, Antico E,
+Candelari R. Stent-assisted coil embolization of renal artery
+bifurcation aneurysm using the kissing stent technique.
+J Vasc Interv Radiol 2011;22:1485-7.
+68. Somarouthu B, Rabinov J, Waichi W, Kalva SP. Stent-assisted coil embolization of an intraparenchymal renal artery
+aneurysm in a patient with neuroﬁbromatosis. Vasc Endovascular Surg 2011;45:368-71.
+69. Kitzing B, Vedelago J, Bajic N, Lai G, Waugh R. Stent-assisted coil embolization of a wide-necked renal artery aneurysm. J Radiol Case Rep 2010;4:20-4.
+70. Manninen HI, Berg M, Vanninen RL. Stent-assisted coil
+embolization of wide-necked renal artery bifurcation aneurysms. J Vasc Interv Radiol 2008;19:487-92.
+71. Ikeda O, Tamura Y, Nakasone Y, Iryou Y, Yamashita Y.
+Nonoperative management of unruptured visceral artery
+aneurysms: treatment by transcatheter coil embolization.
+J Vasc Surg 2008;47:1212-9.
+72. Etezadi V, Gandhi RT, Benenati JF, Rochon P, Gordon M,
+Benenati MJ, et al. Endovascular treatment of visceral and
+renal artery aneurysms. J Vasc Interv Radiol 2011;22:1246-53.
+73. Abdel-Kerim A, Cassagnes L, Alﬁdja A, Gageanu C, Favrolt G,
+Dumousset E, et al. Endovascular treatment of eight renal
+artery aneurysms. Acta Radiol 2012;53:430-4.
+74. Sedat J, Chau Y, Baque J. Endovascular treatment of renal
+aneurysms: a series of 18 cases. Eur J Radiol 2012;81:3973-8.
+75. Zhang Z, Yang M, Song L, Tong X, Zou Y. Endovascular
+treatment of renal artery aneurysms and renal arteriovenous ﬁstulas. J Vasc Surg 2013;57:765-70.
+76. Gandini R, Morosetti D, Chiocchi M, Chiaravalloti A, Citraro D,
+Loreni G, et al. Long-term follow-up of endovascular treatment of renal artery aneurysms with covered stent deployment. J Cardiovasc Surg (Torino) 2016;57:625-33.
+
+77. Luke P, Knudsen BE, Nguan CY, Pautler SE, Swinnimer S,
+Kiaii R, et al. Robot-assisted laparoscopic renal artery
+aneurysm reconstruction. J Vasc Surg 2006;44:651-3.
+78. Giulianotti PC, Bianco FM, Addeo P, Lombardi A, Coratti A,
+Sbrana F. Robot-assisted laparoscopic repair of renal artery
+aneurysms. J Vasc Surg 2010;51:842-9.
+79. Gheza F, Coratti F, Masrur M, Calatayud D, Annecchiarico M,
+Coratti A, et al. Robot-assisted renal artery aneurysm repair
+with a saphenous vein Y-graft interposition. Surg Endosc
+2013;27:1404-5.
+80. Samarasekera D, Autorino R, Khalifeh A, Kaouk JH. Robotassisted laparoscopic renal artery aneurysm repair with
+selective arterial clamping. Int J Urol 2014;21:114-6.
+81. Olin JW, Gornik HL, Bacharach JM, Biller J, Fine LJ, Gray BH,
+et al. Fibromuscular dysplasia: state of the science and
+critical unanswered questions: a scientiﬁc statement from
+the American Heart Association. Circulation 2014;129:
+1048-78.
+82. Agrawal GA, Johnson PT, Fishman EK. Splenic artery aneurysms and pseudoaneurysms: clinical distinctions and CT
+appearances. AJR Am J Roentgenol 2007;188:992-9.
+83. Saba L, Anzidei M, Lucatelli P, Mallarini G. The multidetector
+computed tomography angiography (MDCTA) in the
+diagnosis of splenic artery aneurysm and pseudoaneurysm.
+Acta Radiol 2011;52:488-98.
+84. Al-Habbal Y, Christophi C, Muralidharan V. Aneurysms of
+the splenic arteryda review. Surgeon 2010;8:223-31.
+85. Russo A, Francia C, Zaottini A, Pagliei M. Giant splenic artery
+aneurysm, incidentally diagnosed. Ann Ital Chir 2008;79:
+371-5.
+86. Pilleul F, Forest J, Beuf O. [Magnetic resonance angiography
+of splanchnic artery aneurysms and pseudoaneurysms].
+J Radiol 2006;87(Pt 1):127-31.
+87. Stanley JC, Wakeﬁeld TW, Graham LM, Whitehouse WM Jr,
+Zelenock GB, Lindenauer SM. Clinical importance and
+management of splanchnic artery aneurysms. J Vasc Surg
+1986;3:836-40.
+88. Dave SP, Reis ED, Hossain A, Taub PJ, Kerstein MD,
+Hollier LH. Splenic artery aneurysm in the 1990s. Ann Vasc
+Surg 2000;14:223-9.
+89. Stanley JC, Fry WJ. Pathogenesis and clinical signiﬁcance of
+splenic artery aneurysms. Surgery 1974;76:898-909.
+90. Barrett JM, Van Hooydonk JE, Boehm FH. Pregnancyrelated rupture of arterial aneurysms. Obstet Gynecol Surv
+1982;37:557-66.
+91. Holdsworth RJ, Gunn A. Ruptured splenic artery aneurysm
+in pregnancy. A review. Br J Obstet Gynaecol 1992;99:595-7.
+92. Pitton MB, Dappa E, Jungmann F, Kloeckner R, Schotten S,
+Wirth GM, et al. Visceral artery aneurysms: incidence,
+management, and outcome analysis in a tertiary care
+center over one decade. Eur Radiol 2015;25:2004-14.
+93. Berceli SA. Hepatic and splenic artery aneurysms. Semin
+Vasc Surg 2005;18:196-201.
+94. Lakin RO, Bena JF, Sarac TP, Shah S, Krajewski LP,
+Srivastava SD, et al. The contemporary management of
+splenic artery aneurysms. J Vasc Surg 2011;53:958-64; discussion: 965.
+95. Tessier DJ, Stone WM, Fowl RJ, Abbas MA, Andrews JC,
+Bower TC, et al. Clinical features and management of
+splenic artery pseudoaneurysm: case series and cumulative
+review of literature. J Vasc Surg 2003;38:969-74.
+96. Parangi S, Levine D, Henry A, Isakovich N, Pories S. Surgical
+gastrointestinal disorders during pregnancy. Am J Surg
+2007;193:223-32.
+97. Hemp JH, Sabri SS. Endovascular management of visceral
+arterial aneurysms. Tech Vasc Interv Radiol 2015;18:14-23.
+
+36S
+
+Chaer et al
+
+Journal of Vascular Surgery
+July Supplement 2020
+
+98. Messina LM, Shanley CJ. Visceral artery aneurysms. Surg Clin
+North Am 1997;77:425-42.
+99. Nosher JL, Chung J, Brevetti LS, Graham AM, Siegel RL.
+Visceral and renal artery aneurysms: a pictorial essay on
+endovascular therapy. Radiographics 2006;26:1687-704.
+100. Arca MJ, Gagner M, Heniford BT, Sullivan TM, Beven EG.
+Splenic artery aneurysms: methods of laparoscopic repair.
+J Vasc Surg 1999;30:184-8.
+101. Mastracci TM, Cadeddu M, Colopinto RF, Cina C.
+A minimally invasive approach to the treatment of aberrant
+splenic artery aneurysms: a report of two cases. J Vasc Surg
+2005;41:1053-7.
+102. Mattar SG, Lumsden AB. The management of splenic artery
+aneurysms: experience with 23 cases. Am J Surg 1995;169:
+580-4.
+103. Huang IH, Zuckerman DA, Matthews JB. Occlusion of
+a giant splenic artery pseudoaneurysm with percutaneous thrombin-collagen injection. J Vasc Surg
+2004;40:574-7.
+104. Carroccio A, Jacobs TS, Faries P, Ellozy SH, Teodorescu VJ,
+Ting W, et al. Endovascular treatment of visceral artery aneurysms. Vasc Endovascular Surg 2007;41:373-82.
+105. Saltzberg SS, Maldonado TS, Lamparello PJ, Cayne NS,
+Nalbandian MM, Rosen RJ, et al. Is endovascular therapy
+the preferred treatment for all visceral artery aneurysms?
+Ann Vasc Surg 2005;19:507-15.
+106. Hogendoorn W, Lavida A, Hunink MG, Moll FL, Geroulakos G,
+Muhs BE, et al. Cost-effectiveness of endovascular repair,
+open repair, and conservative management of splenic artery aneurysms. J Vasc Surg 2015;61:1432-40.
+107. Chadha M, Ahuja C. Visceral artery aneurysms: diagnosis
+and percutaneous management. Semin Intervent Radiol
+2009;26:196-206.
+108. Abbas MA, Stone WM, Fowl RJ, Gloviczki P, Oldenburg WA,
+Pairolero PC, et al. Splenic artery aneurysms: two decades
+experience at Mayo Clinic. Ann Vasc Surg 2002;16:442-9.
+109. Schanzer H, Papa MC, Miller CM. Rupture of surgically
+thrombosed abdominal aortic aneurysm. J Vasc Surg
+1985;2:278-80.
+110. Schwartz RA, Nichols WK, Silver D. Is thrombosis of the
+infrarenal abdominal aortic aneurysm an acceptable
+alternative? J Vasc Surg 1986;3:448-55.
+111. Carr SC, Pearce WH, Vogelzang RL, McCarthy WJ,
+Nemcek AA Jr, Yao JS. Current management of visceral
+artery aneurysms. Surgery 1996;120:627-33; discussion: 633-4.
+112. Onohara T, Okadome K, Mii S, Yasumori K, Muto Y,
+Sugimachi K. Rupture of embolised coeliac artery pseudoaneurysm into the stomach: is coil embolisation an
+effective treatment for coeliac anastomotic pseudoaneurysm? Eur J Vasc Surg 1992;6:330-2.
+113. Sessa C, Tinelli G, Porcu P, Aubert A, Thony F, Magne JL.
+Treatment of visceral artery aneurysms: description of a
+retrospective series of 42 aneurysms in 34 patients. Ann
+Vasc Surg 2004;18:695-703.
+114. Grosso M, Zanon E, Mancini A, Gomes Pavanello I,
+Bocchio A, Zanlungo D, et al. [Percutaneous transcatheter
+therapy of visceral pseudoaneurysms]. Minerva Chir 1998;53:
+363-8.
+115. Miller DW Jr, Royster TS. Celiac artery aneurysm: rationale
+for celiac axis ligation with excisional treatment. Vasc Surg
+1971;5:42-7.
+116. Graham LM, Stanley JC, Whitehouse WM Jr, Zelenock GB,
+Wakeﬁeld TW, Cronenwett JL, et al. Celiac artery aneurysms:
+historic (1745-1949) versus contemporary (1950-1984) differences in etiology and clinical importance. J Vasc Surg
+1985;2:757-64.
+
+117. Stone WM, Abbas MA, Gloviczki P, Fowl RJ, Cherry KJ. Celiac
+arterial aneurysms: a critical reappraisal of a rare entity.
+Arch Surg 2002;137:670-4.
+118. McMullan DM, McBride M, Livesay JJ, Dougherty KG,
+Krajcer Z. Celiac artery aneurysm: a case report. Tex Heart
+Inst J 2006;33:235-40.
+119. Rokke O, Sondenaa K, Amundsen S, Bjerke-Larssen T,
+Jensen D. The diagnosis and management of splanchnic
+artery aneurysms. Scand J Gastroenterol 1996;31:737-43.
+120. Hosaka A, Nemoto M, Miyata T. Outcomes of conservative
+management of spontaneous celiac artery dissection.
+J Vasc Surg 2017;65:760-5.e1.
+121. Otsuka H, Sato T, Aoki H, Nakagawa Y, Inokuchi S. Optimal
+management strategy for spontaneous isolated dissection
+of a visceral artery. Vascular 2018;26:169-74.
+122. Guo B, Guo D, Xu X, Chen B, Shi Z, Luo J, et al. Early and
+intermediate results of endovascular treatment of symptomatic and asymptomatic visceral artery aneurysms.
+J Vasc Surg 2016;64:140-8.
+123. Tetreau R, Beji H, Henry L, Valette PJ, Pilleul F. Arterial
+splanchnic aneurysms: presentation, treatment and
+outcome in 112 patients. Diagn Interv Imaging 2016;97:
+81-90.
+124. Atkins BZ, Ryan JM, Gray JL. Treatment of a celiac artery
+aneurysm with endovascular stent graftingda case report.
+Vasc Endovascular Surg 2003;37:367-73.
+125. D’Ayala M, Deitch JS, deGraft-Johnson J, Nguyen E,
+McGagh D, Gwertzman GA, et al. Giant celiac artery aneurysm with associated visceral occlusive disease. Vascular
+2004;12:390-3.
+126. Glickerman DJ, Hathaway PB, Hatsukami T, Daly CP,
+Althaus S, Kohler TR. Transluminal treatment of a celiac
+artery pseudoaneurysm with a stent graft occlusion device.
+Cardiovasc Intervent Radiol 1997;20:466-9.
+127. Matsukura I, Iwai T, Inoue Y. Celiac artery aneurysm: report
+of two surgical cases. Surg Today 1999;29:948-52.
+128. McIntyre TP, Simone ST, Stahlfeld KR. Intraoperative
+thrombin occlusion of a visceral artery aneurysm. J Vasc
+Surg 2002;36:393-5.
+129. Rodrigus IE, Berry MC, Gdeedo A, Van Schil PE,
+Vanmaele RG. Surgical management of concurrent, coeliac
+and bilateral iliac artery aneurysms. Cardiovasc Surg 1995;3:
+501-3.
+130. Waldenberger P, Bendix N, Petersen J, Tauscher T,
+Glodny B. Clinical outcome of endovascular therapeutic
+occlusion of the celiac artery. J Vasc Surg 2007;46:655-61.
+131. Dinter DJ, Rexin M, Kaehler G, Neff W. Fatal coil migration
+into the stomach 10 years after endovascular celiac aneurysm repair. J Vasc Interv Radiol 2007;18(Pt 1):117-20.
+132. Roberts KJ, McCulloch N, Forde C, Mahon B, Mangat K,
+Olliff SP, et al. Emergency treatment of haemorrhaging
+coeliac or mesenteric artery aneurysms and pseudoaneurysms in the era of endovascular management. Eur J Vasc
+Endovasc Surg 2015;49:382-9.
+133. Hossain A, Reis ED, Dave SP, Kerstein MD, Hollier LH.
+Visceral artery aneurysms: experience in a tertiary-care
+center. Am Surg 2001;67:432-7.
+134. Carmeci C, McClenathan J. Visceral artery aneurysms as
+seen in a community hospital. Am J Surg 2000;179:486-9.
+135. Vasconcelos L, Garcia AC, Silva e Castro J, Albuquerque e
+Castro J, Mota Capitao L. Celiac artery aneurysms. Ann Vasc
+Surg 2010;24:554.e17-22.
+136. Inada K, Maeda M, Ikeda T. Segmental arterial mediolysis:
+unrecognized cases culled from cases of ruptured aneurysm of abdominal visceral arteries reported in the Japanese literature. Pathol Res Pract 2007;203:771-8.
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+37S
+
+Volume 72, Number 1S
+137. Chiaradia M, Novelli L, Deux JF, Tacher V, Mayer J, You K,
+et al. Ruptured visceral artery aneurysms. Diagn Interv
+Imaging 2015;96:797-806.
+138. Vargas HA, Cousins C, Higgins JN, See TC. Left gastric artery
+aneurysm: successful embolization with ethylene vinyl
+alcohol copolymer (Onyx). Cardiovasc Intervent Radiol
+2008;31:418-21.
+139. Sandstrom A, Jha P. Ruptured left gastric artery aneurysms:
+three cases managed successfully with open surgical
+repair. Ann Vasc Surg 2016;36:296.e9-12.
+140. Carr SC, Mahvi DM, Hoch JR, Archer CW, Turnipseed WD.
+Visceral artery aneurysm rupture. J Vasc Surg 2001;33:806-11.
+141. Lagoudianakis EE, Filis KA, Tsekouras DK, Genetzakis M,
+Archontovassilis F, Pattas M, et al. Endovascular obliteration
+of a ruptured right gastric artery aneurysm. Minerva Gastroenterol Dietol 2006;52:333-7.
+142. Schellhammer F, Steinhaus D, Cohnen M, Hoppe J,
+Modder U, Furst G. Minimally invasive therapy of pseudoaneurysms of the trunk: application of thrombin. Cardiovasc
+Intervent Radiol 2008;31:535-41.
+143. Ikeda O, Nakasone Y, Tamura Y, Yamashita Y. Endovascular
+management of visceral artery pseudoaneurysms: transcatheter coil embolization using the isolation technique.
+Cardiovasc Intervent Radiol 2010;33:1128-34.
+144. Lagana D, Carraﬁello G, Mangini M, Dizonno M, Fugazzola C.
+Emergency endovascular treatment with stent graft of a
+gastric artery aneurysms (GAA). Emerg Radiol 2008;15:141-4.
+145. Tseng KC, Hsieh YH, Lin CW, Chang SM, Wei CK. Aneurysms
+of the left gastric and splenic arteries presenting with
+massive upper gastrointestinal bleeding. Endoscopy
+2009;41(Suppl 2):E131-2.
+146. Shinoda N, Hirai O, Mikami K, Bando T, Shimo D,
+Kuroyama T, et al. Segmental arterial mediolysis involving
+both vertebral and middle colic arteries leading to subarachnoid and intraperitoneal hemorrhage. World Neurosurg 2016;88:694.e5-10.
+147. Shimohira M, Ogino H, Sasaki S, Ishikawa K, Koyama M,
+Watanabe K, et al. Transcatheter arterial embolization for
+segmental arterial mediolysis. J Endovasc Ther 2008;15:
+493-7.
+148. Fankhauser GT, Stone WM, Naidu SG, Oderich GS,
+Ricotta JJ, Bjarnason H, et al. The minimally invasive management of visceral artery aneurysms and pseudoaneurysms. J Vasc Surg 2011;53:966-70.
+149. Batagini NC, El-Arousy H, Clair DG, Kirksey L. Open versus
+endovascular treatment of visceral artery aneurysms and
+pseudoaneurysms. Ann Vasc Surg 2016;35:1-8.
+150. Abbas MA, Fowl RJ, Stone WM, Panneton JM,
+Oldenburg WA, Bower TC, et al. Hepatic artery aneurysm:
+factors that predict complications. J Vasc Surg 2003;38:41-5.
+151. Lumsden AB, Mattar SG, Allen RC, Bacha EA. Hepatic artery
+aneurysms: the management of 22 patients. J Surg Res
+1996;60:345-50.
+152. Erben Y, De Martino RR, Bjarnason H, Duncan AA, Kalra M,
+Oderich GS, et al. Operative management of hepatic artery
+aneurysms. J Vasc Surg 2015;62:610-5.
+153. Lal RB, Strohl JA, Piazza S, Aslam M, Ball D, Patel K.
+Hepatic artery aneurysm. J Cardiovasc Surg (Torino) 1989;30:
+509-13.
+154. Chan RJ, Goodman TA, Aretz TH, Lie JT. Segmental mediolytic arteriopathy of the splenic and hepatic arteries
+mimicking systemic necrotizing vasculitis. Arthritis Rheum
+1998;41:935-8.
+155. den Bakker MA, Tangkau PL, Steffens TW, Tjiam SL, van
+der Loo EM. Rupture of a hepatic artery aneurysm caused
+by Wegener’s granulomatosis. Pathol Res Pract 1997;193:
+61-6.
+
+156. Caputo AE, Roberts WN, Yee YS, Posner MP. Hepatic artery
+aneurysm in corticosteroid-treated, adult Kawasaki’s disease. Ann Vasc Surg 1991;5:533-7.
+157. Hassen-Khodja R, Declemy S, Batt M, Castanet J, Perrin C,
+Ortonne JP, et al. Visceral artery aneurysms in von Recklinghausen’s neuroﬁbromatosis. J Vasc Surg 1997;25:572-5.
+158. Koyama M, Tanaka M, Shimizu M, Nomura S, Kako N,
+Suzuki S, et al. Surgical treatment of mesenteric infarction,
+thoracoabdominal aortic aneurysm, and proper hepatic
+aneurysm in a middle-aged woman with Takayasu’s arteritis. J Cardiovasc Surg (Torino) 1995;36:337-41.
+159. Erskine JM. Hepatic artery aneurysm. Vasc Surg 1973;7:
+106-25.
+160. Cordova AC, Sumpio BE. Visceral artery aneurysms and
+pseduoaneurysmsdshould they all be managed by endovascular techniques? Ann Vasc Dis 2013;6:687-93.
+161. Hidalgo F, Narvaez JA, Rene M, Dominguez J, Sancho C,
+Montanya X. Treatment of hemobilia with selective hepatic
+artery embolization. J Vasc Interv Radiol 1995;6:793-8.
+162. Tarazov PG, Ryzhkov VK, Polysalov VN, Prozorovskii KV,
+Polikarpov AA. Extraorganic hepatic artery aneurysm: failure of transcatheter embolization. HPB Surg 1998;11:55-9;
+discussion: 59-60.
+163. McNamara MF, Griska LB. Superior mesenteric artery
+branch aneurysms. Surgery 1980;88:625-30.
+164. Busuttil RW, Brin BJ. The diagnosis and management of
+visceral artery aneurysms. Surgery 1980;88:619-24.
+165. Honarbakhsh A, Madjlessi HM, Davaii M, Saldjooghi H.
+Aneurysm of superior mesenteric artery: identiﬁcation with
+ultrasonography. J Clin Ultrasound 1993;21:207-8.
+166. Shanley CJ, Shah NL, Messina LM. Uncommon splanchnic
+artery aneurysms: pancreaticoduodenal, gastroduodenal,
+superior mesenteric, inferior mesenteric, and colic. Ann
+Vasc Surg 1996;10:506-15.
+167. Dong Z, Fu W, Chen B, Guo D, Xu X, Wang Y. Treatment of
+symptomatic isolated dissection of superior mesenteric
+artery. J Vasc Surg 2013;57(Suppl):69S-76S.
+168. Yun WS, Kim YW, Park KB, Cho SK, Do YS, Lee KB, et al.
+Clinical and angiographic follow-up of spontaneous isolated superior mesenteric artery dissection. Eur J Vasc
+Endovasc Surg 2009;37:572-7.
+169. Lorelli DR, Cambria RA, Seabrook GR, Towne JB. Diagnosis
+and management of aneurysms involving the superior
+mesenteric artery and its branchesda report of four cases.
+Vasc Endovascular Surg 2003;37:59-66.
+170. Kanazawa S, Inada H, Murakami T, Masaki H, Morita I,
+Tabuchi A, et al. The diagnosis and management of
+splanchnic artery aneurysms. Report of 8 cases.
+J Cardiovasc Surg (Torino) 1997;38:479-85.
+171. Zelenock GB, Stanley JC. Splanchnic artery aneurysms. In:
+Rutherford RB, editor. Vascular surgery. Philadelphia: WB
+Saunders; 2000. p. 1369-82.
+172. Tan C, Reul R. Inferior mesenteric artery aneurysm in the
+setting of celiac and superior mesenteric artery occlusion.
+J Vasc Surg Cases Innov Tech 2019;5:197-9.
+173. Rahman Q, Naidu SG, Chong BW, Stone WM. Percutaneous
+embolization of an inferior mesenteric artery aneurysm in a
+patient with type IV Ehlers-Danlos syndrome. Vasc Endovascular Surg 2019;53:343-7.
+174. Hansraj N, Hamdi A, Wise ES, DiChiacchio L, Sarkar R,
+Toursavadkohi S. Open and endovascular management of
+inferior mesenteric artery aneurysms: a report of two cases.
+Ann Vasc Surg 2017;43:316.e9-14.
+175. Farber A, Wagner WH, Cossman DV, Cohen JL, Walsh DB,
+Fillinger MF, et al. Isolated dissection of the abdominal
+aorta: clinical presentation and therapeutic options. J Vasc
+Surg 2002;36:205-10.
+
+38S
+
+Chaer et al
+
+Journal of Vascular Surgery
+July Supplement 2020
+
+176. Kim SK, Lee J, Duncan JR, Picus DD, Darcy MD, Sauk S.
+Endovascular treatment of superior mesenteric artery
+pseudoaneurysms using covered stents in six patients. AJR
+Am J Roentgenol 2014;203:432-8.
+177. Shanley CJ, Shah NL, Messina LM. Common splanchnic artery aneurysms: splenic, hepatic, and celiac. Ann Vasc Surg
+1996;10:315-22.
+178. Morra A, Rimondini A, Adovasio R. Jejunal artery aneurysm:
+diagnostic efﬁcacy of spiral CT angiography. A case report.
+Radiol Med 2002;104:95-8.
+179. Pilleul F, Beuf O. Diagnosis of splanchnic artery aneurysms
+and pseudoaneurysms, with special reference to contrast
+enhanced 3D magnetic resonance angiography: a review.
+Acta Radiol 2004;45:702-8.
+180. Sachdev-Ost U. Visceral artery aneurysms: review of current
+management options. Mt Sinai J Med 2010;77:296-303.
+181. Gofﬁ L, Chan R, Boccoli G, Ghiselli R, Saba V. Aneurysm of a
+jejunal branch of the superior mesenteric artery in a patient
+with Marfan’s syndrome. J Cardiovasc Surg (Torino) 2000;41:
+321-3.
+182. Hong YK, Yoo WH. Massive gastrointestinal bleeding due
+to the rupture of arterial aneurysm in Behçet’s disease:
+case report and literature review. Rheumatol Int 2008;28:
+1151-4.
+183. Sellke FW, Williams GB, Donovan DL, Clarke RE. Management of intra-abdominal aneurysms associated with periarteritis nodosa. J Vasc Surg 1986;4:294-8.
+184. Tessier DJ, Abbas MA, Fowl RJ, Stone WM, Bower TC,
+McKusick MA, et al. Management of rare mesenteric arterial
+branch aneurysms. Ann Vasc Surg 2002;16:586-90.
+185. Costa S, Costa A, Pereira T, Maciel J. Ruptured jejunal artery
+aneurysm. BMJ Case Rep 2013;2013. bcr2013008772.
+186. Balderi A, Antonietti A, Ferro L, Peano E, Pedrazzini F,
+Fonio P, et al. Endovascular treatment of visceral artery
+aneurysms and pseudoaneurysms: our experience. Radiol
+Med 2012;117:815-30.
+187. Rossi UG, Seitun S, Ferro C. Endovascular embolization of a
+third jejunal artery aneurysm: isolation technique using the
+Amplatzer vascular plug 4. Catheter Cardiovasc Interv
+2013;81:1049-52.
+188. Turkbey B, Peynircioglu B, Akpinar E, Cil BE,
+Karcaaltincaba M. Isolated aneurysm of the distal branch of
+the jejunal artery: MDCT angiographic diagnosis and
+endovascular management. Cardiovasc Intervent Radiol
+2008;31(Suppl 2):S34-7.
+189. Ham EM, Cho BS, Ye JB, Mun YS, Choi YJ, Kwon OS. The
+endovascular treatment of a ruptured aneurysm of the
+middle colic artery combined with an isolated dissection of
+superior mesenteric artery: report of a case. Vasc Endovascular Surg 2014;48:352-5.
+190. Huang YK, Hsieh HC, Tsai FC, Chang SH, Lu MS, Ko PJ.
+Visceral artery aneurysm: risk factor analysis and therapeutic opinion. Eur J Vasc Endovasc Surg 2007;33:293-301.
+191. Huo CW. Middle colic artery aneurysm: a case report and
+review of the literature. Ann Vasc Surg 2012;26:571.e1-6.
+192. Moskowitz R, Rundback J. Middle colic artery branch
+aneurysm presenting as spontaneous hemoperitoneum.
+Ann Vasc Surg 2014;28:1797.e15-7.
+193. Nishimura K, Hamasaki T, Ota R, Ohno T, Kodama W,
+Uchida N, et al. Elective treatment of middle colic artery
+aneurysm. Ann Vasc Dis 2014;7:328-30.
+194. Lu M, Weiss C, Fishman EK, Johnson PT, Verde F. Review of
+visceral aneurysms and pseudoaneurysms. J Comput Assist
+Tomogr 2015;39:1-6.
+195. Chivot C, Rebibo L, Robert B, Regimbeau JM, Yzet T.
+Ruptured pancreaticoduodenal artery aneurysms associated with celiac stenosis caused by the median arcuate
+
+ligament: a poorly known etiology of acute abdominal pain.
+Eur J Vasc Endovasc Surg 2016;51:295-301.
+196. Ilica AT, Kocaoglu M, Bilici A, Ors F, Bukte Y, Senol A, et al.
+Median arcuate ligament syndrome: multidetector
+computed tomography ﬁndings. J Comput Assist Tomogr
+2007;31:728-31.
+197. Kallamadi R, Demoya MA, Kalva SP. Inferior pancreaticoduodenal artery aneurysms in association with celiac stenosis/occlusion. Semin Intervent Radiol 2009;26:
+215-23.
+198. Perez C, Llauger J, Pallardo Y, Sanchis E, Sabate JM.
+Radiologic diagnosis of pseudoaneurysms complicating
+pancreatitis. Eur J Radiol 1993;16:102-6.
+199. Uno A, Ishida H, Naganuma H, Niizawa M, Sawabe J,
+Masamune O. Color Doppler ﬁndings in small abdominal
+aneurysms. Abdom Imaging 1994;19:410-2.
+200. Columbo JA, Trus T, Nolan B, Goodney P, Rzucidlo E,
+Powell R, et al. Contemporary management of median
+arcuate ligament syndrome provides early symptom
+improvement. J Vasc Surg 2015;62:151-6.
+201. Gruber H, Loizides A, Peer S, Gruber I. Ultrasound of the
+median arcuate ligament syndrome: a new approach to
+diagnosis. Med Ultrason 2012;14:5-9.
+202. Glockner JF, Takahashi N, Kawashima A, Woodrum DA,
+Stanley DW, Takei N, et al. Non-contrast renal artery MRA
+using an inﬂow inversion recovery steady state free precession technique (Inhance): comparison with 3D contrastenhanced MRA. J Magn Reson Imaging 2010;31:1411-8.
+203. Hartung MP, Grist TM, Francois CJ. Magnetic resonance
+angiography: current status and future directions.
+J Cardiovasc Magn Reson 2011;13:19.
+204. Khoo MM, Deeab D, Gedroyc WM, Duncan N, Taube D,
+Dick EA. Renal artery stenosis: comparative assessment by
+unenhanced renal artery MRA versus contrast-enhanced
+MRA. Eur Radiol 2011;21:1470-6.
+205. Loffroy R, Favelier S, Pottecher P, Genson PY, Estivalet L,
+Gehin S, et al. Endovascular management of visceral artery
+aneurysms: when to watch, when to intervene? World J
+Radiol 2015;7:143-8.
+206. de Perrot M, Berney T, Deleaval J, Buhler L, Mentha G,
+Morel P. Management of true aneurysms of the pancreaticoduodenal arteries. Ann Surg 1999;229:416-20.
+207. Corey MJ, Ergul EA, Cambria RP, English SJ, Patel VI,
+Lancaster RT, et al. SS24. The natural history of splanchnic
+artery aneurysms (SAAs) and outcomes following operative
+intervention. J Vasc Surg 2015;61(Suppl):110s-1s.
+208. Katsura M, Gushimiyagi M, Takara H, Mototake H. True
+aneurysm of the pancreaticoduodenal arteries: a single
+institution experience. J Gastrointest Surg 2010;14:1409-13.
+209. Shukla AJ, Eid R, Fish L, Avgerinos E, Marone L, Makaroun M,
+et al. Contemporary outcomes of intact and ruptured
+visceral artery aneurysms. J Vasc Surg 2015;61:1442-7.
+210. De Santis F, Bruni A, Da Ros V, Chaves Brait CM, Scevola G,
+Di Cintio V. Multiple pancreatoduodenal artery arcade aneurysms associated with celiac axis root segmental stenosis
+presenting as aneurysm rupture. Ann Vasc Surg 2015;29:
+1657.e1-7.
+211. Boll JM, Sharp KW, Garrard CL, Naslund TC, Curci JA,
+Valentine RJ. Does management of true aneurysms of
+peripancreatic arteries require repair of associated celiac
+artery stenosis? J Am Coll Surg 2017;224:199-203.
+212. Corey MR, Ergul EA, Cambria RP, English SJ, Patel VI,
+Lancaster RT, et al. The natural history of splanchnic artery
+aneurysms and outcomes after operative intervention.
+J Vasc Surg 2016;63:949-57.
+213. Ferrero E, Ferri M, Viazzo A, Robaldo A, Carbonatto P,
+Pecchio A, et al. Visceral artery aneurysms, an experience
+
+Journal of Vascular Surgery
+
+Chaer et al
+
+39S
+
+Volume 72, Number 1S
+on 32 cases in a single center: treatment from surgery to
+multilayer stent. Ann Vasc Surg 2011;25:923-35.
+214. Takao H, Nojo T, Ohtomo K. True pancreaticoduodenal artery aneurysms: a decision analysis. Eur J Radiol 2010;75:
+110-3.
+215. Brocker JA, Maher JL, Smith RW. True pancreaticoduodenal
+aneurysms with celiac stenosis or occlusion. Am J Surg
+2012;204:762-8.
+216. Orion KC, Najaﬁan A, Ehlert BA, Malas MB, Black JH 3rd,
+Abularrage CJ. Gender predicts rupture of pancreaticoduodenal artery aneurysms. Ann Vasc Surg 2016;36:
+1-6.
+217. Guillon R, Garcier JM, Abergel A, Moﬁd R, Garcia V, Chahid T,
+et al. Management of splenic artery aneurysms and false
+aneurysms with endovascular treatment in 12 patients.
+Cardiovasc Intervent Radiol 2003;26:256-60.
+218. Roy D, Milot G, Raymond J. Endovascular treatment of
+unruptured aneurysms. Stroke 2001;32:1998-2004.
+219. Mascitelli JR, Moyle H, Oermann EK, Polykarpou MF,
+Patel AA, Doshi AH, et al. An update to the Raymond-Roy
+Occlusion Classiﬁcation of intracranial aneurysms treated
+with coil embolization. J Neurointerv Surg 2015;7:496-502.
+220. Marjanovic IR, Jevtic M, Misovic S, Rusovic S, Zoranovic U,
+Sarac M. Endovascular reconstruction of giant gastroduodenal artery aneurysm with stent graft: case report. Vasc
+Endovascular Surg 2010;44:392-4.
+221. Lykoudis PM, Stafyla VK, Koutoulidis V, Xatziioannou A,
+Arkadopoulos N, Mourikis I, et al. Stenting of a gastroduodenal artery aneurysm: report of a case. Surg Today 2012;42:
+72-4.
+222. Won Y, Lee SL, Kim Y, Ku YM. Clinical efﬁcacy of transcatheter embolization of visceral artery pseudoaneurysms
+using N-butyl cyanoacrylate (NBCA). Diagn Interv Imaging
+2015;96:563-9.
+223. Mazzaccaro D, Carmo M, Nano G, Barbetta I,
+Settembrini AM, Occhiuto MT, et al. Treatment options for
+visceral artery aneurysms: ten year experience. J Cardiovasc
+Surg (Torino) 2015;56:423-32.
+224. Song HH, Won YD, Kim YJ. Transcatheter N-butyl cyanoacrylate embolization of pseudoaneurysms. J Vasc Interv
+Radiol 2010;21:1508-11.
+225. Pollak JS, White RI Jr. The use of cyanoacrylate adhesives in
+peripheral embolization. J Vasc Interv Radiol 2001;12:907-13.
+226. Shankar JJ, Tampieri D, Iancu D, Cortes M, Agid R, Krings T,
+et al. SILK ﬂow diverter for complex intracranial aneurysms:
+a Canadian registry. J Neurointerv Surg 2016;8:273-8.
+227. Rufﬁno M, Rabbia C. Endovascular treatment of visceral
+artery aneurysms with Cardiatis multilayer ﬂow modulator:
+preliminary results at six-month follow-up. J Cardiovasc
+Surg (Torino) 2011;52:311-21.
+228. Sutton D, Lawton G. Coeliac stenosis or occlusion with
+aneurysm of the collateral supply. Clin Radiol 1973;24:49-53.
+
+229. Moore E, Matthews MR, Minion DJ, Quick R, Schwarcz TH,
+Loh FK, et al. Surgical management of peripancreatic
+arterial aneurysms. J Vasc Surg 2004;40:247-53.
+230. Bowens NM, Woo EY, Fairman RM. Reno-hepatic artery
+bypass for an inferior pancreaticoduodenal artery aneurysm with associated celiac occlusion. J Vasc Surg 2011;53:
+1696-8.
+231. Tien YW, Kao HL, Wang HP. Celiac artery stenting: a new
+strategy for patients with pancreaticoduodenal artery
+aneurysm associated with stenosis of the celiac artery.
+J Gastroenterol 2004;39:81-5.
+232. Sugiyama K, Takehara Y. Analysis of ﬁve cases of splanchnic
+artery aneurysm associated with coeliac artery stenosis due
+to compression by the median arcuate ligament. Clin
+Radiol 2007;62:688-93.
+233. Grech P, Rowlands P, Crofton M. Aneurysm of the inferior
+pancreaticoduodenal artery diagnosed by real-time ultrasound and pulsed Doppler. Br J Radiol 1989;62:753-5.
+234. Salam TA, Lumsden AB, Martin LG, Smith RB 3rd. Nonoperative management of visceral aneurysms and pseudoaneurysms. Am J Surg 1992;164:215-9.
+235. Yasumoto T, Osuga K, Yamamoto H, Ono Y, Masada M,
+Mikami K, et al. Long-term outcomes of coil packing for
+visceral aneurysms: correlation between packing density
+and incidence of coil compaction or recanalization. J Vasc
+Interv Radiol 2013;24:1798-807.
+236. Skipworth JR, Morkane C, Raptis DA, Kennedy L, Johal K,
+Pendse D, et al. Coil migrationda rare complication of
+endovascular exclusion of visceral artery pseudoaneurysms
+and aneurysms. Ann R Coll Surg Engl 2011;93:e19-23.
+237. Yamamoto S, Hirota S, Maeda H, Achiwa S, Arai K,
+Kobayashi K, et al. Transcatheter coil embolization of
+splenic artery aneurysm. Cardiovasc Intervent Radiol
+2008;31:527-34.
+238. Koganemaru M, Abe T, Uchiyama D, Iwamoto R, Yoshida S,
+Hayabuchi N, et al. Detection of neck recanalization with
+follow-up contrast-enhanced MR angiography after renal
+artery aneurysm coil embolization. J Vasc Interv Radiol
+2010;21:298-300.
+239. Koganemaru M, Abe T, Nonoshita M, Iwamoto R,
+Kusumoto M, Kuhara A, et al. Follow-up of true visceral artery aneurysm after coil embolization by three-dimensional
+contrast-enhanced MR angiography. Diagn Interv Radiol
+2014;20:129-35.
+240. Piscaglia F, Gualandi S, Galassi M, Giampalma E, Golﬁeri R,
+Bolondi L. Contrast enhanced ultrasonography for the
+evaluation of coil embolization of splenic artery aneurysm.
+Circulation 2010;122:e451-4.
+
+Submitted Jan 21, 2020; accepted Jan 22, 2020.
+
+

@@ -1,0 +1,1472 @@
+SOCIETY FOR VASCULAR SURGERY® DOCUMENTS
+
+Early thrombus removal strategies for acute deep
+venous thrombosis: Clinical Practice Guidelines of
+the Society for Vascular Surgery and the American
+Venous Forum
+Mark H. Meissner, MD,a Peter Gloviczki, MD,b Anthony J. Comerota, MD,c Michael C. Dalsing, MD,d
+Bo G. Eklof, MD,e David L. Gillespie, MD,f Joann M. Lohr, MD,g Robert B. McLafferty, MD,h
+M. Hassan Murad, MD,i Frank Padberg, MD,j Peter Pappas, MD,k Joseph D. Raffetto, MD,l and
+Thomas W. Wakefield, MD,m Seattle, Wash; Rochester, Minn; Toledo, Ohio; Indianapolis, Ind; Helsingborg, Sweden;
+Rochester and New York, NY; Cincinnati, Ohio; Springfield, Ill; Newark, NJ; West Roxbury, Mass; Ann Arbor, Mich
+Background: The anticoagulant treatment of acute deep venous thrombosis (DVT) has been historically directed toward
+the prevention of recurrent venous thromboembolism. However, such treatment imperfectly protects against late
+manifestations of the postthrombotic syndrome. By restoring venous patency and preserving valvular function, early
+thrombus removal strategies can potentially decrease postthrombotic morbidity.
+Objective: A committee of experts in venous disease was charged by the Society for Vascular Surgery and the American
+Venous Forum to develop evidence-based practice guidelines for early thrombus removal strategies, including catheterdirected pharmacologic thrombolysis, pharmacomechanical thrombolysis, and surgical thrombectomy.
+Methods: Evidence-based recommendations are based on a systematic review and meta-analysis of the relevant literature,
+supplemented when necessary by less rigorous data. Recommendations are made according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology, incorporating the strength of the
+recommendation (strong: 1; weak: 2) and an evaluation of the level of the evidence (A to C).
+Results: On the basis of the best evidence currently available, we recommend against routine use of the term “proximal
+venous thrombosis” in favor of more precise characterization of thrombi as involving the iliofemoral or femoropopliteal
+venous segments (Grade 1A). We further suggest the use of early thrombus removal strategies in ambulatory patients with
+good functional capacity and a first episode of iliofemoral DVT of <14 days in duration (Grade 2C) and strongly
+recommend their use in patients with limb-threatening ischemia due to iliofemoral venous outflow obstruction (Grade
+1A). We suggest pharmacomechanical strategies over catheter-directed pharmacologic thrombolysis alone if resources are
+available and that surgical thrombectomy be considered if thrombolytic therapy is contraindicated (Grade 2C).
+Conclusions: Most data regarding early thrombus removal strategies are of low quality but do suggest patientimportant benefits with respect to reducing postthrombotic morbidity. We anticipate revision of these guidelines as
+additional evidence becomes available. ( J Vasc Surg 2012;55:1449-62.)
+
+From the Division of Vascular Surgery, Department of Surgery, University of Washington School of Medicine, Seattlea; the Division of
+Vascular and Endovascular Surgery, Department of Surgery, Mayo
+Clinic, Rochesterb; the Section of Vascular Surgery, Jobst Vascular
+Center, Toledoc; the Section of Vascular Surgery, Department of
+Surgery, Indiana University School of Medicine, Indianapolisd; Vascular Surgery, University of Lund, Helsingborge; the Division of Vascular
+Surgery, Department of Surgery, University of Rochester School of
+Medicine & Dentistry, Rochesterf; Lohr Surgical Specialists, Cincinnatig; the Division of Vascular Surgery, Department of Surgery, Southern
+Illinois University, Springfieldh; the Department of Preventive, Occupational, and Aerospace Medicine, Mayo Clinic, Rochesteri; the Division of
+Vascular Surgery, Department of Surgery, University of Medicine &
+Dentistry of New Jersey, Newarkj; the Department of Surgery, The
+Brooklyn Hospital Center, New Yorkk; the Division of Vascular Surgery,
+Department of Surgery, VA Boston Healthcare System, West Roxburyl;
+
+and the Section of Vascular Surgery, Department of Surgery, University of
+Michigan, Ann Arbor.m
+Author conflict of interest: none.
+Reprint requests: Mark H. Meissner, MD, Department of Surgery, Box
+356410, University of Washington, School of Medicine, 1959 NE Pacific
+St, Seattle, WA (e-mail: meissner@u.washington.edu).
+Independent peer-review and oversight has been provided by members of
+the SVS Document Oversight Committee (K. Wayne Johnston, MD
+(chair), Elliot L. Chaikof, MD, Jack L. Cronenwett, MD, John F. Eidt,
+MD, Lois A. Killewich, MD, PhD, Glenn M. LaMuraglia, MD, John J.
+Ricotta, MD, Russell H. Samson, MD).
+0741-5214/$36.00
+Copyright © 2012 by the Society for Vascular Surgery.
+doi:10.1016/j.jvs.2011.12.081
+
+1449
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+1450 Meissner et al
+
+SUMMARY OF GUIDELINES FOR EARLY THROMBUS REMOVAL STRATEGIES
+
+Guideline
+1.
+1.1.
+
+1.2.
+
+2.
+2.1.
+
+2.2.
+
+2.3.
+
+3.
+3.1.
+3.2.
+3.3.
+4.
+4.1.
+4.2.
+
+5.
+5.1.
+5.2.
+6.
+6.1.
+6.2.
+
+Description
+Precision in the diagnosis of deep venous thrombosis
+We recommend use of precise anatomic terminology to characterize the most
+proximal extent of venous thrombosis as involving the iliofemoral veins, with
+or without extension into the inferior vena cava; the femoropopliteal veins; or
+isolated to the calf veins in preference to simple characterization of a
+thrombus as proximal or distal.
+If iliofemoral venous thrombosis is suspected but not confirmed using standard
+diagnostic modalities such as venous ultrasound imaging, we recommend the
+use of adjunctive imaging modalities, such as computed tomography
+venography or magnetic resonance venography to characterize the most
+proximal thrombus extent.
+Indications for early thrombus removal
+We suggest a strategy of early thrombus removal in selected patients meeting the
+following criteria (a) a first episode of acute iliofemoral deep venous thrombosis,
+(b) symptoms ⬍14 days in duration, (c) a low risk of bleeding, and (d)
+ambulatory with good functional capacity and an acceptable life expectancy.
+We recommend early thrombus removal strategies as the treatment of choice in
+patients with limb-threatening venous ischemia due to iliofemoral deep
+venous thrombosis with or without associated femoropopliteal venous
+thrombosis (phlegmasia cerulea dolens).
+We recommend that patients with isolated femoropopliteal deep venous
+thrombosis be managed with conventional anticoagulation therapy because
+there is currently insufficient evidence to support early thrombus removal
+strategies in this patient population.
+Techniques for early thrombus removal
+We suggest percutaneous catheter-based techniques (pharmacologic or
+pharmacomechanical) as first-line therapy for early thrombus removal in
+patients meeting the criteria in 1.1.
+We suggest a strategy of pharmacomechanical thrombolysis be considered over
+catheter-directed pharmacologic thrombolysis alone if expertise and resources
+are available.
+We suggest open surgical venous thrombectomy in selected patients who are
+candidates for anticoagulation but in whom thrombolytic therapy is
+contraindicated.
+Periprocedural inferior vena cava filters
+We recommend against routine use of inferior vena cava filters (permanent or
+temporary) in conjunction with catheter-directed pharmacologic thrombolysis
+of the iliofemoral venous segments.
+We suggest that the relative risks vs benefits of periprocedural retrievable inferior
+vena cava filter placement be considered in patients undergoing
+pharmacomechanical thrombolysis and those with thrombus extending into
+the inferior vena cava or having markedly limited cardiopulmonary reserve.
+Adjunctive use of venous stents
+We recommend the use of self-expanding metallic stents for treatment of
+chronic iliocaval compressive or obstructive lesions that are uncovered by any
+of the thrombus removal strategies.
+We suggest that stents not be used in the femoral and popliteal veins.
+Early thrombus removal strategies as an adjunct to conventional management
+We recommend that patients managed with early thrombus removal be treated
+with a standard course of conventional anticoagulation after the procedure.
+We recommend that all patients be treated with knee-high compression
+stockings (30 to 40 mm Hg) for at least 2 years after the procedure.
+
+A first episode of deep venous thrombosis (DVT) is
+estimated to occur with a weighted mean age-adjusted
+incidence of 50.4/100,000 person-years.1 Historically, the
+treatment of acute DVT has been directed toward the
+prevention of recurrent venous thromboembolism (VTE)
+
+Grade of
+recommendation:
+1: Strong
+2: Weak
+
+Quality of evidence
+A. High
+B. Moderate
+C. Low or very low
+
+1
+
+A
+
+1
+
+C
+
+2
+
+C
+
+1
+
+A
+
+1
+
+C
+
+2
+
+C
+
+2
+
+C
+
+2
+
+C
+
+1
+
+C
+
+2
+
+C
+
+1
+
+C
+
+2
+
+C
+
+1
+
+A
+
+1
+
+C
+
+and has been defined by randomized clinical trials. These
+trials have usually focused on the short-term outcomes after
+anticoagulant therapy, using recurrent VTE and bleeding
+as primary measures of efficacy and safety.2-4 Such trials
+have indeed established anticoagulation to be safe and
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+effective, with major hemorrhage in 2% of patients5 and
+3-month recurrence rates as low as 5.5%.6 However, the
+importance of late manifestations of the postthrombotic
+syndrome have been increasingly recognized, and it is clear
+that conventional anticoagulation alone provides imperfect
+protection against the postthrombotic syndrome. Among
+355 patients with a first episode of DVT, the cumulative
+incidence of any and severe postthrombotic syndrome at 5
+years was 28% and 9.3%, respectively.7 Predictors of more
+severe postthrombotic syndrome include involvement of
+the common femoral or iliac veins, previous ipsilateral
+thrombosis, higher body mass index, older age, and female
+sex.8 Although the socioeconomic consequences of severe
+postthrombotic syndrome are well recognized, even mild
+postthrombotic symptoms may adversely affect quality of
+life.9,10
+Manifestations of the postthrombotic syndrome result
+from a combination of valvular incompetence (reflux) and
+residual venous obstruction.11,12 Several strategies for early
+thrombus removal have been devised, offering the potential
+for early restoration of venous patency and preservation of
+valve function. Routine use of systemic thrombolysis for
+acute DVT was discouraged by high rates of incomplete
+thrombolysis and bleeding complications. For example, a
+pooled analysis of six randomized trials found systemically
+administered streptokinase was 3.7 times more likely than
+heparin to produce “greater than minimal” thrombolysis,
+although at the expense of a 2.9-fold increase in major
+bleeding complications.13 However, more quantitative
+analysis of thrombolytic outcomes has demonstrated complete thrombolysis in as few as 8.9% and no thrombus
+reduction in as many as 33.8% of patients treated with
+systemic tissue plasminogen activator.14 We recommend
+against the use of non– catheter-directed, systemically administered thrombolytic agents for the treatment of iliofemoral thrombosis.
+More directed strategies, including venous thrombectomy, catheter-directed pharmacologic thrombolysis, and pharmacomechanical thrombolysis, may be more
+efficient, with fewer bleeding complications, and likely
+have a role in the treatment of acute DVT. Surgical
+thrombectomy typically uses a catheter-mounted compliant balloon to remove thrombus from the iliac veins
+via a groin incision combined with techniques to remove
+associated distal thrombus. Adjunctive construction of a
+temporary arteriovenous fistula is commonly recommended to reduce early rethrombosis.15
+Catheter-directed pharmacologic thrombolysis is an
+image-guided technique involving infusion of thrombolytic agents through a multi-side hole infusion catheter or
+wire placed directly into a venous thrombus through a
+remote puncture site.16 Pharmacomechanical thrombolysis
+uses a number of catheter-based mechanical devices to
+deliver the thrombolytic agent as well as to produce some
+combination of thrombus fragmentation, distribution of
+thrombolytic drugs throughout the thrombus, and/or
+thrombus aspiration. These include rotational, rheolytic,
+and ultrasound-assisted devices.17
+
+Meissner et al 1451
+
+The safe application of this technology requires careful
+selection of those patients most likely to benefit from its
+use, considering potential long-term disability, anatomic
+distribution of thrombus, duration of symptoms, and the
+risk of complications. Unfortunately, proving the efficacy of
+these approaches in preventing the late manifestations of
+the postthrombotic syndrome is substantially more difficult
+than proving the efficacy of anticoagulants in preventing
+recurrent VTE. Such trials require much longer periods of
+follow-up and validated clinical and quality-of-life measures
+rather than dichotomous outcomes such as recurrent VTE.
+Nevertheless, recent data suggest that strategies of early
+thrombus removal do indeed have a role in the management of acute DVT.18,19
+The Society for Vascular Surgery (SVS) and American
+Venous Forum (AVF) formed a committee of experts in
+venous disease to develop evidence-based clinical practice
+guidelines regarding strategies of early thrombus removal
+for acute DVT. The committee commissioned the conduct
+of a systematic review and meta-analysis of the relevant
+literature to inform their recommendations. In contrast to
+previously published systematic reviews,20 this review was
+confined to patients with iliofemoral DVT and excluded
+systemic and locoregional thrombolytic infusion (eg, pedal
+vein infusion14) while including surgical thrombectomy.
+The results of this systematic review,19 published separately
+in this issue of the Journal of Vascular Surgery, forms the
+basis of these practice guidelines. When necessary, as for
+pharmacomechanical thrombolysis and inferior vena cava
+(IVC) filtration, this review was supplemented by less rigorous data, including those from pooled analyses and case
+series.
+The recommendations for early thrombus removal are
+made according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach21-22 (Table). According to this system, there are
+two components to any treatment recommendation: the
+first is a designation of the strength of the recommendation
+(strong: 1; or weak: 2) based on the degree of confidence
+that the recommendation will provide more benefit than
+harm; the second is an evaluation of the level of evidence (A
+to C) based on the confidence that the estimate of effect is
+correct. The strength of a recommendation (1 or 2) reflects
+the balance of benefits and risks, as well as cost to the health
+care system:
+● Grade 1 recommendations are those in which the
+
+benefits of an intervention clearly outweigh its risk and
+burdens. All well-informed patients would choose
+such a treatment, and the physician can securely recommend it without a detailed knowledge of the underlying data.
+● Grade 2 recommendations are weaker and reflect ther-
+
+apies where the benefits and risks are uncertain or are
+more closely balanced. For such interventions, patients
+may choose different options based on their underlying values.
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+1452 Meissner et al
+
+Table. Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to treatment
+recommendations
+Recommendation
+
+Benefit vs risk
+
+1A
+
+Clear
+
+1B
+
+Clear
+
+1C
+
+Clear
+
+2A
+
+Balanced or unclear
+
+2B
+
+Balanced or unclear
+
+2C
+
+Balanced or unclear
+
+Quality of evidence
+High: Consistent results from RCTs or
+observational studies with large effects
+Moderate: RCTs with limitations and very
+strong observational studies
+Low: Observational studies
+Very low: Case series, descriptive reports,
+expert opinion
+High: Consistent results from RCTs or
+observational studies with large effects
+Moderate: RCTs with limitations and very
+strong observational studies
+Low: Observational studies
+Very low: Case series, descriptive reports,
+expert opinion
+
+Comment
+Strong recommendation, generalizable
+Strong recommendation; may change with
+further research
+Intermediate recommendation; likely to
+change with further research
+Intermediate recommendation: May vary
+with patient values
+Weak recommendation: May vary with
+patient values
+Weak recommendation: Alternative
+treatments may be equally valid
+
+RCT, Randomized controlled trial.
+Adapted from Guyatt G et al.23
+
+In accordance with the American College of Chest
+Physicians (ACCP) guidelines for the antithrombotic treatment of venous thromboembolic disease,24 we have adopted the language of “recommending” the use of strong
+Grade 1 guidelines and “suggesting” the use of weaker
+Grade 2 guidelines.
+Although trial methodology is related to the quality of
+the evidence, clinicians are actually most interested in reliable estimates of the benefits and harms associated with a
+therapy.21 For high-quality evidence, the effects of therapy
+(beneficial or ill) are precise, and further research is unlikely
+to change our confidence in the estimate of effect. In
+contrast, the estimated effect provided by poor-quality
+evidence is unclear and likely to change as better quality
+evidence becomes available.
+● Grade A, or high-quality evidence, usually comes from
+
+well-executed randomized trials yielding consistent results, and occasionally, observational studies with large
+effects.
+● Grade B, or moderate-quality evidence, comes from
+randomized clinical trials with important limitations,
+inconsistent randomized trials, and strong observational studies.
+● Grade C, or low-quality evidence, includes flawed
+randomized trials and most observational studies as
+well as data from case reports, descriptive studies, and
+expert opinion.
+In making recommendations, committee members
+considered the available evidence, patients’ values and preferences, availability of surgical expertise, and resource allocation. A systematic process25 was followed whereby initial
+guidelines were drafted and submitted, together with the
+systematic review,19 to each panel member for comment.
+Comments were incorporated into the guidelines and resubmitted to the panel members for further revision or
+acceptance. The process was repeated until there was uniform agreement on the text of the final recommendations.
+
+Occasional differences regarding the grade of recommendation were resolved through additional review of the
+available data, discussion, and formal vote. On adoption of
+the final manuscript, there was a maximum of one dissenting opinion regarding the grade of recommendations 2.1
+and 6.2.
+GUIDELINES
+1. Precision in the diagnosis of DVT
+1.1. We recommend use of precise anatomic terminology to characterize the most proximal extent of
+venous thrombosis as involving the iliofemoral veins,
+with or without extension into the inferior vena cava;
+the femoropopliteal veins; or isolated to the calf veins in
+preference to simple characterization of a thrombus as
+proximal or distal (Grade 1A). Based on perceived differences in outcomes, DVT has historically been considered
+to involve the proximal veins or as isolated to the distal or
+calf veins. On the basis of the most central extent of
+thrombosis, proximal venous thrombosis includes femoropopliteal thrombosis and iliofemoral thrombosis. As defined by the Society of Interventional Radiology,26,27 iliofemoral DVT involves complete or partial thrombosis of
+the iliac vein or the common femoral vein, or both, with or
+without femoropopliteal DVT. Femoropopliteal DVT involves the femoral or popliteal venous segments, or both,
+without extension to the common femoral or iliac veins. It
+is becoming increasingly clear that the natural history of
+femoropopliteal and iliofemoral thrombosis is significantly
+different and that simple stratification of treatment according to involvement of the “proximal” or “distal” veins is no
+longer adequate.
+From a pathophysiologic perspective, thrombolytic
+studies have shown that iliofemoral venous thrombosis is
+associated with a very high incidence of underlying anatomic abnormalities in the iliac veins.16 Compared with
+femoropopliteal thrombosis, iliofemoral thrombosis is also
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+associated with less complete recanalization and a higher
+incidence of residual venous obstruction. Although the iliac
+segments frequently lack valves, persistent proximal venous
+obstruction may be potentially associated with the development of reflux in more caudal segments that were not
+initially thrombosed.28
+Not surprisingly, iliofemoral venous thrombosis is associated with severe hemodynamic derangements that may
+be persistent.29 Acutely, iliofemoral thrombosis may compromise the primary venous outflow from the limb with
+more severe pain and swelling as well as phlegmasia cerulea
+dolens.30 It is also associated with long-term outcomes
+such as venous claudication and more severe manifestations
+of the postthrombotic syndrome. Venous claudication has
+been reported in as many as 43.6% of patients a median of 5
+years after iliofemoral DVT.29 Perhaps more importantly,
+initial involvement of the common femoral or iliac veins is
+associated with a greater increase in objective (Villalta)
+postthrombotic scores.8 Although the importance of recurrent venous thrombosis is well recognized as a powerful
+determinant of the postthrombotic syndrome,7,31,32 involvement of the iliofemoral venous segment is associated
+with at least as great a mean change in Villalta score (⫹2.23;
+95% confidence interval [CI], 1.29-3.16) as a previous
+ipsilateral DVT (⫹1.78; 95% CI, 0.69-2.87).8 Finally, patients with extensive iliofemoral venous thrombosis have a
+greater than twofold increased risk of recurrent VTE compared with those with femoropopliteal thrombosis.6
+Because involvement of the iliofemoral venous segments is associated with worse outcomes, the most proximal extent of thrombus should be clearly defined in the
+clinical management of patients as well as in research
+studies and clinical trials. Routine use of the term proximal venous thrombosis should be discouraged in favor
+of more precise characterization of these thrombi as
+involving the iliofemoral or femoropopliteal venous
+segments.
+1.2. If iliofemoral venous thrombosis is suspected
+but not confirmed using standard diagnostic modalities
+such as venous ultrasound imaging, we recommend the
+use of adjunctive imaging modalities, such as computed
+tomography venography or magnetic resonance venography to characterize the most proximal thrombus extent (Grade 1C). Several strategies for the diagnosis of
+DVT, incorporating combinations of clinical risk stratification,33,34 measurement of D-dimer levels,35-39 and venous
+ultrasound imaging, have been developed. As a component
+of such strategies, venous ultrasound imaging has become
+the most important diagnostic test for acute DVT. Compared with venography, accuracy studies have shown duplex has a mean sensitivity and specificity of 97% and 94%,
+with mean positive and negative predictive values of 97%
+and 98% for symptomatic, proximal DVT.40 Unfortunately, many ultrasound departments do not routinely evaluate the iliac veins, and even if examined, adequate imaging
+of these segments is often limited by body habitus, depth,
+overlying bowel gas, and incompressibility of the retroperitoneal veins. Although visualization of at least one iliac
+
+Meissner et al 1453
+
+vein segment has been reported in up to 79% of ultrasound
+studies, the common iliac vein was adequately imaged in
+only 47%.41
+Indirect findings in the common femoral vein, including continuous venous flow, absent respiratory variation,
+and continuous flow with Valsalva, may suggest proximal
+obstruction but cannot exclude nonocclusive thrombus or
+extrinsic compression. Contrast venography may similarly
+fail to demonstrate the pelvic veins due to contrast dilution
+by the unopacified deep pelvic veins.42
+Because multiple venous segments are usually concurrently involved, a diagnosis of DVT can most often be
+established independently of evaluating the iliac veins.
+However, for the reasons cited in recommendation 1.1,
+establishing the most proximal extent of thrombosis is
+important in those patients, who may be candidates for
+early thrombus removal. Involvement of the iliac veins has
+been reported in up to 23% of patients when complete
+color-flow ultrasound imaging, including the iliac veins, is
+performed.41 Isolated pelvic vein thrombosis has been reported in 1% to 4% of studies using venography or ultrasound imaging, and evidence shows both of these modalities underestimate the true incidence of isolated pelvic vein
+thrombosis.43,44 Computed tomography venography
+(CTV) and magnetic resonance venography (MRV) are
+better able to evaluate the IVC and pelvic veins than
+ultrasound imaging or contrast venography. Although
+likely biased by referral patterns, Spritzer44 found involvement of the pelvic veins in 43.8% of 167 consecutive
+positive MRV studies. Thrombus was isolated to the pelvic
+veins in 20.4% of these positive studies. Ultrasound imaging failed to detect isolated iliac thrombosis in all seven
+patients undergoing ultrasound imaging and MRV.
+CTV may be performed by direct contrast administration into a foot vein or by indirect injection through an arm
+vein.45 Indirect CTV may be performed as part of imaging
+protocols for pulmonary embolism (PE)46 and avoids the
+need for foot vein puncture in a swollen limb. Pooled
+analysis of 13 studies comparing CTV vs ultrasound imaging or venography (largely in patients presenting with
+symptoms of PE) showed an overall sensitivity and specificity of 95.9% and 95.2% for the detection of DVT.47
+Smaller studies have also shown that CTV has the capacity
+to detect iliac thromboses that were missed on standard
+ultrasound protocols.43
+MRV has also been demonstrated to be accurate in the
+diagnosis of DVT. A meta-analysis of 14 studies using a
+variety of MRV techniques compared with venography or
+ultrasound imaging demonstrated a sensitivity and specificity of 95.7% and 92.9%, respectively.48 In a series of 45
+patients with acetabular fractures, Montgomery et al42
+found that contrast venography identified only one of 11
+pelvic thrombi documented by MRV. Others have similarly
+shown MRV is accurate in the diagnosis of pelvic
+thrombosis.49
+If duplex ultrasound imaging suggests the presence of
+iliac thrombosis but is not able to define the most proximal
+extent of thrombus, it may be reasonable to proceed di-
+
+1454 Meissner et al
+
+rectly to contrast venography in anticipation of intervention. However, further noninvasive imaging of the pelvis
+with CTV or MRV should be considered when a clinical
+suspicion of DVT persists despite a negative result on an
+ultrasound examination. If iliofemoral thrombus is identified, definitive contrast imaging can be performed at the
+time of any planned intervention.
+Selection of the appropriate study depends on patient
+characteristics and institutional expertise. In strongly recommending the use of alternative imaging in such situations, a high value is placed on identifying isolated iliofemoral thrombosis that may be missed by routine ultrasound
+imaging, although the cost-effectiveness of this approach
+has not been evaluated nor have prospective management
+trials been performed (Grade 1C).
+2. Indications for early thrombus removal
+2.1. We suggest a strategy of early thrombus removal in selected patients meeting the following criteria: (a) a first episode of acute iliofemoral deep venous
+thrombosis, (b) symptoms <14 days in duration, (c) a
+low risk of bleeding, and (d) ambulatory with good
+functional capacity and an acceptable life expectancy
+(Grade 2C). The strength of recommendation for strategies of early thrombus removal are based on balancing the
+patient-important benefits of prevention of the postthrombotic syndrome and quality of life vs the risks of therapy;
+specifically, bleeding, PE, and recurrent DVT. The use of
+surrogate outcomes may also be relevant, such as the prevention of venous reflux and persistent venous obstruction,
+although they provide a less robust estimate of benefit and
+contribute to the indirectness of the evidence. Overall, the
+quality of evidence supporting early thrombus removal
+strategies is very low (Grade C) because of the methodologic limitations of the relevant studies (lack of randomization, incomparability of study groups, loss to follow-up),
+imprecise estimates of effects, and indirectness of the
+evidence.19
+However, the available evidence does suggest that early
+thrombus removal strategies for iliofemoral venous thrombosis are associated with significant reductions in manifestations
+of the postthrombotic syndrome as well as improvements in
+the surrogate markers of valvular incompetence (reflux) and
+persistent venous obstruction.19 Competing risks include those associated with surgery (surgical thrombectomy) and bleeding (thrombolytic strategies). Systematic review of comparative studies suggests that adverse
+events are poorly reported overall19 and that caution is
+warranted in ensuring patients are appropriately selected.
+The balance of risks vs benefits for individual early
+thrombus removal strategies are further discussed below.
+Less rigorous evidence suggests that the optimal patient population includes patients with a first episode of
+iliofemoral DVT of ⬍14 days in duration, having a reasonable life expectancy, and without a high risk of bleeding.
+Recommendations regarding the optimal patient population are largely derived from one large, multicenter registry
+of patients undergoing catheter-directed pharmacologic
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+thrombolysis.16 Among patients enrolled in the National
+Venous Registry, those with chronic symptoms, femoropopliteal DVT, and symptoms ⬎10 days in duration had
+significantly worse outcomes than those with a first episode
+of acute iliofemoral DVT of ⬍10 days in duration. However, the 10-day interval of symptoms was arbitrary, and
+symptom duration among those symptomatic for ⬎10 days
+varied from days to many months.
+Other guidelines have suggested that DVT associated
+with symptoms present for ⱕ14 days be considered
+acute,27 and a recently published randomized trial included
+patients with symptoms of ⬍21 days.50 These recommendations contrast with the findings of our systematic review,19 which identified no relationship between the duration of symptoms before intervention and development of
+the postthrombotic syndrome. On balance, recommendations for consideration of early thrombus removal strategies
+in patients with symptoms of ⬍14 days of duration would
+seem fairly secure. Although a benefit in patients with a
+duration of symptoms of ⬎14 days cannot be excluded,
+chronic thrombosis does appear to be associated with inferior results,16 and the relative benefits vs risks in such
+patients should be considered on an individualized basis.
+Given the options available for the treatment of acute
+iliofemoral DVT, it is unlikely that all patients would
+choose a strategy of surgical thrombectomy, catheterdirected pharmacologic thrombolysis, or pharmacomechanical thrombolysis. Individual patients undoubtedly place
+different values on the benefits of avoiding the postthrombotic syndrome vs the risks and burdens of a surgical
+procedure or bleeding. Most patients place a higher value
+on avoiding early death than on avoiding late outcomes
+that affect quality of life.51
+A decision analysis evaluating systemic streptokinase in
+the treatment of DVT suggests that patients would be
+unlikely to accept more than a 1.7-fold increase in major
+bleeding compared with heparin therapy.51 On the basis of
+individual variation in values and preferences, strategies of
+early thrombus removal should be considered a Grade 2
+recommendation. Recommendation of a strategy of early
+thrombus removal requires a careful assessment of the
+potential risks and benefits for the individual patient, and
+for those patients in whom early thrombus removal is
+deemed a reasonable therapeutic option, a careful discussion with the patient to ensure that the physician’s recommendation is concordant with the patient’s values and
+preferences.
+2.2. We recommend early thrombus removal strategies as the treatment of choice in patients with limbthreatening venous ischemia due to iliofemoral deep
+venous thrombosis with or without associated femoropopliteal venous thrombosis (phlegmasia cerulea dolens) (Grade 1A). Phlegmasia cerulea dolens (PCD) is
+characterized by massive swelling, cyanosis, and pain resulting from extensive thrombosis of the iliofemoral venous
+outflow.52,53 Pedal pulses remain palpable in ⬃50% of
+patients.54,55 Massive fluid sequestration may lead to hypovolemia and hypotension. Venous gangrene may compli-
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+cate 60% to 64% of cases of PCD52,54 and occurs when
+extensive venous thrombosis, most often at the iliofemoral
+level, leads to profound venous hypertension and small
+arterial collapse once critical closing pressures are exceeded
+by the surrounding tissue pressure.56 Calf compartment
+pressures of ⱖ50 mm Hg have been documented in association with PCD.53,57
+Unfortunately, the literature regarding venous gangrene
+is fragmented, with the surgical literature emphasizing the
+mechanical consequences of venous outflow obstruction and
+the medical literature largely focusing on microvascular mechanisms. Venous gangrene may be associated with profound
+imbalances of the procoagulant–anticoagulant systems, particularly in the setting of underlying malignancy or heparininduced thrombocytopenia, both of which are common underlying causes.54,58,59 Venous gangrene in these situations is
+often associated with the initiation of warfarin and results from
+a combination of profound hypercoagulability and concurrent
+protein C depletion.60 However, it is unclear how much
+overlap there is between reports of venous gangrene arising
+from extensive venous outflow obstruction and those related
+to an underlying procoagulant–anticoagulant imbalance. The
+development of limb-threatening venous ischemia may thus
+be multifactorial, related to elevated venous pressures as well
+as profound procoagulant–anticoagulant imbalances. Regardless of the mechanism, venous gangrene is associated with
+death in one-third or more of patients and high rates of
+amputation.52,54,57,59
+The primary goals in the treatment of PCD with impending tissue loss are arresting thrombus progression,
+thereby preserving patency of the collateral circulation, and
+restoring venous outflow. Appropriate anticoagulation,
+fluid resuscitation, and leg elevation are important early in
+the management of PCD.53,57 The ACCP has developed
+guidelines for the management of venous gangrene in the
+setting of heparin-induced thrombocytopenia.61 These
+guidelines strongly recommend anticoagulation with a
+nonheparin anticoagulant (Grade 1B) until the platelet
+count has stabilized at a normal level. Warfarin should not
+be instituted until the platelet count has recovered (Grade
+1B). The clinician should consult the ACCP guidelines for
+full details of the anticoagulant management of venous
+gangrene associated with heparin-induced thrombocytopenia.61 Although heparin is effective in cancer-associated
+thrombosis, institution of warfarin may also lead to venous
+gangrene and should be approached with caution.58
+Despite the critical importance of appropriate anticoagulation in arresting thrombus progression, such treatment does
+little to address underlying mechanical issues related to profound venous outflow obstruction. Older reviews of the literature suggested that heparin alone was ineffective in the treatment of venous gangrene.52 We recommend that all patients
+with impending tissue loss related to venous thrombosis be
+evaluated for iliofemoral venous outflow obstruction as
+well as potential causes of profound hypercoagulability
+such as malignancy and heparin-induced thrombocytopenia. Anticoagulation should be initiated according to the
+
+Meissner et al 1455
+
+ACCP guidelines,24 with careful attention to the possibility
+of heparin-induced thrombocytopenia or malignancy.61
+Although the evidence is of low quality and largely
+limited to case reports and series, thrombolytic therapy
+does appear to limit the progression of pregangrenous
+changes in patients with profound iliofemoral venous outflow obstruction. Several reports document the efficacy of
+pharmacomechanical or catheter-directed pharmacologic
+thrombolysis in limiting or reversing ischemic changes due
+to PCD.57,62,63 Despite concerns regarding the quality of
+the data, the potential benefits appear to outweigh the risks
+in this life- and limb-threatening condition. The relative
+infrequency of PCD with impending tissue loss, the heterogeneity of patients, and the poor results of anticoagulation
+alone make it unlikely that large randomized trials will be
+performed. Furthermore, the results of conventional anticoagulation are sufficiently dismal that catheter-directed
+pharmacologic thrombolysis for impending venous gangrene in the presence of iliofemoral thrombosis is strongly
+recommended (Grade 1A).
+Although older series recommended fasciotomy for
+compartment syndrome associated with PCD,15,64 its role
+in contemporary management is controversial. However,
+we must emphasize that fasciotomy is not first-line therapy,
+should not precede rapid intervention to relieve iliofemoral
+venous outflow obstruction, and should rarely be considered as an isolated procedure. A decrease in compartmental
+pressures will accompany successful relief of outflow obstruction53 and usually obviates the need for fasciotomy.
+We suggest that fasciotomy only be considered if compartment pressures in the thigh or calf remain elevated (⬎30
+mm Hg) despite efforts to restore iliofemoral venous outflow using the procedures outlined above (Grade 2C).
+Fasciotomy in the setting of thrombolytic therapy and
+anticoagulation may be associated with significant blood
+loss.
+2.3. We recommend that patients with isolated
+femoropopliteal deep venous thrombosis be managed
+with conventional anticoagulation therapy because
+there is currently insufficient evidence to support early
+thrombus removal strategies in this patient population
+(Grade 1C). The role of early thrombus removal in the
+treatment of femoropopliteal DVT remains poorly defined.
+Consensus-based documents have suggested that the
+threshold for thrombus removal strategies in acute femoropopliteal DVT should be higher than for iliofemoral
+DVT.27 Compared with iliofemoral DVT, femoropopliteal
+DVT is associated with less deranged hemodynamics, a
+lower risk of the postthrombotic syndrome,8 and a lower
+risk of recurrent VTE.6 Harvesting of the femoral vein as a
+conduit for arterial reconstruction has been shown to be
+tolerated with few symptoms. Among 81 limbs in which
+the femoropopliteal vein was harvested, mild edema was
+reported in 31%, with no skin changes or ulceration.65 Late
+follow-up (70.1 ⫾ 5.6 months) of 28 such limbs showed
+advanced chronic venous disease (CEAP C3 to C6) in only
+14.8%.66 Although such limbs may show plethysmographic
+evidence of venous outflow obstruction,66 this is usually
+
+1456 Meissner et al
+
+well compensated due to axial transformation of the profunda femoris vein through remnants of the axial limb
+vein.67
+Multicenter registries have further suggested a less
+favorable outcome for femoropopliteal than for iliofemoral
+DVT treated with thrombolytic therapy.16 Although an
+effect of thrombus chronicity cannot be excluded, 1-year
+patency was achieved in only 47% of limbs with femoropopliteal thrombosis compared with 64% of limbs with iliofemoral thrombosis. Complete lysis was not achieved in any
+patient with femoropopliteal DVT present for ⬎10 days.
+Although recommendations may change with the availability of better-quality evidence, there is currently little evidence supporting a role for early thrombus removal strategies in the treatment of femoropopliteal DVT. However,
+we must acknowledge that the beneficial effects of early
+thrombus removal were not substantially changed if studies
+not explicitly evaluating the treatment of iliofemoral DVT
+were included in the systematic review.19 This at least raises
+the possibility that these strategies may have some role in
+the treatment of femoropopliteal DVT.
+3. Techniques for early thrombus removal
+3.1. We suggest percutaneous catheter-based techniques (pharmacologic or pharmacomechanical) as
+first-line therapy for early thrombus removal in patients meeting the criteria in 1.1 (Grade 2C). Compared with standard anticoagulant therapy, catheter-directed pharmacologic thrombolytic therapy is associated
+with significant reductions in the risks of the postthrombotic syndrome (relative risk [RR], 0.19; 95% CI .07.48), venous reflux (RR, 0.21; 95% CI, 0.09-0.53), and
+venous obstruction (RR, 0.35; 95% CI, 0.17-0.34).19
+These results are consistent with a previous systematic
+review,20 which included less efficient systemic and locoregional techniques, demonstrating a significant reduction in postthrombotic syndrome (RR, 0.66; 95% CI,
+0.47-0.94) with thrombolytic treatment. According to
+this review, one case of postthrombotic syndrome would
+be prevented for every five patients treated with thrombolytic therapy. The short-term hemodynamic results of
+one additional randomized clinical trial in which catheter-directed pharmacologic thrombolysis was compared
+with standard anticoagulation has been published since
+the most recent systematic review.50 Among 103 randomized patients, 6-month patency was significantly better
+in those who received catheter-directed pharmacologic
+thrombolysis (64.0% vs 35.8%; P ⫽ .004), whereas the
+incidence of femoral vein reflux was similar (60.0% vs
+66.0%; P ⫽ .53).
+Contraindications to thrombolytic therapy include active internal bleeding; recent cerebrovascular accident or
+intracranial surgery, trauma, or tumor; recent serious gastrointestinal bleeding; major trauma or surgery ⱕ10 days;
+severe uncontrolled hypertension; pregnancy; endocarditis;
+intracardiac thrombus; known right-to-left shunt; coagulopathy, thrombocytopenia, or absolute contraindications
+to anticoagulation; suspected septic thrombus; and allergy
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+to thrombolytic agents.16,27 Although most contraindications can be identified on routine clinical assessment,
+some68 have suggested brain imaging before thrombolysis
+in patients with malignancies known to metastasize to the
+central nervous system.
+The associated risks of catheter-directed thrombolysis
+include hemorrhage (particularly intracranial), PE, and recurrent DVT. Although complications have been poorly
+reported in comparative trials, some data regarding the
+bleeding complications associated with catheter-directed
+thrombolytic therapy are available. Among 473 patients
+reported in the multicenter National Venous Registry,
+bleeding complications were reported in 54 (11%), neurologic complications in two (0.4%), PE in six (1%), and death
+in two (0.4%). Bleeding complications were most common
+at the venous insertion site (4%) or in the retroperitoneum
+(1%). Major neurologic complications, including one fatal
+intracranial hemorrhage and one subdural hematoma, occurred in only two patients (0.4%).
+A systematic review that included trials of systemic and
+locoregional thrombolysis reported higher rates of bleeding among patients treated with thrombolytic agents (RR,
+1.73; 95% CI 1.04-2.88) but no significant differences in
+mortality (RR, 0.84; 95% CI, 0.29-2.42), pulmonary embolism (RR, 1.23; 95% CI, 0.34-4.45), or intracranial
+hemorrhage (RR, 1.70; 95% CI, 0.21-13.70).20 Notably,
+these authors observed that bleeding complications, which
+occurred in 10% of thrombolytic patients compared with
+8% of patients treated with anticoagulation, tended to
+decrease over time, perhaps reflecting improved thrombolytic techniques and more rigorous exclusion criteria. Finally, a pooled analysis of 19 studies, largely single-center
+case series, reported major bleeding in a mean of 8.3% of
+patients (range, 0%-24%) and rates of symptomatic PE,
+intracranial hemorrhage, and death of 0.9% (range, 0%1%), 0.2% (range, 0%-1%), and 0.3% (range, 0%-1%),
+respectively.27
+There are little comparative data evaluating optimal
+thrombolytic agents, doses of lytic agents and concurrent
+anticoagulants, and infusion techniques. Streptokinase, although rarely used due to the risks of allergic reactions and
+bleeding, remains the only thrombolytic agent approved by
+the United States Food and Drug Administration for the
+treatment of DVT. Several series, however, have reported
+the successful use of urokinase,16,69-72 tissue plasminogen
+activator,69-71 reteplase,69-71 and tenecteplase73 for venous
+thrombolysis.
+A consensus panel of the Society of Interventional
+Radiology has reviewed recommended thrombolytic dosages and techniques for their catheter-directed administration.68 Because patient characteristics and bleeding risks
+vary, individual judgment is required in the selection of
+appropriate thrombolytic and concurrent anticoagulant
+doses. Most would agree that thrombolytic infusion times
+should be minimized and balanced against lytic progress to
+avoid complications. Reimaging with follow-up venography at 8- to 24-hour intervals68 and discontinuation of
+therapy once lytic stagnation is reached are commonly
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+recommended. Concurrent anticoagulation with unfractionated heparin is recommended during thrombolytic
+procedures, although doses may differ depending on the
+thrombolytic agent and there is no robust scientific evidence to guide dosing. Previous consensus recommendations from the Society of Interventional Radiology suggest
+that subtherapeutic doses of heparin are appropriate for all
+thrombolytic agents except urokinase, in which case therapeutic anticoagulation may be considered.68
+3.2. We suggest a strategy of pharmacomechanical
+thrombolysis be considered over catheter-directed
+pharmacologic thrombolysis alone if expertise and resources are available (Grade 2C). Although more efficient than the systemic administration of thrombolytic
+agents, catheter-directed pharmacologic thrombolysis remains limited by prolonged infusion times (averaging 53.4
+hours), the potential for bleeding complications,20 and the
+frequent requirement for hospitalization in the intensive
+care unit.71 A variety of mechanical devices have been
+designed to work in conjunction with thrombolytic agents
+in an effort to improve the efficiency of thrombolysis,
+reduce lytic doses and procedure times, and lessen bleeding
+complications. These approaches, which include rotational,
+rheolytic, and ultrasound-assisted devices, are collectively
+referred to as pharmacomechanical thrombolysis.17,74 Limited data suggest that these devices should be used in
+conjunction with pharmacologic lytic agents, significant
+lysis (⬎50%) being achieved in only one-third of patients
+treated with mechanical devices alone.70 The use of mechanical devices alone, without the concurrent use of
+thrombolytic drugs, cannot be routinely recommended.
+A systematic review of 16 retrospective case series that
+used a pharmacomechanical approach with a variety of
+thrombolytic devices reported ⬎50% lysis in 83% to 100%
+of patients. Although complication rates should be viewed
+with caution, these studies reported no procedure-related
+deaths or strokes, a ⬍1% incidence of PE, and no major
+bleeding complications, although 4.2% to 14% of patients
+required a transfusion.17 A similar systematic review of
+eight cases series also found no major periprocedural bleeding complications or deaths.74
+Although randomized clinical trials are lacking, two
+small cohort studies compared pharmacomechanical
+thrombolysis with catheter-directed pharmacologic thrombolysis. Lin et al reported that although rates of complete
+thrombolysis were similar for pharmacomechanical and
+catheter-directed pharmacologic thrombolysis (75% vs
+70%), infusion times (76 ⫾ 34 minutes vs 18 ⫾ 8 hours)
+and costs (mean cost difference $37, 609) were significantly less with pharmacomechanical thrombolysis. There
+was no difference in bleeding complications, although patients undergoing pharmacomechanical thrombolysis required fewer transfusions (0.2 vs 1.2 units). The second
+small study (n ⫽ 45) similarly demonstrated shorter treatment times (30.3 ⫾ 17.8 vs 56.5 ⫾ 27.4 hours) and lower
+urokinase doses (2.95 ⫾ 1.8 million U vs 6.70 ⫾ 5.90
+million U) for adjunctive pharmacomechanical thrombolysis compared with catheter-directed pharmacologic
+
+Meissner et al 1457
+
+thrombolysis alone. Major bleeding complications were
+7.1% for adjunctive pharmacomechanical thrombolysis vs
+8.7% for catheter-directed pharmacologic thrombolysis
+alone, which was not significantly different.72
+Because no direct comparisons regarding the efficacy of
+catheter-directed pharmacologic vs pharmacomechanical
+thrombolysis were available at the time of the current
+systematic review, the efficacy of these devices in preventing
+the postthrombotic syndrome is indirectly inferred from
+the data regarding pharmacologic catheter-directed lysis
+alone. However, their preferential recommendation over
+pharmacologic catheter-directed lysis is based on the potential for greater efficacy and safety.
+3.3. We suggest open surgical venous thrombectomy in selected patients who are candidates for anticoagulation but in whom thrombolytic therapy is contraindicated (Grade 2C). Venous thrombectomy is
+effective in relieving iliofemoral venous obstruction and
+may preserve function of more distal valves. Iliofemoral
+venous thrombectomy has been compared with anticoagulation therapy in 10 studies,52,75-83 only one of which was a
+prospective, randomized trial.80 All studies were small,
+ranging from 15 to 192 patients, with follow-up varying
+from 6 months to 10 years. However, pooled analysis19 of
+the five studies75-77,80,83 evaluating reflux showed thrombectomy was associated with a statistically significant reduction in the risk of reflux (RR, 0.68; 95% CI, 0.46-0.99).
+Among the four studies75,80,82,83 evaluating venous patency, there was a nonsignificant trend toward less venous
+obstruction (RR, 0.84; 95% CI, 0.60-1.19) among those
+undergoing thrombectomy. Most important, there was a
+significant reduction in the risk of the patient-important
+outcome of the postthrombotic syndrome (RR, 0.67; 95%
+CI, 0.52-0.87). Unfortunately, pooled analysis19 of these
+nine trials yielded no reliable data regarding the risk of
+complications or death. As with all strategies of early
+thrombus removal, careful attention to patient selection
+and an individual assessment of risks vs benefits as well as
+patient values and preferences is required in recommending
+iliofemoral venous thrombectomy.
+The specific thrombectomy techniques and adjuvants
+used for catheter-directed and pharmacomechanical thrombolysis techniques are largely guided by case series and expert
+opinion rather than by comparative trials. Important technical
+aspects of the procedure include preoperative imaging to
+demonstrate the proximal extent of thrombus with an extended surgical approach if the IVC is involved; intraoperative
+use of positive end-expiratory pressure to reduce the risk of PE;
+intraoperative completion venography to ensure patency of the
+iliac vein; stenting of any identified iliac vein lesions; use of a
+temporary arteriovenous fistula to reduce early rethrombosis; and
+carefully monitored postoperative anticoagulation.15,84
+Although thrombectomy does appear to be associated with improved long-term outcomes after iliofemoral DVT, the overall quality of the data supporting its use
+is low, and there are little data allowing a reliable estimate of risk vs benefits in an individual patient19 (Grade
+2C). The interval estimates are wide, but there is a trend
+
+1458 Meissner et al
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+toward better outcomes with catheter-directed thrombolysis than with thrombectomy with respect to the risk
+of the postthrombotic syndrome (RR, 0.33; 95% CI,
+0.00-2.28), venous reflux (RR, 0.44; 95% CI, 0.052.10), and venous obstruction (RR, 0.30; 95% CI, 0.012.13).8 We acknowledge that these data suffer from
+indirect comparison, wide CIs, and potential confounding by the discordant time intervals during which the
+studies were performed.
+In recommending the thrombolytic techniques over
+surgical thrombectomy in patients who are candidates for
+either approach, a higher value is placed on avoiding the
+more invasive procedure and potential surgical complications than on unknown differences in bleeding rates. However, given the more invasive nature, the limited experience
+of most surgeons, and the potentially greater risk of complications with surgical thrombectomy, the weight of the
+evidence would seem to favor percutaneous thrombolytic
+approaches over surgical thrombectomy in patients without
+contraindications to thrombolytic agents.
+
+echanical procedures, there were no symptomatic
+periprocedural PE among those with (20%) or without
+IVC filters.69 Although there may have been a selection
+bias among those undergoing prophylactic filter placement, these results were achieved despite thrombus extending into the IVC in 30% of patients. Other small
+series85 have similarly reported asymptomatic emboli
+captured by IVC filters in similar proportions of patients
+undergoing catheter-directed or pharmacomechanical
+thrombolysis and among those with and without involvement of the IVC. However, it is also clear that
+symptomatic PE may occasionally complicate these procedures.87 Given that there are little reliable data regarding the risk of PE with the newer pharmacomechanical
+modalities and that filter placement is generally associated with little morbidity (but additional cost), it seems
+prudent to consider this an unresolved question and to at
+least consider the relative balance of benefit vs risk in
+potentially high-risk situations (Grade 2C).
+
+4. Periprocedural inferior vena cava filters
+
+5.1. We recommend the use of self-expanding metallic stents for treatment of chronic iliocaval compressive or obstructive lesions that are uncovered by any of
+the thrombus removal strategies (Grade 1C). and
+5.2. We suggest that stents not be used in the
+femoral and popliteal veins (Grade 2C). Acute DVT is
+usually regarded as a multicausal disease, arising from the
+interaction of multiple genetic, environmental, and behavior risk factors.88,89 The importance of underlying anatomic factors, such as nonthrombotic iliac vein lesions,90
+was not appreciated when conventional anticoagulation
+was the only therapeutic option. However, with the development of image-guided techniques for early thrombus
+removal, including surgical thrombectomy and thrombolytic strategies, it has become clear that compressive or
+obstructive iliac vein lesions contribute to many cases of
+iliofemoral DVT. A pooled analysis of 19 published studies,
+including 1046 patients treated with catheter-directed or
+pharmacomechanical thrombolysis, reported the use of
+stents in 46% of patients.27 Although the total number of
+limbs with stenoses or obstructive lesions uncovered by
+lytic therapy in the National Venous Registry was not
+reported, 33% of limbs required treatment with metallic
+stents.16 The 1-year patency was significantly better in
+limbs treated with iliac stents (74%) than in limbs without
+stent placement (53%; P ⬍ .001).
+Although lacking evidence from comparative trials, the
+relatively poor results associated with untreated iliac stenosis and the poor results achieved with angioplasty favor
+stenting of any persistent obstructive lesions uncovered by
+thrombolysis and is strongly recommended (Grade 1C).
+Single-plane venography may be relatively insensitive in the
+detection of iliocaval compression. Compared with intravascular ultrasound, venography has been demonstrated to
+have a sensitivity of only 45% for the detection of chronic
+iliac obstruction.91 Although likely a useful adjunct in this
+setting, there are currently little data regarding the use of
+
+4.1. We recommend against routine use of inferior
+vena cava filters (permanent or temporary) in conjunction with catheter-directed pharmacologic thrombolysis of the iliofemoral venous segments (Grade 1C). Although catheter-directed pharmacologic thrombolysis may
+be associated with asymptomatic radiographic evidence of
+PE,85 symptomatic PE appears to be a relatively rare complication of catheter-directed pharmacologic thrombolysis.
+Among the 473 patients included in the National Venous
+Registry,16 in whom IVC filters were not routinely used,
+PE occurred in only 1% of patients. Notably, 71% of procedures involved thrombus extension to at least the iliofemoral
+segments, and 15% had extension to the IVC. The mean
+incidence of PE was 0.9% in a pooled analysis of 19 published
+studies of catheter-directed or pharmacomechanical thrombolysis.27 This risk is similar to that observed in patients
+treated with conventional anticoagulation and does not warrant routine placement of an IVC filter.
+4.2. We suggest that the relative risks vs benefits of
+periprocedural retrievable inferior vena cava placement
+be considered in patients undergoing pharmacomechanical thrombolysis and in those with thrombus
+extending into the inferior vena cava or who have
+markedly limited cardiopulmonary reserve (Grade 2
+C). Although the routine use of IVC filters in patients
+undergoing catheter-directed pharmacologic thrombolysis appears to be unwarranted, the selective use of such
+devices in high-risk situations remains controversial. Patients with thrombus extending into the IVC and those
+undergoing pharmacomechanical thrombolysis71,73 are
+often deemed to be at higher risk for PE and to warrant
+consideration for retrievable filter placement.69,86 Unfortunately, little reliable data are available to support or
+refute this position.
+Among 68 patients undergoing a variety of pharmacologic (40%), mechanical (17%), and pharmacom-
+
+5. Adjunctive use of venous stents
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+intravascular ultrasound imaging to assess residual stenosis
+and guide stent placement after early thrombus removal.
+Flexible, large-diameter, self-expanding stents, extending
+into the inferior vena cava and common femoral vein if
+indicated, are preferred for use in the iliac veins. In contrast
+to the favorable results with iliac stents, stents placed in the
+femoropopliteal venous segment fare poorly,16 and we
+suggest that stents not be used in the femoropopliteal
+segment (Grade 2C).
+6. Early thrombus removal strategies as an adjuvant
+to conventional management
+6.1. We recommend that patients managed with
+early thrombus removal be treated with a standard
+course of conventional anticoagulation after the procedure (Grade 1A). Strategies of early thrombus removal
+should be considered an adjunct rather than an alternative
+to conventional anticoagulation for acute iliofemoral DVT.
+Successful thrombus removal should be followed by a
+standard course of anticoagulation with unfractionated or
+low-molecular-weight heparin, followed by oral anticoagulants administered for a duration guided by the patient’s
+underlying risk factors. Evidence-based guidelines for the
+anticoagulant treatment of acute DVT are regularly updated by the ACCP.24 With anticoagulation, cumulative
+rates of freedom from recurrent DVT after thrombolytic
+treatment have been reported to be 85%, 83%, and 83% at
+6, 12, and 24 months.69 Although the duration of anticoagulation is generally determined by underlying thrombotic risk factors, the optimal duration of anticoagulation
+after the placement of venous stents in the setting of early
+thrombus removal has not been adequately studied, and no
+evidence-based recommendations can be provided. Factors
+associated with stent thrombosis have included thrombophilia and evidence of extrinsic compression.92
+6.2. We recommend that all patients be treated
+with knee-high compression stockings (30 to 40 mm
+Hg) for at least 2 years after the procedure (Grade
+1C). The role of compression stockings in the management of chronic venous disorders has been well established.93 Compression stockings improve calf muscle pump
+function, reduce edema, and likely improve cutaneous microcirculation.94-98 The use of graded elastic compression
+stockings decreases by 50% the incidence of objectively
+defined postthrombotic syndrome after a first episode of
+“proximal” DVT treated with conventional anticoagulation.
+In a randomized trial of 194 patients, the incidence of mildto-moderate and severe postthrombotic syndrome was 20%
+and 11%, respectively, among patients receiving compression
+stockings compared with 47% and 23% among those in the
+control group.99 Prandoni et al100 similarly found the use of
+compression stockings (30 to 40 mm Hg at the ankle) reduced the 2-year incidence of any post-thrombotic syndrome
+from 49.1% to 24.5%. Among those treated with optimal
+anticoagulation, 4.3 patients need to wear compression stockings to prevent one case of post-thrombotic syndrome.
+On the basis of these data, current guidelines recommend the prescription of graded elastic compression stock-
+
+Meissner et al 1459
+
+ings (40 mm Hg at the ankle) for at least 2 years after a
+proximal thrombotic event treated with conventional anticoagulation (Grade 1A).24 Although early thrombus removal strategies likely also reduce the incidence of the
+postthrombotic syndrome, no reports have evaluated the
+adjunctive effect of compression stockings in this patient
+population. The evidence supporting the use of compression stockings among patients treated with early thrombus
+removal strategies is indirect, but the potential benefits
+likely exceed the risks, and their use can be strongly recommended (Grade 1C).
+VALUES STATEMENT
+The committee incorporated certain factors other than
+evidence in formulating the recommendations presented in
+these guidelines. The explicit identification of such factors
+is important for guideline users and represents an advantage
+of using the GRADE system. The committee recognizes
+the poor quality of evidence supporting several of the
+recommendations, particularly arising from the common
+use of surrogate end points (eg, degree of lysis, venous
+reflux and patency) and the sparse data demonstrating the
+relative efficacy of different treatment strategies on patientimportant outcomes (eg, death, pulmonary embolism, recurrence of DVT, quality of life, and time to return to
+work). The committee placed a relatively high value on
+preventing DVT and the postthrombotic syndrome. We
+also considered the availability of surgical/interventional
+expertise and the resources needed for more aggressive
+approaches. In recommending the thrombolytic techniques over surgical thrombectomy, we placed a higher
+value on avoiding the potential complications of an infrequently performed surgical procedure. In recommending
+stents for lesions uncovered by thrombus removal, we
+highly valued the avoidance of complications related to
+untreated iliac stenosis, despite the lack of comparative
+data. In recommending compression stockings, we considered this intervention to be relatively inexpensive, to not
+require expertise, and able to be applied on a large scale.
+Indirect evidence was occasionally used due to lack of more
+direct evidence.
+Evidence-based medicine has been defined as “the conscientious, explicit, and judicious use of the current best
+evidence in making decisions about the care of individual
+patients.”101 This specifically involves integrating clinical expertise, the patient’s individual situation and preferences, and
+the best available clinical evidence. The guidelines of the
+Society for Vascular Surgery and American Venous Forum
+should be interpreted as a guide to be applied in the context of
+clinical judgment rather than as a rigid mandate. Furthermore,
+there are many aspects of early thrombus removal strategies
+for which little rigorous data exist and evidence-based guidelines are impractical at the present time. Clinical judgment is of
+the utmost importance in such situations.
+CONCLUSIONS
+Unfortunately, the clinical evidence supporting virtually all strategies of early thrombus removal, including
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+1460 Meissner et al
+
+catheter-directed pharmacologic thrombolysis, pharmacomechanical thrombolysis, and surgical thrombectomy,
+is of low quality. Large multicenter randomized clinical
+trials are lacking, and existing series have often included
+diverse patients and have largely evaluated only technical
+outcome measures.16,17,74 Despite these obvious deficiencies, systematic review of studies comparing these
+strategies with conventional anticoagulation does suggest some benefit with respect to reducing the incidence
+of the postthrombotic syndrome.19 Successful application of any of these strategies requires careful patient
+selection as well as a consideration of the patient’s underlying values and preferences. Accordingly, most recommendations are weak (Grade 2). Furthermore, because of the very low quality of the underlying evidence,
+the details of these recommendations are likely to change
+as better-quality evidence becomes available. In this
+regard, the use of patient-important outcomes, such as
+quality of life or objective measures of the post-thrombotic syndrome (Villalta score,102 Venous Clinical Severity Score103) should be strongly encouraged over technical outcomes such as lytic success and surrogate
+markers such as reflux and residual venous obstruction.
+Randomized clinical trials, including the ATTRACT104
+(Acute Venous Thrombosis: Thrombus Removal with
+Adjunctive Catheter-Directed Thrombolysis) and
+CaVenT50,105 (Catheter-directed Venous Thrombolysis
+in Acute Iliofemoral Vein Thrombosis) trials, are currently underway and will likely provide further evidence
+regarding the clinical utility of these strategies. We anticipate that the results of these trials will lead to guideline revisions.
+The currently available evidence cannot address several
+important questions. These include the optimal thrombolytic dose, the relative safety and efficacy of different thrombolytic agents and mechanical thrombectomy devices, and
+the appropriate intensity of anticoagulation to be used
+during thrombolytic procedures. Also, too little data are
+available to guide recommendations regarding the use of
+adjuvants such as intermittent pneumatic compression.106,107 Finally, the quality-of-life benefits and costeffectiveness of this therapy need to be more thoroughly
+evaluated.
+AUTHOR CONTRIBUTIONS
+Conception and design: MM
+Analysis and interpretation: MM, PG, AC, MD, BE, DG,
+JL, RM, HM, FP, PP, JR, TW
+Data collection: MM, HM
+Writing the article: MM, PG
+Critical revision of the article: MM, PG, AC, MD, BE, DG,
+JL, RM, HM, FP, PP, JR, TW
+Final approval of the article: MM, PG, AC, MD, BE, DG,
+JL, RM, HM, FP, PP, JR, TW
+Statistical analysis: HM
+Obtained funding: MM, PG
+Overall responsibility: MM
+
+REFERENCES
+1. Fowkes FJ, Price JF, Fowkes FG. Incidence of diagnosed deep vein
+thrombosis in the general population: systematic review. Eur J Vasc
+Endovasc Surg 2003;25:1-5.
+2. Koopman MM, Prandoni P, Piovella F, Ockelford PA, Brandjes DP,
+Van Der Meer J, et al. Treatment of venous thrombosis with intravenous unfractionated heparin administered in the hospital as compared
+with subcutaneous low-molecular-weight heparin administered at
+home. The Tasman Study Group. N Engl J Med 1996;334:682-7.
+3. Levine M, Gent M, Hirsh J, Leclerc J, Anderson D, Weitz J, et al. A
+comparison of low-molecular-weight heparin administered primarily
+at home with unfractionated heparin administered in the hospital for
+proximal deep-vein thrombosis. N Engl J Med 1996;334:677-81.
+4. Büller HR, Davidson BL, Decousus H, Gallus A, Gent M, Piovella F,
+et al. Fondaparinux or enoxaparin for the initial treatment of symptomatic deep venous thrombosis: a randomized trial. Ann Intern Med
+2004;140:867-73.
+5. Dolovich LR, Ginsberg JS, Douketis JD, Holbrook AM, Cheah G. A
+meta-analysis comparing low-molecular-weight heparins with unfractionated heparin in the treatment of venous thromboembolism: examining
+some unanswered questions regarding location of treatment, product
+type, and dosing frequency. Arch Intern Med 2000;160:181-8.
+6. Douketis JD, Crowther MA, Foster GA, Ginsberg JS. Does the location
+of thrombosis determine the risk of disease recurrence in patients with
+proximal deep vein thrombosis? Am J Med 2001;110:515-9.
+7. Prandoni P, Villalta S, Bagatella P, Rossi L, Marchiori A, Piccioli A, et al.
+The clinical course of deep-vein thrombosis. Prospective long-term follow-up of 528 symptomatic patients. Haematologica 1997;82:423-8.
+8. Kahn SR, Shrier I, Julian JA, Ducruet T, Arsenault L, Miron MJ, et al.
+Determinants and time course of the postthrombotic syndrome after
+acute deep venous thrombosis. Ann Intern Med 2008;149:698-707.
+9. Kahn SR. The post-thrombotic syndrome: progress and pitfalls. Br J
+Haematol 2006;134:357-65.
+10. Kahn SR, Hirsch A, Shrier I. Effect of postthrombotic syndrome on
+health-related quality of life after deep venous thrombosis. Arch Intern
+Med 2002;162:1144-8.
+11. Johnson BF, Manzo RA, Bergelin RO, Strandness DE. Relationship
+between changes in the deep venous system and the development of
+the postthrombotic syndrome after an acute episode of lower limb
+deep vein thrombosis: A one- to six-year follow-up. J Vasc Surg
+1995;21:307-13.
+12. Johnson BF, Manzo RA, Bergelin RO, Strandness DE. The site of
+residual abnormalities in the leg veins in long-term follow-up after
+deep vein and their relationship to the development of the postthrombotic syndrome. Int Angiol 1996;15:14-9.
+13. Goldhaber SZ, Buring JE, Lipnick RJ, Hennekens CH. Pooled analyses
+of randomized trials of streptokinase and heparin in phlebographically
+documented acute deep venous thrombosis. Am J Med 1984;76:393-7.
+14. Schwieder G, Grimm W, Siemens HJ, Flor B, Hilden A, Gmelin E, et
+al. Intermittent regional therapy with rt-PA is not superior to systemic
+thrombolysis in deep vein thrombosis (DVT)–a German multicenter
+trial. Thromb Haemost 1995;74:1240-3.
+15. Eklof B, Arfvidsson B, Kistner RL, Masuda EM. Indications for
+surgical treatment of iliofemoral vein thrombosis. Hematol/Oncol
+Clin North Am 2000;14:471-82.
+16. Mewissen MW, Seabrook GR, Meissner MH, Cynamon J, Labropoulos N, Haughton SH. Catheter-directed thrombolysis for lower extremity deep venous thrombosis: report of a national multicenter
+registry. Radiology 1999;211:39-49.
+17. Karthikesalingam A, Young EL, Hinchliffe RJ, Loftus IM, Thompson
+MM, Holt PJ. A systematic review of percutaneous mechanical thrombectomy in the treatment of deep venous thrombosis. Eur J Vasc
+Endovasc Surg 2011;41:554-65.
+18. Comerota AJ, Throm RC, Mathias SD, Haughton S, Mewissen M.
+Catheter-directed thrombolysis for iliofemoral deep venous thrombosis improves health-related quality of life. J Vasc Surg 2000;32:130-7.
+19. Casey ET, Munrad MH, Zumeta Garcia M, Elamin MB, Qian S,
+Erwin PJ, et al. Treatment of acute iliofemoral deep vein thrombosis:
+a systematic review and meta-analysis. J Vasc Surg 2011 [submitted to
+J Vasc Surg].
+
+JOURNAL OF VASCULAR SURGERY
+Volume 55, Number 5
+
+20. Watson LI, Armon MP. Thrombolysis for acute deep vein thrombosis.
+Cochrane Database Syst Rev 2004:CD002783.
+21. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et al;
+GRADE Working Group. Grading quality of evidence and strength of
+recommendations. BMJ 2004;328:1490-4.
+22. Murad MH, Swiglo BA, Sidawy AN, Ascher E, Montori VM. Methodology for clinical practice guidelines for the management of arteriovenous access. J Vasc Surg 2008;48:26S-30S.
+23. Guyatt G, Schünemann HJ, Cook D, Jaeschke R, Pauker S. Applying
+the grades of recommendation for antithrombotic and thrombolytic
+therapy: the Seventh ACCP Conference on Antithrombotic and
+Thrombolytic Therapy. Chest 2004;126:179-87S.
+24. Kearon C, Kahn SR, Agnelli G, Goldhaber S, Raskob GE, Comerota
+AJ. Antithrombotic therapy for venous thromboembolic disease:
+American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th Edition). Chest 2008;133:454-545S.
+25. Fink A, Kosecoff J, Chassin M, Brook RH. Consensus methods: characteristics and guidelines for use. Am J Public Health 1984;74:979-83.
+26. Vedantham S, Millward SF, Cardella JF, Hofmann LV, Razavi MK,
+Grassi CJ, et al. Society of Interventional Radiology position statement: treatment of acute iliofemoral deep vein thrombosis with use of
+adjunctive catheter-directed intrathrombus thrombolysis. J Vasc Interv Radiol 2006;17:613-6.
+27. Vedantham S, Thorpe PE, Cardella JF, Grassi CJ, Patel NH, Ferral H,
+et al. Quality improvement guidelines for the treatment of lower
+extremity deep vein thrombosis with use of endovascular thrombus
+removal. J Vasc Interv Radiol 2006;17:435-47.
+28. Caps MT, Manzo RA, Bergelin RO, Meissner MH, Strandness DE.
+Venous valvular reflux in veins not involved at the time of acute deep
+vein thrombosis. J Vasc Surg 1995;22:524-31.
+29. Delis KT, Bountouroglou D, Mansfield AO. Venous claudication in
+iliofemoral thrombosis: long-term effects on venous hemodynamics,
+clinical status, and quality of life. Ann Surg 2004;239:118-26.
+30. Hill SL, Martin D, McDannald ER, Jr, Donato AT. Early diagnosis of
+iliofemoral venous thrombosis by Doppler examination. Am J Surg
+1988;156:11-5.
+31. Beyth RJ, Cohen AM, Landefeld CS. Long-term outcomes of deepvein thrombosis. Arch Intern Med 1995;155:1031-7.
+32. Prandoni P, Lensing AW, Cogo A, Cuppini S, Villalta S, Carta M, et al.
+The long-term clinical course of acute deep venous thrombosis. Ann
+Intern Med 1996;125:1-7.
+33. Shields GP, Turnipseed S, Panacek EA, Melnikoff N, Gosselin R,
+White RH. Validation of the Canadian clinical probability model for
+acute venous thrombosis. Acad Emerg Med 2002;9:561-6.
+34. Wells PS, Anderson DR, Bormanis J, Guy F, Mitchell M, Gray L, et al.
+Value of assessment of pretest probability of deep-vein thrombosis in
+clinical management. Lancet 1997;350:1795-8.
+35. Anderson DR, Wells PS, Stiell I, MacLeod B, Simms M, Gray L, et al.
+Management of patients with suspected deep vein thrombosis in the
+emergency department: combining use of a clinical diagnosis model
+with D-dimer testing. J Emerg Med 2000;19:225-30.
+36. Bucek RA, Koca N, Reiter M, Haumer M, Zontsich T, Minar E.
+Algorithms for the diagnosis of deep-vein thrombosis in patients with
+low clinical pretest probability. Thromb Res 2002;105:43-7.
+37. Dryjski M, O’Brien-Irr MS, Harris LM, Hassett J, Janicke D. Evaluation of a screening protocol to exclude the diagnosis of deep venous
+thrombosis among emergency department patients. J Vasc Surg 2001;
+34:1010-5.
+38. Kelly J, Hunt BJ. Role of D-dimers in diagnosis of venous thromboembolism. Lancet 2002;359:456-8.
+39. Schutgens RE, Ackermark P, Haas FJ, Nieuwenhuis HK, Peltenburg
+HG, Pijlman AH, et al. Combination of a normal D-dimer concentration and a non-high pretest clinical probability score is a safe strategy to
+exclude deep venous thrombosis. Circulation 2003;107:593-7.
+40. Kearon C, Julian JA, Math M, Newman TE, Ginsberg JS. Noninvasive
+diagnosis of deep venous thrombosis. McMaster diagnostic imaging
+practice guidelines initiative. Ann Intern Med 1998;128:663-77.
+41. Messina LM, Sarpa MS, Smith MA, Greenfield LJ. Clinical significance
+of routine imaging of iliac and calf veins by color flow duplex scanning
+
+Meissner et al 1461
+
+in patients suspected of having acute lower extremity deep venous
+thrombosis. Surgery 1993;114:921-7.
+42. Montgomery KD, Potter HG, Helfet DL. Magnetic resonance venography to evaluate the deep venous system of the pelvis in patients who
+have an acetabular fracture. J Bone Joint Surg Am 1995;77:1639-49.
+43. Yoshida S, Akiba H, Tamakawa M, Yama N, Takeda M, Hareyama M.
+Spiral CT venography of the lower extremities by injection via an arm
+vein in patients with leg swelling. Br J Radiol 2001;74:1013-6.
+44. Spritzer CE. Progress in MR imaging of the venous system. Perspect
+Vasc Surg Endovasc Ther 2009;21:105-16.
+45. Orbell JH, Smith A, Burnand KG, Waltham M. Imaging of deep vein
+thrombosis. Br J Surg 2008;95:137-46.
+46. Cham MD, Yankelevitz DF, Shaham D, Shah AA, Sherman L, Lewis
+A, et al. Deep venous thrombosis: detection by using indirect CT
+venography. The pulmonary angiography-Indirect CT Venography
+Cooperative Group. Radiology 2000;216:744-51.
+47. Thomas SM, Goodacre SW, Sampson FC, van Beek EJ. Diagnostic
+value of CT for deep vein thrombosis: results of a systematic review and
+meta-analysis. Clin Radiol 2008;63:299-304.
+48. Sampson FC, Goodacre SW, Thomas SM, van Beek EJ. The accuracy
+of MRI in diagnosis of suspected deep vein thrombosis: systematic
+review and meta-analysis. Eur Radiol 2007;17:175-81.
+49. Carpenter JP, Holland GA, Baum RA, Owen RS, Carpenter JT, Cope
+C. Magnetic resonance venography for the detection of deep venous
+thrombosis: comparison with contrast venography and duplex Doppler ultrasonography. J Vasc Surg 1993;18:734-41.
+50. Enden T, Kløw NE, Sandvik L, Slagsvold CE, Ghanima W, Hafsahl G, et
+al. Catheter-directed thrombolysis vs. anticoagulant therapy alone in deep
+vein thrombosis: results of an open randomized, controlled trial reporting
+on short-term patency. J Thromb Haemost 2009;7:1268-75.
+51. O’Meara JJ, McNutt RA, Evans AT, Moore SW, Downs SM. A
+decision analysis of streptokinase plus heparin as compared with heparin alone for deep-vein thrombosis. N Engl J Med 1994;330:1864-9.
+52. Weaver FA, Meacham PW, Adkins RB, Dean RH. Phlegmasia cerulea
+dolens: therapeutic considerations. South Med J 1988;81:306-12.
+53. Qvarfordt P, Eklöf B, Ohlin P. Intramuscular pressure in the lower leg
+in deep vein thrombosis and phlegmasia cerulae dolens. Ann Surg
+1983;197:450-3.
+54. Gloviczki P, Hollier LH, Cherry KJ, Pairolero PC, Gale SS, Schirger A.
+Phlegmaisa cerulea dolens: the continuing morbidity. Int Angiol
+1982;1:127-34.
+55. Fogarty TJ, Cranley JJ, Krause RJ, Strasser ES, Hafner CD. Surgical
+management of phlegmasia cerulea dolens. Arch Surg 1963;86:256-63.
+56. Lorimer JW, Semelhago LC, Barber GG. Venous gangrene of the
+extremities. Can J Surg 1994;37:379-84.
+57. Hood DB, Weaver FA, Modrall JG, Yellin AE. Advances in the
+treatment of phlegmasia cerulea dolens. Am J Surg 1993;166:206-10.
+58. Warkentin TE. Venous limb gangrene during warfarin treatment of
+cancer-associated deep venous thrombosis. Ann Intern Med 2001;
+135:589-93.
+59. Warkentin TE, Elavathil LJ, Hayward CP, Johnston MA, Russett
+JI, Kelton JG. The pathogenesis of venous limb gangrene associated with heparin-induced thrombocytopenia. Ann Intern Med
+1997;127:804-12.
+60. Linkins LA, Warkentin TE. The approach to heparin-induced thrombocytopenia. Semin Respir Crit Care Med 2008;29:66-74.
+61. Warkentin TE, Greinacher A, Koster A, Lincoff AM. Treatment and
+prevention of heparin-induced thrombocytopenia: American College
+of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th
+edition). Chest 2008;133:340-80S.
+62. Robinson DL, Teitelbaum GP. Phlegmasia cerulea dolens: treatment
+by pulse-spray and infusion thrombolysis. AJR Am J Roentgenol
+1993;160:1288-90.
+63. Tung CS, Soliman PT, Wallace MJ, Wolf JK, Bodurka DC. Successful
+catheter-directed venous thrombolysis in phlegmasia cerulea dolens.
+Gynecol Oncol 2007;107:140-2.
+64. Cywes S, Louw JH. Phlegmasia cerulea dolens: successful treatment by
+relieving fasciotomy. Surgery 1962;51:169-76.
+65. Valentine RJ, Clagett GP. Aortic graft infections: replacement with
+autogenous vein. Cardiovasc Surg 2001;9:419-25.
+
+1462 Meissner et al
+
+66. Modrall JG, Hocking JA, Timaran CH, Rosero EB, Arko FR 3rd,
+Valentine RJ, et al. Late incidence of chronic venous insufficiency after
+deep vein harvest. J Vasc Surg 2007;46:520-5.
+67. Raju S, Fountain T, Neglén P, Devidas M. Axial transformation of the
+profunda femoris vein. J Vasc Surg 1998;27:651-9.
+68. Vedantham S, Thorpe PE, Cardella JF, Grassi CJ, Patel NH, Ferral H,
+et al. Quality improvement guidelines for the treatment of lower
+extremity deep vein thrombosis with use of endovascular thrombus
+removal. J Vasc Interv Radiol 2009;20:S227-39.
+69. Protack CD, Bakken AM, Patel N, Saad WE, Waldman DL, Davies
+MG. Long-term outcomes of catheter directed thrombolysis for lower
+extremity deep venous thrombosis without prophylactic inferior vena
+cava filter placement. J Vasc Surg 2007;45:992-7.
+70. Vedantham S, Vesely TM, Parti N, Darcy M, Hovsepian DM, Picus D.
+Lower extremity venous thrombolysis with adjunctive mechanical
+thrombectomy. J Vasc Interv Radiol 2002;13:1001-8.
+71. Lin PH, Zhou W, Dardik A, Mussa F, Kougias P, Hedayati N, et al.
+Catheter-direct thrombolysis versus pharmacomechanical thrombectomy for treatment of symptomatic lower extremity deep venous
+thrombosis. Am J Surg 2006;192:782-8.
+72. Kim HS, Patra A, Paxton BE, Khan J, Streiff MB. Adjunctive percutaneous mechanical thrombectomy for lower-extremity deep vein
+thrombosis: clinical and economic outcomes. J Vasc Interv Radiol
+2006;17:1099-104.
+73. Arko FR, Davis CM, 3rd, Murphy EH, Smith ST, Timaran CH, Modrall
+JG, et al. Aggressive percutaneous mechanical thrombectomy of deep
+venous thrombosis: early clinical results. Arch Surg 2007;142:513-8.
+74. Dasari TW, Pappy RM, Hennebry TA. Pharmacomechanical thrombolysis of acute and chronic symptomatic deep vein thrombosis: a
+systematic review of literature. Angiology 2012;63:138-45.
+75. Fasolini FG, Streuli HK. [Thrombectomy versus conservative therapy
+of thrombosis of the deep veins of the pelvis and legs. Late results 10
+years later]. Helv Chir Acta 1985;52:735-8.
+76. Gänger KH, Nachbur BH, Ris HB, Zurbrügg H. Surgical thrombectomy
+versus conservative treatment for deep venous thrombosis; functional
+comparison of long-term results. Eur J Vasc Surg 1989;3:529-38.
+77. Hamilton H, Pontin AR, Immelman EJ, Kahn D. Venous thrombectomy in patients presenting with iliofemoral vein thrombosis after
+renal transplantation. Transpl Int 1996;9:513-6.
+78. Hold M, Bull PG, Raynoschek H, Denck H. Deep venous thrombosis:
+results of thrombectomy versus medical therapy. Presented at the 5th
+European-American Symposium on Venous Diseases, Vienna, Austria,
+November 7-11, 1990. VASA; 1992;21:181-7.
+79. Matsubara J, Ban I, Nakata Y, Shinjo K, Hirai M, Miyazaki H.
+Long-term follow-up results of the iliofemoral venous thrombosis.
+J Cardiovasc Surg (Torino) 1976;17:234-9.
+80. Plate G, Einarsson E, Ohlin P, Jensen R, Qvarfordt P, Eklöf B. Thrombectomy with temporary arteriovenous fistula: the treatment of choice in
+acute iliofemoral venous thrombosis. J Vasc Surg 1984;1:867-76.
+81. Sato S, Iwai T, Sakurazawa K, Inoue Y, Takiguchi N, Sugano N, et al.
+[Conservative treatment of acute deep vein thrombosis of lower extremities]. Nihon Geka Gakkai Zasshi. 1992;93:1052-4.
+82. Stiegler H, Arbogast H, Halder A, Grau A, Riess H, Tosch U.
+[Operation, lysis, heparin therapy: 3 equally valid forms of therapy in
+acute leg-pelvic venous thrombosis]. Vasa Suppl 1987;20:153-6.
+83. Törngren S, Hjertberg R, Rosfors S, Bremme K, Eriksson M, Swedenborg J. The long-term outcome of proximal vein thrombosis during
+pregnancy is not improved by the addition of surgical thrombectomy
+to anticoagulant treatment. Eur J Vasc Endovasc Surg 1996;12:31-6.
+84. Eklof B, Kistner RL. Is there a role for thrombectomy in iliofemoral
+venous thrombosis? Semin Vasc Surg 1996;9:34-45.
+85. Kölbel T, Alhadad A, Acosta S, Lindh M, Ivancev K, Gottsäter A.
+Thrombus embolization into IVC filters during catheter-directed
+thrombolysis for proximal deep venous thrombosis. J Endovasc Ther
+2008;15:605-13.
+86. Martinez Trabal JL, Comerota AJ, LaPorte FB, Kazanjian S, DiSalle R,
+Sepanski DM. The quantitative benefit of isolated, segmental, phar-
+
+JOURNAL OF VASCULAR SURGERY
+May 2012
+
+macomechanical thrombolysis (ISPMT) for iliofemoral venous
+thrombosis. J Vasc Surg 2008;48:1532-7.
+87. Tsai J, Georgiades CS, Hong K, Kim HS. Presumed pulmonary embolism
+following power-pulse spray thrombectomy of upper extremity venous
+thrombosis. Cardiovasc Interv Radiol 2006;29:678-80.
+88. Rosendaal FR. Venous thrombosis: a multicausal disease. Lancet
+1999;353:1167-73.
+89. Rosendaal FR. Venous thrombosis: the role of genes, environment, and
+behavior. Hematology Am Soc Hematol Educ Program 2005:1-12.
+90. Raju S, Neglen P. High prevalence of nonthrombotic iliac vein lesions
+in chronic venous disease: a permissive role in pathogenicity. J Vasc
+Surg 2006;44:136-43; discussion: 44.
+91. Neglén P, Raju S. Intravascular ultrasound scan evaluation of the
+obstructed vein. J Vasc Surg 2002;35:694-700.
+92. Titus JM, Moise MA, Bena J, Lyden SP, Clair DG. Iliofemoral stenting
+for venous occlusive disease. J Vasc Surg 2011;53:706-12.
+93. Meissner MH, Eklof B, Smith PC, Dalsing MC, DePalma RG, Gloviczki P, et al. Secondary chronic venous disorders. J Vasc Surg 2007;
+46(Suppl S):68-83S.
+94. Murphy MA, Joyce WP, Condron C, Bouchier-Hayes D. A reduction in
+serum cytokine levels parallels healing of venous ulcers in patients undergoing compression therapy. Eur J Vasc Endovasc Surg 2002;23:349-52.
+95. Nehler MR, Moneta GL, Woodard DM, Defrang RD, Harker CT,
+Taylor LM, Jr, et al. Perimalleolar subcutaneous tissue pressure effects
+of elastic compression stockings. J Vasc Surg 1993;18:783-8.
+96. Nehler MR, Porter JM. The lower extremity venous system. part II:
+The pathophysiology of chronic venous insufficiency. Perspect Vasc
+Surg 1992;5:81.
+97. Partsch H. [Improving the venous pumping function in chronic
+venous insufficiency by compression as dependent on pressure and
+material]. Vasa 1984;13:58-64.
+98. Sarin S, Scurr JH, Coleridge Smith PD. Mechanism of action of external
+compression on venous function. Br J Surg 1992;79:499-502.
+99. Brandjes DP, Büller HR, Heijboer H, Huisman MV, de Rijk M, Jagt H,
+et al. Randomised trial of effect of compression stockings in patients with
+symptomatic proximal-vein thrombosis. Lancet 1997;349:759-62.
+100. Prandoni P, Lensing AW, Prins MH, Frulla M, Marchiori A, Bernardi
+E, et al. Below-knee elastic compression stockings to prevent the
+post-thrombotic syndrome: a randomized, controlled trial. Ann Intern Med 2004;141:249-56.
+101. Sackett DL. Evidence-based medicine. Spine 1998;23:1085-6.
+102. Villalta S, Bagatella P, Piccioli A, Lensing AWA, Prins MH, Prandoni
+P. Assessment of validity and reproducibility of a clinical scale for the
+post-thrombotic syndrome. Haemostasis 1994;24:158a.
+103. Vasquez MA, Rabe E, McLafferty RB, Shortell CK, Marston WA,
+Gillespie D, et al. Revision of the venous clinical severity score: venous
+outcomes consensus statement: special communication of the American venous Forum Ad Hoc Outcomes Working Group. J Vasc Surg
+2010;52:1387-96.
+104. Comerota AJ. The ATTRACT trial: rationale for early intervention for
+iliofemoral DVT. Perspect Vasc Surg Endovasc Ther 2009;21:221-4.
+105. Enden T, Sandvik L, Kløw NE, Hafsahl G, Holme PA, Holmen LO, et
+al. Catheter-directed Venous Thrombolysis in acute iliofemoral vein
+thrombosis–the CaVenT study: rationale and design of a multicenter,
+randomized, controlled, clinical trial (NCT00251771). Am Heart J
+2007;154:808-14.
+106. Baekgaard N, Broholm R, Just S, Jørgensen M, Jensen LP. Long-term results
+using catheter-directed thrombolysis in 103 lower limbs with acute iliofemoral venous thrombosis. Eur J Vasc Endovasc Surg 2010;39:112-7.
+107. Ogawa T, Hoshino S, Midorikawa H, Sato K. Intermittent pneumatic compression of the foot and calf improves the outcome of
+catheter-directed thrombolysis using low-dose urokinase in patients with acute proximal venous thrombosis of the leg. J Vasc Surg
+2005;42:940-4.
+
+Submitted Dec 7, 2011; accepted Dec 27, 2011.
+
+

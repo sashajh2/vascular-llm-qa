@@ -1,0 +1,2841 @@
+SOCIETY FOR VASCULAR SURGERY PRACTICE GUIDELINES
+Chronic mesenteric ischemia: Clinical practice guidelines from the
+Society for Vascular Surgery
+Thomas S. Huber, MD, PhD,a Martin Björck, MD,b Ankur Chandra, MD,c W. Darrin Clouse, MD,d
+Michael C. Dalsing, MD,e Gustavo S. Oderich, MD,f Matthew R. Smeds, MD,g and M. Hassan Murad, MD, MPH,h
+Gainesville, Fla; Uppsala, Sweden; La Jolla, Calif; Charlottesville, Va; Indianapolis, Ind; Houston, Tex; St. Louis, Mo; and
+Rochester, Minn
+
+ABSTRACT
+Background: Chronic mesenteric ischemia (CMI) results from the inability to achieve adequate postprandial intestinal
+blood ﬂow, usually from atherosclerotic occlusive disease at the origins of the mesenteric vessels. Patients typically
+present with postprandial pain, food fear, and weight loss, although they can present with acute mesenteric ischemia
+and bowel infarction. The diagnosis requires a combination of the appropriate clinical symptoms and signiﬁcant
+mesenteric artery occlusive disease, although it is often delayed given the spectrum of gastrointestinal disorders associated with abdominal pain and weight loss. The treatment goals include relieving the presenting symptoms, preventing
+progression to acute mesenteric ischemia, and improving overall quality of life. These practice guidelines were developed
+to provide the best possible evidence for the diagnosis and treatment of patients with CMI from atherosclerosis.
+Methods: The Society for Vascular Surgery established a committee composed of vascular surgeons and individuals
+experienced with evidence-based reviews. The committee focused on six speciﬁc areas, including the diagnostic evaluation,
+indications for treatment, choice of treatment, perioperative evaluation, endovascular/open revascularization, and surveillance/remediation. A formal systematic review was performed by the evidence team to identify the optimal technique
+for revascularization. Speciﬁc practice recommendations were developed using the Grading of Recommendations
+Assessment, Development, and Evaluation system based on review of literature, the strength of the data, and consensus.
+Results: Patients with symptoms consistent with CMI should undergo an expedited workup, including a computed tomography arteriogram, to exclude other potential causes. The diagnosis is supported by signiﬁcant arterial occlusive disease
+in the mesenteric vessels, particularly the superior mesenteric artery. Treatment requires revascularization with the primary
+target being the superior mesenteric artery. Endovascular revascularization with a balloon-expandable covered intraluminal stent is the recommended initial treatment with open repair reserved for select younger patients and those who are
+not endovascular candidates. Long-term follow-up and surveillance are recommended after revascularization and for
+asymptomatic patients with severe mesenteric occlusive disease. Patient with recurrent symptoms after revascularization
+owing to recurrent stenoses should be treated with an endovascular-ﬁrst approach, similar to the de novo lesion.
+Conclusions: These practice guidelines were developed based on the best available evidence. They should help to
+optimize the care of patients with CMI. Multiple areas for future research were identiﬁed. (J Vasc Surg 2021;73:87S-115S.)
+
+Department of Surgery, University of Florida College of Medicine, Gainesville,
+FL 32610-0128 (e-mail: thomas.huber@surgery.uﬂ.edu).
+
+Scripps Green Hospital, La Jollac; the Division of Vascular and Endovascular
+
+Independent peer-review and oversight has been provided by members of the
+
+Surgery, University of Virginia Health System, Charlottesvilled; the Division of
+
+SVS Document Oversight Committee (Ruth Bush, Chair, Marc Schermerhorn,
+
+Vascular Surgery, Indiana University School of Medicine, Indianapolise; the Di-
+
+Vice-Chair, Keith Calligaro, Mark Davies, Yazan Duwayri, Mohammad Eslami,
+
+vision of Vascular and Endovascular Surgery, University of Texas Health Sci-
+
+Alik Farber, Raul Guzman, Katherine McGinigle Gregory Landry, Mahmoud
+
+ence Center at Houston - McGovern Medical School, Houstonf; the Division
+
+Malas, Sheppard Mondy, John Rectenwald, William Robinson, Britt Tonnes-
+
+of Vascular and Endovascular Surgery, Saint Louis University School of Medi-
+
+sen, Greg Westin).
+
+cine, St. Louisg; and the Evidence-Based Practice Center, Mayo Clinic,
+
+
+SUMMARY OF THE GUIDELINES
+Diagnostic evaluation
+Recommendations.
+1. In patients with abdominal pain, weight loss, and
+food fear, we recommend an expedited workup to
+exclude gastrointestinal malignancies and other potential causes. The expedited workup may include
+an esophagogastroduodenoscopy, a colonoscopy, an
+abdominal computed tomography (CT) scan and an
+abdominal ultrasound. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate)
+2. We recommend making a diagnosis of chronic
+mesenteric ischemia (CMI) in patients with the appropriate clinical scenario and the presence of signiﬁcant
+stenoses (>70%) within the celiac axis and superior
+mesenteric artery (SMA). The diagnosis maybe also
+
+made in patients with the appropriate clinical scenario and a signiﬁcant stenosis (>70%) in either the
+celiac axis or SMA alone. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: B (Moderate)
+3. We recommend using the mesenteric duplex ultrasound (DUS) examination as the preferred screening
+test for mesenteric artery occlusive disease (MAOD).
+Level of recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate)
+4. We recommend using CT arteriography (CTA) as the
+preferred deﬁnitive imaging test for MAOD unless unusual anatomic features obscure the anatomy such
+that a catheter-based arteriogram may be required.
+Level of recommendation: Grade 1 (Strong), Quality
+of Evidence: B (Moderate)
+Indications for treatment
+Recommendations.
+1. We recommend revascularization in patients with CMI
+to reverse their presenting symptoms (ie, weight loss,
+food fear, diarrhea, postprandial pain) and improve
+their overall quality of life. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: A (High)
+2. We recommend that total parenteral nutrition is
+not an acceptable alternative to revascularization for
+patients with CMI owing to the risk of clinical deterioration, bowel infarction, and catheter-related complications. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate)
+3. We suggest that the SMA is the primary target for
+revascularization. Level of recommendation: Grade 2
+(Weak), Quality of Evidence: B (Moderate)
+4. We suggest that the celiac axis and inferior mesenteric
+artery are secondary targets for revascularization and
+that revascularization may aid in symptom relief if the
+SMA is not suitable for intervention or the technical
+result is not acceptable. Level of recommendation:
+Grade 2 (Weak), Quality of Evidence: B (Moderate)
+5. In patients with symptoms consistent with CMI and
+occlusive disease isolated to a single mesenteric
+vessel, particularly the SMA, we suggest a shared
+decision-making approach between the patient and
+provider to discuss revascularization as a treatment
+option. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low)
+6. In select asymptomatic patients with severe MAOD, we
+suggest a shared decision-making approach between
+the patient and provider to discuss revascularization
+as a treatment option. Level of recommendation:
+Grade 2 (Weak), Quality of Evidence: C (Low)
+7. We recommend that asymptomatic patients with severe MAOD be closely followed for symptoms consistent with CMI. A possible follow-up schedule includes
+an annual evaluation with a mesenteric DUS examination. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: C (Low)
+8. In patients with severe MAOD involving the SMA undergoing aortic reconstruction, both open and endovascular, we suggest a shared decision-making approach
+between the patient and provider to discuss
+
+Journal of Vascular Surgery
+
+Huber et al
+
+89S
+
+Volume 73, Number 1S
+
+revascularization as a treatment option. Level of recommendation: Grade 2 (Weak), Quality of Evidence: C (Low)
+9. In patients with combined MAOD and mesenteric artery aneurysms, we recommend revascularization at
+the time of treatment for their mesenteric artery aneurysms if the repair alone would disrupt the collateral network. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: C (Low)
+Choice of treatment
+Recommendations.
+1. The choice of treatment for patients with CMI should
+be a shared decision-making process between the
+patient and provider considering the risks/beneﬁts of
+the various options and the patient’s goals of care.
+(Ungraded Good Practice Statement)
+2. We recommend endovascular revascularization as
+the initial treatment for patients with CMI and suitable lesions. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+3. We recommend reserving open surgical revascularization for patients with CMI who have lesions that are not
+amenable to endovascular therapy, endovascular failures, and a select group of younger, healthier patients
+for whom the long-term beneﬁts may offset the
+increased perioperative risks. Level of recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate)
+Preoperative evaluation
+Recommendations.
+1. Patients undergoing revascularization for CMI should
+be optimized from a medical standpoint before intervention, although their preoperative evaluation should
+be expedited. (Ungraded Good Practice Statement)
+2. We recommend obtaining a CTA to delineate the
+vascular anatomy before any revascularization. A
+catheter-based arteriogram may be an alternative if
+the anatomy is not clear on the CTA. Level of recommendation: Grade 1 (Strong), Quality of Evidence: A (High)
+Endovascular revascularization
+Recommendation.
+1. We suggest using balloon-expandable covered intraluminal stents for the treatment of the MAOD in patients with CMI. Level of recommendation: Grade 2
+(Weak), Quality of Evidence: C (Low)
+Open surgical revascularization
+Recommendation.
+1. The choice of open surgical revascularization for CMI
+should be determined by anatomy, comorbidities,
+prior interventions, and provider preference. (Ungraded Good Practice Statement)
+Surveillance and remediation
+Recommendations.
+1. Patients undergoing revascularization for CMI should be
+educated and counseled about recurrent symptoms
+owing to the high rate of recurrence. (Ungraded Good
+Practice Statement)
+
+2. Patients should be followed in the outpatient setting
+after revascularization for CMI. A possible follow-up
+schedule includes within 1 month of the procedure
+and then biannually for the ﬁrst 2 years, and then annually thereafter. (Ungraded Good Practice Statement)
+3. We suggest surveillance with mesenteric DUS examination to identify recurrent stenoses after revascularization for CMI. A possible ultrasound surveillance
+schedule includes within 1 month of the procedure
+and then biannually for the ﬁrst 2 years, and then
+annually. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low)
+4. We recommend performing a CTA or catheter-based
+arteriograms to conﬁrm any restenoses detected by
+DUS examination in patients with symptoms consistent with CMI. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: C (Low) (1C)
+5. In patients with recurrent symptoms of CMI, we
+recommend remedial treatment as recommended
+for the de novo lesions. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: C (Low)
+6. In select patients with asymptomatic recurrent stenosis, we suggest a shared decision-making approach
+between the patient and provider to discuss revascularization as recommended for the de novo lesions.
+Level of recommendation: Grade 2 (Weak), Quality of
+Evidence: C (Low)
+7. We suggest that the choice of revascularization for
+recurrent stenoses should be similar to the de novo lesions with the endovascular approach recommended
+as the initial option and open revascularization
+reserved for lesions not amenable to the endovascular
+approach. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low)
+
+INTRODUCTION
+Chronic mesenteric ischemia (CMI) is caused by the failure to achieve postprandial intestinal blood ﬂow resulting in an imbalance between the supply and demand
+for oxygen and other metabolites. This adverse hemodynamic event is typically caused by atherosclerotic occlusive disease at the oriﬁces of the mesenteric vessels (ie,
+celiac artery [CA], superior mesenteric artery [SMA], inferior mesenteric artery [IMA]), although a variety of other
+etiologies have been incriminated. The presence of
+mesenteric artery occlusive disease (MAOD) is a relatively
+common ﬁnding in the elderly population, particularly in
+those with evidence of occlusive disease in other vascular
+beds. In a prospective study of more than 500 patients,
+Wilson et al1 reported that 17% of elderly adults had evidence of signiﬁcant occlusive disease in the CA or SMA.
+Furthermore, more than 25% of patients undergoing a
+catheter-based arteriogram for lower extremity occlusive
+disease were found to have a greater than 50% stenosis
+in either artery.2,3 Despite the high prevalence of
+MAOD, CMI is signiﬁcantly less common given the extensive collateral network and redundancy in the mesenteric circulation. It is generally accepted that symptoms
+
+90S
+
+Journal of Vascular Surgery
+
+Huber et al
+
+January Supplement 2021
+
+do not occur unless at least two of the mesenteric vessels
+are involved although symptoms can develop in patients
+with single-vessel disease, particularly the SMA.4-7 The
+diagnosis of CMI requires the appropriate clinical symptoms, the presence of MAOD, and the exclusion of other
+potential causes of postprandial abdominal pain. Deﬁnitive treatment with mesenteric revascularization is
+required with the treatment goals of reversing the symptoms, facilitating weight gain, improving the overall quality of life, and preventing bowel infarction.
+Both the diagnostic imaging and deﬁnitive treatment
+for CMI have evolved over the past 2 decades, paralleling
+the larger discipline of vascular surgery, with an increased
+emphasis on triphasic multidetector CT arteriography
+(CTA) and percutaneous endovascular treatment. CTA is
+currently recommended as the ﬁrst-line imaging study
+for mesenteric ischemia (both acute and chronic) by the
+American College of Radiology Appropriateness criteria
+and has largely replaced catheter-based arteriography as
+the gold standard for diagnosis.8 It affords the ability to
+assess the bowel and other intra-abdominal abdominal
+organs as a potential cause of the abdominal pain, in
+addition to providing a more comprehensive view of the
+extent and distribution of the MAOD and collateral networks. Endovascular treatment with angioplasty and
+intraluminal stents has largely replaced open surgical
+bypass as the ﬁrst treatment option for mesenteric revascularization. Notably, the number of endovascular procedures for mesenteric ischemia has increased 10-fold over
+the past decade and now accounts for more than 70%
+of the initial revascularization procedures.6,9,10 This evolution from open to endovascular revascularization has
+been justiﬁed by the consistent themes for all endovascular procedures, including excellent technical success and
+decreased perioperative complication rates, despite concerns about decreased patency rates and an increased
+rate of recurrent symptoms.
+The evidence supporting the diagnosis and treatment
+for CMI has been somewhat limited, despite the dramatic evolution in the care paradigms over the past decades. The supporting evidence is largely retrospective,
+single-center reports with heterogeneous patient populations in terms of comorbidities, distribution of occlusive
+disease, acuity of symptoms, and type of revascularization. The limitation of the evidence is compounded by
+the lack of widely accepted reporting standards and
+the relative low prevalence of the disease process.
+These clinical practice guidelines were developed by
+the committee under the guidance of the Society for
+Vascular Surgery to facilitate evidence-based clinical decision making for patients with CMI. They were limited to
+patients with CMI related to atherosclerotic occlusive disease. CMI was deﬁned as ischemic symptoms caused by
+insufﬁcient intestinal blood ﬂow to the gastrointestinal
+tract for a duration of 3 months as deﬁned by the European Society of Vascular Surgery Guidelines.11 The
+
+current guidelines do not address the management of
+acute mesenteric ischemia (AMI) or nonatherosclerotic
+causes (eg, median arcuate ligament syndrome, SMA
+dissection) potentially contributing to the development
+of CMI. Although the goal of the guidelines was to provide the best possible evidence, there are multiple gaps
+in our overall understanding and it is anticipated that
+future studies will likely impact the speciﬁc recommendations. Furthermore, the guidelines provide a generic
+approach to patients with CMI and may not be appropriate for every clinical scenario, thereby emphasizing
+the importance of a patient-speciﬁc approach.
+
+METHODS
+The Society for Vascular Surgery selected a committee
+consisting of vascular surgeons with an expertise in
+CMI. A guideline methodologist, a librarian, and a team
+of investigators with expertise in conducting systematic
+reviews and meta-analyses assisted the committee. The
+committee communicated in person and remotely. Speciﬁc questions were grouped into six areas of focus (diagnostic evaluation, indications for treatment, choice of
+treatment, perioperative evaluation, endovascular/open
+revascularization, and surveillance/remediation) and subgroups of the committee were assigned to the focus
+areas. A formal systematic review and meta-analysis
+comparing open and endovascular revascularization for
+CMI was performed by the Evidence-Based Practice Center at the Mayo Clinic.12 The evidence in the other areas
+was summarized and recommendations determined
+by a consensus of the committee members.
+The committee used the GRADE approach (Grades of
+Recommendation Assessment, Development and Evaluation) to rate the quality of evidence (conﬁdence in the estimates) and grade the strength of recommendations.13,14
+This system categorizes recommendations as strong
+GRADE 1 or conditional GRADE 2, based on the certainty
+of evidence, the balance between desirable/undesirable effects, patient values/preferences, and resource use. GRADE
+1 recommendations are meant to identify practices where
+beneﬁt clearly outweighs risk. These recommendations
+can be made by clinicians and accepted by patients with
+a high degree of conﬁdence. GRADE 2 recommendations
+are provided when the beneﬁts and risks are more closely
+matched and are more dependent on speciﬁc clinical scenarios. In general, physician and patient preferences play a
+more important role in the decision-making process in
+these latter circumstances. The committee denoted strong
+and conditional recommendations by stating “recommend” and “suggest,” respectively. The certainty of evidence
+to support the recommendation in either GRADE is divided
+into three categories: A (high certainty), B (moderate certainty), and C (low or very low certainty). Conclusions based
+on high-certainty evidence are unlikely to change with
+further investigation, whereas those based on moderatecertainty evidence are more likely to be affected by further
+
+Journal of Vascular Surgery
+
+Huber et al
+
+91S
+
+Volume 73, Number 1S
+
+scrutiny. Those based on low-certainty evidence are the
+least supported by current data and the most likely to be
+subject to change in the future. The committee also
+made some statements that were labeled as ungraded
+good practice statements.15 These statements did not
+have direct supporting evidence, but had ample indirect
+evidence and would be considered by many surgeons as
+surgical principles.
+Diagnostic evaluation
+Recommendations.
+1. In patients with abdominal pain, weight loss, and
+food fear, we recommend an expedited workup to
+exclude gastrointestinal malignancies and other potential causes. The expedited workup may include
+an esophagogastroduodenoscopy, a colonoscopy, an
+abdominal CT scan, and an abdominal ultrasound examination. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+2. We recommend making a diagnosis of CMI in patients with the appropriate clinical scenario and the
+presence of signiﬁcant stenoses (>70%) within the celiac axis and SMA. The diagnosis maybe also made in
+patients with the appropriate clinical scenario and a
+signiﬁcant stenosis (>70%) in either the celiac axis or
+SMA alone. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+3. We recommend using the mesenteric duplex ultrasound (DUS) examination as the preferred screening
+test for MAOD. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+4. We recommend using CTA as the preferred deﬁnitive
+imaging test for MAOD unless unusual anatomic features obscure the anatomy such that a catheterbased arteriogram may be required. Level of recommendation: Grade 1 (Strong), Quality of Evidence: B
+(Moderate) (1B)
+Rationale and background
+CMI is caused by the failure to achieve adequate postprandial intestinal blood ﬂow. This condition usually results
+from the presence of atherosclerotic occlusive disease at
+the origin of the mesenteric arteries and is associated
+with the typical atherosclerotic risk factors. There is a
+tremendous amount of redundancy in the mesenteric circulation, and, accordingly, the symptoms of CMI do not
+typically develop unless both the CA and SMA have hemodynamically signiﬁcant lesions (>70%). However, it is
+possible to have symptoms consistent with CMI and disease isolated to a single mesenteric vessel, typically the
+SMA. MAOD, in contradistinction to CMI, is relatively common and affects a large percentage of patients with peripheral vascular and aneurysmal disease. Patients with CMI
+typically present with postprandial abdominal pain, weight
+loss, and food fear. The differential diagnosis for this clinical
+presentation is quite extensive and includes gastrointestinal malignancies ﬁrst and foremost. Accordingly, the diagnostic workup should exclude other gastrointestinal causes
+
+and potentially include an esophagogastroduodenoscopy,
+colonoscopy, abdominal ultrasound examination, and
+abdominal CT scan. The diagnosis of CMI requires the
+appropriate clinical presentation and the presence of signiﬁcant MAOD. Neither physical examination nor routine
+laboratory studies are particularly helpful and, unfortunately, there is no well-accepted functional test that is sufﬁciently sensitive or speciﬁc. Mesenteric DUS examination
+is an excellent screening test for MAOD, and CTA is the
+deﬁnitive imaging test and has largely replaced catheterbased arteriography.
+Detailed justiﬁcation
+The blood ﬂow to the gastrointestinal tract is provided
+via the CA, SMA, and IMA with collateral contributions
+via the internal iliac artery, most notably the hemorrhoidal arteries. The gastroduodenal and pancreaticoduodenal arteries provide connections between the CA and
+SMA. The marginal artery of Drummond and the arc of
+Riolan (meandering or central anastomotic artery lying
+in the mesentery close to the inferior mesenteric vein)
+connect the inferior mesenteric (via the left colic artery)
+to the superior mesenteric (via the middle colic artery).16
+The disruption of these collateral networks, for whatever
+reason (eg, IMA ligation during exposure of the infrarenal
+aorta), can lead to AMI and CMI in patients with MAOD.
+Because of this well-developed network of collaterals,
+most patients usually do not develop symptoms of CMI
+or AMI unless there is a signiﬁcant stenosis or occlusion
+in at least two of the mesenteric vessels (ie, CA, SMA,
+and/or IMA). Notably, Oderich et al6 described the arteriographic ﬁndings of more than 200 patients with CMI
+and reported that 98% had signiﬁcant occlusive disease
+in two of the three mesenteric vessels and 92% had an
+occlusion or critical stenosis in the SMA. In a longitudinal
+study of asymptomatic patients with mesenteric
+ischemia, only patients with signiﬁcant occlusive disease
+in all three mesenteric vessels eventually developed
+symptoms.17 However, signiﬁcant occlusive disease in a
+single mesenteric vessel, usually the SMA, can lead to
+CMI if the collateral network is inadequate.4-6 Unfortunately, there is not a direct association between the
+number of mesenteric vessels involved and the presence
+of symptoms, thereby confounding the diagnosis and
+underscoring the difference between MAOD and CMI.
+During the fasting state, 20% of the cardiac output
+courses through the mesenteric arteries.18 The gastrointestinal blood ﬂow increases after a meal, achieving
+levels that exceed the fasting values by 100% to 150%
+over the ensuing 3 to 6 hours.19 This hyperemic response
+starts with the anticipation of the meal, but the major
+hemodynamic effects become most evident after ingestion and movement of the food bolus into the small
+bowel. The vasodilation of the mesenteric vessels begins
+3 to 5 minutes after ingestion and persists for 4 to 6 hours
+depending on the meal composition with the maximal
+
+92S
+
+Journal of Vascular Surgery
+
+Huber et al
+
+January Supplement 2021
+
+Table I. Characteristics of patients included in meta-analysis (comparative and noncomparative studies)
+Endovascular group
+
+Open surgery group
+
+Overall
+
+10,679
+
+8047
+
+18,726
+
+69.91 (18-97)
+
+67.83 (9-99)
+
+68.70 (9-99)
+
+27.95
+
+36.73
+
+28.22
+
+Smoking
+
+57.65
+
+77.27
+
+65.95
+
+Diabetes
+
+19.41
+
+17.34
+
+18.70
+
+Hypertension
+
+63.81
+
+63.62
+
+63.67
+
+Coronary artery disease
+
+38.91
+
+34.21
+
+37.58
+
+Peripheral artery disease
+
+56.11
+
+49.79
+
+54.40
+
+Chronic renal insufﬁciency
+
+5.16
+
+9.03
+
+6.66
+
+Hyperlipidemia
+
+48.62
+
+31.96
+
+41
+
+Abdominal pain
+
+89.49
+
+87.05
+
+88.17
+
+Weight loss
+
+70.65
+
+78.55
+
+74.48
+
+Diarrhea
+
+30.97
+
+40.77
+
+35.89
+
+No.
+Age, mean (range), years
+Male (%)
+Risk factors
+
+Presenting symptoms
+
+Data are presented as percentage unless otherwise indicated.
+
+response occurring within 30 to 90 minutes.20 The majority of the increased blood ﬂow is via the SMA as reﬂected by the marked increased end-diastolic velocity
+(EDV) noted on DUS imaging during a meal challenge.21
+Within the bowel wall itself, the quantity of blood ﬂow is
+greater in the mucosa than the submucosa or muscularis, thereby making the mucosa layer more susceptible to
+an ischemic insult.22 In patients with CMI, the postprandial hyperemic response is blunted or decreased owing
+to the occluded or stenotic mesenteric vessels. This can
+result in a mismatch between the supply and demand
+for oxygen and other metabolites, leading to pain
+(visceral nerves), malabsorption (intestinal mucosa), and
+bowel emptying (peristalsis), the cardinal symptoms of
+CMI.23-25
+The overwhelming majority of patients with CMI have
+atherosclerotic occlusive disease as the underlying etiology. The occlusive disease usually affects the oriﬁce and
+ﬁrst few centimeters of the mesenteric vessels with relative sparing of the distal segment, and this oriﬁcal process is usually associated with plaque within the aorta.4
+The MAOD is a manifestation of a systemic process and
+patients typically present with the standard atherosclerotic risk factors and involvement in the other vascular
+beds. The breakdown of the cardiovascular risk factors
+and comorbidities among patients undergoing revascularization identiﬁed in the accompanying meta-analysis
+is shown in Table I.12 Notably, the mean patient age
+among all patients was 68.7 years and the majority
+were smokers, hypertensive, and had evidence of peripheral artery disease. Unlike most other cardiovascular disorders associated with atherosclerotic occlusive disease,
+the majority of patients with CMI are women. There is a
+
+small percentage of patients that present in the third
+to fourth decades of life and may have a different female
+to male sex ratio (eg, 1:1 for coarctation and 5:1 for vasculitis). Furthermore, they do not have the usual atherosclerotic risk factors and associated systemic vascular
+disease.26-29 However, these guidelines are restricted to
+patients with CMI from atherosclerotic occlusive disease,
+as noted elsewhere in these guidelines.
+The presence of MAOD, in contradistinction to CMI, is
+quite common. As noted, Wilson et al1 reported that
+17% of independent, elderly adults (n ¼ 553) had evidence of signiﬁcant occlusive disease in the CA or SMA
+on routine mesenteric DUS screening. However, there
+were no deaths attributable to mesenteric infarction at
+follow-up (mean, 6.5 years) in this population and none
+of the surveyed survivors (71%) reported symptoms
+consistent with CMI. Unselected autopsy studies have reported the presence of a stenosis of 50% or more in at
+least one of the mesenteric vessels in up to 10% of
+patients and almost 30% of patients undergoing
+catheter-based arteriography before peripheral artery
+revascularization had evidence of a comparable degree
+of stenosis in either the CA or SMA.2,3 A recent report
+from Zettervall et al30 examining the national trends in
+mortality for both CMI and AMI from the Nationwide
+Inpatient Sample and Centers for Disease Control and
+Prevention database reported that there has been a dramatic increase in the number of endovascular procedures for both conditions. This ﬁnding was associated
+with a decrease in the population mortality for AMI but
+no change for CMI, suggesting that the widespread
+adoption of the endovascular approach was responsible
+for the improved mortality trend for AMI. Notably, they
+
+Journal of Vascular Surgery
+
+Huber et al
+
+93S
+
+Volume 73, Number 1S
+
+identiﬁed only 14,810 revascularizations for CMI over a 13year period (2000-2012) and this corresponded to
+roughly 800 endovascular and 400 open revascularizations per year.
+The diagnosis of CMI requires the appropriate clinical
+presentation along with the presence of hemodynamically signiﬁcant MAOD. The classic symptoms of CMI
+include postprandial abdominal pain, weight loss, and
+food fear. However, it is important to note that this triad
+is not always present, even at the time of revascularization, and patients can present with nonspeciﬁc intestinal
+complaints, including abdominal discomfort, nausea/
+vomiting, diarrhea, and constipation.6,31-34 The abdominal pain is described as mid-abdominal, crampy, or
+dull. It usually occurs within 30 minutes after eating
+and can persist for up to 6 hours as suggested by the
+time course of postprandial hemodynamic changes outlined elsewhere in this article. Certain foods may exacerbate the symptoms, and, accordingly, patients tend to
+avoid these foods by altering their eating habits.
+The postprandial pain can lead to a decrease in oral
+intake and food fear with the end results that patients
+lose weight and can even become cachectic in the
+more extreme scenarios. In one series of patients undergoing mesenteric revascularization, abdominal pain was
+present in 96%, occurring after eating in only 74%,
+whereas weight loss occurred in 84% and food fear in
+45%.6 Notably, there was a delay of 15 months from the
+onset of symptoms to the deﬁnitive diagnosis in this series. In another series from Europe, the typical postprandial abdominal pain was present in 85%, weight loss in
+77%, and food fear in 63%, whereas diarrhea, nausea, or
+vomiting were noted in 56%.35 Allain et al36 examined
+the impact of malnutrition on outcome after revascularization for CMI (n ¼ 54) using body mass index, percentage of
+weight loss and serum albumin. They found that 70% of
+the patients undergoing revascularization were malnourished and that it was associated with increased perioperative mortality and decreased longer term survival.
+Interestingly, not all patients are cachectic or malnourished
+at the time of presentation. Mansukhani et al37 reported
+that 35% of the patients in their recent series undergoing
+revascularization for CMI were overweight or obese with
+a body mass index of greater than 25, a trend that they
+attributed to the obesity epidemic across the country.
+The common delays in diagnosis can often be explained
+by inconsistencies in the patient’s symptoms, the extensive differential for chronic abdominal pain with weight
+loss, and the low prevalence of CMI in the population.
+These delays are usually attributed to the extensive diagnostic workups performed by the responsible primary
+care physician or gastroenterologist, before referral to
+the vascular specialist. In practice, many of the patients
+have completed their extensive evaluation and are
+referred to the specialist with a tentative diagnosis of
+CMI. Regardless of the explanations for the diagnostic
+
+delay, an expeditious diagnosis can lead to timely treatment and avoid the sequelae of CMI, as well as the nutritional deﬁciencies that may affect the perioperative
+course.
+Although patients with CMI present with abdominal
+pain and weight loss, the differential diagnosis for this
+presentation is quite extensive, with gastrointestinal malignancy being foremost among the potential causes.
+Unfortunately, there are no speciﬁc physical examination
+ﬁndings or laboratory studies to aid in the diagnosis.
+Endoscopy is an integral part of the diagnostic algorithm
+for abdominal pain and weight loss and, therefore, is
+often completed before considering CMI in the differential. Both esophagogastroduodenoscopy and a colonoscopy should likely be performed as a part of the
+diagnostic workup to exclude a malignancy, unless the
+diagnosis of CMI is clear. Although the ﬁndings of
+ischemic gastritis, duodenitis, and colitis are somewhat
+nonspeciﬁc, they can be suggestive of CMI.38,39 Notably,
+the presence of a gastric ulcer in the absence of a malignancy is highly suggestive of CMI.40-42 A variety of adjunct
+functional studies have been described to aid in the
+diagnosis of CMI, including oxygen light spectroscopy43,44 and intestinal tonometry,45 although their collective experience is limited and they have not
+achieved clinical usefulness. It is conceivable that the
+widespread availability of CT imaging may help to identify the culprit mesenteric stenoses sooner and expedite
+the diagnosis of CMI when compared with historic series
+when catheter-based arteriography was the primary
+diagnostic imaging modality.
+Because there is no reliable functional test for the diagnosis of CMI, the diagnosis must rely on the appropriate
+clinical scenario and the presence of MAOD. Harki et al46
+have attempted to develop a predictive model based on
+the clinical presentation and anatomic ﬁndings to increase the diagnostic accuracy. They identiﬁed female
+sex, weight loss, presence of cardiovascular disease, duration of symptoms, and the presence of SMA/CA stenosis
+as diagnostic predictors. Van Dijk et al47 have recently
+prospectively validated the predictive model (n ¼ 666)
+and found that it discriminated well with the addition
+of a predictor for the cause of the CA stenosis. Notably,
+94% of the high-risk patients had CMI based on durable
+symptom relief after revascularization, although the
+diagnosis was conﬁrmed in only 8% of the low-risk
+patients.
+Mesenteric DUS examination is an excellent screening
+tool for patients suspected of having CMI.48 Although
+the test is technically demanding and requires an
+advanced skill set, it can yield consistent, reproducible results in experienced hands. Patients are routinely fasted
+for 6 to 8 hours to minimize the amount of bowel gas.
+Nevertheless, obesity can complicate the examination
+owing to the depth of the vessels. Comparison of mesenteric DUS ﬁndings with catheter-based arteriography
+
+94S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+demonstrated that the CA and SMA were visualized 83%
+and 93%, respectively, with ultrasound examination and
+virtually 100% of the time with arteriography.49 The common DUS criteria for a SMA stenosis of 70% or greater is a
+peak systolic velocity (PSV) of 275 cm/s or more, whereas
+200 cm/s or more indicates a similar stenosis of the CA
+with no ﬂow in either vessel consistent with an occlusion.
+These criteria for the SMA were associated with a sensitivity of 92%, speciﬁcity of 96%, positive predictive value
+(PPV) of 80%, and negative predictive value (NPV) of
+99% with an overall accuracy of 96%.49,50 Importantly, a
+negative study essentially rules out a signiﬁcant stenosis
+of the SMA. These peak systolic criteria for the CA are
+associated with a sensitivity of 87%, speciﬁcity of 80%,
+NPV of 63%, PPV of 94%, and an overall accuracy of
+82%. Alternatively, an EDV of 45 cm/s or more corresponded with a 50% or greater stenosis of the SMA
+with a 90% sensitivity, 91% speciﬁcity, 90% PPV, 91%
+NPV, and 91% accuracy.51 An EDV of greater than
+55 cm/s in the CA corresponded with a 50% or greater
+stenosis with an accuracy of 95%, sensitivity of 93%, and
+speciﬁcity of 94%; reversal of ﬂow in the hepatic arteries
+was predictive of a proximal CA stenosis or occlusion.51
+The use of postprandial DUS imaging has not been
+shown to improve the overall accuracy for the evaluation
+of either SMA or CA stenoses.21,52
+The reported DUS criteria used to determine the degree of stenosis in the SMA and CA may vary by vascular
+laboratory and the speciﬁc imaging equipment, underscoring the importance of local validation. In a more
+recent study by AbuRahma and colleagues,53 the most
+accurate determination of a 50% or greater SMA stenosis
+was a fasting PSV of 295 or higher (accuracy 88%, NPV
+84%, PPV 91%) and for a 70% or greater stenosis, it was
+400 cm/s or more (accuracy 85%, NPV 85%, PPV 84%).
+For the CA, a 50% or greater stenosis correlated with a
+PSV of 240 cm/s or higher (accuracy 86%) and a 70%
+or greater stenosis with a PSV of 320 cm/s or more (accuracy 85%). The DUS velocities used to determine the degree of stenosis can also be affected by the presence of
+collaterals and by respiration.54,55 An extensive collateral
+network, as often seen in the presence of an SMA or CA
+occlusion, can lead to increased ﬂow velocities in the
+other, unaffected mesenteric vessels, suggesting a significant stenosis when one is not actually present.54 Similarly, signiﬁcantly high peak systolic and diastolic
+velocities were found during expiration (vs inspiration),
+thus, potentially impacting the accurate assessment of
+the degree of stenosis.55
+The IMA can serve as an important collateral when the
+other mesenteric vessels have signiﬁcant occlusive disease. Unfortunately, the published experience with DUS
+for the IMA is fairly limited. One study comparing DUS
+imaging with angiography demonstrated that a greater
+than 50% stenosis of the IMA was associated with a
+greater than 250 cm/s PSV with an accuracy of 95%,
+
+whereas an IMA to aortic PSV ratio of greater than 4.0
+had an accuracy of 93%.56 A second study used greater
+than 200 cm/s as the criteria for a greater than 50% stenosis, but the sample size in the study was small and
+there were only nine vessels that were adequately
+imaged.57 Unfortunately, there are no prospective
+studies examining the DUS criteria for as signiﬁcant
+IMA stenosis.
+Although mesenteric artery DUS is a rapid, noninvasive screening study that can often conﬁrm or refute
+the presence of arterial occlusive disease, additional
+imaging is required to conﬁrm the presence of
+MAOD and to deﬁne the precise location and extent
+of disease for operative planning. CTA provides
+anatomic clarity and can exclude other potential
+causes of chronic abdominal pain.6,9,58,59 The technique
+employs three-dimensional multiplane reformatting
+along with centerline measurements. The diagnostic
+accuracy for patients with CMI has been reported to
+range from 95% to 100%59 and it is recommended as
+the ﬁrst-line study by the American College of Radiologists Appropriateness Criteria as well as the European
+Society of Vascular Surgery Mesenteric Guidelines.8,11 A
+recent prospective study compared DUS, CTA, and
+mesenteric
+resonance
+arteriography
+(MRA)
+to
+catheter-based arteriography as the gold standard reported that CTA provided the best image quality, the
+highest level of correlation for grading the degree of
+stenosis, and was the most accurate.60 Triphasic CTA
+provides excellent spatial resolution and image detail
+and is considered the best study to deﬁne the
+anatomic characteristics of the mesenteric lesions (eg,
+lesion length, diameter, presence of thrombus, or calciﬁcation) and the potential inﬂow sites for open revascularization (eg, calciﬁcation of the supraceliac aorta)
+that are required for intervention planning. Furthermore, the delayed phase can be helpful to identify
+other vascular pathologies, including mesenteric
+venous thrombosis. The obvious limitations of CTA
+include image artifact from severe calciﬁcation or
+metallic devices, the need for iodine-based contrast,
+expense, and radiation exposure. CTA is also very helpful to identify other intra-abdominal pathology and is
+particularly helpful in the setting of acute or subacute
+mesenteric ischemia to assess the appearance of the
+bowel wall with the hallmarks of ischemia being bowel
+wall thickening, edema, hemorrhage, and/or hyperemia. CTA has been shown to be both sensitive (93%)
+and speciﬁc (96%) for detecting bowel infarction and
+perforation.61-64 Unfortunately, Karkkainen et al65 reported that only one-third of the patients who presented with AMI and an antecedent history of CMI
+(ie, acute on CMI) had evidence of ischemic-speciﬁc
+ﬁndings in their bowel on CT scan, and they suggested
+that any bowel-related ﬁndings in patients with an
+SMA obstruction should be attributed to ischemia.
+
+Journal of Vascular Surgery
+
+Huber et al
+
+95S
+
+Volume 73, Number 1S
+
+CTA has also been shown to be superior to MRA after
+endovascular intervention owing to better visualization
+of the lumen, higher spatial resolution, and faster
+acquisition times.58,66-68
+MRA affords many of the same advantages as CTA for
+the diagnosis of CMI and should be considered an alternative modality.66,69 Gadolinium-enhanced MRA was
+shown to have an overall sensitivity and speciﬁcity of
+greater than 95 % when compared with catheterbased arteriography for the detection of signiﬁcant
+mesenteric artery stenoses.70 The interobserver variability
+was excellent, but the degree of stenosis was consistently
+overestimated owing to the lack of submillimeter resolution.70,71 The limitations of MRA include the inability to
+scan patients with pacemakers, inability of patients
+with claustrophobia to tolerate the closed space, lengthy
+examination times, and the inability to assess patients
+with mesenteric stents.66 Furthermore, MRA is not as
+helpful to characterize the degree of calciﬁcation in the
+target vessels or inﬂow arteries for planning revascularization, although it can be supplemented with a noncontrast CT scan. Caution must be used when administering
+gadolinium to patients with chronic kidney disease and/
+or on dialysis owing to the risk of nephrogenic systemic
+ﬁbrosis.72 Furthermore, MR scanners are not as readily
+available or widespread as CT scanners and most
+vascular specialists feel more comfortable with CTAs.
+Catheter-based arteriography has historically been
+considered the gold standard for the diagnosis of
+MAOD.48 However, owing to the evolution of the other
+less invasive imaging modalities outlined elsewhere in
+this article and the known complications associated
+with the catheter-based procedures (eg, vessel perforation, bleeding, and peripheral emboli),73-75 the use of
+catheter-based arteriography as a diagnostic test has
+decreased signiﬁcantly.76 However, it can be useful
+when the other less invasive imaging modalities are nondiagnostic (eg, extensive vessel calciﬁcation, prior stent,
+other metallic artifact) or when percutaneous intervention is planned. Optimal biplane imaging includes
+anterior-posterior (renal and aortoiliac), lateral (SMA and
+celiac arteries), and right anterior oblique views (IMA)
+for optimal visualization of speciﬁc vessels. The anteriorposterior projections are helpful to visualize the branches
+of the SMA and its collaterals, including the gastroduodenal and marginal arteries, whereas the lateral projection is optimal to view the origins of the CA and SMA
+given their posterior-anterior orientation. Selective cannulation can provide additional visualization of the
+mesenteric vessels, including their more distal segments
+and any collateral channels. Intraluminal pressure measurements can be made across a stenosis at the time
+of arteriography if there is a question regarding the hemodynamic signiﬁcance of the lesion.77 It is worth
+emphasizing that the other less invasive imaging studies
+(ie, DUS examination, CTA, MRA) cannot provide any
+
+functional or hemodynamic data in terms of pressure
+gradients. Concerns have been raised about the impact
+of the catheter itself and its contribution to the gradient.
+These concerns can be overcome by the use of an intraluminal pressure wire, although it is associated with
+additional expense. Alternatively, intravascular ultrasound examinations can be used at the time of the
+catheter-based arteriography to calculate the degree of
+stenosis in the lesion.78,79 Carbon dioxide has been
+used as an alternative contrast agent for patients with
+chronic renal insufﬁciency, but it may be contraindicated
+for evaluation of the mesenteric vessels in patients with
+CMI owing to its potential to cause bowel infarction,
+particularly in the case of selective injections.80
+Implementation considerations
+The diagnosis, treatment, and overall management of
+patients with CMI is well-known to most vascular care
+providers. Indeed, the diagnostic workup has usually
+been completed by the primary care provider and/or
+gastroenterologist at the time of referral. The excessive
+diagnostic delays from onset of symptoms to deﬁnitive
+diagnosis and referral for revascularization are due to
+the low prevalence of the disease, the unfamiliarity of
+most primary care providers, and the extensive differential diagnosis. Accordingly, it is incumbent upon vascular
+care providers to help educate primary care providers to
+reduce the diagnostic delay and expedite treatment. CT
+scans are universally available and provide the best
+chance for early diagnosis in the patient with abdominal
+pain and weight loss. Appreciation of the presence of
+MAOD in this setting and the potential for CMI may expedite deﬁnitive care.
+Future research
+Development of reporting standards for patients with
+CMI
+d Development of a standard diagnostic algorithm for
+CMI
+d Development of a functional test for CMI
+d
+
+Indications for treatment
+Recommendations.
+1. We recommend revascularization in patients with
+CMI to reverse their presenting symptoms (ie, weight
+loss, food fear, diarrhea, postprandial pain) and
+improve their overall quality of life. Level of recommendation: Grade 1 (Strong), Quality of Evidence: A
+(High)
+2. We recommend that total parenteral nutrition is not
+an acceptable alternative to revascularization for patients with CMI owing to the risk of clinical deterioration,
+bowel
+infarction
+and
+catheter-related
+complications. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+
+96S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+3. We suggest that the SMA is the primary target for
+revascularization. Level of recommendation: Grade 2
+(Weak), Quality of Evidence: B (Moderate)
+4. We suggest that the celiac axis and IMA are secondary
+targets for revascularization and that revascularization
+may aid in symptom relief if the SMA is not suitable
+for intervention or the technical result is not acceptable. Level of recommendation: Grade 2 (Weak), Quality of Evidence: B (Moderate)
+5. In patients with symptoms consistent with CMI and
+occlusive disease isolated to a single mesenteric
+vessel, particularly the SMA, we suggest a shared
+decision-making approach between the patient and
+provider to discuss revascularization as a treatment
+option. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low)
+6. In select asymptomatic patients with severe MAOD,
+we suggest a shared decision-making approach between the patient and provider to discuss revascularization
+as
+a
+treatment
+option.
+Level
+of
+recommendation: Grade 2 (Weak), Quality of Evidence: C (Low)
+7. We recommend that asymptomatic patients with severe MAOD be closely followed for symptoms consistent with CMI. A possible follow-up schedule includes
+an annual evaluation with a mesenteric DUS. Level of
+recommendation: Grade 1 (Strong), Quality of Evidence: C (Low)
+8. In patients with severe MAOD involving the SMA undergoing aortic reconstruction, both open and endovascular, we suggest a shared decision-making
+approach between the patient and provider to
+discuss revascularization as a treatment option. Level
+of recommendation: Grade 2 (Weak), Quality of Evidence: C (Low)
+9. In patients with combined MAOD and mesenteric artery aneurysms, we recommend revascularization at
+the time of treatment for their mesenteric artery aneurysms if the repair alone would disrupt the collateral network. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: C (Low)
+
+Rationale and background
+Treatment goals for patients with CMI are to reverse the
+symptoms, facilitate weight gain, prevent the development of AMI, and improve the patient’s overall quality
+of life. The optimal treatment represents a balance between the natural history of the underlying disease process and the risks associated with the speciﬁc
+treatment. Unfortunately, the natural history of both
+CMI and MAOD remain poorly deﬁned, although the potential adverse sequelae are well-known. Accordingly,
+patients with CMI require revascularization to optimize
+mesenteric perfusion. There is essentially no role for prolonged total parenteral nutrition given the associated
+risks and prolonged attempts to optimize the nutritional
+status before revascularization may be harmful. The SMA
+is the optimal target for revascularization and
+
+revascularization of the SMA alone is usually sufﬁcient
+given the extensive mesenteric collateral network. Revascularization of the CA or IMA alone should likely be
+reserved for scenarios when revascularization of the
+SMA is inadequate or not feasible. It is possible for patients to develop symptoms consistent with CMI with
+occlusive disease isolated to the SMA despite the traditional teaching that it requires involvement of at least
+two mesenteric vessels. Revascularization is indicated in
+this scenario given the potential adverse sequelae and
+the resolution of symptoms can actually serve as a diagnostic tool for CMI in patients with equivocal symptoms.
+Similarly, even though the natural history of MAOD can
+be benign, there is a subset of patients that may beneﬁt
+from revascularization given the potential for adverse
+sequelae, including those undergoing aortic reconstruction (both open and endovascular), those with involvement of all three of the mesenteric vessels, and those
+undergoing treatment for mesenteric artery aneurysms
+in which treatment would disrupt the collateral vessels.
+Detailed justiﬁcation
+Treatment goals for patients with CMI are to reverse the
+symptoms, facilitate weight gain, prevent the development of AMI, and improve the patient’s overall quality
+of life. Similar to most medical and surgical therapies,
+the treatment algorithm represents a balance between
+the natural history of the disease process and the risks/
+beneﬁts associated with treatment. Unfortunately, the
+natural history of CMI is not well-deﬁned, given the lack
+of randomized, controlled trials and the presence of a
+true noninterventional control group in the observational
+studies. Furthermore, it would seem unethical to propose a clinical trial with a noninterventional group given
+the sequelae of AMI, including death. The natural history
+of CMI has largely been deﬁned by the clinical course of
+patients before intervention as reﬂected by the duration
+of symptoms or the development of AMI. Admittedly,
+there is a tremendous amount of selection bias in these
+studies. Untreated patients with CMI can clearly waste
+away from inanition and/or progress to AMI, and it has
+been reported that the 5-year mortality rate for untreated patients approaches 100%.81 Furthermore, up to
+50% of patients with AMI present with thrombosis of
+an existing lesion and antecedent symptoms consistent
+with CMI.82 In contrast, revascularization, either open or
+endovascular, has been associated with excellent results
+in terms of both symptomatic relief and long-term
+graft or mesenteric vessel patency.31,35,83,84 Notably,
+Blauw et al85 surveyed patients before and after revascularization for CMI using the Euroqol-5D survey tool and
+reported that revascularization was associated with an
+overall improvement in quality of life with improvement
+within the activities and pain/discomfort domains.
+There may be a role for noninterventional treatment for
+patients with CMI, although this role may be more
+
+Journal of Vascular Surgery
+
+Huber et al
+
+97S
+
+Volume 73, Number 1S
+
+theoretical or simply a short-term bridge before revascularization. Small, more frequent meals or complete
+cessation of enteral feeding can decrease the metabolic
+demand of the gut and alleviate symptoms, and parenteral nutrition can fulﬁll the nutritional requirements.
+However, the role for prolonged total parenteral nutrition
+is limited given the catheter-related risks and the potential for clinical deterioration with bowel infarction.17,86
+Interestingly, Baxter et al87 examined the quality of life
+for patients on home parenteral nutrition and found
+that it was worse in patients with mesenteric ischemia
+than in those with Crohn’s disease. The published experience using parenteral nutrition as short-term bridge to
+revascularization for patients with CMI is fairly limited,
+although data extrapolated for the use of total parenteral
+nutrition for severely malnourished patients before
+nonvascular surgical procedures suggests that it decreases major morbidity without reducing the infectious
+complications.88-90 Furthermore, it cannot replace revascularization as noted by Rheudasil et al,86 who reported
+two patients who developed fatal bowel necrosis while
+on parenteral nutrition awaiting open revascularization.
+Palliative care and hospice are both reasonable alternatives for patients with CMI who are not candidates for
+revascularization owing to their advanced comorbidities
+and/or personal preference.
+The SMA is the most important of the three mesenteric
+vessels given the extent of its distribution to the bowel
+and is the primary target for revascularization. The crucial
+role of the SMA is indirectly supported by the overall better symptomatic relief noted when the SMA is revascularized, regardless of what other combination of vessels are
+treated or whether performed by an open or endovascular approach. Notably, Goldman et al91 compared the
+outcomes associated with the endovascular treatment
+of CA alone vs SMA alone or the latter in combination
+with the CA. They found that the treatment of the CA
+alone was associated with the highest rate of symptomatic recurrence and concluded that the SMA was the key
+determinant of successful revascularization.
+Isolated revascularization of the CA or IMA may be justiﬁed in select patients when the SMA is not suitable for
+revascularization. The characteristics of the SMA that
+affect treatment selection include vessel diameter,
+extent of stenosis or occlusion, presence of tandem lesions, degree of calciﬁcation, and the extent of collateralization. Admittedly, most of these concerns are more
+relevant for endovascular revascularization, because it is
+usually possible to identify a suitable distal target in
+either the SMA or CA for open revascularization. Several
+recent studies have reported that endovascular revascularization of the SMA is possible for long segment occlusions and/or severe calciﬁcations.33,92,93 Endovascular
+revascularization of the CA with an intraluminal stent is
+associated with a high risk of restenosis94 and is relatively
+contraindicated if there is signiﬁcant compression by the
+
+median arcuate ligament, although it is feasible to
+release the median arcuate ligament with either a laparoscopic or open surgical approach. The reported experience with isolated IMA revascularization for the
+treatment for CMI is limited to relatively small case series
+and the outcomes have been somewhat equivocal.95,96
+The isolated endovascular revascularization of the CA or
+IMA in the setting of a severely disease SMA may be
+considered as a bridge to open bypass or retrograde
+SMA stenting.97
+There has been a long-standing debate about the number of mesenteric vessels that should be revascularized
+in patients with CMI that has persisted since the era
+when only open surgical revascularization was an option.
+There are some theoretical advantages to revascularizing
+both the SMA and CA, but most reports indicate that
+treatment of the SMA alone is sufﬁcient.33,94,98 Two
+recent retrospective studies from the Massachusetts
+General Hospital group and by Silva et al31 have shown
+a nonsigniﬁcant trend towards a lower recurrence rate
+with
+treatment
+of
+both
+vessels.98
+However,
+94
+Malgor et al from the Mayo Clinic reported similar
+recurrence rates at 2 years in patients treated with intraluminal stents in the SMA compared with those treated
+with stents in both the SMA and CA. It is conceivable
+that the lack of signiﬁcant difference in these studies
+was due to the small sample size and a type 2 error.
+Furthermore, there may have been a selection bias
+with stent placement in both the SMA and CA reserved
+for patients with a suboptimal results of SMA treatment
+alone. Revascularization of both the CA and SMA may
+have a role in select patients with severe gastric ischemia
+and those without adequate collaterals. However, there
+is no proven beneﬁt that revascularizing both vessels provides more durable relief, and the second (or additional)
+intervention adds cost and potential risk.
+There is likely a role for revascularization in patients
+with symptoms consistent with CMI and occlusive disease isolated to single mesenteric vessel, particularly
+the SMA. Patients with CMI typically have MAOD
+affecting both the CA and the SMA or all three of the
+mesenteric vessels as noted, and there has been a classic
+teaching that stressed the concept that patients cannot
+develop CMI unless at least two of the three mesenteric
+vessels are involved given the collateral network and
+redundancy in the mesenteric circulation. However, this
+teaching point is likely incorrect; it is possible to develop
+CMI from isolated mesenteric involvement, usually in the
+setting of a poor collateral network between the mesenteric vessels. The common clinical scenario is a patient
+with vague abdominal complaints, not necessarily
+consistent with CMI, who is found to have signiﬁcant
+occlusive disease isolated to the SMA or CA. The treatment decision represents a balance between the natural
+history of untreated CMI and the risks/costs associated
+with the open or endovascular treatment. Unfortunately,
+
+98S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+there is no functional study to truly conﬁrm or refute the
+diagnosis. This small cohort of patients should undergo
+the extensive diagnostic evaluation outlined elsewhere
+in this article for patients with the more classic symptoms of CMI. Revascularization can serve as both a diagnostic and therapeutic tool in this setting, with the
+resolution of symptoms conﬁrming the diagnosis.
+Notably, van Dijk et al99,100 published their series (n ¼
+59) of patients with symptoms consistent with CMI and
+isolated MAOD (CA, 81%; SMA, 19%). They reported that
+73% of the patients had sustained relief of their symptoms and that the favorable results were not related to
+the location of the lesion (ie, CA vs SMA).
+Because the natural history of patients with asymptomatic MAOD remains poorly deﬁned, it is no surprise that
+the indications for prophylactic revascularization remain
+unresolved. Justiﬁcation for revascularization in this
+setting is provided by the fact that a signiﬁcant percentage of patients with MAOD present with symptoms of
+AMI from thrombosis of a preexisting lesion rather than
+the more typical, protracted symptoms associated
+CMI.101,102 Furthermore, patients with MAOD can develop
+CMI. Thomas et al17 attempted to retrospectively deﬁne
+the natural history of asymptomatic MAOD among a
+cohort of 980 consecutive patients undergoing mesenteric arteriography. They reported that signiﬁcant
+MAOD (>50% stenosis) was present in 8.3% of the patients (n ¼ 82) with 1.5% of the patients (n ¼ 15) demonstrating stenosis of all three mesenteric vessels. There
+were four deaths owing to mesenteric ischemia during
+the follow-up period that ranged from 1 to 6 years,with
+all of the deaths occurring in patients with signiﬁcant
+involvement of all three mesenteric vessels. More impressively, 86% of the patients with involvement of all three
+mesenteric vessels developed symptoms consistent
+with mesenteric ischemia.
+Revascularization may be justiﬁed in a small subset of
+asymptomatic patients with severe MAOD involving all
+three mesenteric vessels. These patients should be monitored closely and counseled regarding the presence of
+symptoms and the importance of seeking medical
+care. Accordingly, revascularization may be justiﬁed for
+noncompliant patients or those with limited access to
+medical care. Revascularization is also likely indicated
+in the presence of vague or nonspeciﬁc abdominal pain
+given the potential adverse sequelae, including progression to AMI.
+The perioperative perturbations associated with any
+major surgical procedure, particularly open and endovascular aortic aneurysm repair, can lead to mesenteric
+ischemia in patients with signiﬁcant MAOD. This is relevant for open aortic procedures given the physiologic
+and hemodynamic changes and the potential disruption
+of any collateral networks, particularly the marginal artery that runs at the base of the mesentery adjacent to
+the inferior mesenteric vein. Similarly, it is relevant for
+
+endovascular aneurysm repair owing to the obligatory
+exclusion of the IMA by the endovascular device and
+the frequent need to coil embolize the vessel to prevent
+a signiﬁcant type II endoleak. Review of the preoperative
+CTA to examine the status of the CA, SMA, IMA, and internal iliac artery should be obligatory before any aortic
+reconstruction. This review should include an evaluation
+of any collateral vessels between the named mesenteric
+vessels, suggesting a hemodynamically signiﬁcant stenosis. Preoperative or concomitant revascularization of the
+SMA and/or CA is likely justiﬁed in this setting, although
+revascularization represents a balance between the additional morbidity and mortality associated with repair vs
+the risk associated with progression to CMI or AMI after
+aortic reconstruction. Unfortunately, the role for prophylactic revascularization in this setting remains unresolved. The Society for Vascular Surgery clinical practice
+guidelines for abdominal aortic aneurysms have recommended (2C) “prophylactic treatment of asymptomatic,
+high-grade stenosis of the SMA in the presence of a
+meandering mesenteric artery based off a large IMA,
+which will be sacriﬁced during the course of treatment”.103 The choice of revascularization included both
+endovascular and open approaches, with the former
+approach generally favored provided that the lesions
+are amenable. A study from the National Inpatient Sample reported that simultaneous renal revascularization at
+the time of open infrarenal aneurysm repair was associated with an increased mortality rate and the ﬁndings
+are likely applicable to combined mesenteric revascularization.104,105 Single institution series have reported
+somewhat equivocal ﬁndings in terms of the increased
+morbidity and mortality associated with simultaneous
+mesenteric revascularization.7,106,107 Unfortunately, it is
+unclear from the nationwide and single institution series
+whether the simultaneous mesenteric revascularization
+increased or decreased the overall mortality rate for the
+underlying condition given the lack of appropriate controls. Patients with CMI who require aortic reconstruction
+for either occlusive or aneurysmal disease require
+mesenteric revascularization as outlined for patients
+with CMI alone. The mesenteric revascularization should
+be performed before or simultaneous with the aortic
+reconstruction for patients with CMI, as recommended
+by the Society for Vascular Surgery’s guidelines for
+abdominal aortic aneurysms.103 Notably, they state that
+patients with symptomatic disease of the SMA (ie, CMI)
+should undergo angioplasty and stenting before open
+or endovascular repair (1A), whereas those who are not
+amenable to an endovascular approach should undergo
+concomitant revascularization at the time of open aneurysm repair (1A).
+Aneurysms can develop within the major mesenteric
+vessels and their collateral networks. One of the presumed mechanisms is the hemodynamic forces that
+result from the increased ﬂow through the collateral
+
+Journal of Vascular Surgery
+
+Huber et al
+
+99S
+
+Volume 73, Number 1S
+
+vessel as a result of a stenosis or occlusion in the major
+vessels (eg, aneurysm in inferior pancreaticoduodenal artery with concomitant CA occlusion).108 Many of these
+ﬂow-related aneurysms can be treated with ligation or
+coil embolization. However, it is important to detail the
+full extent of the mesenteric circulation and the extent
+of the contribution of the collateral network before treatment. Revascularization of the CA or SMA may be justiﬁed to preserve the mesenteric perfusion concomitant
+with treatment of the aneurysm.109
+Implementation considerations
+The indications, targets, and goals of treatment for CMI
+are relatively well-known to vascular surgeons. However,
+vascular care, including endovascular treatment of for
+CMI, is provided by a variety of physicians, including primary care providers, gastroenterologists, cardiologists,
+and radiologists. It is incumbent upon the vascular surgery community to help educate the other providers
+involved in the care of vascular patients regarding the
+importance of timely referral, appropriate treatment indications, and targets for revascularization.
+Future research
+Natural history of CMI
+Natural history of MAOD
+d Management of MAOD and open aortic reconstruction
+d Management
+of MAOD and mesenteric artery
+aneurysms
+
+longer term morbidity and mortality, along with the rates
+of recurrent symptoms and the need for remedial
+interventions. Endovascular revascularization is the recommended initial treatment for the overwhelming majority of patients, provided that the lesion is amenable.
+The endovascular approach is associated with a lower
+perioperative complication rate and shorter inpatient
+hospital length of stay, although the rate of recurrent
+symptoms and need for reintervention are both higher.
+There does not seem to be a difference in the perioperative or longer term mortality rate between the endovascular and open approaches. The evidence supporting
+the initial endovascular approach has been consistent
+across the literature and includes individual case series,
+meta-analyses, national series from administrative databases, decision analyses, and other clinical practice
+guidelines. Open surgical revascularization should be
+reserved for patients who are not endovascular candidates and those who have failed prior endovascular interventions. Open revascularization may also be
+appropriate as the initial procedure for select younger,
+healthier patients with longer life expectancies,
+assuming that the improved long-term patency offsets
+the increased perioperative risks.
+
+d
+d
+
+Choice of treatment
+Recommendations.
+1. The choice of treatment for patients with CMI should
+be a shared decision-making process between the
+patient and provider considering the risks/beneﬁts of
+the various options and the patient’s goals of care.
+(Ungraded Good Practice Statement)
+2. We recommend endovascular revascularization as
+the initial treatment for patients with CMI and suitable lesions. Level of recommendation: Grade 1
+(Strong), Quality of Evidence: B (Moderate)
+3. We recommend reserving open surgical revascularization for patients with CMI who have lesions that
+are not amenable to endovascular therapy, endovascular failures, and a select group of younger, healthier
+patients in which the long-term beneﬁts may offset
+the increased perioperative risks. Level of recommendation: Grade 1 (Strong), Quality of Evidence: B
+(Moderate)
+Rationale and background
+The choice of treatment for patients with CMI should
+represent a shared decision-making process between
+the patient and vascular care provider that involves a
+thorough understanding of the associated risks/beneﬁts
+of any intervention and incorporates the individual patient’s goals of care, including quality of life. The important outcome measures include both perioperative and
+
+Detailed justiﬁcation
+A systematic review and meta-analysis of the literature
+was performed as a component of these guidelines to
+determine the optimal revascularization strategy (ie,
+open vs endovascular) for patients with CMI.12 A total of
+100 observational studies (22 comparative, 78 noncomparative) were identiﬁed that encompassed almost
+19,000 patients. The perioperative complication rate
+was found to be increased in the open group (relative
+risk [RR], 2.19; 95% conﬁdence interval [CI], 1.84-2.60;
+Fig 1), although there was no signiﬁcant increase in the
+30-day mortality rate (5.5% vs 1.4%; RR, 1.57; 95% CI,
+0.84-2.93; Fig 2). Open revascularization was associated
+with a lower risk of 3-year recurrence (RR, 0.47; 95% CI,
+0.34-0.66; Fig 3), but there was no signiﬁcant difference
+in the 3-year survival rate between the groups (RR, 0.96;
+95% CI, 0.86-1.07; Fig 4). Based on these observational
+studies, it was concluded that the endovascular
+approach may offer better early outcomes, although
+the effect may not be as durable even though the
+long-term survival rates seem to be similar with appropriate reintervention when needed. Unfortunately, the
+overall quality of the evidence was deemed to be low.
+The ﬁndings from our meta-analysis are largely consistent with several other comparable reviews examining
+the optimal revascularization strategy for patients with
+CMI (Table II). Saedon et al110 (12 studies and 7365 patients) reported no differences in perioperative
+morbidity, perioperative mortality or survival, but a
+marked increase in patency (odds ratio [OR], 3.57; 95%
+CI, 1.83-6.97; P ¼ .0002) in the open group. Cai et al111
+
+100S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+Fig 1. In-hospital complications among patients with chronic mesenteric ischemia (CMI) who had undergone
+endovascular (Ev) revascularization vs those who had undergone open surgery. CI, Conﬁdence interval; RR, relative
+risk.
+
+Fig 2. The 30-day mortality among patients with chronic mesenteric ischemia (CMI) who had undergone
+endovascular revascularization vs those who had undergone open surgery. CI, Conﬁdence interval; RR, relative risk.
+
+(8 studies and 569 patients) reported no difference in
+perioperative mortality or survival between the groups,
+but a lower perioperative complication and higher recurrence rate in the endovascular group. Gupta et al113 (1939
+patients) reported that the open repair was associated
+with a higher perioperative complication rate, higher
+5-year primary patency (OR, 3.8; 95% CI, 2.4-5.8;
+P < .001) and higher 5-year freedom from recurrent
+symptoms (OR, 4.4; 95% CI, 2.8-7.0; P < .001) despite no
+difference in perioperative mortality or survival. Last,
+Pecoraro et al112 (43 studies and 1795 patients) reported
+lower perioperative morbidity and mortality in the endovascular group despite lower patency rates and no difference in survival. The similarity between the ﬁndings
+
+among the various meta-analyses is not particularly surprising given the signiﬁcant overlap among the studies
+that comprised the reviews. However, it is worth emphasizing that the meta-analysis that accompanied the
+guidelines represents the most comprehensive and
+extensive review in the literature and any discrepancy
+with the other reviews is likely due to their small sample
+size and the earlier dates of publication, before the widespread adoption of the endovascular approach.
+The results of several recent clinical series comparing
+the outcome of patients with CMI underscore the ﬁndings of the meta-analyses, but provide more granular information. Lejay et al35 reported their outcomes for open
+revascularization during the endovascular era with a
+
+Journal of Vascular Surgery
+
+Huber et al
+
+101S
+
+Volume 73, Number 1S
+
+Fig 3. The 3-year recurrence rates of symptoms among patients with chronic mesenteric ischemia (CMI) who had
+undergone endovascular (Ev) revascularization vs those who had undergone open surgery. CI, Conﬁdence interval;
+RR, relative risk.
+
+Fig 4. The 3-year survival among patients with chronic mesenteric ischemia (CMI) who had undergone endovascular (Ev) revascularization vs those who had undergone open surgery. CI, Conﬁdence interval; RR, relative risk.
+
+perioperative morbidity and mortality rate of 13.9%
+and 3.5%, respectively, and a 10-year survival and primary
+patency rate of 88% and 84%, respectively. Oderich et al6
+compared the outcomes of 229 consecutive patients undergoing revascularization for CMI (open, 146; endovascular, 83) and reported that the perioperative morbidity
+(36% vs 18%; P ¼ .001) and hospital length of stay (12 6
+8 days vs 3 6 5 days; P ¼ .001) were higher for the open
+group, although there was no difference in perioperative
+mortality (open, 2.7% vs endovascular, 2.4%). The 5-year
+survival (72 6 5% vs 55 6 9%; P < .0001), freedom from
+recurrent symptoms (89 6 4% vs 51 6 9%), and primary
+patency rates (88 6 2% vs 41 6 9%) were all higher in
+the open group. Similarly, Zacharias et al114 compared
+their outcomes after open (n ¼ 45) and endovascular
+(n ¼ 116) repair and reported that the hospital length of
+
+stay (5 6 8 days vs 23 6 20 days; P < .001) was lower in
+the endovascular group, but there was no difference in
+the perioperative mortality rate (endovascular, 5.2% vs
+open, 11%). The 3-year primary patency rates were higher
+in the open group (91% vs 74%; P ¼ .18), although the survival was lower (78% vs 95%; P ¼ .003). These ﬁndings are
+underscored by the fact that there has been a shift in the
+patient cohort undergoing open revascularization since
+the introduction of the endovascular therapies, reﬂected
+by the presence of more extensive MAOD and more
+advanced comorbidities.76
+The results of the meta-analyses are largely consistent
+with the statewide and national observations.
+Indes et al115 examined the outcome of patients undergoing revascularization for CMI (n ¼ 666; open, 280;
+endovascular, 347) in the state of New York from 2000
+
+102S
+
+Journal of Vascular Surgery
+
+Huber et al
+
+January Supplement 2021
+
+Table II. Systematic reviews for endovascular vs open revascularization for chronic mesenteric ischemia (CMI)
+Study
+
+Sample
+
+Findings
+
+Alahdab, 201812
+
+100 studies, 18,726 patients
+
+Endovascular with lower perioperative complications, higher
+recurrence, comparable perioperative and 3-year survival
+
+Saedon, 2015110
+
+12 studies, 7365 patients
+
+No difference in morbidity and mortality, patency rates lower with
+endovascular
+
+Cai, 2015111
+
+8 studies, 569 patients
+
+Endovascular with lower perioperative complications but higher
+recurrence, no difference in perioperative or longer term survival
+
+Pecoraro, 2013112
+
+43 studies, 1795 patients
+
+Endovascular with lower perioperative morbidity and mortality, but
+lower patency and higher recurrence, no difference in long-term
+survival
+
+Gupta, 2010113
+
+1939 patients
+
+Endovascular with lower perioperative complications but lower
+patency and higher recurrence, no difference in mortality
+
+to 2006. They reported that there was a steady increase
+in the number of endovascular procedures (vs open)
+from 28% (2000) to 75% (2006) and that the endovascular interventions were associated with a lower perioperative mortality (11.0% vs 20.4%; P ¼ .001), mesenteric
+complications (6.9% vs 17.1%; P < .0001), and individual
+organ system complications (ie, cardiac, pulmonary,
+and infections), although a higher percentage were discharged home (55% vs 37%; P < .0001). Erben et al116
+examined the outcomes across the country for patients
+(n ¼ 15,475) undergoing intervention for CMI using the
+National Inpatient Sample from 2000 to 2014. They reported a similar trend in the breakdown of procedures
+with 70.6% of the patients undergoing endovascular
+treatment. Despite the fact that a higher percentage
+(43.3% vs 33.1%; P < .0001) of the patients in the endovascular group had a Charlson Comorbidity Index score of 2
+or higher, they had a lower mortality rate (2.4% vs 8.7%;
+P < .0001), mean length of stay (6.3 days vs 14.0 days;
+P < .0001), and lower cost of hospitalization ($21,686 vs
+$42,974; P < .0001) and these differences persisted after
+adjustment for clinical and hospital factors. Based on
+these ﬁndings, the authors concluded that endovascular
+revascularization should be the ﬁrst line of therapy for
+patients with CMI. Lima et al117 performed a similar analysis using the same database from the years 2007 to 2014
+to examine the impact of the choice of revascularization
+on major cardiac and cerebrovascular events. In their
+propensity-matched cohort, they reported that the major cardiac and cerebrovascular events and composite
+in-hospital complications occurred less often after endovascular revascularization (8.6% vs 15.9% [P < .001] and
+15.3% vs 20.3% [P < .0006], respectively) and that the
+endovascular approach was associated with a shorter
+hospital length of stay and lower hospital costs.
+The aggregate evidence from the meta-analyses, case
+series, and nationwide experience seems to support an
+endovascular-ﬁrst approach for patients with CMI. The
+consistent themes suggest that the endovascular
+approach is associated with fewer perioperative
+
+complications, shorter length of hospital stay, and lower
+hospital costs, although the rates of recurrent symptoms
+and reinterventions are higher. The longer term survival
+rates are comparable between the open and endovascular approaches, although there seems to be trend toward
+a higher perioperative mortality in the open cohort. The
+comparable longer term survival seems to suggest that
+endovascular failures and higher rates of recurrent symptoms are not leading an increased rate of death from
+AMI. Fortunately, the endovascular-ﬁrst approach does
+not seem to preclude subsequent open revascularization. In addition, the endovascular-ﬁrst recommendation
+is consistent with other practice guidelines from the European Society of Vascular Surgery,11 the American College of Radiology,118 and the Society of Interventional
+Radiologists.119
+The recommendation for an endovascular-ﬁrst
+approach must be tempered by the quality of the underlying evidence. Although the systematic reviews and
+meta-analyses have attempted to identify the best
+possible evidence, the trials that comprised the review
+were largely retrospective, single-center studies and the
+overall quality of the evidence in our review was deﬁned
+as low. Furthermore, the individual case series likely
+included a heterogeneous group of patients, clinical presentations, treatments (both open and endovascular),
+surveillance protocols and remedial interventions.
+The optimal treatment approach to patients with CMI
+should likely encompass the patient’s anatomy, comorbidities, life expectancy, and individual goals of care
+and may not be as simple as an endovascular-ﬁrst or
+open-ﬁrst issue. Tallarita et al120 examined the longterm survival and cause of death after open and endovascular treatment for CMI. They found that the independent predictors of death were age greater than 80 years,
+diabetes, chronic kidney disease, and home oxygen with
+the leading causes of death being cardiac > cancer >
+pulmonary > mesenteric. The 5-year survival was identical for the open and endovascular cohorts in their
+propensity-matched analysis, suggesting that survival is
+
+Journal of Vascular Surgery
+
+Huber et al
+
+103S
+
+Volume 73, Number 1S
+
+dictated more by patient comorbidities than by the
+choice of revascularization. Similarly, Lima et al121 examined the indications for readmission after revascularization for CMI in the National Inpatient Sample from
+2007 to 2014. They reported that the 30-day readmission
+rate was 19.5% with one-quarter of the readmissions
+related to cardiovascular or cerebrovascular conditions.
+The independent predictors of readmission included
+nonelective index admission, chronic kidney disease,
+and discharge to home health care or a skilled nursing
+facility; the revascularization modality did not predict
+the readmission rate. Interestingly, Hogendoorn et al122
+developed a decision analysis model to compare open
+and endovascular revascularization for CMI that incorporated perioperative and longer term mortality, complications, patency, reinterventions, and their associated costs.
+They reported that the endovascular therapy cost more
+for patients less than 60 years of age, but the incremental
+cost effectiveness ratio was less than $60,000 per
+quality-adjusted life-year. For patients 60 years of age
+and older, the endovascular approach was preferred
+because the effectiveness was greater and the costs
+were lower. They concluded that the endovascular
+approach was favored for all age groups because it
+seems to be cost effective despite the higher rate of
+reinterventions.
+Despite the advances in the endovascular therapies
+over the past few decades, there remains a role for
+open revascularization for patients with CMI. The potential indications include endovascular failures, lesions
+not amenable to endovascular treatment, and younger/
+healthier patients who may do better in the long term
+with open revascularization. The speciﬁc anatomic ﬁndings that would potentially preclude endovascular
+treatment include ﬂush aortic occlusions, long
+segment occlusions, severe calciﬁcation, tandem lesions, distal lesions, and small diameter vessels. A variety of creative endovascular solutions have been
+described to overcome these relative contraindications.
+Notably, Sharafuddin et al92 described their experience
+with endovascular recanalization of total mesenteric
+vessel occlusions and reported that neither the presence of a stump, ostial plaque, extensive calciﬁcation,
+recanalization route (ie, intraluminal vs subintimal), occlusion length, nor vessel diameter impacted the procedure success. Their technical success rate was 85%,
+but the 1- and 3-year primary patency rates were only
+58% and 33%, respectively, and two patients died
+from abdominal catastrophes and sepsis at 2 and
+23 months. Similarly, Haben et al123 reported that the
+total chronic occlusions of the SMA were associated
+with decreased patency after endovascular treatment
+when compared with stenoses. Longer term data are
+required to establish the role of endovascular treatment for these higher risk anatomic lesions, although
+it is conceivable that the optimal treatment may be
+
+dictated by the individual provider skill set and patient
+compliance with longer term follow-up.
+Special discussions
+The various treatment recommendations outlined
+above may not be relevant for all patient populations,
+speciﬁcally the elderly. It is certainly conceivable that
+elderly patients (and potentially other groups) respond
+differently to the various interventions, similar to carotid
+artery stenting. Cardin et al124 did a systematic review
+to identify relevant articles for the treatment of CMI in
+the elderly ($65 years of age). They were able to identify
+only 13 relevant articles and concluded that the management of CMI in the geriatric population is poorly
+documented.
+Implementation considerations
+The recommended endovascular-ﬁrst approach to
+revascularization for patients with CMI largely reﬂects
+the current national practice although open revascularization should still play a signiﬁcant role and should be
+considered within the treatment algorithm. The evolution of the endovascular therapies for CMI (and other
+vascular surgical problems) has decreased the overall
+number of open procedures, and, unfortunately, this
+has impacted the number of open aortic procedures
+performed in many training programs. This change in
+the training paradigms has the potential to diminish
+the open operative skill set of the graduating trainees
+and, ultimately, the care of patients with CMI.
+Future research
+Level 1 evidence to deﬁne the role of endovascular vs
+open revascularization for patients with CMI
+d Further deﬁne the indications for endovascular revascularization for CMI
+d Further deﬁne the indications for open revascularization for CMI
+d Develop patient-speciﬁc treatment algorithms
+d
+
+Preoperative evaluation
+Recommendations.
+1. Patients undergoing revascularization for CMI should
+be optimized from a medical standpoint before intervention although their preoperative evaluation should
+be expedited. (Ungraded Good Practice Statement)
+2. We recommend obtaining a CTA to delineate the
+vascular anatomy before any revascularization.
+A catheter-based arteriogram may be an alternative
+if the anatomy is not clear on the CTA. Level of recommendation: Grade 1 (Strong), Quality of Evidence:
+A (High)
+Rationale and background
+Patients with CMI typically have systemic vascular disease and associated comorbidities. Accordingly, patients
+undergoing treatment for CMI should undergo an expedited preoperative evaluation designed to optimize their
+
+104S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+underlying medical conditions and management of their
+atherosclerotic risk factors. Patients may beneﬁt from
+enteral or parenteral nutritional supplements, although
+this should not delay or prolong the preoperative evaluation before deﬁnitive revascularization. A CTA should be
+obtained before revascularization to further deﬁne the
+anatomy and extent of occlusive disease.
+Detailed justiﬁcation
+The atherosclerotic MAOD that leads to the development of CMI is a local manifestation of a systemic disease. Accordingly, patients undergoing treatment for
+CMI have the typical cardiovascular risk factors and associated comorbidities (Table I). The associated comorbidities and risk factors should be managed optimally
+before any revascularization for CMI, similar to patients
+undergoing any major vascular surgical procedures.
+There are well-accepted, published guidelines from
+most of the medical subspecialties to guide the preoperative evaluation, including those from the American
+Heart Association and the American College of Cardiology for the optimal preoperative cardiac evaluation for
+patients undergoing major noncardiac surgery.125 Patients with active cardiac conditions, including unstable
+angina, recent myocardial infarction, signiﬁcant arrhythmias, poorly compensated congestive heart failure, and/
+or signiﬁcant valvular disease should be seen in consultation with a cardiologist and may beneﬁt from preoperative cardiac intervention. Patients should be counseled
+about the importance of smoking cessation and should
+be treated with an antiplatelet agent and a cholesterollowering agent, preferentially a statin, unless there are
+speciﬁc contraindications.
+The preoperative evaluation and workup should be
+expedited in patients with CMI to avoid any untoward
+events and progression to AMI. There is a spectrum of
+symptoms for patients with CMI that range from intermittent, mild postprandial pain to persistent pain, unrelated to any oral intake. The latter is clearly more
+worrisome for the progression to AMI with bowel infarction. Accordingly, patients with these more severe symptoms should likely be admitted and revascularized
+urgently. They may beneﬁt from systemic anticoagulation, although the supporting evidence is limited. Parenteral or enteral (if appropriate) nutritional supplements
+can help to replete the nutritional status of patients
+with CMI, although revascularization should not be
+delayed.
+The preoperative preparation before revascularization
+for CMI is similar to most aortic surgical procedures. Patients should be well-hydrated and administered prophylactic antibiotics, typically against skin and enteric
+organisms. Bowel preparations should likely be avoided
+owing to the theoretical risk to develop AMI. All patients
+should have a CTA to facilitate revascularization, if not
+already performed as part of the diagnosis workup, to
+
+assess the location and extent of the MAOD, the presence of any anatomic variants (eg, origin of the right hepatic artery from the SMA), the quality of the inﬂow
+sources for open revascularization, and the status of the
+access vessels for the endovascular approach.8,11
+Endovascular revascularization
+Recommendation.
+1. We suggest using balloon-expandable covered intraluminal stents for the treatment of the MAOD in patients with CMI. Level of recommendation: Grade 2
+(Weak), Quality of Evidence: C (Low)
+Rationale and background
+The generic endovascular approach to patients with
+CMI is consistent with the broader principles of endovascular therapy with many of the more speciﬁc choices
+based on provider skill and personal preference. The
+SMA is the primary target vessels for revascularization,
+whereas the CA and IMA are secondary targets if it is
+not possible to revascularize the SMA or the clinical result
+is inadequate. Several anatomic ﬁndings can complicate
+the endovascular revascularization of the mesenteric vessels, as mentioned, including ﬂush aortic occlusion, small
+caliber vessels, extensive calciﬁcation, the presence of
+tandem lesions, and the extent of involvement (ie, lesion
+length). Multiple reports have documented successful
+endovascular revascularization for these scenarios,
+although the long-term patency rates for these higher
+risk lesions remains unclear and the requisite skill set
+may not be universal. The use of balloon-expandable
+intraluminal stents has replaced balloon angioplasty
+alone for the treatment of de novo lesion. Balloonexpandable covered stents seem to have better longer
+term patency, presumably owing to the prevention of tissue ingrowth through the interstices of the stent by the
+fabric. A completion imaging study is an integral part
+of any endovascular intervention and should be performed routinely. Intravascular ultrasound examination
+and/or intraluminal pressure measurements can be
+helpful to further interrogate any residual stenoses or lesions. The postoperative management after endovascular revascularization for CMI is comparable with other
+catheter-based procedures, although it is possible for patients to develop multiple organ problems from the
+ischemia/reperfusion injury similar to that seen after
+open revascularization. All patients should be maintained on antiplatelet agents and a cholesterollowering agent, preferentially a statin, unless there is a
+contraindication.
+Detailed justiﬁcation
+The endovascular revascularization for patients with
+CMI is similar to the approach for the other vascular
+beds in terms of access, imaging, choice of systems, device delivery, device deployment, management of
+
+Journal of Vascular Surgery
+
+Huber et al
+
+105S
+
+Volume 73, Number 1S
+
+complications, and medical therapy, with the majority of
+the clinical decisions based on provider preference and
+skill set. Both the femoral and brachial arteries are appropriate access sites, although an open brachial approach
+may be favored based on the orientation of the mesenteric vessels (ie, posterior to anterior, cephalad to caudal),
+the favorable vector forces associated with the antegrade introduction of the various endovascular catheters
+and devices, and the diminutive size of the brachial artery with the inherent risk of injury or thrombosis associated with the percutaneous approach. Likewise, the
+choice of wires (eg, 0.018 vs 0.035) should be dictated
+by the speciﬁc characteristics of the lesion and provider
+preference. A completion imaging study should be performed at the time of the procedure. Intraluminal pressure measurements may be helpful to document the
+pressure gradient across the stent if there is any concern
+about its appearance.
+Balloon-expandable covered intraluminal stents seem
+to be the optimal stent choice and likely afford the
+same advantages as reported in other anatomic locations.126,127 The characteristics of the balloonexpandable stents (eg, high radial force, functionality at
+short lengths, limited shortening with expansion) make
+them well-suited for the common atherosclerotic, calciﬁed lesion at the oriﬁce of the mesenteric vessels.
+Furthermore, the fabric of the covered stent seems to
+inhibit the ingrowth of tissue seen with bare metal stents
+that leads to the development of intimal hyperplasia and
+recurrent stenoses. Generically, the balloon-expandable
+and self-expanding stents should be viewed as complementary with the later potentially having a role in the
+SMA for longer lesions (ie, beyond the oriﬁce), intraluminal dissections related to the initial endovascular technique, and for preserving any signiﬁcant collateral
+vessels (eg, high take-off of a right hepatic artery).
+Interestingly, there has been an evolution from angioplasty alone to balloon-expandable bare metal stents
+to
+balloon-expandable
+covered
+stents.32,128,129
+32
+Oderich et al compared the outcomes of patients
+with primary or secondary endovascular interventions
+for CMI between those undergoing treatment with
+bare metal (n ¼ 164 patients and 197 vessels) or
+balloon-expandable covered stents (n ¼ 61 patients and
+67 vessels). They reported that the freedom from restenosis (92% 6 6% vs 52% 6 4%; P ¼ .003), freedom from
+symptom recurrence (92 6 4% vs 50 6 4%; P ¼ .003),
+freedom from reintervention (91 6 6% vs 56 6 5%; P ¼
+.005), and primary patency at 3 years (92 6 6% vs 52 6
+5%; P < .003) were all better for covered stents for the
+treatment of the primary lesions. Similarly, they reported
+that the freedom from restenosis (89 6 10% vs 49 6 14%;
+P < .04), freedom from symptom recurrence (100% vs
+64 6 9%; P ¼ .001), and freedom from reintervention
+(100% vs 72 6 9%; P ¼ .03) were all better for the
+covered stents in the reintervention group. Notably,
+
+van Dijk et al130 have published the study protocol for a
+randomized
+trial
+(CoBaGI)
+comparing
+balloonexpandable covered vs balloon-expandable bare-metal
+stents for CMI.
+There may be a role for the use of embolic protection
+devices for select patients undergoing endovascular
+revascularization for CMI, similar to the scenario for carotid artery stenting or infrainguinal revascularization,
+although the supporting evidence is limited.
+Mendes et al131 reported their experience with the selective use (36%) of embolic protection devices among
+170 patients undergoing revascularization for mesenteric ischemia (both CMI and AMI). The indications for
+the devices included severe calciﬁcation, acute
+thrombus, and total occlusions. Macroscopic debris
+was detected in 66% of the ﬁlter patients although
+distal emboli were detected in only 6%. There were
+no technical complications associated with the ﬁlter
+deployment or retrieval.
+Endovascular revascularization for CMI can be associated with both local and systemic complications from
+the intervention and underlying disease process.132,133
+The perioperative complications were lower after the
+endovascular approach and these lower rates partly
+justify the endovascular-ﬁrst approach as detailed elsewhere in this article. Not surprisingly, access complications, contrast-induced renal insufﬁciency, target vessel
+dissection, device failure, and arterial embolization have
+all been reported after interventions for CMI.131,134-138
+Patients should be maintained on antiplatelet agents
+and a statin after intervention, both open and endovascular.139 The optimal antiplatelet agent regimen and
+endovascular interventions for CMI remains unresolved.
+Peeters Weem et al140 performed a meta-analysis to
+examine the optimal antiplatelet regimen after endovascular arterial procedures. They did not support the use of
+dual antiplatelet therapy (vs monotherapy) and actually
+advised against it owing to an increased bleeding risk.
+A meta-analysis examining the impact of more intense
+low-density lipoprotein cholesterol-lowering strategies
+reported that all-cause mortality was decreased by 10%,
+largely from deaths owing to coronary heart disease, for
+each 1 mmol/L reduction in low-density lipoprotein
+cholesterol (RR, 0.90; 95% CI, 0.87-0.93; P < .0001).141
+The COMPASS Trial reported that the combination of
+rivaroxaban (2.5 mg twice daily) and aspirin (100 mg
+daily) was associated with a lower incidence of major
+adverse cardiac and limb events than aspirin alone for
+patients with stable peripheral and cerebral arterial disease.142 However, the role for rivaroxaban and ticagrelor
+for patients with CMI undergoing revascularization remains to be determined.143,144 Enteral feedings can usually be reintroduced shortly after revascularization. A
+completion imaging study, typically a mesenteric DUS
+examination, should be performed in the early postoperative period to conﬁrm the technical adequacy of the
+
+106S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+procedure and serve as a baseline for follow-up and surveillance imaging.
+Future research
+Deﬁne the optimal endovascular approach for patients
+with CMI.
+d Deﬁne the optimal postoperative care paradigm after
+endovascular revascularization for CMI
+d
+
+Open surgical revascularization
+Recommendation.
+1. The choice of open surgical revascularization for CMI
+should be determined by anatomy, comorbidities,
+prior interventions and provider preference. (Ungraded Good Practice Statement)
+Rationale and background
+The choice of open revascularization for CMI should be
+determined by anatomy, patient comorbidities, prior interventions, and provider preference. There are a variety
+of open and hybrid approaches, including antegrade
+bypass from the supraceliac aorta, retrograde bypass
+from the common iliac artery (or infrarenal aorta), aortic
+endarterectomy, and open retrograde mesenteric stenting. The antegrade and retrograde bypasses are the most
+commonly performed, but all of the approaches can be
+viewed as complementary because they may play a
+role in speciﬁc situations. Revascularization of both the
+SMA and CA, as typically performed with the antegrade
+bypass, affords some theoretical advantages, although
+the outcomes have not been consistently better than
+those reported for the SMA alone as typically performed
+with the retrograde bypass. The perioperative care for patients undergoing open revascularization is comparable
+with the endovascular approach although the incidence
+of complications and hospital length of stay are both
+increased as detailed previously. Medical treatment
+should include antiplatelets and a statin, and all patients
+should obtain a completion or surveillance imaging
+study.
+Detailed justiﬁcation
+Similar to most bypass procedures, revascularization for
+CMI requires a suitable inﬂow source, a suitable outﬂow
+target, a lesion to bypass, and an acceptable conduit.
+The common inﬂow sources include the supraceliac
+aorta (antegrade bypass) and the infrarenal aorta/common iliac arteries (retrograde bypass). The ultimate
+determinant of the inﬂow choice (and the bypass conﬁguration) is contingent upon the distribution of the arterial
+occlusive disease and the provider familiarity with
+various exposures. The supraceliac aorta tends to be relatively spared from atherosclerotic disease, although the
+exposure is a bit more complicated and mandates mobilizing the left lobe of the liver and incising the crus of the
+diaphragm. It is possible to place a partial occluding
+
+clamp on the supraceliac aorta (eg, Satinsky) and maintain visceral perfusion while avoiding some of the hemodynamic changes associated with a complete
+supravisceral aortic clamp, although this maneuver is
+not always possible. The infrarenal aorta and iliac vessels
+can be suitable donor sites, although they are more
+prone to atherosclerotic occlusive disease that preclude
+their use, as seen in the case of a circumferentially calciﬁed infrarenal aorta commonly referred to as the porcelain aorta. The potential options in this setting included
+replacing the involved aortoiliac segment or simply
+choosing another inﬂow site. A variety of alternative
+inﬂow sources have been describe, including the
+ascending aorta,145 the descending aorta,145 and the axillary artery,146 although the published experience is small.
+The retrograde open mesenteric stenting is a reasonable hybrid (ie, open and endovascular) alternative for
+patients with extensive aortoiliac occlusive disease,
+particularly for those involving both the infrarenal and suprarenal aorta, because it does not require the placement of an aortic (or iliac clamp).147 Oderich et al148
+recently reported the collective experience (n ¼ 54)
+with open retrograde stenting for both CMI (19%) and
+AMI (81%) from the Low Frequency Vascular Disease
+Research Consortium. The technical success rate was
+excellent (98%) and the patency rates at 2 years (primary,
+76% 6 8%; secondary 90% 6 8%) were comparable with
+those achieved with percutaneous stenting. The procedure can be facilitated by snaring the wire introduced
+retrograde through the SMA from the brachial artery at
+the antecubital fossa, thereby increasing the functional
+working length and allowing the endovascular devices
+to be introduced in the more familiar antegrade fashion.
+The atherosclerotic occlusive disease that leads to
+MAOD typically affects the origin of the vessels. Accordingly, the more distal extent of the mesenteric vessel
+tends to be spared and, thus, is a suitable bypass target.
+This choice of distal target can be complicated by the
+presence of an occluded stent, prior mesenteric bypasses, or more extensive occlusive disease (ie, extending
+beyond the origin). The option in this setting includes
+selecting a target that is further distal on the involved
+vessel. This can require a limited endarterectomy and a
+vein patch to help create a more patulous vessel and better bypass target.
+Prosthetic grafts are suitable conduits and, historically,
+the longer term patency rates have been equivocal
+when compared with autogenous conduits.149,150
+They are contraindicated in the setting of AMI and bowel
+infarction with contamination. Notably, Davenport et al151
+reviewed the patients (n ¼ 156) undergoing aortomesenteric bypass for CMI in the American College of Surgeon’s
+National Surgical Quality Improvement Program Participant Use File during 2005 to 2009. They reported that
+patients undergoing bypass with vein were more likely
+to require a bowel resection and that there was a higher
+
+Journal of Vascular Surgery
+
+Huber et al
+
+107S
+
+Volume 73, Number 1S
+
+mortality rate (16% vs 5%; P ¼ .039), although there were
+no other differences in the other perioperative complications. These ﬁndings likely reﬂect the fact that the vein
+conduits were used for patients with AMI rather than
+speciﬁc concerns about the quality of the conduit itself.
+The retrograde bypass may be a little more straightforward and less time consuming than the antegrade
+bypass and, thus, potentially more suitable for patients
+with advanced comorbidities. Interestingly, Scali et al152
+compared the outcomes after antegrade and retrograde
+bypass for AMI and reported that there was no difference
+in the perioperative outcomes, although the antegrade
+bypass was associated with a lower reintervention rate.
+Furthermore, the exposure of the infrarenal aorta and
+iliac vessels is more familiar than the supraceliac aorta
+for most vascular surgeons.
+The retrograde iliosuperior mesenteric bypass originating from the proximal common iliac artery has been
+criticized because of the potential for the bypass to
+kink. Indeed, the bypass passes from a caudal to cephalad and posterior to anterior course. The potential for
+kinking may be decreased by the use of a ringed bypass
+graft and by performing the distal anastomosis to the
+SMA in an end-to-end fashion. The retrograde bypass
+can also be tunneled deep (or around) the left renal artery to optimize the course of the graft with a technique
+referred to as the French Bypass.153,154 Alternatively,
+Huerta et al155 have described a technique (direct open
+retrograde revascularization) in which the bypass is
+tunneled directly through the small bowel mesentery.
+A pedicle of omentum can be mobilized and used to
+cover the retrograde bypass graft to avoid contact with
+the bowel.
+Aortic endarterectomy may play a role in patients with
+a hostile operative ﬁeld from multiple prior procedures,
+complex abdominal wall defects, radiation injury, and/or
+the presence of bacterial contamination. Mell et al156 reported their experience with 80 patients (endarterectomy, 37; bypass, 29; combined, 14) undergoing
+treatment for CMI. They reported excellent results in
+terms of survival (1 year, 92.2%; 5 years, 64.5%) and
+symptom-free survival (1 year, 89.7%; 5 years, 82.1%)
+with endarterectomy for revascularization identiﬁed as
+predictor of freedom from recurrent symptoms on their
+multivariate analysis (5.2% vs 27.6%; HR, 0.2; 95% CI,
+004-0.92; P ¼ .02).
+There has been a debate about the number of vessels
+to be revascularized at the time of open mesenteric
+bypass, similar to the scenario with the endovascular
+revascularization. Multiple vessel revascularization affords the theoretical advantage that a greater extent of
+the bowel is perfused directly and provides some redundancy if one of the grafts were to fail. However, the longterm outcomes comparing the SMA alone and SMA/celiac bypasses have been equivocal, further underscoring
+the importance of the SMA as the deﬁnitive target.7,157
+
+There are reports of patients undergoing revascularization of the IMA96 and branches of the SMA158 for CMI,
+although these options should be reserved for select patients who are not candidates for the more standard
+options.
+Although the guidelines are directed at the management of patients with CMI, a moderate percentage of patients will present with progression of their symptoms (ie,
+acute-on-chronic disease), with an even smaller percentage having bowel infarction with perforation. The management principles include resection of the frankly
+necrotic bowel, reassessment of the marginal bowel after
+revascularization, autogenous vascular reconstruction,
+the avoidance of primary bowel anastomoses in the
+setting of ischemia, and liberal use of a second-look
+laparotomy.
+The perioperative management of patients undergoing
+open revascularization for CMI is comparable with that
+for patients undergoing other open aortic procedures.
+The obligatory ischemia/reperfusion injury can lead to
+multiple organ dysfunction with respiratory, renal, hepatic, and hematologic insufﬁciency.157,159 The optimal treatment regimen includes simply supportive care until the
+end-organ failure resolves. The clinical sequelae of the
+ischemia/reperfusion injury can mimic graft thrombosis
+and AMI, underscoring the importance of conﬁrming
+that the bypass grafts are patent with the appropriate
+imaging when in question. The return of bowel function
+is commonly delayed and may necessitate the temporary use of parenteral nutrition. A small percentage of patients will develop prolonged diarrhea requiring home
+parenteral nutrition.157
+Similar to the patients undergoing endovascular revascularization, patients should be maintained on antiplatelet agents and a statin.139 A completion imaging study
+should be performed intraoperatively at the time of the
+procedure and/or before discharge to conﬁrm the technical adequacy of the procedure and to serve as a baseline. Technical defects have been identiﬁed in up to 15%
+of the procedures with a low rate of graft failure among
+normal studies.160 Identiﬁcation and correction of
+major defects using intraoperative ultrasound has
+been reported to signiﬁcantly decrease graft-related
+complications and death after open mesenteric
+revascularization.160
+The higher rate of perioperative complications associated with the open approach has been used to justify
+the endovascular-ﬁrst approach. The open approach
+has been associated with a higher perioperative complication rate, hospital length of stay, and cost, although the
+perioperative mortality rates seem to be equivocal. These
+increased perioperative complications are offset by a
+lower rate of recurrent symptoms and reinterventions,
+despite no difference in long-term mortality. Interestingly, Wagenhäuser et al161 reported that patients undergoing open revascularization had a lower health related
+
+108S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+quality of life compared with normative data, suggesting
+that the beneﬁt from open repair may be modest.
+Special discussions
+A select group of patients with MAOD involving the
+SMA may require revascularization at the time of an
+open aortic procedure, as summarized elsewhere in
+this article. A retrograde SMA bypass for the aortic graft
+(or the iliac limb) is feasible for transperitoneal open repairs. This is also feasible for retroperitoneal aortic repairs
+although it usually involves entering the peritoneal cavity
+and dissecting the proximal SMA after mobilizing the
+duodenum.
+Future research
+Deﬁne the optimal, open technique for revascularization for CMI
+d Deﬁne the optimal perioperative care for patients undergoing open revascularization for CMI
+d
+
+Surveillance and remediation
+Recommendations.
+1. We suggest patient education and counseling about
+recurrent symptoms in all patients undergoing revascularization for CMI owing to the high rate of recurrence. (Ungraded Good Practice Statement)
+2. Patients should be followed in the outpatient setting
+after revascularization for CMI. A possible follow-up
+schedule includes within 1 month of the procedure
+and then biannually for the ﬁrst 2 years, and then
+annually thereafter. (Ungraded Good Practice
+Statement)
+3. We suggest surveillance with mesenteric DUS to identify recurrent stenoses after revascularization for CMI.
+A possible ultrasound surveillance schedule includes
+within 1 month of the procedure and then biannually
+for the ﬁrst 2 years, and then annually. Level of recommendation: Grade 2 (Weak), Quality of Evidence: C
+(Low)
+4. We recommend performing a CTA or catheter-based
+arteriograms to conﬁrm any restenoses detected by
+DUS imaging in patients with symptoms consistent
+with CMI. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: C (Low)
+5. In patients with recurrent symptoms of CMI, we
+recommend remedial treatment as recommended
+for the de novo lesions. Level of recommendation:
+Grade 1 (Strong), Quality of Evidence: C (Low)
+6. In select patients with asymptomatic recurrent stenosis, we suggest a shared decision-making approach
+between the patient and provider to discuss revascularization as recommended for the de novo lesions.
+Level of recommendation: Grade 2 (Weak), Quality of
+Evidence: C (Low)
+7. We suggest that the choice of revascularization for
+recurrent stenoses should be similar to the de novo lesions with the endovascular approach recommended
+as the initial option and open revascularization
+
+reserved for lesions not amenable to the endovascular
+approach. Level of recommendation: Grade 2 (Weak),
+Quality of Evidence: C (Low)
+Rationale and background
+Patients may develop recurrent stenoses and/or recurrent symptoms after both endovascular and open revascularization for CMI. Indeed, it is well-accepted that
+endovascular revascularization is associated with a
+higher rate of recurrent stenoses and symptoms. The
+clinical presentation can range from high-grade asymptomatic stenoses to AMI with bowel infarction. Unfortunately, the natural history of these recurrent stenoses
+and recurrent symptoms remains poorly deﬁned. Patients should be educated about the potential to
+develop recurrent symptoms and counseled to seek
+medical care at the onset of their symptoms. An
+image-based surveillance protocol can help to identify
+recurrent stenoses. However, it is not clear that the identiﬁcation of these recurrent lesions and remediation with
+either an endovascular or open approach results in
+improved outcomes in terms of symptoms, survival,
+and/or quality of life. DUS examination is the optimal surveillance imaging study after revascularization although
+the criteria for the native arteries tend to overestimate
+the degree of stenosis (ie, 70% stenosis in treated arteries
+associated with higher PSV and EDV). CTA can help to
+conﬁrm or refute the DUS ﬁndings. The management
+of signiﬁcant recurrent stenoses, both asymptomatic
+and symptomatic, should be the same as outlined for
+de novo lesions. Speciﬁcally, patients with recurrent
+CMI should undergo revascularization with an
+endovascular-ﬁrst approach, regardless of the initial
+approach, whereas open revascularization should be
+reserved for patients who are not amenable to the endovascular approach. A select group of patients with
+asymptomatic recurrent stenosis may also beneﬁt from
+reintervention, but the exact indications for such reintervention remain undeﬁned.
+Detailed justiﬁcation
+Patients who undergo revascularization for MAOD and
+CMI are at risk for recurrent stenoses and recurrent symptoms. The incidence of these adverse events is greater after endovascular revascularization, as noted elsewhere in
+this discussion. The presentation can range from asymptomatic stenoses to AMI and bowel infarction. Fortunately, the latter condition seems to be less common
+and it is encouraging that the higher rate of recurrence
+seen in the endovascular group is not associated with a
+higher longer term mortality rate. Fortunately, the incidence of recurrent symptoms is less common than the
+incidence of recurrent stenoses, but highlights the fact
+that the presence of recurrent symptoms is not a surrogate for vessel or graft patency. The natural history of
+these recurrent stenoses, both asymptomatic and
+
+Journal of Vascular Surgery
+
+Huber et al
+
+109S
+
+Volume 73, Number 1S
+
+symptomatic, remains poorly deﬁned. It is conceivable
+that the asymptomatic, recurrent stenosis has a worse
+prognosis than a comparable, untreated asymptomatic
+lesion, given that the index lesion was initially treated
+for CMI, although this remains to be documented.
+Patients should be counseled about the risk of recurrent stenosis and recurrent symptoms. They should be
+engaged in their health care and counseled to seek urgent medical attention if they develop recurrent symptoms. Ideally, they should be engaged in a longer term
+follow-up protocol, although the frequency of visits
+beyond the immediate perioperative period remains undeﬁned. There is likely some usefulness in an imagebased surveillance protocol based on the contention
+that the identiﬁcation of a signiﬁcant lesion may lead
+to a remedial intervention that will translate into a better
+outcome in terms of vessel/graft patency and a lower
+incidence of recurrent symptoms and death. The purported beneﬁts of surveillance in this setting are similar
+to those after lower extremity bypass, but it is noteworthy
+that surveillance after lower extremity bypass has not
+been shown to be effective in a well-performed randomized trial162 nor supported in the Trans-Atlantic Inter-Society Consensus II recommendations.163 Schoch et al164
+reported that 83% of the patients undergoing endovascular treatment for CMI (n ¼ 107) developed elevated velocities of the target lesion on DUS imaging, although
+53% did not require any remedial intervention.
+Liem et al165 reported the results of their surveillance protocol after open mesenteric bypass. Although they were
+able to identify an association with smaller graft diameter
+and increased PSVs, they were unable to identify any predictors of graft thrombosis. A practical longer term followup protocol may include clinic evaluation and imagebased surveillance within 1 month of the initial procedure
+(either open or endovascular revascularization) and then
+every 6 months for the ﬁrst 2 years and yearly thereafter.
+However, the frequency of visits may well be inﬂuenced
+by the presence or severity of recurrent stenosis or symptoms. The value of the early postoperative imaging study
+to conﬁrm the technical adequacy of the revascularization and to serve as a baseline for future studies has
+been emphasized in the preceding sections. Notably,
+the suggested follow-up and surveillance protocol is
+consistent with the Society for Vascular Surgery practice
+guidelines for follow-up after arterial procedures.166
+DUS examination is the ideal initial imaging study for
+the detection of recurrent stenoses and the recommended surveillance imaging study for the de novo lesions.
+However, the velocity criteria for the native mesenteric
+vessel tend to overestimate the degree of stenosis in
+the treated vessels after both endovascular and open
+revascularization. Several studies have documented the
+velocity criteria for recurrent stenoses after revascularization and there seems to be relatively broad range of
+criteria that corresponded to with a more than 70%
+
+stenosis.167-169 Ideally, these criteria should be validated
+in each individual vascular laboratory although this is
+likely impractical. Simplistically, a PSV of more than
+300 cm/s with an EDV of more than 50 cm/s at an angioplasty site or bypass anastomosis or a dampened velocity
+spectra and a PSV of less than 40 cm/s within a bypass
+graft are all suggestive of a greater than 70%
+stenosis.167,168
+CTA is the deﬁnitive imaging study for recurrent stenosis and can be helpful to conﬁrm/refute the DUS ﬁndings and to help plan any further intervention.170
+Furthermore, it can be helpful as a surveillance imaging
+study for the few patients who cannot be adequately
+imaged with DUS imaging. The presence of an intraluminal stent can confound the determination of the degree of stenosis on CT scans, similar to the scenario with
+DUS imaging. Noncontrast images can be helpful to
+interrogate the stent architecture. A catheter-based
+arteriogram with the measurement of intraluminal
+pressures may occasionally be helpful in equivocal cases
+to determine the hemodynamic signiﬁcance of a recurrent stenosis.77
+The management of patients with a recurrent stenosis
+and recurrent symptoms consistent with CMI is similar
+to the management of a symptomatic de novo lesion.
+Patients should undergo a CTA to facilitate the intervention, if not already performed. An endovascular-ﬁrst
+approach is recommended for both failing endovascular
+and open revascularization with the speciﬁcs of the procedure contingent upon the extent of the lesion, the
+presence of thrombus, and the details of the initial procedure. It is interesting that endovascular revascularization has evolved from a “bridge to open
+revascularization” to actually a “bridge to further percutaneous procedures.”171 The endovascular options include
+thrombomechanical lysis for acute thrombus, balloon
+angioplasty alone for in-stent restenosis, and/or the
+placement of a balloon-expandable covered stent within
+a bare metal stent. Tallarita et al172 reported their outcomes for patients undergoing reintervention after
+mesenteric artery and stenting. Among the 157 patients
+treated initially, 57 (36%) developed recurrent stenosis
+at a mean follow-up of 29 months with 24 patients
+(42%) with recurrent stenoses developing recurrent
+symptoms (CMI, 21; AMI, 3). Repeat endovascular treatment was possible in 26 (87%) and was associate with
+low mortality (3%) and excellent symptom improvement
+(92%), despite a moderate complication rate (27% access
+site, embolization/bowel ischemia, congestive heart failure, stent thrombosis). Importantly, 43% of the areas of
+restenosis corresponded with technical defects identiﬁed at the index procedure. Admittedly, this is only a single series, but it suggests that many of the recurrent
+stenoses are really inadequately treated index lesions,
+underscoring the importance of completion imaging
+and an adequate initial technical result.
+
+110S
+
+Journal of Vascular Surgery
+
+Huber et al
+
+January Supplement 2021
+
+The remedial strategies for a failing or thrombosed
+bypass graft are similar to those outlined for the endovascular approach. Although somewhat counterintuitive,
+endovascular options should be thoroughly explored
+given the complexity of a reoperative mesenteric bypass.
+Kanamori et al173 identiﬁed 47 patients with failing or
+thrombosed mesenteric bypasses presenting with CMI
+(81%) and AMI (91%). Remedial endovascular therapy
+was possible in 40% and was associated with a lower
+periprocedural complication rate, although the periprocedural mortality and longer term recurrence and reinterventions rates were similar to the patients
+undergoing remedial open procedures. Notably, the outcomes after the remedial open revascularization procedures were comparable with the ﬁrst-time procedures in
+their case-matched controls, although the patency rates
+were inferior. The remedial open revascularizations can
+be facilitated by using an alternative inﬂow source to
+avoid some of the challenges associated with a reoperative ﬁeld (ie, convert failed retrograde bypass to antegrade bypass or vice versa). Notably, Zacharias et al114
+reported that the perioperative mortality was higher
+among patients undergoing open revascularization after
+a failed endovascular revascularization when compared
+with the primary endovascular or open groups (15% vs
+2%; P ¼ .005). Giswold et al174 have reported reasonable
+outcomes after redo mesenteric bypass (n ¼ 22) with a
+perioperative mortality and morbidity rate of 6% and
+33%, respectively, and a 1-year primary patency and survival rate of 74% and 76%, respectively. Furthermore,
+alternative outﬂow sources should be considered.
+Schneider et al96 reported a small series of isolated IMA
+revascularizations for CMI. They stated that the revascularization was sufﬁcient to relieve the symptoms and prevent bowel infarction, although it required a welldeveloped collateral pathway.
+The optimal management of asymptomatic recurrent
+stenoses after both endovascular and open revascularization for CMI remains unresolved. Indeed, the natural history
+is even less deﬁned than for de novo mesenteric artery lesions. The basic management principles for the de novo
+asymptomatic lesions are likely appropriate, although a
+lower threshold for remedial intervention may be justiﬁed
+given the prior symptomatology and the potential rate of
+recurrent symptoms, particularly since the remedial endovascular interventions are relatively safe.
+
+FUTURE RESEARCH
+Deﬁne the natural history of symptomatic recurrent
+stenosis after both endovascular and open revascularization for CMI
+d Deﬁne the natural history of asymptomatic recurrent
+stenosis after both endovascular and open revascularization for CMI
+d Deﬁne the optimal surveillance protocol after both
+endovascular and open revascularization for CMI
+d
+
+Deﬁne the optimal remedial strategies after failed
+endovascular and open revascularization for CMI
+d Deﬁne the optimal medical treatment after revascularization for CMI
+d
+
+REFERENCES
+1. Wilson DB, Mostafavi K, Craven TE, Ayerdi J, Edwards MS,
+Hansen KJ. Clinical course of mesenteric artery stenosis in
+elderly Americans. Arch Intern Med 2006;166:2095-100.
+2. Croft RJ, Menon GP, Marston A. Does ’intestinal angina’
+exist? A critical study of obstructed visceral arteries. Br J
+Surg 1981;68:316-8.
+3. Valentine RJ, Martin JD, Myers SI, Rossi MB, Clagett GP.
+Asymptomatic celiac and superior mesenteric artery stenoses are more prevalent among patients with unsuspected renal artery stenoses. J Vasc Surg 1991;14:195-9.
+4. Mikkelsen WP. Intestinal angina: its surgical signiﬁcance.
+Am J Surg 1957;94:262-7.
+5. Carrick RP, Borge MA, Labropolous N, Rodriguez H. Chronic
+mesenteric ischemia resulting from isolated lesions of the
+superior mesenteric artery-a case report. Angiology
+2005;56:785-8.
+6. Oderich GS, Bower TC, Sullivan TM, Bjarnason H, Cha S,
+Gloviczki P. Open versus endovascular revascularization for
+chronic mesenteric ischemia: risk-stratiﬁed outcomes.
+J Vasc Surg 2009;49:1472-9.e3.
+7. Foley MI, Moneta GL, Abou-Zamzam AM Jr, Edwards JM,
+Taylor LM Jr, Yeager RA, et al. Revascularization of the superior mesenteric artery alone for treatment of intestinal
+ischemia. J Vasc Surg 2000;32:37-47.
+8. Expert Panels on Vascular Imaging and Gastrointestinal
+imaging, Ginsburg M, Obara P, Lambert DL, Hanley M,
+Steigner ML, et al. ACR Appropriateness Criteria((R)) imaging of mesenteric ischemia. J Am Coll Radiol 2018;15:
+S332-40.
+9. Oderich GS, Gloviczki P, Bower TC. Open surgical treatment
+for chronic mesenteric ischemia in the endovascular era:
+when it is necessary and what is the preferred technique?
+Semin Vasc Surg 2010;23:36-46.
+10. Schermerhorn ML, Giles KA, Hamdan AD, Wyers MC,
+Pomposelli FB. Mesenteric revascularization: management
+and outcomes in the United States, 1988-2006. J Vasc Surg
+2009;50:341-8.e1.
+11. Bjorck M, Koelemay M, Acosta S, Bastos Goncalves F,
+Kölbel T, Kolkman JJ, et al. Editor’s Choice - Management of
+the diseases of mesenteric arteries and veins: clinical
+practice guidelines of the European Society of Vascular
+Surgery (ESVS). Eur J Vasc Endovasc Surg 2017;53:460-510.
+12. Alahdab F, Arwani R, Pasha AK, Razouki ZA, Prokop LJ,
+Huber TS, et al. A systematic review and meta-analysis of
+endovascular versus open surgical revascularization for
+chronic mesenteric ischemia. J Vasc Surg 2018;67:1598-605.
+13. Murad MH, Montori VM, Sidawy AN, Ascher E, Meissner MH,
+Chaikof EL, et al. Guideline methodology of the Society for
+Vascular Surgery including the experience with the GRADE
+framework. J Vasc Surg 2011;53:1375-80.
+14. Murad MH, Swiglo BA, Sidawy AN, Ascher E, Montori VM.
+Methodology for clinical practice guidelines for the management of arteriovenous access. J Vasc Surg 2008;48:
+26s-30s.
+15. Guyatt
+GH,
+Alonso-Coello
+P,
+Schünemann
+HJ,
+Djulbegovic B, Nothacker M, Lange S, et al. Guideline panels
+should seldom make good practice statements: guidance
+from the GRADE Working Group. J Clin Epidemiol 2016;80:
+3-7.
+
+Journal of Vascular Surgery
+
+Huber et al
+
+111S
+
+Volume 73, Number 1S
+16. Connolly JE. The meandering mesenteric artery or central
+anastomotic artery. J Vasc Surg 2006;43:1059.
+17. Thomas JH, Blake K, Pierce GE, Hermreck AS, Seigel E. The
+clinical course of asymptomatic mesenteric arterial stenosis. J Vasc Surg 1998;27:840-4.
+18. Kolkman JJ, Bargeman M, Huisman AB, Geelkerken RH.
+Diagnosis and management of splanchnic ischemia. World
+J Gastroenterol 2008;14:7309-20.
+19. JW F, editor. Physiology of the Intestinal Circulation. Norris,
+MT: Raven Press; 1984.
+20. Siregar H, Chou CC. Relative contribution of fat, protein,
+carbohydrate, and ethanol to intestinal hyperemia. Am J
+Physiol 1982;242:G27-31.
+21. Moneta GL, Taylor DC, Helton WS, Mulholland MW,
+Strandness DE Jr. Duplex ultrasound measurement of
+postprandial intestinal blood ﬂow: effect of meal composition. Gastroenterology 1988;95:1294-301.
+22. Gallavan RH Jr, Chou CC, Kvietys PR, Sit SP. Regional blood
+ﬂow during digestion in the conscious dog. Am J Physiol
+1980;238:H220-5.
+23. Poole JW, Sammartano RJ, Boley SJ. Hemodynamic basis
+of the pain of chronic mesenteric ischemia. Am J Surg
+1987;153:171-6.
+24. Fu LW, Longhurst JC. Interleukin-1beta sensitizes abdominal visceral afferents of cats to ischaemia and histamine.
+J Physiol 1999;521 Pt 1:249-60.
+25. Kozar RA, Schultz SG, Hassoun HT, Desoignie R,
+Weisbrodt NW, Haber MM, et al. The type of sodiumcoupled solute modulates small bowel mucosal injury,
+transport function, and ATP after ischemia/reperfusion
+injury in rats. Gastroenterology 2002;123:810-6.
+26. Sanders BM, Dalsing MC. Mesenteric ischemia affects
+young adults with predisposition. Ann Vasc Surg 2003;17:
+270-6.
+27. Rits Y, Oderich GS, Bower TC, Miller DV, Cooper L,
+Ricotta JJ 2nd, et al. Interventions for mesenteric vasculitis.
+J Vasc Surg 2010;51:392-400.e2.
+28. Fields CE, Bower TC, Cooper LT, Hoskin T, Noel AA,
+Panneton JM, et al. Takayasu’s arteritis: operative results
+and inﬂuence of disease activity. J Vasc Surg 2006;43:64-71.
+29. Min PK, Park S, Jung JH, Ko YG, Choi D, Jang Y, et al.
+Endovascular therapy combined with immunosuppressive
+treatment for occlusive arterial disease in patients with
+Takayasu’s arteritis. J Endovasc Ther 2005;12:28-34.
+30. Zettervall SL, Lo RC, Soden PA, Deery SE, Ultee KH, Pinto DS,
+et al. Trends in treatment and mortality for mesenteric
+ischemia in the United States from 2000 to 2012. Ann Vasc
+Surg 2017;42:111-9.
+31. Silva JA, White CJ, Collins TJ, Jenkins JS, Andry ME, Reilly JP,
+et al. Endovascular therapy for chronic mesenteric
+ischemia. J Am Coll Cardiol 2006;47:944-50.
+32. Oderich GS, Erdoes LS, Lesar C, Mendes BC,
+Gloviczki P, Cha S, et al. Comparison of covered stents
+versus bare metal stents for treatment of chronic
+atherosclerotic mesenteric arterial disease. J Vasc Surg
+2013;58:1316-23.
+33. Sarac TP, Altinel O, Kashyap V, Bena J, Lynden S,
+Sruvastava S, et al. Endovascular treatment of stenotic and
+occluded visceral arteries for chronic mesenteric ischemia.
+J Vasc Surg 2008;47:485-91.
+34. van Dijk LJ, van Noord D, de Vries AC, Kolkman JJ,
+Geelkerken RH, Verhagen HJ, et al. Clinical management of
+chronic mesenteric ischemia. United European Gastroenterol J 2019;7:179-88.
+35. Lejay A, Georg Y, Tartaglia E, Creton O, Lucereau B,
+Thaveau F, et al. Chronic mesenteric ischemia: 20 year
+
+experience of open surgical treatment. Eur J Vasc Endovasc
+Surg 2015;49:587-92.
+36. Allain C, Besch G, Guelle N, Rinckenbach S, Salomon du
+Mont L. Prevalence and impact of malnutrition in patients
+surgically treated for chronic mesenteric ischemia. Ann
+Vasc Surg 2019;58:24-31.
+37. Mansukhani NA, Hekman KE, Yoon DY, Helenowski IB,
+Hoel AW, Rodriguez HE, et al. Impact of body mass index
+on outcomes after mesenteric revascularization for chronic
+mesenteric ischemia. Ann Vasc Surg 2018;48:159-65.
+38. Boley SJ, Brandt LJ, Veith FJ, Kosches D, Sales C. A new
+provocative test for chronic mesenteric ischemia. Am J
+Gastroenterol 1991;86:888-91.
+39. Bjornsson S, Resch T, Acosta S. Symptomatic mesenteric
+atherosclerotic disease-lessons learned from the diagnostic
+workup. J Gastrointest Surg 2013;17:973-80.
+40. Johnston KW, Lindsay TF, Walker PM, Kalman PG. Mesenteric arterial bypass grafts: early and late results and suggested surgical approach for chronic and acute mesenteric
+ischemia. Surgery 1995;118:1-7.
+41. Marston A, Clarke JM, Garcia GJ, Miller AL. Intestinal function and intestinal blood supply: a 20 year surgical study.
+Gut 1985;26:656-66.
+42. Van Damme H, Jacquet N, Belaiche J, Creemers E, Limet R.
+Chronic ischaemic gastritis: an unusual form of splanchnic
+vascular insufﬁciency. J Cardiovasc Surg (Torino) 1992;33:451-3.
+43. Van Noord D, Sana A, Benaron DA, Pattynama PMT,
+Verhagen HJM, Hansen BE, et al. Endoscopic visible light
+spectroscopy: a new, minimally invasive technique to diagnose
+chronic GI ischemia. Gastrointest Endosc 2011;73:291-8.
+44. Berge ST, Saﬁ N, Medhus AW, Anonsen K, Sundhagen JO,
+Hisdal J, et al. Gastroscopy assisted laser Doppler ﬂowmetry
+and visible light spectroscopy in patients with chronic
+mesenteric ischemia. Scand J Clin Lab Invest 2019;79:541-9.
+45. Geelkerken RH, Schultze Kool LJ, Hermans J, Zarza MT, van
+Bockel JH. Chronic splanchnic ischaemia: is tonometry a
+useful test? Eur J Surg 1997;163:115-21.
+46. Harki J, Vergouwe Y, Spoor JA, Mensink PB, Bruno MJ, van
+Noord D, et al. Diagnostic accuracy of the combination of
+clinical symptoms and CT or MR angiography in patients
+with chronic gastrointestinal ischemia. J Clin Gastroenterol
+2017;51:e39-47.
+47. van Dijk LJ, van Noord D, Geelkerken RH, Harki J,
+Berendsen SA, de Vries AC, et al. Validation of a score chart
+to predict the risk of chronic mesenteric ischemia and
+development of an updated score chart. United European
+Gastroenterol J 2019;7:1261-70.
+48. Oliva IB, Davarpanah AH, Rybicki FJ, et al. ACR Appropriateness Criteria (R) imaging of mesenteric ischemia.
+Abdom Imaging 2013;38:714-9.
+49. Moneta GL, Lee RW, Yeager RA, Taylor LM Jr, Porter JM.
+Mesenteric duplex scanning: a blinded prospective study.
+J Vasc Surg 1993;17:79-84.
+50. Moneta GL, Yeager RA, Dalman R, Antonovic R, Hall LD,
+Porter JM. Duplex ultrasound criteria for diagnosis of
+splanchnic artery stenosis or occlusion. J Vasc Surg 1991;14:
+511-8; discussion: 518-20.
+51. Zwolak RM, Fillinger MF, Walsh DB, LaBombard FE,
+Musson A, Darling CE, et al. Mesenteric and celiac duplex
+scanning: a validation study. J Vasc Surg 1998;27:1078-87.
+52. Gentile AT, Moneta GL, Lee RW, Masser PA, Taylor LM Jr,
+Porter JM. Usefulness of fasting and postprandial duplex
+ultrasound examinations for predicting high-grade superior mesenteric artery stenosis. Am J Surg 1995;169:476-9.
+53. AbuRahma AF, Stone PA, Srivastava M, Dean LS, Keiffer T,
+Hass SM, et al. Mesenteric/celiac duplex ultrasound
+
+112S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+interpretation criteria revisited. J Vasc Surg 2012;55:428-36.
+e6; discussion: 435-6.
+54. van Petersen AS, Kolkman JJ, Meerwaldt R, Huisman AB,
+van der Palen J, Zeebregts CJ, et al. Mesenteric stenosis,
+collaterals, and compensatory blood ﬂow. J Vasc Surg
+2014;60:111-9.e1-2.
+55. van Petersen AS, Meerwaldt R, Kolkman JJ, Huisman AB, van
+der Palen J, van Bockel JH, et al. The inﬂuence of respiration
+on criteria for transabdominal duplex examination of the
+splanchnic arteries in patients with suspected chronic
+splanchnic ischemia. J Vasc Surg 2013;57:1603-11.e1-10.
+56. AbuRahma AF, Scott Dean L. Duplex ultrasound interpretation criteria for inferior mesenteric arteries. Vascular
+2012;20:145-9.
+57. Pellerito JS, Revzin MV, Tsang JC, Greben CR, Naidich JB.
+Doppler sonographic criteria for the diagnosis of inferior
+mesenteric artery stenosis. J Ultrasound Med 2009;28:
+641-50.
+58. Wildermuth S, Leschka S, Alkadhi H, Marincek B. Multislice
+CT in the pre- and postinterventional evaluation of
+mesenteric perfusion. Eur Radiol 2005;15:1203-10.
+59. Horton KM, Fishman EK. Multidetector CT angiography in
+the diagnosis of mesenteric ischemia. Radiol Clin North Am
+2007;45:275-88.
+60. Schaefer PJ, Pfarr J, Trentmann J, Langer C, Siggelkow M,
+Groß, et al. Comparison of noninvasive imaging modalities
+for stenosis grading in mesenteric arteries 2013;185:628-34.
+61. Kirkpatrick ID, Kroeker MA, Greenberg HM. Biphasic CT with
+mesenteric CT angiography in the evaluation of acute
+mesenteric ischemia: initial experience. Radiology
+2003;229:91-8.
+62. Wiesner W, Hauser A, Steinbrich W. Accuracy of multidetector row computed tomography for the diagnosis of
+acute bowel ischemia in a non-selected study population.
+Eur Radiol 2004;14:2347-56.
+63. Menke J. Diagnostic accuracy of multidetector CT in acute
+mesenteric ischemia: systematic review and meta-analysis.
+Radiology 2010;256:93-101.
+64. Yikilmaz A, Karahan OI, Senol S, Tuna IS, Akyildiz HY. Value
+of multislice computed tomography in the diagnosis of
+acute mesenteric ischemia. Eur J Radiol 2011;80:297-302.
+65. Karkkainen JM, Saari P, Kettunen HP, Lehtimäki TT,
+Vanninen R, Paajanen H, et al. Interpretation of abdominal
+CT ﬁndings in patients who develop acute on chronic
+mesenteric ischemia. J Gastrointest Surg 2016;20:791-802.
+66. Hagspiel KD, Leung DA, Angle JF, Spinosa DJ, Pao DG, de
+Lange EE, et al. MR angiography of the mesenteric vasculature. Radiol Clin North Am 2002;40:867-86.
+67. Chow LC, Chan FP, Li KC. A comprehensive approach to MR
+imaging of mesenteric ischemia. Abdom Imaging 2002;27:
+507-16.
+68. Shih MC, Angle JF, Leung DA, Cherry KJ, Harthun NL,
+Matsumoto AH, et al. CTA and MRA in mesenteric ischemia:
+part 2, Normal ﬁndings and complications after surgical
+and endovascular treatment. AJR Am J Roentgenol
+2007;188:462-71.
+69. Baden JG, Racy DJ, Grist TM. Contrast-enhanced threedimensional magnetic resonance angiography of the
+mesenteric vasculature. J Magn Reson Imaging 1999;10:
+369-75.
+70. Meaney JF, Prince MR, Nostrant TT, Stanley JC. Gadoliniumenhanced MR angiography of visceral arteries in patients
+with suspected chronic mesenteric ischemia. J Magn
+Reson Imaging 1997;7:171-6.
+71. Carlos RC, Stanley JC, Stafford-Johnson D, Prince MR.
+Interobserver variability in the evaluation of chronic
+
+mesenteric ischemia with gadolinium-enhanced MR
+angiography. Acad Radiol 2001;8:879-87.
+72. Fraum TJ, Ludwig DR, Bashir MR, Fowler KJ. Gadoliniumbased contrast agents: A comprehensive risk assessment.
+J Magn Reson Imaging 2017;46:338-53.
+73. Balduf LM, Langsfeld M, Marek JM, Tullis MJ, Kasirajan K,
+Matteson B. Complication rates of diagnostic angiography
+performed by vascular surgeons. Vasc Endovasc Surg
+2002;36:439-45.
+74. Waugh JR, Sacharias N. Arteriographic complications in the
+DSA era. Radiology 1992;182:243-6.
+75. Egglin TK, O’Moore PV, Feinstein AR, Waltman AC. Complications of peripheral arteriography: a new system to
+identify patients at increased risk. J Vasc Surg 1995;22:
+787-94.
+76. Ryer EJ, Oderich GS, Bower TC, Macedo TA, Vritska TJ,
+Duncan AA, et al. Differences in anatomy and outcomes in
+patients treated with open mesenteric revascularization
+before and after the endovascular era. J Vasc Surg 2011;53:
+1611-8.e2.
+77. Margiotta A, Gray BH. Assessment of recurrent mesenteric
+ischemia after stenting with a pressure wire. Vasc Med
+2014;19:137-41.
+78. Jain G, Pandit BN, Goyal M, Trehan VK. Percutaneous
+retrograde revascularization of the occluded celiac artery
+for chronic mesenteric ischemia using intravascular ultrasound guidance. Cardiovasc Interv Ther 2013;28:307-12.
+79. Iwase K, Sando K, Ito T, Mikata S, Mizushima T, Kainuma S,
+et al. Isolated dissecting aneurysm of the superior mesenteric artery: intravascular ultrasound (IVUS) images. Hepatogastroenterology 2007;54:1161-3.
+80. Rundback JH, Shah PM, Wong J, Babu SC, Rozenblit G,
+Poplausky MR. Livedo reticularis, rhabdomyolysis, massive
+intestinal infarction, and death after carbon dioxide arteriography. J Vasc Surg 1997;26:337-40.
+81. Zeller T, Rastan A, Sixt S. Chronic atherosclerotic mesenteric
+ischemia (CMI). Vasc Med 2010;15:333-8.
+82. Flis V, Mrdza B, Stirn B, Milotic F, Kobilica N, Bergauer A.
+Revascularization of the superior mesenteric artery alone
+for treatment of chronic mesenteric ischemia. Wien Klin
+Wochenschr 2016;128:109-13.
+83. Atkins MD, Kwolek CJ, LaMuraglia GM, Brewster DC,
+Chung TK, Cambria RP. Surgical revascularization versus
+endovascular therapy for chronic mesenteric ischemia: a
+comparative experience. J Vasc Surg 2007;45:1162-71.
+84. Kasirajan K, O’Hara PJ, Gray BH, Hertzer NR, Clair DG,
+Greenberg RK, et al. Chronic mesenteric ischemia: open
+surgery versus percutaneous angioplasty and stenting.
+J Vasc Surg 2001;33:63-71.
+85. Blauw JTM, Pastoors HAM, Brusse-Keizer M, Beuk RJ,
+Kolkman JJ, Geelkerken RH, et al. The impact of revascularisation on quality of life in chronic mesenteric ischemia.
+Can J Gastroenterol Hepatology 2019;2019:7346013.
+86. Rheudasil JM, Stewart MT, Schellack JV, Smith RB III,
+Salam AA, Perdue GD. Surgical treatment of chronic
+mesenteric arterial insufﬁciency. J Vasc Surg 1988;8:
+495-500.
+87. Baxter JP, Fayers PM, Bozzetti F, Kelly D, Joly F, Wanten G,
+et al. An international study of the quality of life of adult
+patients treated with home parenteral nutrition. Clin Nutr
+2019;38:1788-96.
+88. Veterans Affairs Total Parenteral Nutrition Cooperative
+Study Group. Perioperative total parenteral nutrition in
+surgical patients. N Engl J Med 1991;325:525-32.
+89. Starker PM, LaSala PA, Askanazi J, Todd G, Hensle TW,
+Kinney JM. The inﬂuence of preoperative total parenteral
+
+Journal of Vascular Surgery
+
+Huber et al
+
+113S
+
+Volume 73, Number 1S
+nutrition upon morbidity and mortality. Surg Gynecol
+Obstet 1986;162:569-74.
+90. Grimes CJ, Younathan MT, Lee WC. The effect of preoperative total parenteral nutrition on surgery outcomes. J Am
+Diet Assoc 1987;87:1202-6.
+91. Goldman MP, Reeve TE, Craven TE, Edwards MS, Corriere MA,
+Hurie JB, et al. Endovascular treatment of chronic mesenteric ischemia in the setting of occlusive superior mesenteric
+artery lesions. Ann Vasc Surg 2017;38:29-35.
+92. Sharafuddin MJ, Olson CH, Sun S, Kresowik TF, Corson JD.
+Endovascular treatment of celiac and mesenteric arteries
+stenoses: applications and results. J Vasc Surg 2003;38:
+692-8.
+93. Manunga J. Bifurcated stent technique: a viable option
+for treatment of patients with unusual anatomy presenting with combined chronic mesenteric ischemia and
+diffuse ischemic gastric ulcers. Vasc Endovasc Surg
+2018;52:66-9.
+94. Malgor RD, Oderich GS, McKusick MA, Misera S, Kalra M,
+Duncan AA, et al. Results of single- and two-vessel
+mesenteric artery stents for chronic mesenteric ischemia.
+Ann Vasc Surg 2010;24:1094-101.
+95. Wohlauer M, Kobeiter H, Desgranges P, Becquemin JP,
+Cochennec F. Inferior mesenteric artery stenting as a novel
+treatment for chronic mesenteric ischemia in patients with
+an occluded superior mesenteric artery and celiac trunk.
+Eur J Vasc Endovas Surg 2014;27:e21-3.
+96. Schneider DB, Nelken NA, Messina LM, Ehrenfeld WK. Isolated inferior mesenteric artery revascularization for chronic
+visceral ischemia. J Vasc Surg 1999;30:51-8.
+97. Biebl M, Oldenburg WA, Paz-Fumagalli R, McKinney JM,
+Hakaim AG. Endovascular treatment as a bridge to successful surgical revascularization for chronic mesenteric
+ischemia. Am Surg 2004;70:994-8.
+98. Peck MA, Conrad MF, Kwolek CJ, LaMuraglia GM,
+Paruchuri V, Cambria RP. Intermediate-term outcomes of
+endovascular treatment for symptomatic chronic mesenteric ischemia. J Vasc Surg 2010;51:140-7.e1-2.
+99. van Dijk LJD, Harki J, van Noord D, de Vries AC, Moelker A,
+Verhagen HJM, et al. Detection of mesenteric ischemia by
+means of endoscopic visible light spectroscopy after
+luminal feeding. Gastrointest Endosc 2019;89:94-102.
+100. van Dijk LJ, van Petersen AS, Moelker A. Vascular imaging of
+the mesenteric vasculature. Best Pract Res Clin Gastroenterol 2017;31:3-14.
+101. Park WM, Cherry KJ Jr, Chua HK, Clark RC, Jenkins G,
+Harmsen WS, et al. Current results of open revascularization
+for chronic mesenteric ischemia: a standard for comparison. J Vasc Surg 2002;35:853-9.
+102. Ryer EJ, Kalra M, Oderich GS, Duncan AA, Gloviczki P, Cha S,
+et al. Revascularization for acute mesenteric ischemia.
+J Vasc Surg 2012;55:1682-9.
+103. Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA,
+Mansour MA, et al. The Society for Vascular Surgery practice
+guidelines on the care of patients with an abdominal aortic
+aneurysm. J Vasc Surg 2018;67:2-77.e2.
+104. Derrow AE, Seeger JM, Dame DA, Carter RL, Ozaki CK,
+Flynn TC, et al. The outcome in the United States after
+thoracoabdominal aortic aneurysm repair, renal artery
+bypass, and mesenteric revascularization. J Vasc Surg
+2001;34:54-61.
+105. Huber TS, Wang JG, Derrow AE, dame DA, Ozaki CK,
+Zelenock GB, et al. Experience in the United States with
+intact abdominal aortic aneurysm repair. J Vasc Surg
+2001;33:304-10; discussion: 310-1.
+106. Mateo RB, O’Hara PJ, Hertzer NR, Mascha EJ, Beven EG,
+Krajewski LP. Elective surgical treatment of symptomatic
+
+chronic mesenteric occlusive disease: early results and late
+outcomes. J Vasc Surg 1999;29:821-31.
+107. McAfee MK, Cherry KJ Jr, Naessens JM, Pairolero PC,
+Hallet JW Jr, Gloviczki P, et al. Inﬂuence of complete
+revascularization on chronic mesenteric ischemia. Am J
+Surg 1992;164:220-4.
+108. Vandy FC, Sell KA, Eliason JL, Coleman DM, Rectenwald JE,
+Stanley JC. Pancreaticoduodenal and gastroduodenal artery aneurysms associated with celiac artery occlusive disease. Ann Vasc Surg 2017;41:32-40.
+109. Corey MR, Ergul EA, Cambria RP, Patel VI, Lancaster RT,
+Kwolek CJ, et al. The presentation and management of
+aneurysms of the pancreaticoduodenal arcade. J Vasc Surg
+2016;64:1734-40.
+110. Saedon M, Saratzis A, Karim A, Goodyear S. Endovascular
+versus surgical revascularization for the management of
+chronic mesenteric ischemia. Vasc Endovasc Surg 2015;49:
+37-44.
+111. Cai W, Li X, Shu C, Qiu J, Fang K, Li M, et al. Comparison of
+clinical outcomes of endovascular versus open revascularization for chronic mesenteric ischemia: a meta-analysis.
+Ann Vasc Surg 2015;29:934-40.
+112. Pecoraro F, Rancic Z, Lachat M, Mayer D, Amann-Vesti B,
+Pfammatter T, et al. Chronic mesenteric ischemia: critical
+review and guidelines for management. Ann Vasc Surg
+2013;27:113-22.
+113. Gupta PK, Horan SM, Turaga KK, Miller WJ, Pipinos II.
+Chronic mesenteric ischemia: endovascular versus open
+revascularization. J Endovasc Ther 2010;17:540-9.
+114. Zacharias N, Eghbalieh SD, Chang BB, Kreienberg PB,
+Roddy SP, Taggert JB, et al. Chronic mesenteric ischemia
+outcome analysis and predictors of endovascular failure.
+J Vasc Surg 2016;63:1582-7.
+115. Indes JE, Giacovelli JK, Muhs BE, Sosa JA, Dardik A. Outcomes of endovascular and open treatment for chronic
+mesenteric ischemia. J Endovasc Ther 2009;16:624-30.
+116. Erben Y, Jean RA, Protack CD, Chiu AS, Liu S, Sumpio BJ,
+et al. Improved mortality in treatment of patients with
+endovascular interventions for chronic mesenteric
+ischemia. J Vasc Surg 2018;67:1805-12.
+117. Lima FV, Kolte D, Kennedy KF, Louis DW, Abbot JD,
+Soukas PA, et al. Endovascular versus surgical revascularization for chronic mesenteric ischemia: insights from the
+National Inpatient Sample Database. JACC Cardiovasc
+Interv 2017;10:2440-7.
+118. Expert Panel on Interventional Radiology, Fidelman N,
+AbuRahma AF, Cash BD, Kapoor BS, Knuttinen MG, et al.
+ACR Appropriateness Criteria((R)) Radiologic management
+of mesenteric ischemia. J Am Coll Radiol 2017;14:S266-71.
+119. Pillai AK, Kalva SP, Hsu SL, Walker TG, Silberzweig JE,
+Annamalai G, et al. Quality improvement guidelines for
+mesenteric angioplasty and stent placement for the treatment of chronic mesenteric ischemia. J Vasc Interv Radiol
+2018;29:642-7.
+120. Tallarita T, Oderich GS, Gloviczki P, Duncan AA, Kalra M,
+Cha S, et al. Patient survival after open and endovascular
+mesenteric revascularization for chronic mesenteric
+ischemia. J Vasc Surg 2013;57:747-55; discussion: 754-5.
+121. Lima FV, Kolte D, Louis DW, Kennedy KF, Abbott JD,
+Soukas PA, et al. Thirty-day readmission after endovascular
+or surgical revascularization for chronic mesenteric
+ischemia: insights from the Nationwide Readmissions
+Database. Vasc Med 2019;24:216-23.
+122. Hogendoorn W, Hunink MG, Schlosser FJ, Moll FL, Muhs BE,
+Sumpio BE. A comparison of open and endovascular
+revascularization for chronic mesenteric ischemia in a
+clinical decision model. J Vasc Surg 2014;60:715-25.e2.
+
+114S
+
+Huber et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+123. Haben C, Park WM, Bena JF, Parodi FE, Lyden SP. Improving
+midterm results justify the continued use of bare-metal
+stents for endovascular therapy for chronic mesenteric
+ischemia. J Vasc Surg 2020;71:111-20.
+124. Cardin F, Fratta S, Inelmen EM, Sergi G, Manzato E,
+Terranova C. Diagnosis of chronic mesenteric ischemia in
+older patients: a structured review. Aging Clin Exp Res
+2012;24:635-9.
+125. Fleisher LA, Beckman JA, Brown KA, Calkins H, Chaikof EL,
+Fleischmann KE, et al. ACC/AHA 2007 guidelines on perioperative cardiovascular evaluation and care for noncardiac surgery: executive summary: a report of the American
+College of Cardiology/American Heart Association Task
+Force on Practice Guidelines (Writing Committee to Revise
+the 2002 Guidelines on Perioperative Cardiovascular Evaluation for Noncardiac Surgery). Anesth Analg 2008;106:
+685-712.
+126. D’Cruz RT, Leong SW, Syn N, Tiwari A, Sannasi VV, Singh
+Sidhu HR, et al. Endovascular treatment of cephalic arch
+stenosis in brachiocephalic arteriovenous ﬁstulas: A systematic review and meta-analysis. J Vasc Access 2019;20:
+345-55.
+127. Haskal ZJ, Trerotola S, Dolmatch B, Schuman E, Altman S,
+Mietling S, et al. Stent graft versus balloon angioplasty for
+failing dialysis-access grafts. N Engl J Med 2010;362:494-503.
+128. Daliri A, Grunwald C, Jobst B, Szuc-Farkas Z, Diehm NA,
+Kickuth R, et al. Endovascular treatment for chronic
+atherosclerotic occlusive mesenteric disease: is stenting
+superior to balloon angioplasty? Vasa 2010;39:319-24.
+129. Turba UC, Saad WE, Arslan B, Sabri SS, Trotter S, Angle JF,
+et al. Chronic mesenteric ischaemia: 28-year experience of
+endovascular treatment. Eur Radiol 2012;22:1372-84.
+130. van Dijk LJD, Harki J, van Noord D, Verhagen HJM,
+Kolkman JJ, Geelkerken RH, et al. Covered stents versus
+Bare-metal stents in chronic atherosclerotic Gastrointestinal Ischemia (CoBaGI): study protocol for a randomized
+controlled trial. Trials 2019;20:519.
+131. Mendes BC, Oderich GS, Tallarita T, Kanamori KS, Kalra
+DeMartino RR, et al. Superior mesenteric artery stenting
+using embolic protection device for treatment of acute or
+chronic mesenteric ischemia. J Vasc Surg 2018;68:1071-8.
+132. Robles-Martin ML, Reyes-Ortega JP, Rodriguez-Morata A.
+A rare case of ischemia-reperfusion injury after mesenteric
+revascularization. Vasc Endovasc Surg 2019;53:424-8.
+133. Leenarts CA, Haagmans MJ, Bouwman LH, Sikkink CJ. Severe abdominal complaints after technical successful
+endovascular treatment of chronic splanchnic ischemia.
+J Nat Sci Biol Med 2018;9:100-2.
+134. Oderich GS, Tallarita T, Gloviczki P, Duncan AA, Kalra M,
+Misra S, et al. Mesenteric artery complications during angioplasty and stent placement for atherosclerotic chronic
+mesenteric ischemia. J Vasc Surg 2012;55:1063-71.
+135. Shirasu T, Hosaka A, Okamoto H, Shigematsu K, Takeda Y,
+Miyata T, et al. Bowel necrosis following endovascular
+revascularization for chronic mesenteric ischemia: a case
+report and review of the literature. BMC Gastroenterol
+2013;13:118.
+136. Klepczyk L, Keeling WB, Stone PA, Shames ML. Superior
+mesenteric artery stent fracture producing stenosis and
+recurrent chronic mesenteric ischemia: case report. Vasc
+Endovasc Surg 2008;42:79-81.
+137. Huynh C, Schwartz R. Symptomatic delayed aortic dissection after superior mesenteric artery stenting for chronic
+mesenteric ischemia. Vasc Endovasc Surg 2017;51:377-9.
+138. Robins JE, Young Z, Glocker RJ, Stoner MC, Doyle AJ.
+Recurrent superior mesenteric artery stent fracture. Ann
+Vasc Surg 2019;59. 306.e11-5.
+
+139. De Martino RR, Eldrup-Jorgensen J, Nolan BW, Stone DH,
+Adams J, Bertges DJ, et al. Perioperative management with
+antiplatelet and statin medication is associated with
+reduced mortality following vascular surgery. J Vasc Surg
+2014;59:1615-21. 1621.e1.
+140. Peeters Weem SM, van Haelst ST, den Ruijter HM, Moll FL,
+de Borst GJ. Lack of evidence for dual antiplatelet therapy
+after endovascular arterial procedures: a meta-analysis. Eur
+J Vasc Endovasc Surg 2016;52:253-62.
+141. Cholesterol Treatment Trialists’ (CTT) Collaboration,
+Baigent C, Blackwell L, Emberson J, Holland LE, Reith C,
+et al. Efﬁcacy and safety of more intensive lowering of LDL
+cholesterol: a meta-analysis of data from 170,000 participants in 26 randomised trials. Lancet 2010;376:1670-81.
+142. Anand SS, Bosch J, Eikelboom JW, Connolly SJ, Eiaz R,
+Widimsky P, et al. Rivaroxaban with or without aspirin in
+patients with stable peripheral or carotid artery disease: an
+international,
+randomised,
+double-blind,
+placebocontrolled trial. Lancet 2018;391:219-29.
+143. Capell WH, Bonaca MP, Nehler MR, Chen E, Kittelson JM,
+Anand SS, et al. Rationale and design for the Vascular
+Outcomes study of ASA along with rivaroxaban in endovascular or surgical limb revascularization for peripheral
+artery disease (VOYAGER PAD). Am Heart J 2018;199:83-91.
+144. Patel MR, Becker RC, Wojdyla DM, Emanuelsson H,
+Hiatt WR, Horrow J, et al. Cardiovascular events in acute
+coronary syndrome patients with peripheral arterial disease treated with ticagrelor compared with clopidogrel:
+Data from the PLATO Trial. Eur J Prev Cardiol 2015;22:
+734-42.
+145. Barr J, Kokotsakis J, Velissarios K, Athanasiou T. Is the
+thoracic aorta a safe site for the proximal anastomosis for
+bypassing the mesenteric arteries in patients with chronic
+mesenteric ischaemia? Interact Cardiovasc Thoracic Surg
+2017;24:796-8.
+146. Wang LL, Choong AM, Kovalic A, Jenkins J, Kruger A. Extraanatomic axillo-mesenteric reconstruction for chronic
+mesenteric ischemia. Ann Vasc Sur 2016;31:206.e5-8.
+147. Wyers MC, Powell RJ, Nolan BW, Cronenwett JL. Retrograde
+mesenteric stenting during laparotomy for acute occlusive
+mesenteric ischemia. J Vasc Surg 2007;45:269-75.
+148. Oderich GS, Macedo R, Stone DH, Woo EY, Panneton JM,
+Resch T, et al. Multicenter study of retrograde open
+mesenteric artery stenting through laparotomy for treatment of acute and chronic mesenteric ischemia. J Vasc
+Surg 2018;68:470-80.e1.
+149. Kihara TK, Blebea J, Anderson KM, Friedman D, Atnip RG.
+Risk factors and outcomes following revascularization for
+chronic mesenteric ischemia. Ann Vasc Surg 1999;13:37-44.
+150. McMillan WD, McCarthy WJ, Bresticker MR, Pearce WH,
+Schneider JR, Golan JF, et al. Mesenteric artery bypass:
+objective patency determination. J Vasc Surg 1995;21:
+729-40.
+151. Davenport DL, Shivazad A, Endean ED. Short-term outcomes for open revascularization of chronic mesenteric
+ischemia. Ann Vasc Surg 2012;26:447-53.
+152. Scali ST, Chang CK, Raghinaru D, Daniels JM, Beck AW,
+Feezor RJ, et al. Prediction of graft patency and mortality
+after distal revascularization and interval ligation for hemodialysis access-related hand ischemia. J Vasc Surg 2013:
+451-8.
+153. Grotemeyer D, Iskandar F, Voshege M, Blondin D,
+Pourhassan S, Grabitz K, et al. [Retrograde aortomesenteric
+loop bypass behind the left renal pedicle ("French bypass")
+in the treatment of acute and chronic mesenteric ischemia.
+Clinical experiences and long-term follow-up in 27 patients]. Zentralbl Chir 2009;134:338-44.
+
+Journal of Vascular Surgery
+
+Huber et al
+
+115S
+
+Volume 73, Number 1S
+154. Mulorz J, Wagenhauser MU, Meyer-Janiszewski YK,
+Düppers P, Simon F, Schelzig H, et al. Retrograde aortomesenteric bypass with left retrorenal route-"French
+Bypass" in 16 cases of chronic mesenteric ischemia. Ann
+Vasc Surg 2017;44:381-6.
+155. Huerta CT, Orr NT, Tyagi SC, Badia DJ, Richie CD,
+Endean ED. Direct retrograde bypass is preferable to
+antegrade bypass for open mesenteric revascularization.
+Ann Vasc Surg 2020;66:263-71.
+156. Mell MW, Acher CW, Hoch JR, Tefera G, Turnipseed WD.
+Outcomes after endarterectomy for chronic mesenteric
+ischemia. J Vasc Surg 2008;48:1132-8.
+157. Jimenez JG, Huber TS, Ozaki CK, Flynn TC, Berceli SA,
+Lee WA, et al. Durability of antegrade synthetic aortomesenteric bypass for chronic mesenteric ischemia. J Vasc
+Surg 2002;35:1078-84.
+158. Al-Jundi W, Haqzad Y, Madbak K, Chan P. Ileocolic to right
+iliac arterial transposition for the treatment of chronic
+mesenteric ischemia. Int J Angiol 2013;22:259-62.
+159. Harward TR, Brooks DL, Flynn TC, Seeger JM. Multiple organ
+dysfunction after mesenteric artery revascularization. J Vasc
+Surg 1993;18:459-67.
+160. Oderich GS, Panneton JM, Macedo TA, Noel AA, Bower TC,
+Lee RA, et al. Intraoperative duplex ultrasound of visceral
+revascularizations: optimizing technical success and
+outcome. J Vasc Surg 2003;38:684-91.
+161. Wagenhäuser MU, Meyer-Janiszewski YK, Dueppers P,
+Spin JM, Floros N, Schelzig H, et al. Chronic mesenteric
+ischemia: patient outcomes using open surgical revascularization. Dig Surg 2017;34:340-9.
+162. Davies AH, Hawdon AJ, Sydes MR, Thompson SG. Is duplex
+surveillance of value after leg vein bypass grafting? Principal
+results of the Vein Graft Surveillance Randomised Trial
+(VGST). Circulation 2005;112:1985-91.
+163. Norgren L, Hiatt WR, Dormandy JA, Nehler MR, Harris KA,
+Fowkes FR, et al. Inter-Society Consensus for the management of peripheral arterial disease (TASC II). Eur J Vasc
+Endovasc Surg 2007;33(Suppl 1):S1-75.
+164. Schoch DM, LeSar CJ, Joels CS, Erdoes LS, Sprouse LR,
+Fugate MW, et al. Management of chronic mesenteric
+vascular insufﬁciency: an endovascular approach. J Am Coll
+Surg 2011;212:668-75; discussion: 675-7.
+
+165. Liem TK, Segall JA, Wei W, Landry GJ, Taylor LM, Moneta GL.
+Duplex scan characteristics of bypass grafts to mesenteric
+arteries. J Vasc Surg 2007;45:922-7; discussion: 927-8.
+166. Zierler RE, Jordan WD, Lal BK, Mussa F, Leers S, Fulton J,
+et al. The Society for Vascular Surgery practice guidelines
+on follow-up after vascular surgery arterial procedures.
+J Vasc Surg 2018;68:256-84.
+167. Hodgkiss-Harlow K. Interpretation of visceral duplex scanning: before and after intervention for chronic mesenteric
+ischemia. Semin Vasc Surg 2013;26:127-32.
+168. Armstrong PA. Visceral duplex scanning: evaluation before
+and after artery intervention for chronic mesenteric
+ischemia. Perspect Vasc Surg Endovasc Ther 2007;19:
+386-92; discussion: 393-4.
+169. Soult MC, Wuamett JC, Ahanchi SS, Stout CL, Larion S,
+Panneton JM. Duplex ultrasound criteria for in-stent restenosis of mesenteric arteries. J Vasc Surg 2016;64:1366-72.
+170. Lopera JE, Trimmer CK, Lamba R, Suri R, Cura MA, ElMerhi FM, et al. MDCT angiography of mesenteric bypass
+surgery for the treatment of chronic mesenteric ischemia.
+AJR Am J Roentgenol 2009;193:1439-45.
+171. Blauw JT, Bulut T, Oderich GS, Geelkerken BR. Mesenteric
+vascular treatment 2016: from open surgical repair to
+endovascular revascularization. Best Pract Res Clin Gastroenterol 2017;31:75-84.
+172. Tallarita T, Oderich GS, Macedo TA, Gloviczki P, Misra S,
+Duncan AA, et al. Reinterventions for stent restenosis in
+patients treated for atherosclerotic mesenteric artery disease. J Vasc Surg 2011;54:1422-9.e1.
+173. Kanamori KS, Oderich GS, Fatima J, Sarac T, Cha S, Kalra M,
+et al. Outcomes of reoperative open or endovascular interventions to treat patients with failing open mesenteric
+reconstructions for mesenteric ischemia. J Vasc Surg
+2014;60:1612-9.e1-2.
+174. Giswold ME, Landry GJ, Taylor LM Jr, Moneta GL. Outcomes
+after redo procedures for failed mesenteric revascularization. Vasc Endovascular Surg 2004;38:315-9.
+
+Submitted Sep 19, 2020; accepted Oct 15, 2020.
+
+
