@@ -1,6 +1,6 @@
 # Prompt Formatters
 
-def format_mcq_example(example, context_chunks, include_golden):
+def format_mcq_example(example, context_chunks, include_relevant):
     letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     choices = example["choices"]
     lettered_choices = [f"{letters[i]}. {choice}" for i, choice in enumerate(choices)]
@@ -15,7 +15,7 @@ def format_mcq_example(example, context_chunks, include_golden):
     )
 
     # Dynamically determine the Reason
-    if include_golden:
+    if include_relevant:
         if example.get("explanation", "").strip():
             reason = example["explanation"]
         else:
@@ -26,7 +26,7 @@ def format_mcq_example(example, context_chunks, include_golden):
     # Target always in Reason + Answer format
     target = (
         f" ##Reason: {reason}\n"
-        f"##Answer: {example['correct_answer'][0]}"  # Only taking first answer letter for now
+        f"##Answer: {example['correct_answer']}"
     )
 
     return prompt, target

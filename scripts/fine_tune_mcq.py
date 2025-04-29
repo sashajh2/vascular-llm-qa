@@ -26,10 +26,10 @@ def generate_dataset(dataset, tokenizer):
 
     for example in dataset:
         # Golden + distractors version
-        context_chunks_golden = retrieve_docs(example["question"], include_golden=True)
-        prompt_golden, target_golden = format_mcq_example(example, context_chunks_golden, include_golden=True)
+        context_chunks_relevant = retrieve_docs(example["question"], include_relevant=True)
+        prompt_relevant, target_relevant = format_mcq_example(example, context_chunks_relevant, include_relevant=True)
         tokenized_golden = tokenizer(
-            prompt_golden + target_golden,
+            prompt_relevant + target_relevant,
             truncation=True,
             padding="max_length",
             max_length=512,
@@ -38,8 +38,8 @@ def generate_dataset(dataset, tokenizer):
         examples.append(tokenized_golden)
 
         # Distractors only version
-        context_chunks_distractor = retrieve_docs(example["question"], include_golden=False)
-        prompt_distractor, target_distractor = format_mcq_example(example, context_chunks_distractor, include_golden=False)
+        context_chunks_distractor = retrieve_docs(example["question"], include_relevant=False)
+        prompt_distractor, target_distractor = format_mcq_example(example, context_chunks_distractor, include_relevant=False)
         tokenized_distractor = tokenizer(
             prompt_distractor + target_distractor,
             truncation=True,
@@ -58,11 +58,14 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
     dataset = load_dataset_from_jsonl(data_path)
-    train_test_split(dataset)
+    train_dataset, test_dataset = train_test_split(dataset)
 
     # NEW: Generate full training set
-    tokenized_examples = generate_dataset(dataset, tokenizer)
-    tokenized_dataset = Dataset.from_list(tokenized_examples)
+    tokenized_train_examples = generate_dataset(train_dataset, tokenizer)
+    tokenized_train_dataset = Dataset.from_list(tokenized_train_examples)
+
+    tokenized_test_examples = generate_dataset(test_dataset, tokenizer)
+    tokenized_test_dataset = Dataset.from_list(tokenized_test_examples)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -82,7 +85,7 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
         model=model,
         tokenizer=tokenizer,
         args=training_args,
-        train_dataset=tokenized_dataset,
+        train_dataset=tokenized_train_dataset,
         data_collator=DataCollatorForLanguageModeling(tokenizer, mlm=False),
     )
 
