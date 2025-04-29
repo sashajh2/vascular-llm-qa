@@ -11,12 +11,14 @@ from datasets import Dataset
 from utils.formatting import format_mcq_example
 import random
 from retriever.retrieval import retrieve_docs
+from utils.data_utils import train_test_split
 
 def load_dataset_from_jsonl(jsonl_path):
     """Load and parse a JSONL dataset for instruction fine-tuning."""
     with open(jsonl_path) as f:
         data = [json.loads(line) for line in f]
     return Dataset.from_list(data)
+
 
 def generate_dataset(dataset, tokenizer):
     """Generate golden and distractor examples for each question."""
@@ -56,6 +58,7 @@ def fine_tune(model_name_or_path, data_path, output_dir, num_train_epochs=3):
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
     dataset = load_dataset_from_jsonl(data_path)
+    train_test_split(dataset)
 
     # NEW: Generate full training set
     tokenized_examples = generate_dataset(dataset, tokenizer)
