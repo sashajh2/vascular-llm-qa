@@ -5,7 +5,7 @@ from datasets import Dataset, concatenate_datasets
 from random import random
 
 def extract_answer_choices(question_text):
-    pattern = r"\s+([A-Z])\.\s+([^\n]+)"
+    pattern = r"\s+([A-Z])\.\s+((?:.|\n)*?)(?=\s+[A-Z]\.|$)"
     matches = re.findall(pattern, question_text)
 
     if not matches:
