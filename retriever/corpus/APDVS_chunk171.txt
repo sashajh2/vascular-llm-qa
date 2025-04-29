@@ -1,0 +1,49 @@
+ radiation - alpha, beta, gamma and neutrons
+courtesty of Openclipart and Juhele. X-rays have similar penetrance to gamma rays.
+
+Radiation types
+Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will
+focus on ionizing radiation, which is encountered by medical professionals in clinical settings.
+Ionizing radiation falls within the higher frequency range of the electromagnetic spectrum. The
+commonly discussed types of ionizing radiation include X-rays, alpha particles, beta particles,
+gamma rays.
+
+215
+
+Alpha Particles
+Alpha particles, despite their high energy, have poor penetrance. As such, they do not penetrate the skin. However, they can be dangerous if inhaled or ingested.
+
+Beta Particles
+Beta particles, have slightly more penetration than alpha particles.
+They have some ability to penetrate the skin. However, they can be easily blocked by less
+dense shielding like aluminum.
+Similar to alpha particles, beta particles can also cause harm if ingested or inhaled.
+
+Gamma Rays
+Gamma rays possess significantly more energy and can penetrate through the human body
+and less dense shielding.
+Lead is effective in shielding against gamma rays due to its density. Dense materials
+increase the likelihood of radiation interacting with subatomic particles, reducing the rays’
+passage through the material.
+As gamma rays pass through the body, they cause ionizing damage to tissue and DNA and
+should be treated with caution.
+
+X-Rays
+X-rays, widely used in healthcare, share similarities with gamma rays in their ability to penetrate tissue.
+Their application in medical imaging includes plain X-ray films, CT scans, and fuoroscopy.
+Lead is effective in shielding against x-rays due to its density.
+The position of the x-ray emitting source of the the C-arm used for endovascular procedures
+is at the bottom of the arm, beneath the patient and the operating room table. This is the
+location of highest exposure.
+As the X-ray source emits radiation, radiation scatter occurs, moving upward and outward
+from the source.
+
+216
+
+Terminology
+It is imporant to understanding the terminology related to radiation exposure.
+ The absorbed dose refers to the energy from ionizing radiation per unit mass of exposed
+material, measured in grays (Gy).
+ The equivalent dose represents the mean absorbed dose of a specific organ or tissue,
+measured in sieverts (Sv).
+ The effective dose, also measured

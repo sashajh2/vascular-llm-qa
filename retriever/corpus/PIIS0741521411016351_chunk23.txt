@@ -1,0 +1,33 @@
+ the diagnosis
+of carotid occlusion can be made with a high degree of
+certainty.76,77
+MRI can be used to analyze plaque morphology, specifically the structure of the atherosclerotic plaque. It can
+identify the lipid-rich necrotic core and the fibrous capsule
+with high sensitivity and specificity78 and can distinguish
+between an intact thick, thin, or ruptured fibrous cap.79
+When dedicated protocols are used, MR also can demonstrate specific plaque components, including calcium, lipid,
+fibrocellular element, or thrombus within the plaques.
+C. Computed tomography angiography
+CTA is less susceptible than MRA to overestimating the
+severity of carotid stenosis. The rapid acquisition of spiral
+CT images allows excellent timing with contrast administration and provides quality images that can be viewed in
+multiple planes. CTA is extremely fast and offers submillimeter spatial resolution (0.3 vs 0.8 mm for contrastenhanced MRA), is less expensive than contrast-enhanced
+MRA, provides a faster processing time, and can visualize
+soft tissue, bone, and blood vessels at the same time. CTA
+can also demonstrate vascular anomalies, has the ability to
+quantify the extent of calcification, and can interrogate the
+arterial tree from the aortic arch to the circle of Willis.
+Stenoses can be measured with electronic microcalipers
+based on NASCET or ECST methods.80
+A meta-analysis of 28 studies analyzing the diagnostic
+accuracy of CTA compared with DSA showed a pooled
+sensitivity of 85% and specificity of 93% for CTA in detecting 70% to 99% carotid stenosis and a sensitivity and specificity for occlusions of 97% and 99%.81 CTA was also
+highly accurate in identifying calcification but less reliable
+in describing carotid plaque morphology, specifically the
+lipid component, or ulceration. CTA appears less reliable
+than DUS imaging or MRA for assessing plaque morphology.82 Other limitations of this technique include cost
+(compared with DUS), contrast exposure, and the added
+concern of radiation exposure. In addition, a large calcium
+burden can limit the ability to distinguish contrast from
+calcium during postprocessing imaging.
+

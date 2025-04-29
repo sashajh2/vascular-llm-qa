@@ -1,0 +1,22 @@
+case series" or "clinical series" or "case studies" or "clinical study" or "clinical trial" or (("phase 0" or "phase 1" or
+"phase I" or "phase 2" or "phase II" or "phase 3" or "phase III" or "phase 4" or "phase IV") adj5 (trial or study)) or "evaluation
+study" or "evaluation survey" or "evaluation analysis" or "quantitative study" or "quantitative analys*" or "numerical
+study" or "validation study" or "validation survey" or "validation analysis" or "quasi experimental study" or "quasi
+experimental analysis" or "quasiexperimental study" or "quasiexperimental analysis" or "in vivo study" or "in vivo
+analysis" or "panel study" or "panel survey" or "panel analysis" or "replication study" or "replication analysis " or
+"replication trial" or "feasibility study" or "feasibility analysis" or ((correlation* adj2 study) or (correlation* adj2 analys*)) or
+"case control study" or "case base study" or "case referrent study" or "case referent study" or "case referent study" or
+"case compeer study" or "case comparison study" or "matched case control" or "multicenter study" or "multi-center
+study" or "odds ratio" or "conﬁdence interval" or "regression analysis" or "least square" or "least squares" or (hazard* adj
+(model* or analys* or regression or ratio or ratios)) or "Cox model" or "Cox multivariate analyses" or "Cox multivariate
+analysis" or "Cox regression" or "Cox survival analyses" or "Cox survival analysis" or "Cox survival model" or "change
+analysis" or ((study or trial or random* or control*) and compar*)).mp,pt.
+50 or/16-49
+51 15 and 50
+52 (exp animals/ or exp nonhuman/) not exp humans/
+
+23290983
+1977
+10729834
+
+53 ((alpaca or alpacas or amphibian

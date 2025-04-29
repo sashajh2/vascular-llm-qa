@@ -1,0 +1,124 @@
+/4.3
+
+1.0 (0.3-3.1)
+
+RCT
+
+Naylor et al, 2004281
+
+136/137
+
+2.2/3.7
+
+0.6 (0.14-2.54)
+
+12.4/7.2
+
+1.8 (0.8-4.1)
+
+RCT
+
+ePTFE/vein patch
+
+ePTFE/vein patch
+
+47/43
+
+2.1/0
+
+———a
+
+Gonzalez-Fajardo et al, 1994
+
+39/35
+
+5.1/0
+
+199 (0.0->10)
+
+AbuRahma et al, 1998263
+
+134/130
+
+2.2/2.3
+
+1.0 (0.2-4.9)
+
+Lord et al, 1989278
+305
+
+Dacron/ePTFE patch
+
+ePTFE/vein patch
+———a
+
+Dacron/ePTFE patch
+
+———a
+
+RCT
+
+4/0
+
+19.7 (0.0->50)
+
+RCT
+
+2.2/8.5
+
+0.2 (0.1-0.9)
+
+RCT
+
+Dacron/ePTFE patch
+
+AbuRahma et al, 2002260,b
+
+100/100
+
+7/0
+
+———a
+
+12/2
+
+6.68 (1.46-30.69)
+
+RCT
+
+AbuRahma et al, 2008265,c
+
+100/100
+
+2/2
+
+1.0 (0.14-7.24)
+
+4/0
+
+———a
+
+RCT
+
+3/1d
+
+———a
+
+0/2e
+
+———a
+
+RCT
+
+ACUSEAL (PTFE)/Vascu-Guard patch
+Stone et al, 2014308
+
+100/100
+
+Systemic/meta-analysis
+
+Patch material during CEA
+
+Bond et al, 2004304,c (Cochrane review)
+
+128

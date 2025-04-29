@@ -1,0 +1,35 @@
+. Medical management for the perioperative period
+of CAS
+
+Hypertension is a common comorbidity in patients
+undergoing CEA. Blood pressure fluctuations, both
+above and below normal, are a significant source of
+morbidity and may contribute to MI and postoperative
+reperfusion syndrome. Careful periprocedural blood
+pressure management is critical to obtaining optimal
+results from the operation. Although the most recent
+AHA guidelines do not classify CEA as a high-risk surgical procedure mandating ␤-blockade, they do indicate
+that all patients with known CAD should receive
+
+Antihypertensive, ␤-blocker, and lipid-lowering therapy should be initiated in patients undergoing CAS according to the same recommendations for CEA. Patients should
+be started on dual antiplatelet therapy with aspirin (325
+mg) and clopidogrel (75 mg) or ticlopidine (250 mg). No
+randomized trial has yet compared CAS performed with
+dual-antiplatelet therapy vs aspirin alone. However, the
+published periprocedural stroke, MI, and death rates in all
+recent clinical trials have been achieved with this combination therapy.9,10,162,163 Dual-antiplatelet therapy should
+
+patients compliant with aspirin therapy may still develop
+atherothrombotic complications, such as stroke. Reduced
+antiaggregant effect is more common in patients taking
+lower-dose aspirin (81 mg) or 325 mg aspirin with an
+enteric coating than it is in patients taking 325 mg of
+noncoated aspirin daily.145 The lack of consensus for the
+definition of aspirin resistance and for the specific laboratory test to identify it has led to large variability in its
+reported prevalence.146 The routine laboratory evaluation
+of platelet reactivity is not justifiable. The pharmacologic
+response to clopidogrel also demonstrates significant interindividual variability.
+Patients with reduced platelet inhibition in response to
+clopidogrel appear to be at increased risk for cardiovascular
+events. This resistance may result from reduced bioavailability, polymorphisms of cytochrome P450, additional
+genetic variants, or increased platelet turnover.147 Prasugrel is an alternate platelet-inhibiting pharmacologic

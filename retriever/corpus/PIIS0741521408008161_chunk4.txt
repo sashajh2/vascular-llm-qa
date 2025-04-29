@@ -1,0 +1,39 @@
+ by the corresponding evidence: values and preferences, which are factors other than
+evidence that the committee considered when issuing recommendations; and if needed, technical remarks, describing the committee’s consensus regarding best practices in
+medical management, carotid endarterectomy, and carotids stenting.
+RECOMMENDATION
+In symptomatic and asymptomatic patients with low
+grade carotid stenosis (stenosis ⬍50% in symptomatic patients and ⬍60% in asymptomatic patients); we recommend
+optimal medical therapy rather than revascularization
+(GRADE 1 recommendation, high quality evidence).
+Evidence
+A systematic review and meta-analysis of randomized
+trials that compared carotid endarterectomy with medical
+management in patients with ipsilateral symptomatic carotid stenosis3 pooled results from two large multicenter
+RCTs that included a total of 5950 patients, the North
+American Symptomatic Carotid Endarterectomy Trial
+(NASCET),10,11 and the European Carotid Surgery Trial
+(ECST).12 Patients with low grade stenosis (NASCET
+
+Hobson et al 481
+
+⬍50%, ECST ⬍70%) were in fact, harmed by surgery to the
+extent that endarterectomy increased the risk of disabling
+stroke or death by 20% (95% confidence interval [CI]
+0%-44%) and the number of patients needed to be operated
+on to cause one disabling stroke or death was 45 (95% CI
+22 - infinity). Despite the inadequate blinding of outcome
+assessors in NASCET and ECST (unblinded assessors presented data to a blinded outcome review board); both trials
+were well executed, used the intention-to-treat analysis,
+and had adequate allocation concealment.
+Values statement
+In formulating this recommendation, the committee
+placed a relatively higher value on preventing harms associated with carotid endarterectomy, particularly stroke,
+death and myocardial infarction, and a relatively lower
+value on the cost and side effects of medical management
+(eg, gastrointestinal bleeding with aspirin, myopathy with
+statins, and so on).
+Medical therapy
+The best medical management for stroke prevention
+was highlighted in clinical practice guidelines issued jointly
+in 2006 by the American

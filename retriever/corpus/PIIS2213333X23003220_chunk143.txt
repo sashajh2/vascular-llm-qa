@@ -1,0 +1,64 @@
+ beneﬁt?
+
+No available data
+
+Unknown
+
+What would be the effect on health
+inequalities?
+
+None
+
+None
+
+Is the opinion acceptable to key
+stakeholders?
+
+No data available
+
+Probably yes
+
+Is the opinion feasible to implement?
+
+Yes
+
+Yes
+
+Is the opinion acceptable to key
+stakeholders?
+
+No data available
+
+Probably yes
+
+Is the opinion feasible to implement?
+
+Yes
+
+Yes
+
+CVD, Chronic venous disease.
+
+subjects to 5-20 events per 1000 people) according to
+criteria developed by a Chest expert panel.237 No trials
+randomizing patients to early ultrasound screening vs
+observation have been performed, and are unlikely to
+be done, given the large number of patients such a trial
+would require achieving adequate power in the setting
+of this low event rate. Assuming a pooled incidence of
+all venous thromboembolic (VTE) events of 1.5%, a randomized clinical trial evaluating the ability of screening
+DUS to reduce the incidence to 1% would require
+approximately 15,500 patients.238 Furthermore, routine
+ultrasound screening is not recommended even in populations at higher risk for VTE, including critically ill patients with coronavirus 2019 (ungraded consensus
+recommendation)239; those undergoing orthopedic surgery (Grade 1B against),240 nonorthopedic surgery (Grade
+2C against)241; and major trauma patients (Grade 2C
+against).241 Based on the low incidence of thromboembolic complications in asymptomatic patients, the high
+cost of routine DUS, the futility of performing randomized trials evaluating the utility of routine DUS, and
+
+recommendations against screening in other higherrisk populations, we recommend against routine ultrasound surveillance following saphenous vein ablation in
+low or average risk patients for thrombotic complications
+Although evidence in randomized trials of routine ultrasound screening is lacking, the strength of our recommendation is 1 (strong) against screening in this patient
+population, given the futility of performing such studies.
+Evidence. A systematic review of 39 RCTs and 33 observational studies (31,663 patients in total) undergoing
+routine DUS within 4 weeks of thermal or nonthermal
+ablation of the GSV, SSV, or accessory veins, found

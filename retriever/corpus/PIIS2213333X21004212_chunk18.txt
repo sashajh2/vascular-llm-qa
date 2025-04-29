@@ -1,0 +1,30 @@
+ outcome was rarely conducted.
+In the observational studies, 17 studies25,63-66,70-73,
+92,95,97,109,110,116,117,119
+had an overall low risk of bias, and 11
+studies24,62,67-69,93,94,96,98,99,111 had an intermediate risk of
+bias. One study61 had a high risk of bias mainly owing to
+lack of ascertainment of exposure, comparability, and adequacy of follow-up. Follow-up was adequate for all of
+the studies except for ﬁve studies.61,62,65,99,117 Ascertainment of outcomes was arbitrated to be adequate in all
+studies (outcomes were ascertained by the clinical
+encounter, linkage medical records, or standardized questionnaire assessment). Details of the methodologic quality
+of the included studies supporting the overall risk of bias
+assessment for each study are summarized in
+Supplementary Table III (online only).
+Key Question 1. DUS examination to diagnose saphenous vein incompetence in patients with varicose veins
+(CEAP class C2-C6)
+No studies directly compared plethysmography,
+computed tomography scan or MR imaging, or venogram to clinical examination or duplex. We included
+two comparative observational studies24,25 that included
+110 patients (151 limbs), a mean age of 45.5 years, and predominantly women. The primary outcomes were the
+incompetence of the saphenofemoral junction (SFJ),
+
+saphenopopliteal junction (SPJ), GSV, which was deﬁned
+as (retrograde ﬂow in the GSV of >500 ms).
+One study24 had an intermediate risk of bias,
+compared DUS with HHD examination (deﬁned as
+continuous wave Doppler only with no color or gray
+scale imaging or use of pulsed Doppler examination).
+The study demonstrated that the sensitivity of the
+HHD technique was 73% at the SFJ, 77% at the SPJ,
+and 51% for thigh perforators. In primary

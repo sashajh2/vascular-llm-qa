@@ -1,0 +1,41 @@
+ Two
+decades of endovascular repair of popliteal artery aneurysm–a metaanalysis. Eur J Vasc Endovasc Surg 2015;50:351-9.
+
+Submitted Feb 9, 2021; accepted May 17, 2021.
+
+Additional material for this article may be found online
+at www.jvascsurg.org.
+
+125S.e1
+
+Beuschel et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+APPENDIX (online only).
+
+Data sources and search strategies
+A comprehensive search of several databases from 1946 to
+June 15, 2018, in all languages was conducted. The databases
+of Ovid Embase, Ovid MEDLINE 1946 to Present and Epub
+Ahead of Print, In-Process & Other Non-Indexed Citations
+and Ovid MEDLINE Daily, Ovid Cochrane Central Register
+of Controlled Trials, Ovid Cochrane Database of Systematic
+Reviews, and Scopus. A complete list of search terms and
+how they are combined is available in the Appendix.
+Question 1: Endovascular approach/Open approach
+Scopus
+( ( ( TITLE-ABS-KEY ( "popliteal arter*" ) ) AND ( TITLEABS-KEY ( aneurysm* ) ) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" ) ) ) AND ( ( TITLE-ABS-KEY
+( endovascular OR intravascular OR angioplasty OR
+angioscopy ) ) OR ( TITLE-ABS-KEY ( catheteriz* W/3
+( central OR peripheral ) ) ) OR ( TITLE-ABS-KEY
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Natural history search
+SCOPUS
+( ( TITLE-ABS-KEY ( ( "brain w/3 bleed*" ) OR ( acute W/3
+limb* W/3 ischemi* ) OR ( compress* W/3 ruptur* ) OR
+( chronic W/3 ischemi* ) ) ) OR ( TITLE-ABS-KEY ( mortality
+OR morbidity OR amputat* OR thromb* OR ali OR
+"chronic ischemia" OR stroke

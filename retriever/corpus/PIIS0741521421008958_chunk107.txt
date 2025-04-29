@@ -1,0 +1,63 @@
+%, triple
+vessel CAD 100%, left main
+CAD 35.4%
+(B) Previous MI 78%, Unstable
+angina pectoris 72%, triple
+vessel CAD 100%, left main
+CAD 36%
+(C) Previous MI 61.2%, Unstable
+angina pectoris 16.5%, triple
+vessel CAD 99%, left main
+CAD 5.8%
+
+(A) 22
+(B) 8
+(C) 14
+
+NR
+
+NR
+
+NR
+
+(A) 64.7
+(C) 67.1
+
+(A) 77.5
+(C) 77.4
+
+(A) HTN 78.9%, DM 45.1%,
+smoking 64.8%, HLD 18.3%,
+PAD 18.3%, COPD 2.8%, three
+vessel CAD 76.1%, MI history
+35.2%
+(C) HTN 80.6%, DM 77.4%,
+smoking 61.3%, HLD 58.1%,
+PAD 22.6%, COPD 25.8%,
+three-vessel CAD 71%, MI
+history 16.1%
+
+(A) 255
+(C) 257
+
+(A) 65.6
+(C) 64.3
+
+(A) 65.5
+(C) 74.7
+
+(A) HTN 66.3%, smoking 29.4%,
+CHF 11.8%, MI 31.8%, PAD
+32.9%, DM 25.9%, COPD
+12.9%, CRF 3.5%, obesity
+5.5%, HLD 20.8%
+(C) HTN 66.9%, smoking 42.0%,
+CHF 10.5%, MI 38.5%, PAD
+29.6%, DM 19.8%, COPD
+9.7%, CRF 1.9%, obesity 4.7%,
+HLD 20.2%
+
+Patients from federal and
+prison hospitals
+
+(A

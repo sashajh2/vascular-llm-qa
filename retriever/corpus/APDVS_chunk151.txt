@@ -1,0 +1,40 @@
+ long sheaths for diagnostics and
+treatment. Long sheaths are fexible enough to track along different vessels, but are also stiff
+enough to support the advancement or exchange of devices.
+Ĺ Note
+Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the
+inner diameter of the tube.
+As such, a 6F catheter will pass through a 6F sheath.
+Key points about sheaths:
+ Sheaths are measured based on the inner diameter of the sheath, in contrast to catheters,
+which are measured based on their outer diameter.
+ Sheaths contain a removable introducer, which is used to expand the tract from the
+outside into the vessel, and provide a smooth transition between the wire and the sheath.
+
+191
+
+ The side port on sheaths is used to fush the inner device with heparinized saline to
+prevent thrombus formation and distal embolization. It can also be used to inject contrast
+for diagnostic purposes.
+ Sheaths come in variable diameters, lengths, and tips.
+ Some sheaths, such as the TourGuide (Medtronic, Minneapolis, MN) are steerable.
+The operator can defect the sheath tip up to 180 degrees. This is advantageous when
+cannulating branch arteries with sharp angles.
+It is also helpful to understand what diameter of sheath can be inserted into different points
+of access as this will change the approach for the procedure. Though there is variation across
+patients, the table below is a useful starting point to understand what size sheath can be
+inserted in target access arteries.
+
+Artery                  Inner Diameter (mm)         Typical Access Sheath size (F)
+Radial                  2.3                         4-6
+Brachial                                            5-7
+Axillary                                            5-14
+Common Femoral          6.6                         5-24
+Popliteal               4.7                         4-6
+Pedal                   2.1                         4
+
+Balloons, Stents, and Endografts
+The delivery system for balloons consists of a catheter over the wire with the balloon built
+into the catheter tip. As such, advancing the balloon into place for angioplasty is no different
+from advancing a small catheter without a balloon.
+Similar to balloons, stents are contained

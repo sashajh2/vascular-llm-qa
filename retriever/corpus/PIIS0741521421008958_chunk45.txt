@@ -1,0 +1,160 @@
+.649-18.74)
+
+Stroke at 1 year
+
+Medical management
+vs CAS
+
+Reiff et al,1 2019
+
+113
+
+197
+
+310
+
+0.22 (0.028-1.72)
+
+Stroke at 3 months
+
+Medical management
+vs CAS
+
+Lin et al,2 2016
+
+15
+
+25
+
+40
+
+Ipsilateral stroke
+at 1 year
+
+Medical management
+vs CAS
+
+Reiff et al,1 2019
+
+113
+
+197
+
+310
+
+Ipsilateral stroke at
+3 months
+
+Medical management
+vs CAS
+
+Lin et al,2 2016
+
+15
+
+25
+
+40
+
+NA
+
+MI at 1 year
+
+Medical management
+vs CAS
+
+Reiff et al,1 2019
+
+113
+
+197
+
+310
+
+1.74 (0.035-86.95)
+
+MI at 3 months
+
+Medical management
+vs CAS
+
+Lin et al,2 2016
+
+15
+
+25
+
+40
+
+NA
+
+Death at 1 year
+
+Medical management
+vs CEA
+
+Reiff et al,1 2019
+
+113
+
+203
+
+316
+
+1.44 (0.39-5.24)
+
+Death at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+24
+
+31
+
+55
+
+5.17 (0.617-43.28)
+
+Stroke at 1 year
+
+Medical management
+vs CEA
+
+Reiff et al,1 2019
+
+113
+
+203
+
+316
+
+0.22 (0.028-1.77)
+
+Stroke at 3.3 years
+
+Medical management
+vs CEA
+
+Kolos et al,4 2015
+
+24
+
+31
+
+55
+
+6.46 (0.81-51.69)
+
+Stroke at 5 years
+
+Medical management
+vs CEA
+
+ACST, 2004
+
+1560
+
+15

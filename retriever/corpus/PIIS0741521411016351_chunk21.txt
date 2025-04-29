@@ -1,0 +1,32 @@
+
+curves showed that the ICA PSV was significantly better
+than EDV or ICA/CCA ratio (P ⫽ .036) in detecting
+ⱖ70% stenosis and ⱖ50% stenosis. There was no improvement in accuracy by adding the EDV values or the ratios, or
+both, to the PSV values.
+Velocity-based estimation of carotid artery stenosis may
+need to be adjusted in certain circumstances, for example,
+higher velocities in women than in men and higher velocities in the presence of contralateral carotid artery occlusion.70,71 High carotid bifurcation, severe arterial tortuosity, extensive vascular calcification, and obesity may also
+reduce the accuracy of DUS imaging. Carotid stents will
+decrease compliance of the vessel wall and flow velocity.72
+DUS imaging may also fail to differentiate between subtotal and total carotid occlusion. Intravenous administration
+of contrast agents may improve diagnostic accuracy,73,74
+but the safety of these agents has been questioned.
+Power Doppler and contrast DUS imaging can be used
+to differentiate between preocclusive stenosis and complete
+occlusion.75 Overall, each vascular laboratory should have
+in place an internal validation process of their own criteria
+for their internal use.
+DUS imaging of the carotid artery has two major
+limitations: quality dependence on the technician’s examination and limitations of visualization of the proximal
+carotid artery and intracranial portions. Although the intracranial cerebral arteries can be assessed with transcranial
+Doppler imaging, this technique is not as widely available at
+most institutions as other imaging modalities.
+In addition to determining percent stenosis, DUS, as
+noted above, has been used to determine plaque characteristics (echogenicity) using gray scale median values, which
+predict the stroke risk of a particular plaque. Plaque characterization is not routine in every vascular laboratory and
+requires specific protocols to assure standardization of results.
+B. Magnetic resonance imaging and angiography
+MRA has the advantage of being noninvasive, does not
+require iodinated contrast or ionizing radiation, and provides an unlimited number of projections of the carotid
+lumen from a single acquisition. MRA can also assess
+intrathoracic and intrac

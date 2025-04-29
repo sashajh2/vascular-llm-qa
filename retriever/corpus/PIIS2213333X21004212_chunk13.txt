@@ -1,0 +1,65 @@
+/S vs EVLA
+(SMD, 0.04; 95% CI, e0.14 to 0.22;
+I2 ¼ 40.6%)
+
+B (rated down owing to
+imprecision owing to small
+sample size)
+
+Total AEs
+
+10 studies, 8 RCTs, 2
+observational (1617 patients)
+12 studies, 7 RCTs, 5
+observational (3390 patients)
+7 studies, 6 RCTs, one
+observational (2274 patients)
+
+HL/S vs RFA
+(RR, 1.65; 95% CI, 1.16 to 2.35;
+I2 ¼ 72.5%)
+HL/S vs EVLA
+(RR, 0.99; 95% CI, 0.77 to 1.27;
+I2 ¼ 74.6%)
+HL/S vs UGFS
+(RR, 0.70; 95% CI, 0.58 to 0.85;
+I2 ¼ 28.3%)
+
+C (rated down owing to
+inconsistency and risk of
+bias)
+C (rated down owing to
+inconsistency and risk of
+bias)
+B (rated down owing to risk of
+bias)
+
+Key Question 3. Endovenous thermal ablation vs nonthermal ablation
+Anatomic closure at
+1 year
+
+3 studies, 2 RCTs, one
+observational (448 patients)
+
+EVLA vs UGFS
+(RR, 1.23; 95% CI, 1.11 to 1.37;
+I2 ¼ 0.00%)
+
+Reintervention at
+1 year
+
+2 studies, 2 RCTs (740 patients) (RR, 0.51; 95% CI, 0.28 to 0.91;
+I2 ¼ 0.00%)
+
+B (rated down owing to risk of
+bias)
+
+Total AEs
+
+2 RCTs (710 patients)
+One observational study
+(60 patients)
+
+C (rated down owing to risk of
+bias and inconsistency)
+C (rated down owing

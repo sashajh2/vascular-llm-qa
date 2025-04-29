@@ -1,0 +1,40 @@
+’s baseline skin color. Loss of sensation and more specifically loss of fine touch and
+proprioception should be evaluated. Muscle tenderness, particularly in the calf when a lower
+extremity is involved indicates advanced ischemia. Finally, a vascular exam with a doppler
+should be performed and can be both diagnostic and reveal the level of occlusion.
+The gold standard of classifying ALI of the lower extremity and determining need for intervention is based on this combination of sensory/motor clinical findings and a vascular exam with
+doppler findings.
+
+138
+
+As indicated in table 1 below, patients who are classified as Class 2 or above will
+require surgical intervention.
+Timing of treatment is an important consideration; patients who fall under class 2a are
+marginally threatened and do not require immediate intervention versus those who fall under class 2b and 3.
+
+
+Imaging may be utilized in the diagnosis of ALI cases that do not require immediate intervention and transport to the operating room.
+CT angiography is the imaging modality of choice as it is easily and quickly accessible in most
+emergency departments; CTA reads can aid in both diagnosis and preoperative planning.
+Ultrasound may also be useful in certain instances such as rapid, bedside imaging.
+Transfemoral angiography or angiography through an alternative access vessel site is typically
+utilized at the beginning of an endovascular procedure for intraoperative planning once a
+diagnosis of ALI has been established.
+
+Treatment
+Initial management
+AAs mentioned in the previous section, treatment and timing of treatment for ALI depends
+on the Rutherford class. However, there is a universal set of things that should be done for
+any patient regardless of their class. Initiation of systemic anticoagulation with heparin or a
+
+139
+
+direct thrombin inhibitor in the case of a heparin induced thrombocytopenia (HIT) is always
+the first step in management. Heparin may even be started during the diagnostic work-up if
+there is a high clinical suspicion of ALI. Initial labs that should be ordered include a CBC,
+CMP, baseline fibrinogen, and a type and screen.
+
+Operative management
+As far as surgical options go, ALI can be managed with endovascular surgery, open surgery,
+or through a hybrid approach. The algorithm above shows considerations for when to pursue
+an endovascular vs.

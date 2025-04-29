@@ -1,0 +1,51 @@
+ MRA sequences can
+be more time-consuming than contrast-enhanced
+MRA, non-contrast-enhanced MRA has almost the
+same sensitivity for detecting vascular abnormalities
+and a high negative predictive value. Non-contrastenhanced MRA (like contrast-enhanced MRA) can be superior and complementary to ultrasound in evaluating
+most parts of the body because it is not limited by acoustic windows, particularly in the thoracoabdominal vasculature.202-204
+
+2. Size criteria for invasive intervention
+Recommended intervention criteria for PDAA and GDAA
+Recommendation
+2.1
+
+In patients with noncomplicated GDAA and PDAA of acceptable operative risk, we
+recommend treatment no matter the size of the aneurysm because of the risk of
+rupture.
+
+Non-contrast-enhanced CT scans may show only a soft
+tissue mass in the aneurysm bed that can be confused
+with
+adenopathy
+or
+pancreatic
+or
+duodenal
+neoplasm.160,194
+Contrast-enhanced MRA has been shown to correlate
+well with CTA,86 but it should not be used in emergent
+cases as acquisition times are longer than for CTA.197
+Postprocessing maximum intensity projection images
+are similar to those of conventional angiography,
+providing a roadmap for therapeutic interventions.179
+Finally, duplex ultrasound may delineate larger aneurysms, but information on parent artery anatomy is insufﬁcient.59 Accuracy can be decreased because of the
+patient’s body habitus, calciﬁed vessel walls, and limited
+spatial resolution.198,199
+Duplex ultrasound is one of the most common diagnostic techniques used to evaluate the celiac axis for median arcuate ligament syndrome.200 It can provide realtime inspiratory and expiratory data, helping elucidate
+the cause of the GDAA or PDAA and its treatment.201
+
+Strength of
+recommendation
+
+Quality of
+evidence
+
+1 (Strong)
+
+B (Moderate)
+
+Previous studies have made the distinction in size
+threshold for repair of visceral artery aneurysms on the
+basis of whether the aneurysm is a true aneurysm or a
+pseudoaneurysm.205 This is based on the fact that pseudoaneur

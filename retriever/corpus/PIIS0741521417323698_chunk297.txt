@@ -1,0 +1,74 @@
+Search strategy
+Ovid. Database(s): Embase 1988 to 2016 Week 38, Ovid
+MEDLINE(R) In-Process & Other Non-Indexed Citations
+and Ovid MEDLINE(R) 1946 to Present, EBM Reviewsd
+
+#
+
+Cochrane Central Register of Controlled Trials August
+2016, EBM ReviewsdCochrane Database of Systematic Reviews 2005 to September 15, 2016 Search
+Strategy:
+
+Searches
+
+Results
+
+1
+
+exp Aortic Aneurysm, Abdominal/di, dh, dt, ri, rt, su, th, us [Diagnosis, Diet Therapy, Drug
+Therapy, Radionuclide Imaging, Radiotherapy, Surgery, Therapy, Ultrasonography]
+
+12817
+
+2
+
+exp abdominal aorta aneurysm/di, dm, dt, rt, su, th [Diagnosis, Disease Management,
+Drug Therapy, Radiotherapy, Surgery, Therapy]
+
+14097
+
+3
+
+(“abdominal aorta aneurysm*” or “abdominal aortic aneurysm*” or “aortic abdominal aneurysm*”).mp.
+
+4
+
+(((volume* or PET or spiral or helical or 3d or beam or 4d or “whole body”) adj (ct or cat or cts or scan*))
+or agent* or “cat scan*” or chemotherap* or “ct scan*” or diagnos* or drug* or image or images or imaging
+or intervention* or manag* or medication* or microtomograph* or “micro-tomograph*” or operat*
+or pharmacotherap* or radiotherap* or reconstruction* or repair* or resect* or SPECT or surg* or therap*
+or tomograph* or treat* or ultrasonograph* or ultrasound* or xray* or “x-ray*”).mp.
+
+5
+
+3 and 4
+
+6
+
+1 or 2 or 5
+
+7
+
+exp meta analysis/
+
+8
+
+exp Meta-Analysis as Topic/
+
+49995
+
+9
+
+exp Randomized Controlled Trial/
+
+863768
+
+10
+
+exp triple blind procedure/
+
+186
+
+11
+
+exp Double-Bl

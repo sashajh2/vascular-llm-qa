@@ -1,0 +1,172 @@
+
+
+A
+
+A
+
+A
+
+Low
+
+Reiff et al, 20191
+
+C
+
+C
+
+B
+
+B
+
+A
+
+A
+
+A
+
+Moderate
+
+Walker et al,3 1995
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Selection
+
+Author, Year
+
+Comparability
+
+Outcome
+
+Selection of the
+Comparability
+Adequacy of follow-up:
+nonexposed cohort:
+of cohorts
+(A) Complete follow-up- all
+(A) Drawn from the
+on the basis of
+patients accounted for*
+same community as
+the design
+Assessment
+(B) Patients lost
+the exposed cohort*
+or analysis
+of outcome:
+to follow-up unlikely
+(B) Drawn from general
+(matching/confounder
+(A) Independent
+to introduce bias -small
+Representativeness
+population (matched for
+adjustment):
+blind assessment*
+Was follow-up number lost- >80% follow-up,
+of the exposed cohort
+important criteria)*
+Ascertainment of
+(A) Study controls
+(B) Record linkage*
+long enough
+or description of those lost*
+(A) Truly representative*
+(C) No description of the
+exposure:
+for age and sex*
+(C) Standard procedure for outcomes
+(C) Follow-up rate
+(B) Somewhat representative*
+derivation of the
+(A) Secure record*
+(B) Study controls for BMI
+well described*
+to occur:
+<80% and no description
+(C) No description of the
+nonexposed
+(B) written self-report*
+and comorbidities*
+(D) Self-report
+(A) Yes*
+of those lost
+derivation of the cohort
+cohort
+(C) No description
+(C) No description
+(E) No description
+(B) No
+(D) No statement
+
+Overall
+risk of
+bias
+
+Question 1: Observational studies
+Lin et al,2 2016 B
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+Low
+
+Sato, 201615
+
+A
+
+A
+
+A
+
+E
+
+A
+
+B
+
+Low
+
+A
+
+Outcomes
+
+Selection
+Random sequence
+generation:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Allocation
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of participants
+or personnel:
+(A) Low

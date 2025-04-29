@@ -1,0 +1,29 @@
+ or
+gorillas or hamster or hamsters or hare or hares or heifer or heifers or horse or horses or insect or insects or jellyﬁsh or
+kangaroo or kangaroos or kitten or kittens or lagomorph or lagomorphs or lamb or lambs or llama or llamas or
+macaque or macaques or macaw or macaws or marmoset or marmosets or mice or minipig or minipigs or mink or
+minks or monkey or monkeys or mouse or mule or mules or nematode or nematodes or octopus or octopuses or
+orangutan or "orang-utan" or orangutans or "orang-utans" or oxen or parrot or parrots or pig or pigeon or pigeons or
+piglet or piglets or pigs or porcine or primate or primates or quail or rabbit or rabbits or rat or rats or reptile or reptiles
+or rodent or rodents or ruminant or ruminants or salmon or sheep or shrimp or slug or slugs or swine or tamarin or
+tamarins or toad or toads or trout or urchin or urchins or vole or voles or waxworm or waxworms or worm or worms or
+xenopus or "zebra ﬁsh" or zebraﬁsh) not (human or humans or patient or patients)).ti,ab,hw,kw.
+54 51 not (52 or 53)
+55 limit 54 to (editorial or erratum or note or addresses or autobiography or bibliography or biography or blogs or
+comment or dictionary or directory or interactive tutorial or interview or lectures or legal cases or legislation or news
+or newspaper article or overall or patient education handout or periodical index or portraits or published erratum or
+video-audio media or webcasts) [Limit not valid in CCTR,CDSR,Embase,Ovid MEDLINE(R),Ovid MEDLINE(R) Daily
+Update,Ovid MEDLINE(R) In-Process,Ovid MEDLINE(R) Publisher; records were retained]
+
+1952
+26
+
+56 from 55 keep 1-2
+
+2
+
+57 (54 not 55) or 56
+
+1928
+
+58 remove duplicates from 

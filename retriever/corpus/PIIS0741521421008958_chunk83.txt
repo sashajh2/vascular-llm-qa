@@ -1,0 +1,113 @@
+19
+(C) 21
+
+69
+
+(A) 58
+(C) 57
+
+(A) HTN 42%, DM 5%,
+cardiac disease 37%,
+claudication 16%,
+previous stroke 15.7%
+(C) HTN 33%, DM 5%,
+cardiac disease 19%,
+claudication 5%,
+previous stroke 4.7%
+
+Author, year
+geographic area
+
+Inclusion criteria
+
+Total No. of
+patients (A) screened
+(B) unscreened
+
+Mean age,
+years
+
+Male sex,
+%
+
+(A) 72
+(B) NR
+
+(A) 59
+(B) NR
+
+Mean BMI
+
+Comorbidities
+
+Question 4: Screening high risk patients (comparative studies)
+Berens et al,44 1992
+USA
+
+Patients who were $65 years
+of age undergoing a
+cardiac surgical
+procedure
+
+(A) 1087
+(B) 97
+
+NR
+
+(A) CAD 89.3%, HTN 64%, DM 27%,
+PAD 10%, stroke 7.1%, renal
+disease 2.5%
+(B) NR
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e13
+
+Volume 75, Number 1S
+
+Supplementary Table II (online only). Continued.
+Author, year
+geographic area
+Lin et al,45 2016
+USA
+
+Inclusion criteria
+Patients were those who
+underwent open heart
+surgery
+
+Author, year
+geographic area
+
+Total No. of
+patients (A) screened
+(B) unscreened
+
+Mean age,
+years
+
+Male sex,
+%
+
+Mean BMI
+
+Comorbidities
+
+(A) 515
+(B) 2718
+
+(A) 64.6
+(B) 63.1
+
+(A) 72
+(B) 64.8
+
+(A) 28.8
+(B) 29.2
+
+(A) CAD 59.4%, current smoker:
+37.7%, DM 36.7%, dyslipidemia
+68.7%, HTN 80.2%, infectious
+endocarditis

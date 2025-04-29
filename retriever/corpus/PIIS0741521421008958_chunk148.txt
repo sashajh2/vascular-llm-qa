@@ -1,0 +1,71 @@
+(er) OR
+DOCTYPE(no) OR DOCTYPE(sh)
+8 6 and not 7
+9 INDEX(embase) OR INDEX(medline) OR PMID(0* OR
+1* OR 2* OR 3* OR 4* OR 5* OR 6* OR 7* OR 8* OR 9*)
+10 8 and not 9
+Question 5: Optimal sequence for intervention in patients with combined carotid and coronary disease
+Ovid. Database(s): EBM Reviews - Cochrane Central
+Register of Controlled Trials May 2019, EBM Reviews Cochrane Database of Systematic Reviews 2005 to
+June 26, 2019, Embase 1974 to 2019 July 02, Ovid
+MEDLINE(R) and Epub Ahead of Print, In-Process &
+Other Non-Indexed Citations and Daily 1946 to July 02,
+2019.
+
+Search Strategy:
+#
+
+Searches
+
+Results
+
+1 exp Carotid Arteries/
+
+139002
+
+2 exp Carotid Artery Diseases/dh, dt, rt, su,
+th [Diet Therapy, Drug Therapy,
+Radiotherapy, Surgery, Therapy]
+
+19840
+
+3 ("arteria carotis" or carotid).ti,ab,hw,kw.
+
+321971
+
+4 1 or 2 or 3
+
+322854
+
+5 exp Coronary Disease/
+6 exp ischemic heart disease/
+
+527641
+1072420
+
+7 exp heart atrium ﬁbrillation/
+
+56268
+
+8 exp Atrial Fibrillation/
+
+110853
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e35
+
+Volume 75, Number 1S
+
+Continued.
+#
+
+Searches
+
+Results
+
+9 ("acute coronary artery thrombos*" or "acute coronary syndrome*" or "acute heart muscle ischaemia*" or "acute heart 1648376
+muscle ischemia*" or "ampulla cardiomyopath*" or angina or "anginal attack*" or "apical ballooning" or "arteria
+coronaria ostium stenos

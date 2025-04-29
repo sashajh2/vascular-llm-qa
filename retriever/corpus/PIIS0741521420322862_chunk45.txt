@@ -1,0 +1,34 @@
+3112
+
+43 studies, 1795 patients
+
+Endovascular with lower perioperative morbidity and mortality, but
+lower patency and higher recurrence, no difference in long-term
+survival
+
+Gupta, 2010113
+
+1939 patients
+
+Endovascular with lower perioperative complications but lower
+patency and higher recurrence, no difference in mortality
+
+to 2006. They reported that there was a steady increase
+in the number of endovascular procedures (vs open)
+from 28% (2000) to 75% (2006) and that the endovascular interventions were associated with a lower perioperative mortality (11.0% vs 20.4%; P ¼ .001), mesenteric
+complications (6.9% vs 17.1%; P < .0001), and individual
+organ system complications (ie, cardiac, pulmonary,
+and infections), although a higher percentage were discharged home (55% vs 37%; P < .0001). Erben et al116
+examined the outcomes across the country for patients
+(n ¼ 15,475) undergoing intervention for CMI using the
+National Inpatient Sample from 2000 to 2014. They reported a similar trend in the breakdown of procedures
+with 70.6% of the patients undergoing endovascular
+treatment. Despite the fact that a higher percentage
+(43.3% vs 33.1%; P < .0001) of the patients in the endovascular group had a Charlson Comorbidity Index score of 2
+or higher, they had a lower mortality rate (2.4% vs 8.7%;
+P < .0001), mean length of stay (6.3 days vs 14.0 days;
+P < .0001), and lower cost of hospitalization ($21,686 vs
+$42,974; P < .0001) and these differences persisted after
+adjustment for clinical and hospital factors. Based on
+these ﬁndings, the authors concluded that endovascular
+revascularization should be the ﬁrst line of

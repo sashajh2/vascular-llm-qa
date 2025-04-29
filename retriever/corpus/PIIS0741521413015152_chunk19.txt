@@ -1,0 +1,67 @@
+ II. Society for Vascular Surgery Lower Extremity Threatened Limb (SVS WIfI) classiﬁcation system
+I. Wound
+II. Ischemia
+III. foot Infection
+W I fI score
+W: Wound/clinical category
+SVS grades for rest pain and wounds/tissue loss (ulcers and gangrene):
+0 (ischemic rest pain, ischemia grade 3; no ulcer) 1 (mild) 2 (moderate) 3 (severe)
+
+Grade
+
+Ulcer
+
+Gangrene
+
+0
+No ulcer
+Clinical description: ischemic rest pain (requires typical symptoms þ ischemia grade 3); no wound.
+
+No gangrene
+
+1
+
+Small, shallow ulcer(s) on distal leg
+No gangrene
+or foot; no exposed bone, unless limited
+to distal phalanx
+Clinical description: minor tissue loss. Salvageable with simple digital amputation (1 or 2 digits) or skin coverage.
+2
+
+Deeper ulcer with exposed bone, joint or
+Gangrenous changes limited to digits
+tendon; generally not involving the heel;
+shallow heel ulcer, without calcaneal involvement
+Clinical description: major tissue loss salvageable with multiple ($3) digital amputations or standard TMA 6 skin coverage.
+3
+
+Extensive, deep ulcer involving forefoot and/or
+Extensive gangrene involving forefoot
+midfoot; deep, full thickness heel ulcer 6
+and /or midfoot; full thickness
+heel necrosis 6 calcaneal involvement
+calcaneal involvement
+Clinical description: extensive tissue loss salvageable only with a complex foot reconstruction or nontraditional TMA (Chopart or Lisfranc);
+ﬂap coverage or complex wound management needed for large soft tissue defect
+TMA, Transmetatarsal amputation.
+I: Ischemia
+Hemodynamics/perfusion: Measure TP or TcPO2 if ABI incompressible (>1.3)
+SVS grades 0 (none), 1 (mild), 2 (moderate), and 3 (severe).
+
+Grade
+0
+1
+2
+3
+
+ABI
+$0.80
+0.6-0.79
+0.4-0.59
+#0.39
+
+Ankle systolic pressure
+
+TP, TcPO2
+
+>1

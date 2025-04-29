@@ -1,0 +1,69 @@
+ allocation
+concealment, blinding of participants, incomplete
+outcome data, selective outcome reporting, and other
+sources of bias such as the source of funding and conﬂict
+of interest. We used a modiﬁed version of the NewcastleOttawa scale for observational studies,18 focusing on the
+exposed cohort’s representativeness and nonexposed
+cohort, ascertainment of exposure and outcomes,
+comparability of cohorts, and adequacy of follow-up. For
+diagnostic tests, we used QUADAS-2 (A Revised Tool for
+the Quality Assessment of Diagnostic Accuracy Studies)19;
+this tool considers four key domains, namely, patient
+
+Table II. Certainty in estimates for key outcomes using the GRADE approach
+Outcomes
+
+Main ﬁndings
+
+Studies
+
+Certainty in evidence
+
+Key Question 1. DUS examination vs HHD
+SFJ incompetence
+(retrograde ﬂow in
+the GSV >500 ms)
+
+2 observational studies (110
+patients)
+
+Sensitivity of HHD ranged 51%-77%
+B (rated down owing to
+Management would change in 10%-25%
+imprecision owing to small
+if duplex was used
+sample size)
+
+Key Question 2. HL/S vs endovenous ablation by any technique
+Anatomic closure at
+5 years
+
+One RCTs (798 patients)
+
+HL/S vs UGFS
+(RR, 1.52; 95% CI, 1.09 to 2.13)
+HL/S vs EVLA
+(RR, 1.03; 95% CI, 0.86 to 1.25)
+
+B (rated down owing to
+imprecision owing to small
+sample size)
+
+QoL at 5 years
+
+3 RCTs (920 patients)
+
+HL/S vs EVLA
+(SMD, 0.04; 95% CI, e0.14 to 0.22;
+I2 ¼ 40.6%)
+
+B (rated down owing to
+imprecision owing to small
+sample size)
+
+Total AEs
+
+10 studies, 8 RCTs, 2
+observational (1617 patients)
+12 studies, 7 RCTs, 5
+observational (

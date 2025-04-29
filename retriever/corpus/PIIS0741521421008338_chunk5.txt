@@ -1,0 +1,46 @@
+ than one and for a beneﬁcial intervention
+(patency) would be greater than one. Because of anticipated heterogeneity, the DerSimonian and Laird random
+effects model7 was used to pool estimates from the
+included studies. The I2 statistic was used to estimate
+heterogeneity. Analysis was done using R Statistical
+Computing software version 4.0.0 (The R Foundation,
+Vienna, Austria). Data were insufﬁcient to conduct
+
+ARTICLE HIGHLIGHTS
+d
+
+d
+
+d
+
+Type of Research: Systematic review and metaanalysis to support Society for Vascular Surgery
+guideline.
+Key Findings: This meta-analysis provides event rates
+for patient important outcomes after treatment of
+popliteal artery aneurysms.
+Take Home Message: The open approach for treating
+popliteal artery aneurysms is associated with higher primary patency and lower short-term occlusion, but
+longer hospital stay and more wound complications.
+There was no signiﬁcant difference in mortality or
+amputation rate between open and endovascular
+approaches.
+
+preplanned subgroup analyses (aneurysm size, extension
+to superﬁcial femoral artery, and concomitant aneurysms).
+We used the GRADE approach to evaluate certainty in the
+evidence (also called quality of evidence).8 In this approach,
+randomized trials start at high level of certainty and observational studies start at low level of certainty. Certainty can
+be graded down owing to study limitations, imprecision,
+indirectness, inconsistency, or publication bias. Certainty
+can also be increased, for example, for a large effect size.9
+
+RESULTS
+Included studies. We identiﬁed 32 original studies in 33
+publications10-42 and 4 systematic reviews1,43-45 from 2191
+candidate references. The Fig depicts the process of
+study selection. Thirty original studies in 31
+publications10-20,22-34,36-42 were included in the quantitative synthesis comparing OAR and EVAR. These
+studies included 5381 patients with mean age range of
+63 to 68 years; 91.6% of patients were male (descriptive
+data are from studies that reported outcomes per
+patient, not per aneurys

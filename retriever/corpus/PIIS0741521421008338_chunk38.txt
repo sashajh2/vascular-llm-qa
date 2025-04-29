@@ -1,0 +1,100 @@
+. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+156,043
+
+Advanced
+
+3
+
+1 and 2
+
+1806
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+701
+
+Advanced
+
+5
+
+3 or 4
+
+1806
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+70,185
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+30,631
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼title, abstract,
+heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+95,568
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+9333
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,307
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,957
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity

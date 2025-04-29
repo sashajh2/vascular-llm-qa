@@ -1,0 +1,56 @@
+ sheaths (>8Fr), use of arterial closure devices
+ More likely to involve anticoagulation
+
+Access Complications
+Although each procedure comes with its own specific risks (e.g. stroke for a carotid artery stent,
+distal embolization for atherectomy etc), there are multiple complications that can occur with
+any endovascular procedure. The procedure specific complications will be explored in further
+detail in each chapter. Common access complications are listed below.
+Groin Hematoma
+A groin hematoma is a collection of blood that has collected outside the lumen of the vessel,
+which often occurs after removal of the sheath.
+Groin hematoma characteristics:
+ Occur in about 1-3 % of cases
+ Often due to a stick not directly over the femoral head in which case manual pressure
+may not provide adequate hemostasis.
+ Hematomas are rarely ever operated on unless they case skin compromise, severe pain,
+femoral nerve compression, or are rapidly expanding.
+ Hematoma will generally be absorbed by the body.
+ If they are operated on, there is a significant risk of infection (about 20%) and seroma
+formation.
+Pseudoaneurysms
+A pseudoaneurysm is defined as a collection of turbulent blood fow contained only by one
+or two layers of the arterial wall as opposed to a true aneurysm where all three layers are
+dilated (occur in less than 1% of endovascular cases). They occur secondary to injury
+(iatrogenic or trauma).
+These must be managed urgently and treated appropriately to prevent significant
+morbidity and mortality.
+Pseudoaneurysm presentation:
+ Pulsatile often painful mass at a prior access site
+ May lead to skin necrosis
+ Bruit on auscultation
+
+201
+
+Pseudoaneurysm risks:
+
+
+
+
+
+
+Vessel rupture
+Thrombus formation with distal embolization
+Skin necrosis
+Nerve compression
+Venous compression
+
+Etiology:
+Most often, seen at the femoral artery as an access site complication from:
+ Failed deployment of a closure device
+ Laceration of the artery or branch by an access needle
+ Inadequate pressure or length of pressure being held.
+Patients who are obese, female, hypertensive or are on anticoagulation or antiplatelet therapy
+are at higher risk for femoral PSA.
+Workup:
+ Duplex

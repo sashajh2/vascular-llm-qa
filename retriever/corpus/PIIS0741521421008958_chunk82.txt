@@ -1,0 +1,72 @@
+excluded
+
+(A) 649
+(B) 3707
+(C) 4048
+
+(A) 69
+(B) 70
+(C) 69.9
+
+(A) 65.5
+(B) 63.1
+(C) 62.2
+
+(A) Obesity 35.4%, DM
+12.3%, anemia 12.6%,
+HTN 85.7%, CAD 20.6%,
+CHF 5.4%, ESRD 0.9%,
+COPD 16.5%
+(B) Obesity 34.1%, DM 15.2%,
+anemia 14.7%, HTN
+87.4%, CAD 20.8%, CHF
+10.1%, ESRD 0.8%, COPD
+19.8%
+(C) Obesity 32.6%, DM
+14.4%, anemia 12.5%,
+HTN 86.7%, CAD 21.5%,
+CHF 9.4%, ESRD 0.9%,
+COPD 21.7%
+
+Welsh et al,43 2004
+UK
+
+Only patients with acute
+stroke randomized within
+7 days of the onset of
+symptoms were included
+
+Focal neurologic deﬁcits
+lasting <24 h, patients
+unﬁt for surgery and those
+with a Barthel score
+of <18 before stroke
+(measured by a Barthel
+Activities of Daily Living
+score) were not included.
+Patients with cerebral
+hemorrhage or
+intracranial spaceoccupying lesion on CT
+scan and any medical
+condition that precluded
+surgery were also
+ineligible.
+
+(A) 19
+(C) 21
+
+69
+
+(A) 58
+(C) 57
+
+(A) HTN 42%, DM 5%,
+cardiac disease 37%,
+claudication 16%,
+previous stroke 15.7%
+(C) HTN 33%, DM 5%,
+cardiac disease 19%,
+claudication 5%,
+previous stroke 4.7%
+
+Author, year

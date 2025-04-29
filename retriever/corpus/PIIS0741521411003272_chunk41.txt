@@ -1,0 +1,37 @@
+).114,115
+The CXVUQ was developed to provide a QOL measure for patients with venous ulcers. It provides a consistent
+measure of patient-reported QOL in venous ulcers regardless of the treatment selected. Combining it with a generic
+measurement instrument may provide valuable information
+on the progression of ulcers and on the available treatment
+measures.3
+Physician-generated measurement tools
+The physician-generated measurement tools include
+the CEAP classification,76,77 which, as discussed previously, is an accurate description of signs and symptoms.
+However, the instrument contains too many static elements, especially in classes C4 and C5, and is not particularly suitable for an assessment of improvement after
+therapy.116
+The VCSS was introduced by Rutherford et al104 and
+has been used successfully in several studies to evaluate
+
+JOURNAL OF VASCULAR SURGERY
+May Supplement 2011
+
+changes in signs and symptoms over time and to quantify
+outcomes.108,116-121 The VCSS is based on physician assessment of nine clinical signs or symptoms of CVD, including pain, presence of varicose veins, edema, signs of
+CVI, and venous ulcers. Compliance with compression
+therapy is also assessed. The VCSS correlates well with the
+CEAP score and with ultrasonographic assessment of the
+severity of venous valvular incompetence or obstruction.113,121-126
+A revised VCSS (Table IV) has been developed recently
+to clarify ambiguities, update terminology, and simplify
+application of the first version.78 It now incorporates the
+important language of the PRO assessment tools. The
+presumption of venous origin is intended for all clinical
+descriptors, and each limb is considered and scored separately. These revisions are currently being validated in a
+multicenter field test.
+The strength of the VCSS is in its evaluative properties
+in identifying subtle intrasubject changes over time after an
+intervention.122,123 An evaluation of each VCSS component allows outcome analysis on many levels, including
+technical, patient-reported, and clinical outcomes. In this
+sense, the revised VCSS is unique among clinical outcome
+assessments and PROs. Although it is administered by a
+physician,

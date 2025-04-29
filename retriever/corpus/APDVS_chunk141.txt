@@ -1,0 +1,34 @@
+wires that you would like opened to deliver the device into the patient’s aorta. Which
+of the following wires would be most useful for this task?
+A. 0.018” fexible Terumo wire
+B. 0.035” Amplatz wire
+C. 0.035” foppy Glidewire
+D. 0.014” Pilot wire
+Answer
+B. 0.035” Amplatz wire
+Discussion: Vascular access wires each have a variety of uses determined by their stiffness,
+diameter, hydrophilicity, and tip shape. In this case, a stiff wire to pass a large aortic
+endograft over would be the most useful. The larger diameter wire will be stiffer, which
+rules out options “A” and “D”, which would both be used for getting access to smaller
+vessels. Option C is a foppy glide wire which can be useful for crossing lesions and
+getting up and over the aortic bifurcation. The 0.035” Amplatz wire is a stiff guidewire
+that will not buckle under the pressure of passing a large device into the aorta.
+
+181
+
+5. A 63-year-old smoker presents to the clinic with left lower extremity claudication and
+an ischemic ulcer. He is taken to the operating room for an angiogram via right groin
+access. Which of the following steps is INCORRECT when obtaining arterial access?
+A. Using anatomic landmarks to confirm cannulation through the inguinal ligament
+B. Using ultrasound to ensure cannulation of the common femoral artery
+C. Using fuoroscopy to ensure puncture at the level of the femoral head
+D. Using the Seldinger technique for first access, making sure not to lose access to the artery
+during exchanges or wires and catheters.
+Answer
+A. Using anatomic landmarks to confirm cannulation through the inguinal
+ligament
+Discussion: On first access for an angiogram with right groin access, the right common
+femoral artery should be accessed. The CFA begins below the level of the inguinal
+ligament, making answer A incorrect. One should avoid going through the inguinal
+ligament as native fascial planes are disrupted and it can make for challenging upsizing
+of devices

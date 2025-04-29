@@ -1,0 +1,38 @@
+ (Angiodynamics, Latham, NY): soft, fexible catheter with a radiopaque
+tip that is able to administer contrast to visualize vessels. Omnifush device on back table
+ Pigtail (Angiodynamics, Latham, NY): Similar to the Omnifush with a looped
+end (Image YY).
+
+190
+
+Selective catheters:
+ Contain one hole at the distal end of the tube.
+ Selective catheters come in many different shapes and sizes.
+ Intuitively, the anatomy of the vessel to be tracked will determine the diameter and tip
+shape.
+ When attempting to cross the aortic bifurcation into the contralateral common iliac
+artery, a catheter with more of a J-tip or “Shepherd’s hook” is preferable.
+ When attempting to cannulate vessel branches with a more acute angle, a smaller angle
+catheter tip should be selected.
+ Selective catheters can also be used to deliver contrast, but the contrast is only able to
+leave the catheter through the end of the device.
+ Angiograms with selective catheters are more tailored to specific vessels, such as a renal
+or mesenteric artery.
+ Selective Glidecath (Terumo, Tokyo, Japan): hydrophilic catheter available in 17
+different shapes, but the 45 degree is most common. Comes in 4F or 5F. Offers great
+trackability and pushability. This image depicts some of the glidecath tip shapes.
+
+Sheaths
+Sheaths are hollow tubes that provide a conduit between outer environment (i.e. outside the
+body) and the vessel. Returning to our train analogy, a sheath is the “tunnel” that the track
+and train run through.
+Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices.
+Sheaths can be divided into short sheaths for access and long sheaths for diagnostics and
+treatment. Long sheaths are fexible enough to track along different vessels, but are also stiff
+enough to support the advancement or exchange of devices.
+Ĺ Note
+Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the
+inner diameter of the tube.
+As such, a 6F catheter will pass through a 6F sheath.
+Key points about sheaths:
+ Sheaths

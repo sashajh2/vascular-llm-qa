@@ -1,0 +1,136 @@
+6 (0.30-0.72)
+
+Howard et al,33 2011
+
+653
+
+668
+
+1321
+
+0.54 (0.32-0.90)
+
+Overall
+
+2316
+
+2354
+
+4670
+
+0.68 (0.38-1.24),
+I2 [ 60%
+
+Question 2: CEA vs CAS in symptomatic patients
+Death at 30 days
+
+CEA vs CAS
+
+Overall
+Ipsilateral stroke
+at 30 days
+
+Death/stroke
+at 30 days
+
+Death at 5 years
+
+Ipsilateral stroke
+at 5 years
+
+Outcome
+
+CEA vs CAS
+
+CEA vs CAS
+
+CEA vs CAS
+
+CEA vs CAS
+
+Intervention vs
+comparison
+
+NA
+
+11 (0.02-6717.16)
+0.01 (0-6.69)
+
+Ederle et al,24 2009
+
+253
+
+251
+
+504
+
+Howard et al,33 2011
+
+653
+
+668
+
+1321
+
+0.03 (0-17.9)
+
+Mas et al,28 2014
+
+262
+
+265
+
+527
+
+0.94 (0.68-1.31)
+
+Steinbauer et al,40 2008
+
+42
+
+42
+
+84
+
+1.3 (0.64-2.63)
+
+Overall
+
+1210
+
+1226
+
+2436
+
+1 (0.81-1.22),
+I2 [ 0%
+
+Ederle et al,24 2009
+
+253
+
+251
+
+504
+
+0.91 (0.41-2.02)
+
+Mas et al,28 2014
+
+262
+
+265
+
+527
+
+1.52 (0.43-5.31)
+
+Steinbauer et al,40 2008
+
+42
+
+42
+
+84
+
+0.02 (0-1

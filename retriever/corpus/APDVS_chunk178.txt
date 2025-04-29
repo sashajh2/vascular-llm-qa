@@ -1,0 +1,33 @@
+
+mrem/year (50 Sv). [“Radiation In Perspective” (n.d.)](“Information for Radiation Workers,” n.d.)
+Some agencies further specify this limit to 1,250 mrem/quarter (12.5 Sv). (“Radiation
+Emergency Preparedness and Response - Response | Occupational Safety and Health Administration,” n.d.)
+
+Deterministic versus stochastic radiation eects
+Before delving into the various risks associated with radiation exposure, it’s essential to provide
+a brief overview of the types of radiation effects. These effects can be broadly categorized into
+deterministic and stochastic effects.
+Deterministic effects, also known as non-stochastic effects, occur when specific radiation
+dose thresholds are exceeded leading to adverse outcomes. They are dose-dependent and
+result in significant damage, such as cell death in a specific organ. Examples of deterministic
+effects include cataracts, infertility, and non-malignant skin lesions. (Weerakkody et al. 2008a)
+Making sure thresholds are not surpassed is pertinent not only for individuals working in the
+endovascular suite but also for ensuring patient safety.
+
+The table above underscores a crucial consideration: deterministic effects may potentially
+arise in cases with prolonged run times. Endovascular aneurysm repair (EVAR) is a routine
+procedure for modern vascular surgeons. While the duration of these procedures may vary,
+considering the cited range of radiation dosages from 0.51 to 3.74 (Weerakkody et al. 2008a),
+it’s conceivable that patients could experience post-operative adverse events solely due to the
+effects of radiation exposure.
+In contrast, stochastic effects result from repeated exposure to radiation levels below a certain
+threshold. A notable example of stochastic effects is cancer. Stochastic effects are probabilistic
+in nature. For example, the likelihood of developing leukemia after a single chest X-ray is low.
+However, if someone were to undergo a head-to-toe CT scan daily for a year, the probability of
+developing leukemia would significantly increase, even though there isn’t a direct correlation
+between the dose of radiation and the observed effect. (Hamada and Fujimichi 2014)
+
+The Eye and Radiation Exposure:
+During radiological procedures, one organ that often goes unnoticed but is significantly exposed
+is the eye, specifically the lens.
+The lens of the eye

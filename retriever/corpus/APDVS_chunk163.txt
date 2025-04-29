@@ -1,0 +1,44 @@
+ there is blood
+return to ensure the needle or catheter tip are in the true lumen.
+
+203
+
+ Treatment can be conservative in the case of an iatrogenic dissection or treated with
+stent placement if the dissection limits blood fow. Intravascular ultrasound can be used
+to further assess the dissection.
+Acute Thrombosis of Access Vessel
+Acute thrombus of the access vessel is when the artery where access is obtained completely
+“clots off.” It is an incredibly rare complication caused by incorrect deployment of vascular
+closure devices, access site dissection, or occlusive sheath placement in a small or diseased
+vessel.
+
+Endovascular Surgical Complications
+Atheroembolism
+Atheroembolism is the dislodgement of a portion of a cholesterol plaque leading to distal
+embolization causing acute thrombosis or partial occlusion.
+Key points: (Liew and Bartholomew 2005)
+ Generally, when these come from the ascending aorta or arch, they will embolize to
+the cerebral and retinal vessels. On the other hand, when an embolus originates in the
+thoracic or descending aorta, it will likely embolize to the mesenteric, renal or lower
+extremity vessels.
+ These emboli will then cause a further infammatory response worsening outcomes.
+ Outcomes are dependent on volume and size of emboli and can range from sub-clinical
+to fatal.
+ Embolization is most common to the skin, kidneys, and GI tract though it is dependent
+on the site of the procedure.
+ Unfortunately this condition is generally under diagnosed and challenging to treat. Primary prevention is of utmost importance with good surgical technique.
+Wire Perforation
+Wire perforation occurs when an angiographic wire creates a hole in a vessel.
+Key points:
+ Incredibly rare but treatable when diagnosed rapidly.
+ Occurs when a large stiff hydrophilic wire is passed through a small vessel especially if
+not done under fuoroscopic guidance.
+ Treatment involves transcatheter embolization of the perforation site.
+
+204
+
+Vessel Rupture
+Vessel rupture occurs when a device or balloon is oversized for a vessel and causes a “blowout”
+of a vessel.
+Key points:
+ Rupture can be cause by an oversized balloon or balloon expandable stent,

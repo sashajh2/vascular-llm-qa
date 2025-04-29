@@ -1,0 +1,27 @@
+ in Supplementary Tables II and
+III, (online only) respectively.
+Question 1: Medical management vs CEA in asymptomatic patients
+We included four RCTs and two observational studies.
+Most of the studies had a low risk of bias based on each
+corresponding bias assessment tool. One RCT13 had a
+moderate risk of bias owing to lack of blinding of outcome
+assessors. The studies reported on 5498 patients (mean
+age, 70 years; 67% males) with a varying prevalence of
+comorbidities (commonly coronary artery disease, hypertension, and hypercholesterolemia). Patients in all studies
+received aggressive medical treatment following up-todate national and international guidelines. Those treatments were focused on antiplatelet therapy, antihypertensive therapy, and lipid-lowering therapy.
+Thirty-day outcomes. Medical management was associated with a signiﬁcant decrease in strokes and combined stroke/death at 30 days compared with CEA (3
+studies; RR, 0.26; 95% CI, 0.08-0.87 [Supplementary
+Table I, online only], and RR, 0.24; 95% CI, 0.11-0.53
+[Supplementary Table I, online only], respectively). Certainty in evidence was moderate, reduced owing to
+methodologic limitations.
+Mortality estimate was highly imprecise to derive conclusions (3 studies; RR, 0.17; 95% CI, 0.00-33.71)
+(Supplementary Table I, online only). The estimate for
+the outcome of MI and ipsilateral stroke was highly
+imprecise to derive conclusions. Certainty in evidence
+was very low, decreased owing to methodologic limitations and severe imprecision.
+Outcomes at longest follow-up. Kolos et al 201512
+demonstrated that, at the 3.3-year follow-up, medical
+therapy was associated with signiﬁcantly higher risk of
+stroke/death (RR, 5.81; 95% CI, 1.38-24.45; Supplementary
+Table I, online only). After 5 years of follow-up, medical
+therapy was associated with a higher risk

@@ -1,0 +1,90 @@
+ tx, ct]
+
+410
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2076
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+6381
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+27,274
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+181,376
+
+Advanced
+
+21
+
+5 and 20
+
+20
+
+Advanced
+
+22
+
+21 not 12
+
+2
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+19,379
+
+Advanced
+
+24
+
+22 not 23
+
+2
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or webcasts)
+[Limit not valid in CCTR,CDSR; records were retained]
+
+0
+
+Advanced
+
+26
+
+24 not 25
+
+2
+
+Advanced
+
+

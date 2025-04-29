@@ -1,0 +1,34 @@
+ routinely.113,117-119 Risk factors for SCI after
+TEVAR include length of aortic coverage (especially
+when it is in excess of 15 cm of the DTA) and existence
+of infrarenal aortic disease.120 In addition to these
+anatomic risk factors, chronic renal failure may also be
+an important risk factor.121 According to one systematic
+review, the incidence of SCI after TEVAR with and
+without prophylactic CSF drain placement was 3.2%
+and 3.5%, respectively.122 In contrast, a 2016 systematic
+review of the use of lumbar drains in open repair and
+TEVAR (including three randomized trials) concluded
+that spinal drains prevent early SCI with an OR of 0.48
+(95% CI, 0.30-0.76; P ¼ .002), absolute risk reduction of
+4.5%, and number needed to treat of 23 in favor of CSF
+drainage.123
+There are many differences in institutional protocols for
+CSF drain management. They vary widely from where to
+level the drain (earlobe or spinal exit site), draining to a
+target pressure vs to a target volume, what the baseline
+pressure should be and the units (centimeters of water
+or millimeters of mercury), and the maximum amount
+of ﬂuid that should be drained (per hour, per 4 hours,
+or per day) to avoid intracranial bleeding or herniation.
+Other adjunctive methods of SCI risk reduction include
+the routine use of naloxone and steroids, avoidance of
+long-acting narcotics, and hemoglobin management
+strategies, which vary across centers.113,124 An often-used
+hemoglobin target is >10 mg/dL, especially for patients
+who have symptoms of SCI. Rescue protocols also exist,
+which include a further increase in systemic blood pressure to >100 mm Hg, a drop in the CSF drain pressure
+(often 5 mm Hg or 7 mm Hg), transfusion to a target hemoglobin level of >10 mg/dL, and the use of steroids.125
+Recommendation 17: We recommend increasing
+perfusion pressure through controlled hypertension
+(mean

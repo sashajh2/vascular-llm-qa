@@ -1,0 +1,52 @@
+ists.
+We suggest preservation of the saphenous vein using the ambulatory selective
+varicose vein ablation under local anesthesia (ASVAL) procedure only selectively
+in patients with varicose veins.
+We recommend ambulatory phlebectomy for treatment of varicose veins,
+performed with saphenous vein ablation, either during the same procedure or at
+a later stage. If general anesthesia is required for phlebectomy, we suggest
+concomitant saphenous ablation.
+We suggest transilluminated powered phlebectomy using lower oscillation speeds
+and extended tumescence as an alternative to traditional phlebectomy for
+extensive varicose veins.
+For treatment of recurrent varicose veins, we suggest ligation of the saphenous
+stump, ambulatory phlebectomy, sclerotherapy, or endovenous thermal ablation,
+depending on the etiology, source, location, and extent of varicosity.
+
+Table VI. Main manufacturers of endovenous ablation devices and laser wavelengths
+Device
+Laser device name
+VenaCure EVLT System
+Medilas D FlexiPulse
+Pro-V
+Vari-lase bright tip, Vari-lase platinum bright tip
+Cooltouch CTEV
+ELVeS PL Laser System
+Radiofrequency device name
+ClosureFast
+ClosureRFS Stylet
+Celon RFITT
+
+Manufacturer
+AngioDynamics, Inc, Queensbury, NY
+Dornier MedTech, Kennesaw, Ga
+Sciton Inc, Palo Alto, Calif
+Vascular Solutions, Inc, Minneapolis, Minn
+CoolTouch Inc, Roseville, Calif
+Biolitec Inc, East Longmeadow, Mass
+
+Wavelength, nm
+810
+940
+1319
+810, 980
+1320
+1470
+
+VNUS Med Tech, San Jose, Calif
+VNUS Med Tech, San Jose, Calif
+Olympus Medical Systems, Hamburg, Germany
+
+The use of RF for saphenous ablation was approved by
+the U.S. Food and Drug Administration (FDA) in 1999,
+and the first reports were published in 2000.251-253 Experience with RF rapidly accumulated,8,195,246,254

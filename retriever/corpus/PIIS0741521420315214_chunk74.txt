@@ -1,0 +1,42 @@
+10 TEVARs within the last 2 years or less
+than this minimum for surgeons with a robust EVAR
+experience, deﬁned as 25 EVARs with 12 as the primary
+operator. Trainees should also be able to manage complex aortic patients as well as to perform adjunctive procedures, including iliac conduits and carotid-subclavian
+bypass grafting.
+The relationship between volume and outcomes has
+been explored for TEVAR,218-220 and the data supporting
+or refuting such a relationship are poor, mainly because
+these studies are typically underpowered and the data
+are heterogeneous, including EVAR and TEVAR, or
+TEVAR when used to treat multiple pathologic processes
+(ie, aneurysm and dissection). One study using the Medicare claims database from 1999 to 2007 documented a
+mortality rate for TEVAR in low-volume centers of 9%
+to 10%, whereas mortality was 7% in high-volume TEVAR
+centers. Despite these gross mortality differences, a
+multivariable model for mortality failed to show volume
+as a predictor (P ¼ .328).218 A second study using Medicare Provider and Analysis Review data also found no association between TEVAR volume and mortality.219
+Finally, a study using a Medicare Provider and Analysis
+Review data set in 10,000 patients undergoing TEVAR
+found no clear relationship between hospital volume
+
+Journal of Vascular Surgery
+
+Upchurch et al
+
+77S
+
+Volume 73, Number 1S
+
+effect and survival. However, these same practitioners
+suggested that using a mixed effects Cox model demonstrated an “independent hospital effect” associated with
+certain hospitals, with a death 50% of what occurred at
+other hospitals.220 These data suggest that at present,
+no clear conclusion can be drawn between hospital volume and outcomes after TEVAR. Importantly, even fewer
+data are available to examine the role of individual clinician TEVAR volume and outcomes.
+
+CONCLUSIONS
+TEVAR is used to treat a myriad of aortic diseases.
+Whereas there are no randomized, controlled trials
+comparing open and endovascular DTA repair directly
+and probably never will be, consensus documents, large
+administrative data sets, and meta-analyses

@@ -1,0 +1,133 @@
+5, Number 1S
+
+Supplementary Table I (online only). Continued.
+Outcome
+
+Intervention
+vs Comparison
+
+Author, Year
+
+Group 1
+
+Total
+
+RR (95% CI)
+
+Death
+
+Weimar et al,11
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2017
+asymptomatic patients
+
+65
+
+62
+
+127
+
+2.1462 (0.697-6.610)b
+
+MI
+
+CEA/CAS and CABG
+Weimar et al,11
+combined vs CABG ﬁrst in
+2017
+asymptomatic patients
+
+65
+
+62
+
+127
+
+0.0308 (0.0001-16.5500)b
+
+Death
+
+CEA/CAS and CABG
+combined vs carotid
+intervention ﬁrst in
+asymptomatic patients
+
+Faggioli et al,96
+1990
+
+2
+
+17
+
+19
+
+NA
+
+Feldman et al,97
+2017
+
+15,402
+
+7099
+
+22,501
+
+1.23 (1.07-1.42)
+
+Kovacevic et al,103
+2012
+
+112
+
+726
+
+838
+
+5.4 (2.39-12.21)
+
+Timaran,113 2008
+
+26,197
+
+887
+
+27,084
+
+1.04 (0.78-1.39)
+
+Overall
+
+41,713
+
+8729
+
+50,442
+
+1.54 (0.23-10.31),
+I2 [ 86%
+
+FaggiolI et al,96
+1990
+
+2
+
+17
+
+19
+
+NA
+
+Feldman et al,97
+2017
+
+15,402
+
+7099
+
+22,501
+
+1.38 (1.14-1.66)
+
+Kovacivoc et al,103
+2

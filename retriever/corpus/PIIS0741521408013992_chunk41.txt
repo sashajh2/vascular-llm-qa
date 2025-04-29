@@ -1,0 +1,36 @@
+ incidence of lowflow etiologies proximal to the venous needle in autogenous accesses where VDP is measured.
+Measurement of dynamic VDP (at a low dialysis blood
+flow of 200 ml/min) is a relative poor marker of autogenous or prosthetic access stenosis. It is affected by multiple
+factors, including the dialysis blood flow, needle diameter,
+type of dialysis machine, and the patient’s blood pressure.
+Better standardization can be achieved by measuring static
+VDP (at zero dialysis pump blood flow). VDP needs to be
+normalized for the systemic blood pressure. The ratio of
+systolic VDP to systemic systolic blood pressure can be
+suggestive of stenosis when the ratio of systolic VDP to
+systemic systolic blood pressure is ⬎ 0.4.97 Use of mean
+
+JOURNAL OF VASCULAR SURGERY
+Volume 48, Number 5S
+
+pressure ratio (more commonly obtained by the pressure
+transducers on conventional dialysis systems) requires that
+the ratio is ⬎0.5. The use of any given static venous
+pressure ratio is not a reliable indicator of stenosis, especially in autogenous access; however, the best use of static
+VDP measurement is as a trending tool, where trends of
+increasing VDP may be indicative of stenosis.98 It is critical
+to have a well-trained technician who performs the measurements in a standardized fashion and who calibrates the
+transducers.
+3. Prepump arterial dialysis pressure. Most dialysis machines currently in use have a pressure transducer connected to the blood line on the arterial side of the blood
+pump. This prepump pressure is displayed on the information screen and indicates the ease (or difficulty) with which
+blood is drawn from the access by the blood pump at any
+given pump setting. This pressure is influenced by anything
+that causes restriction of flow to the pump: the needle
+gauge and length, the diameter and length of the blood
+line, needle position in the access, and access blood flow.
+After any needle or tubing problem has been checked as the
+possible cause of unexpected increasingly negative arterial
+dialysis pressure and corrected, inadequate access flow,
+which is the most common cause of persistently elevated
+prepump arterial pressure, will be the likely cause.
+New aut

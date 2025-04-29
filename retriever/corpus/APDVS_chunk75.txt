@@ -1,0 +1,36 @@
+
+suggest that some blood is able to fow past the obstruction during systole but encounters
+resistance during diastole.
+ Monophasic Waveform:
+ A monophasic waveform consists of a single, continuous fow signal that moves in one
+direction. It typically lacks a distinct reverse or “refected” fow signal.
+ Clinical Significance: Monophasic waveforms are often seen in arteries downstream from
+significant stenosis or occlusion. In these cases, there is limited or no backfow during
+diastole (the relaxation phase of the cardiac cycle). They are commonly found in patients
+with advanced peripheral arterial disease (PAD) or severe arterial blockages, suggestive
+of reduced perfusion to the tissues served by the artery.
+
+103
+
+ Flat-line:
+ A fat waveform (i.e. no wave) does not necessarily indicate no blood fow. A fat wave
+form simply refects the lack of pulsatile blood fow.
+
+Doppler
+Doppler devices (handheld or otherwise) provide similar information to PVR studies. Instead
+of providing a visual representation of pulsatile fow, Doppler signals (sounds) are an auditory
+representation of fow. A triphasic pulse generates a triphasic signal (repeated sound), a
+biphasic pule a biphasic signal, and a monophasic pulse a monophasic signal.
+Ď Tip
+Here is a video that demonstrates how to use a doppler probe and the signals associated
+with each waveform type. You can learn more about doppler probes and waveforms here.
+
+Duplex Ultrasonography
+Duplex ultrasonography (US) is another non-invasive imaging modality that can evaluate a
+patient’s blood fow by measuring the speed at which blood travels through the vessel. In
+this way, a patient’s hemodynamics can be assessed by identifying the location and degree of
+stenosis. Other imaging modalities such as a CT angiogram or invasive angiograms can also
+evaluate blood fow to the lower extremities.
+A hematologic evaluation (including CBC, fasting blood glucose, creatinine, fasting lipid profile and urinalysis) is recommended in order to identify any associated comorbidities such as
+diabetes, hyperlipidemia, and chronic kidney disease that may also need to be addressed.
+If patients have normal ABIs and pulse exams, it is

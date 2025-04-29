@@ -1,0 +1,35 @@
+*" OR "aorta coronary vein shunt" OR "aortic
+coronary artery bypass*" OR "aortic coronary bypass*"
+OR "aorticocoronary anastomosis" OR "aorto coronary artery bypass*" OR "aorto coronary bypass graft*" OR "aorto
+coronary vein bypass*" OR "aortocoronary anastomosis"
+OR
+"aortocoronary
+artery
+bypass
+graft*"
+OR
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e39
+
+Volume 75, Number 1S
+
+"aortocoronary artery bypass*" OR "aortocoronary bypass
+graft*" OR "aortocoronary bypass*" OR "aortocoronary
+shunt" OR "aortocoronary vein bypass graft*" OR "aortocoronary vein bypass*" OR "aortocoronary venous bypass
+graft*" OR "aortocoronary venous bypass*" OR CABG OR
+"coronary artery bypass grafting" OR "coronary artery
+bypass*" OR "coronary artery graft*" OR "coronary bypass
+graft*" OR "coronary bypass grafting" OR "coronary
+bypass*" OR "coronary vein bypass graft*" OR "coronary
+venous bypass graft*" OR "coronary-internal mammary
+artery anastomos*" OR "internal mammary-coronary artery anastomos*")
+4 TITLE-ABS-KEY((meta W/1 analys*) OR metaanalys* OR
+(systematic* W/3 review*) OR (control* W/3 study) OR
+(control* W/3 trial) OR (randomized W/3 study) OR (randomized W/3 trial) OR (randomised W/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial" OR
+(random* W/1 allocat*) OR (doubl* W/1 blind*) OR (doubl*
+W/1 mask*) OR (singl* W/1 blind*) OR (singl* W/1 mask*) OR
+(tripl* W/1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/

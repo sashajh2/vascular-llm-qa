@@ -1,0 +1,157 @@
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Question 3: RCTs
+Welsh et al,43 2004
+
+C
+
+C
+
+B
+
+C
+
+Selection
+
+A
+
+Comparability
+
+Outcome
+
+Adequacy of
+follow-up:
+(A) Complete
+follow-up - all
+patients accounted for*
+(B) Patients lost to
+Selection of the
+follow-up unlikely to
+nonexposed cohort:
+Comparability of cohorts on
+introduce bias -small
+(A) Drawn from the
+the basis of the design
+Assessment of
+number lost- >80%
+Representativeness
+same community
+or analysis
+outcome:
+follow-up,
+of the exposed cohort
+as the exposed cohort*
+(matching/confounder
+(A) Independent
+or description of
+(A) Truly representative* (B) Drawn from general
+adjustment):
+blind assessment*
+those lost*
+(B) Somewhat
+population (matched for
+Ascertainment
+A) Study controls
+(B) Record linkage*
+Was follow-up
+(C) Follow-up rate
+representative*
+important criteria)*
+of exposure:
+for age and sex*
+(C) Standard procedure
+long enough for
+<80%
+(C) No description of
+(C) No description of
+(A) Secure record*
+(B) Study controls for
+well described*
+outcomes to occur:
+and no description
+the derivation
+the derivation of the
+(B) written self-report*
+BMI and comorbidities*
+(D) Self report
+(A) Yes: $6 months*
+of those lost
+of the cohort
+nonexposed cohort
+(C) No description
+(C) No description
+(E) No description
+(B) No: <6 months
+(D) No statement
+
+Author, year
+
+Overall
+risk of
+bias
+
+Question 4: Observational studies
+Ahn et al,46 1991 A
+
+N/A
+
+A
+
+N/A
+
+B
+
+A
+
+A
+
+Low
+
+Aiello et al,47
+2012
+
+B
+
+N/A
+
+C
+
+N/A
+
+E
+
+Unclear
+
+A
+
+High
+
+C
+Anastasiadis
+et al,48 2009
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+High
+
+A
+
+N/A
+

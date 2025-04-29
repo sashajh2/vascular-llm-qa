@@ -1,0 +1,37 @@
+(RCTs).5 For uncontrolled studies, we used an adaptation
+of the Newcastle Ottawa scale.6 Any discrepancy between a pair of reviewers was solved by consensus or by a
+third reviewer. We rated the certainty of evidence using
+the GRADE approach7 as adapted by the SVS.8,9 We
+considered an estimate to be imprecise if its conﬁdence
+interval (CI) overlapped both, beneﬁts and harms.10
+Statistical analysis. For comparative studies, we calculated the relative risk (RR) from each study and estimated the 95% CI and pooled across studies using the
+DerSimonian and Laird random effects model. For noncomparative studies, an overall event rate was calculated
+and transformed using the Freeman-Tukey arcsine
+method, and pooled using the DerSimonian and Laird
+random effects model. The random effects model was
+chosen a priori because of anticipated heterogeneity
+across study populations and settings. Heterogeneity
+was evaluated using the I2 index and Cochrane Q test. All
+statistical analyses were conducted using R version 3.6.1
+(The R Foundation for Statistical Computing, Vienna,
+Austria).
+
+RESULTS
+Study selection
+We reviewed 5935 citations and 898 systematic reviews.
+The study selection process for the ﬁve questions is
+depicted in the Supplementary Figure (online only). We
+ﬁnally included 96 studies (question one, 6 studies11-16;
+question two, 9 RCTs17-25; question three, 8 studies26-33;
+question four, 47 studies34-80; and question ﬁve, 26
+studies81-106). A detailed description of the included
+study characteristics for each of the questions and their
+risk of bias is available in Supplementary Tables II and
+III, (online only) respectively.
+Question 1: Medical management vs CEA in asymptomatic patients
+We included four RCTs and two observational studies.
+Most of the studies had a low risk of bias based on each
+corresponding bias assessment tool. One RCT13 had a
+moderate risk of bias owing to lack of blinding of outcome
+assessors. The studies reported on 5498 patients (mean
+age

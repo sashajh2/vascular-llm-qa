@@ -1,0 +1,39 @@
+ standardized clinical
+classification system for diagnosing CVD is critical to understanding the natural history of the
+disease and how to best treat it. The Clinical-Etiology-Anatomy-Pathophysiology (CEAP)
+classification system (Fig. 1) is used to determine the complexity of the clinical manifestations
+of CVD, providing a reliable and reproducible classification system to describe the patient’s
+current status. While CVD encompasses the full spectrum of abnormalities of the venous
+system, the designation of CVI is reserved for advanced venous disease-producing edema, skin
+changes, or venous ulcers (C3-C6) [Eklof et al. (2009a)](Lurie et al. 2020a).
+
+While the CEAP classification system is the global standard for describing clinical features of
+CVD, it is not sensitive to changes in disease over time and thus is a poor prognosticator of
+progression and treatment outcomes. In response, the Venous Clinical Severity Score (VCSS)
+(Fig. 2) was formulated as a complementary evaluative instrument based on ten categories
+graded on a scale of 0 to 3 for a final total score between 0 and 30 (Vasquez et al. 2010a).s
+
+Fig. 2: Revised Venous Clinical Severity Score (VCSS)
+Treatment
+Management of CVD requires an individualized approach which may include conservative,
+pharmacological, and/or interventional therapies. Surgical intervention for CVI focuses on
+treating refuxing axial veins and correcting the underlying chronic venous hypertension. Management decisions (Fig. 3) are guided according to a thorough evaluation of CEAP classification (e.g., varicose veins or CVI), source of refux (superficial, deep, and/or perforator), vessel
+anatomy, and baseline candidacy for surgical intervention (Azar, Rao, and Oropallo 2022a).
+CEAP classification
+
+Recommended therapy
+
+Asymptomatic C1
+Symptomatic C1
+Symptomatic C2-C6 with
+refux
+
+Conservative
+Conservative and/or sclerotherapy
+Superficial venous ablation, phlebectomy, or vein stripping
+and/or ligation
+
+Fig. 3: Therapy recommendations based on CEAP classification score
+
+Conservative Management
+Initial therapy for

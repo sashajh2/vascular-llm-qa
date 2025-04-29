@@ -1,0 +1,39 @@
+ MEDLINE, Embase, Cochrane Central
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+101S
+
+Volume 75, Number 1S
+
+Register of Controlled Trials, Cochrane Database of Systematic Reviews, and Scopus. Searches were completed
+in August 2019 for questions 1 and 3, and in July 2019 for
+questions 2, 4, and 5. The search strategy was designed
+and conducted by medical reference librarians with
+input from the investigators. Controlled vocabulary supplemented with key words was used to search for studies
+of interest without language restrictions. The actual strategy listing all search terms used and how they are combined is available in the Appendix (online only).
+Study selection and data extraction. Studies obtained
+by the search strategies, reference mining of systematic
+reviews, and those suggested by the committee were
+reviewed independently by two reviewers. We ﬁrst
+reviewed abstracts and in a second phase we reviewed
+full-text articles if included or had a conﬂict at the abstract level. Data from included studies were abstracted
+by pairs of independent reviewers using different standardized piloted Excel sheets for each question. Disagreements were resolved via consensus.
+We extracted data on patient characteristics (eg number of patients, mean age, gender, mean body mass index, comorbidities, and details of medical therapy) and
+outcomes of interest (stroke, ipsilateral stroke, death,
+myocardial infarction [MI], cerebral hemorrhage, cerebral hyperperfusion, and prevalence of >50% carotid
+stenosis).
+Methodologic quality and certainty of the evidence.
+The risk of bias in the included studies was assessed by
+two independent reviewers. This task was carried out using a standardized form based on the Newcastle Ottawa
+scale for observational studies4 and the Cochrane tool for
+risk of bias assessment of randomized controlled trials
+(RCTs).5 For uncontrolled studies, we used an adaptation
+of the Newcastle Ottawa scale.6 Any discrepancy between a pair of reviewers was solved by consensus or by a
+third reviewer. We rated the certainty of evidence using
+the GRADE approach7 as adapted by the SVS.8,9 We
+considered an estimate to be imprecise if its conﬁdence
+interval (CI) overlapped both, beneﬁts and harms.10
+Statistical

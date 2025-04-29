@@ -1,0 +1,37 @@
+ is low.
+However, if someone were to undergo a head-to-toe CT scan daily for a year, the probability of
+developing leukemia would significantly increase, even though there isn’t a direct correlation
+between the dose of radiation and the observed effect. (Hamada and Fujimichi 2014)
+
+The Eye and Radiation Exposure:
+During radiological procedures, one organ that often goes unnoticed but is significantly exposed
+is the eye, specifically the lens.
+The lens of the eye is particularly sensitive to radiation .
+ Cataracts: Prolonged exposure to significant radiation levels can lead to opacification of the lens (i.e. cataracts)
+ This gradual process ultimately results in the development of cataracts, with the most
+common subtype being posterior subcapsular (PSC) cataracts. (Loganovsky et al.
+2020)
+ A study conducted in 2013 examined the dose-effect relationship of radiation on the eyes
+of interventional cardiologists and electrophysiologists. The study found that up to 25%
+of the physicians involved had exceeded current exposure thresholds and were at risk of
+developing radiation-induced cataracts. (Jacob et al. 2012)
+Other ocular pathologies associated with radiation exposure include:
+
+224
+
+ Cataracts: Prolonged exposure to radiation may lead to the development of cataracts,
+causing clouding of the lens.
+ Glaucoma: Radiation exposure can contribute to glaucoma, a condition characterized
+by increased intraocular pressure.
+ Optic Neuropathy: Damage to the optic nerve due to radiation exposure can result
+in vision impairment.
+ Retinal Angiopathy: Radiation may impact retinal blood vessels, leading to angiopathy.
+ Dry Eye Syndrome: Radiation exposure can cause dryness and discomfort in the eyes.
+In recent years, there has been growing research interest in understanding the potential
+adverse effects of long-term radiation exposure on ocular health.
+The increased understanding of these risks has prompted a greater emphasis on the importance of safety equipment to protect the eyes. Proper use of protective gear such as lead
+glasses and face shields is crucial for minimizing radiation exposure to ocular tissues.
+
+The Skin and Radiation Exposure:
+Skin changes of varying severity are a well-documented adverse reaction to radiation exposure. These changes can range from mild redness and irritation to severe necrosis and the
+development of secondary skin cancers.

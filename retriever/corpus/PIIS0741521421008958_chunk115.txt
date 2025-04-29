@@ -1,0 +1,256 @@
+
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+Low
+
+Sato, 201615
+
+A
+
+A
+
+A
+
+E
+
+A
+
+B
+
+Low
+
+A
+
+Outcomes
+
+Selection
+Random sequence
+generation:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Allocation
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of participants
+or personnel:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of outcome
+assessment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Reporting
+bias/selective reporting:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Other sources of bias:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Overall risk of bias
+
+Brooks et al,20 2001
+
+C
+
+C
+
+C
+
+C
+
+A
+
+C
+
+B
+
+High
+
+Brott et al,34 2010
+
+A
+
+A
+
+A
+
+A
+
+B
+
+A
+
+A
+
+Low
+
+Eckstein et al,21 2008
+
+A
+
+A
+
+A
+
+C
+
+B
+
+A
+
+A
+
+Moderate
+
+Ederle et al,24 2009
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Hoffman et al,27 2008
+
+C
+
+A
+
+A
+
+C
+
+A
+
+A
+
+C
+
+Moderate
+
+ICSS,19 2010
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Mas et al,28 2014
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Low
+
+Author, year
+Question 2: RCTs
+
+Naylor,31 1998
+
+A
+
+A
+
+B
+
+C
+
+A
+
+A
+
+A
+
+Moderate
+
+Steinbauer et al,40 2008
+
+C
+
+C
+
+C
+
+C
+
+A
+
+C
+
+B
+
+High
+
+Selection
+
+Author, year
+
+Comparability
+
+Outcome
+
+Adequacy of
+follow-up:
+A) Complete

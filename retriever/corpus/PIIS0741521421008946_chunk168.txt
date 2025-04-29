@@ -1,0 +1,30 @@
+ left main stem disease,
+should undergo carotid imaging.525,541,542
+CAS may be an option to reduce stroke risk before
+CABG. Several studies demonstrate a trend toward
+decreased stroke risk in patients treated with CAS before
+CABG.543-545 A review of the Nationwide Inpatient Sample found a 62% higher perioperative stroke risk after
+combined CEA and CABG (3.9%) compared with combined CAS and CABG (2.4%), with an OR of 1.62 (95% CI,
+1.1-2.5).543 A more recent meta-analysis from Paraskevas
+et al included 2,727 patients who had staged or sameday CAS-CABG with an overall 30-day combined stroke/
+death risk of 7.9%. However, 80% had asymptomatic unilateral carotid artery stenosis.533 Shishehbor et al546
+assessed three groups in mostly asymptomatic patients:
+staged CEA-CABG, staged CAS-CABG, and combined
+CEA-CABG. Staged CEA-CABG had the least favorable
+risks of death, stroke and MI compared with the other
+2 groups, which were similar. Overall, CAS-CABG was
+favored for long-term outcomes after 1 year.546
+Summary and recommendations. See Clinical Practice
+Guidelines.
+
+THERAPY OF CAROTID DISEASE AND OTHER
+MAJOR NONCARDIAC SURGERY
+Overall, less than 0.1% to 4.3% of patients undergoing
+noncardiac surgery will have a clinically overt perioperative stroke.547-550 Stroke risks range from 0.08% to 0.7%
+of patients undergoing general surgery, 0.2% to 0.9%
+with orthopaedic surgery, 0.6% to 0.9% lung operations,
+and 0.8% to 3.0% of patients undergoing peripheral
+vascular procedures.551,552 However, perioperative stroke
+in these circumstances have devastating effects with as
+high as 32% 30-day mortality and 58% major disability
+in the POISE

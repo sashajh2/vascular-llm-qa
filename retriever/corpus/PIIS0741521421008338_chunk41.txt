@@ -1,0 +1,121 @@
+ or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts) [Limit not valid in Embase; records were retained]
+
+542
+
+Advanced
+
+26
+
+24 not 25
+
+0
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e14
+
+Volume 75, Number 1S
+
+Natural history search
+Ovid Cochrane Central Register of Controlled Trials, Ovid Cochrane Database of Systematic Reviews
+#
+
+Searches
+
+Results
+
+Type
+
+1
+
+exp Popliteal Artery/or "popliteal arter*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+490
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+3790
+
+Advanced
+
+3
+
+1 and 2
+
+29
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+8
+
+Advanced
+
+5
+
+3 or 4
+
+29
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+2576
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+7387
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼ti, ot, ab, sh, hw, kw, tx,
+ct]
+
+7627
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+1610
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼ti, ot, ab,
+sh, hw, kw, tx, ct]
+
+7223
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 

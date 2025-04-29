@@ -1,0 +1,65 @@
+
+large patient populations.7,30,31 The role of TF-CAS or transcervical carotid artery revascularization (TCAR) is even less
+clear because no completed studies have compared
+these treatments for patients with asymptomatic carotid
+stenosis against best medical therapy.
+Several upcoming, multicenter randomized trials have
+been designed to answer the role of modern pharmacologic therapy in the management of asymptomatic
+carotid stenosis. These trials include the SPACE-II
+(stent-protected angioplasty in asymptomatic carotid artery stenosis) study25 and CREST-2.32
+Recommendation 1.1: In low surgical risk patients
+with asymptomatic carotid bifurcation atherosclerosis
+and stenosis of >70% (documented by validated
+duplex ultrasound or computed tomography angiography [CTA]/angiography), we recommend CEA with
+best medical therapy over maximal medical therapy
+alone for the long-term prevention of stroke and death
+(grade IB).
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+9S
+
+Volume 75, Number 1S
+
+Question 2. Is CEA recommended over TF-CAS for low surgical risk patients with symptomatic carotid artery stenosis of
+>50%?
+Patients
+Symptomatic low-risk
+patients with >50%
+internal carotid artery
+stenosis
+
+Intervention
+
+Comparison
+
+Outcomes
+
+Study design
+
+Subgroups
+
+CEA
+
+TF-CAS
+
+Stroke, death, and
+myocardial
+infarction
+
+RCT
+
+30 days, >30 days, $5 years
+
+Evidence and rationale
+Once a patient with clinically signiﬁcant symptomatic carotid stenosis has been identiﬁed, appropriate treatment
+must be selected. Treatment is primarily directed at the
+reduction of stroke risk. In general, the rates of stroke,
+myocardial infarction (MI), and death have been used
+when comparing CAS against CEA. In most clinical trials
+comparing CAS with CEA, stroke, MI, and death have
+been given equal weight in determining a composite
+endpoint to test overall efﬁcacy. Data from the CREST (carotid revascularization endarterectomy vs stenting trial),9
+however, indicated that stroke has a

@@ -1,0 +1,64 @@
+Volume 48, Number 5S
+
+Sidawy et al 13S
+
+Table II. Continued.
+Summary of findings
+Patients, No.
+
+Effect
+
+Access surveillance
+
+Watchful waiting
+
+RR (95% CI)
+
+Absolute
+
+Quality
+
+Importance
+
+90/406
+
+92/387
+
+0.82 (0.58 to 1.16)
+
+43 fewer per 1000
+
+QŒŒŒ (very low)
+
+Critical
+
+94/614
+
+88/347
+
+0.80 (0.51 to 1.25)
+
+51 fewer per 1000
+
+QŒŒŒ (very low)
+
+Critical
+
+impact of AV access surveillance, followed by interventions
+to restore patency.15 In this review, the surveillance strategy of nine studies (1363 patients) was compared with
+clinical monitoring, with a vascular intervention to maintain or restore patency provided to both groups if needed.
+Surveillance, followed by intervention, led to a nonsignificant reduction of the risk of access thrombosis (RR, 0.82;
+95% CI, 0.58-1.16; I2 ⫽ 37%) and access abandonment
+(RR, 0.80; 95% CI, 0.51-1.25; I2 ⫽ 60%). Three studies
+(207 patients) compared the effect of vascular interventions
+vs observation in patients with an abnormal surveillance
+result. Vascular interventions after an abnormal AV access
+surveillance result led to a significant reduction of the risk of
+access thrombosis (RR, 0.53; 95% CI, 0.36-0.76) and a
+nonsignificant reduction of the risk of access abandonment
+(RR, 0.76; 95% CI, 0.43-1.37). Table II summarizes the
+quality of evidence derived from this systematic review.
+It is important to recognize that the value of surveillance strongly depends on the adequacy of clinical monitoring (physical examination and assessment of clinical
+clues of access dysfunctions). Clinical monitoring by skilled
+personnel was shown to have adequate diagnostic accuracy;
+clinical monitoring has been reported to have positive

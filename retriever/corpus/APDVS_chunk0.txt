@@ -1,0 +1,41 @@
+Approach to Vascular Patient
+
+25
+
+Social Determinants of Vascular Health
+Abena Appah-Sampong, MD, Ezra Schwartz, MD,CM, MS, Sharif Ellozy, MD.
+
+Note
+By the end of this chapter, students will:
+ Review terms important to the discussion about social determinants of health.
+ Be able to predict relevant questions to ask patients when obtaining a social history.
+ Relate the importance of a thorough social history to the incidence, morbidity, and
+mortality of vascular disease.
+ Recognize opportunities for one’s biases to impact quality of care.
+Key Facts
+1. Racial and ethnic minorities encounter social determinants of health and systemic
+racism that exacerbate the incidence, prevalence, and outcomes of many vascular
+diseases.
+2. Addressing the challenges of healthcare deserts, particularly in rural areas, is vital
+for ensuring equitable access to vascular surgery care.
+3. The underrepresentation of women in vascular surgery clinical trials highlights the
+imperative for concerted efforts to address gender disparities, enhance inclusion,
+and ensure findings are generalizable to broader populations.
+4. Many veterans face socioeconomic, systemic, and mental health challenges stemming from their military service that challenge the management of chronic and
+complex vascular diseases.
+
+26
+
+Introduction
+“Do we not always find the diseases of the populace traceable to defects in society?” - Rudolf
+Virchow
+Multiple studies have demonstrated significant disparities exist across the spectrum of vascular
+disease including prevalence, treatment, and disease outcomes. Furthermore, it has been
+demonstrated that social determinants of health (SDoH), comprising multiple factors including
+patient socioeconomic status, race or ethnicity, gender, and geographic location, can have
+potent effects on health outcomes. There are some estimates that SDoH account for 8090 percent of the modifiable contributors to healthy outcomes for a population, and must
+be addressed in order to rectify persistent healthcare disparities. (Remington, Catlin, and
+Gennuso 2015)
+Vascular surgeons treat patients with advanced atherosclerosis and diabetes, which are diseases that disproportionately affect vulnerable and socioeconomically disadvantaged patients.
+Given this reality, it is important for vascular surgeons to have a strong foundational understanding of the social determinants of health and health disparities that lead to unequal care
+among patients. This textbook chapter does not intend to be comprehensive, but rather

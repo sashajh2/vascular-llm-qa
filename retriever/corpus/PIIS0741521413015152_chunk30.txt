@@ -1,0 +1,38 @@
+Most of the patients in the ischemia 1 and 2 blocks of 16
+combinations suffer from “situational ischemia.” As wound
+complexity and infection severity increase (a shift down and
+to the right in each box of 16), the likelihood that revascularization will be required increases. In the ischemia 3 category, small wounds without infection may not always
+require vascular intervention, but such an intervention
+may speed healing. Again, shifts down and to the right
+within this box increase the odds that vascular intervention
+will be required; it likely will be mandatory for W 2 and
+W 3 patients, especially in the presence of infection.
+Since this is a new, updated system, we emphasize that
+these consensus-based clinical stages will require rigorous
+validation in large datasets that are generalizable to the
+
+broad heterogeneous chronic limb ischemia population.
+Such validation could be done as part of a registry, and
+plans are underway to begin this process within the SVS
+Vascular Quality Initiative.72 We anticipate that within
+2 years, we will be able to conﬁrm or re-assign patients
+by WIfI classiﬁcation to the appropriate limb threat clinical
+stage based on such registry data. It is expected that validated limb threat stages will be found to correlate with
+amputation risk (Supplementary Fig 1, online only).
+APPLICATION OF WIfI STRATIFICATION
+The following examples demonstrate the application of
+WIfI in the clinical setting.
+Example 1. A patient with ischemic rest pain, an ABI
+of 0.30, no wounds, and no signs of infection would be
+classiﬁed as Wound 0 Ischemia 3 foot Infection 0 or
+WIfI 030. The consensus clinical stage is 2 (low) with
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+230 Mills et al
+
+Table V. Wound, Ischemia, and foot Infection (WIfI) reclassiﬁcation after debridement and control of infection (if
+required)
+The complete WIfI system is used to classify the patient at the time of initial presentation. In some patients with severe infection, the patient
+might require urgent drainage and debridement prior to objective documentation of foot perfusion. In such cases, the

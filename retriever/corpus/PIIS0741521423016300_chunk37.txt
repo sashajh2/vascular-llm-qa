@@ -1,0 +1,49 @@
+ Vascular Surgery
+
+Fitridge et al
+
+November 2023
+
+arteries, which due to their smaller size can be difﬁcult to
+image. However, advances in imaging and technology
+have shown that tibial and pedal arteries are potentially
+treatable by endovascular and open surgical techniques.
+The term microvascular disease describes abnormalities affecting the arteriolar, capillary and venular vessels. Several studies have reported microvascular
+abnormalities in the skin and subcutaneous tissues in
+people with diabetes. These abnormalities can be structural, i.e. occlusive disease and alterations in the blood
+vessel wall, and functional, such as impaired vasodilatory responses to endogenous or noxious stimuli.82
+However, in the systematic review on this topic it was
+not possible to identify studies of sufﬁcient quality
+showing that such abnormalities contribute to
+impaired wound healing (Supplementary material).
+One prospective study did report that microvascular
+changes observed in skin biopsies in the feet in people
+with diabetes and neuro-ischaemia were associated
+with poorer wound healing after revascularisation.83
+However, both these microvascular changes and poorer
+wound healing could be due to tissue damage caused
+by ischaemia and not by pre-existing diabetes related
+micro-angiopathy. If perfusion of the foot ulcer is
+adequate but the ulcer fails to heal, other causes of
+poor wound healing should be sought and treated,
+such as infection, insufﬁcient protection from biomechanical stress, oedema, poor glycaemic control, poor
+nutritional state, and underlying co-morbidities.43
+Based on the lack of studies showing that diabetes
+related micro-angiopathy contributes to poor wound
+healing in DFU and the potential harm if this is
+assumed, a Conditional Recommendation based on
+low certainty of evidence was made.
+
+Recommendation 10
+In a person with diabetes, peripheral artery disease, and a foot
+ulcer or gangrene, consider using the Wound/Ischaemia/foot
+Infection (WIfI) classiﬁcation system to estimate healing likelihood and amputation risk.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The Wound, Ischaemia and Foot infection
+(WIfI) classiﬁcation system was developed to guide the
+clinician

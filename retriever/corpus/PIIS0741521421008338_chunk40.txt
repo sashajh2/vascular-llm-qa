@@ -1,0 +1,124 @@
+, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+6613
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+54,565
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+2,783,610
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+288997
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+5,127,007
+
+Advanced
+
+21
+
+5 and 20
+
+1072
+
+Advanced
+
+22
+
+21 not 12
+
+622
+
+Advanced
+
+(Continued on next page)
+
+125S.e13
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+January Supplement 2022
+
+Continued.
+#
+
+Searches
+
+Results
+
+Type
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+433,620
+
+Advanced
+
+24
+
+22 not 23
+
+542
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts) [Limit not valid in Embase; records were retained]
+
+542
+
+Advanced
+
+26
+
+24 not 25
+
+0
+
+Advanced
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e14
+
+Volume 75, Number 1S
+
+Natural history search

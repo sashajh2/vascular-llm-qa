@@ -1,0 +1,125 @@
+The 16 possible combinations in ischemia 0 are
+unlikely to require revascularization. The spectrum of
+ischemia requiring vascular intervention is, thus, reduced
+
+JOURNAL OF VASCULAR SURGERY
+Volume 59, Number 1
+
+Mills et al 229
+
+Table IV. a and b, Risk/beneﬁt: Clinical stages by expert consensus
+a, Estimate risk of amputation at 1 year for each combination
+
+W-0
+W-1
+W-2
+W-3
+
+Ischemia – 0
+VL VL L
+VL VL L
+L
+L
+M
+M M H
+fI- fI- fI0
+1
+2
+
+M
+M
+H
+H
+fI3
+
+Ischemia – 1
+VL L M
+VL L M
+M M H
+H
+H H
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+L M H
+M H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+H
+H
+H
+H
+fI3
+
+Ischemia – 3
+L M M
+M M H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+b, Estimate likelihood of benefit of/requirement for revascularization (assuming
+infection can be controlled first)
+
+W-0
+W-1
+W-2
+W-3
+
+Ischemia – 0
+VL VL VL
+VL VL VL
+VL VL VL
+VL VL VL
+f-0 fI- fI1
+2
+
+VL
+VL
+VL
+VL
+fI3
+
+Ischemia – 1
+VL L L
+L
+M M
+M M H
+M M M
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+M H H
+H H H
+H H H
+fI- fI- fI0 1 2
+
+M
+M
+H
+H
+fI3
+
+M
+H
+H
+H
+fI3
+

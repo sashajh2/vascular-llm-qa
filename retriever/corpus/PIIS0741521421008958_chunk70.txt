@@ -1,0 +1,145 @@
+,599
+
+7986
+
+49,585
+
+Death
+
+Newman et al,14
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+1987
+symptomatic patients
+
+10
+
+12
+
+22
+
+NA
+
+MI
+
+CEA/CAS and CABG
+Newman et al,14
+combined vs CABG ﬁrst in
+1987
+symptomatic patients
+
+10
+
+12
+
+22
+
+NA
+
+Death
+
+CEA/CAS and CABG
+combined vs carotid
+intervention ﬁrst in
+symptomatic patients
+
+Newman et al,14
+1987
+
+10
+
+28
+
+38
+
+NA
+
+MI
+
+CEA/CAS and CABG
+combined vs carotid
+intervention ﬁrst in
+symptomatic patients
+
+Newman et al,14
+1987
+
+10
+
+28
+
+38
+
+NA
+
+Death
+
+CABG ﬁrst vs carotid
+intervention ﬁrst in
+symptomatic patients
+
+Newman et al,14
+1987
+
+12
+
+28
+
+40
+
+NA
+
+MI
+
+CABG ﬁrst vs carotid
+intervention ﬁrst in
+symptomatic patients
+
+Newman et al,14
+1987
+
+12
+
+28
+
+40
+
+NA
+
+CABG, Coronary artery bypass grafting; CAS, carotid artery stenting; CEA, carotid endarterectomy; CI, conﬁdence interval; MI, myocardial infarction; RR,
+relative risk.
+a
+Studies did not report symptom status from cardiac point of view. Symptomatology in this report refers to carotid related symptoms.
+b
+CEA and CABG combined vs isolated CABG.
+
+108S.e10
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Supplementary Table II (online only). Characteristics of included studies
+Total No.
+of patients (A)
+medical management
+(B) CEA/CAS
+
+Author, year (trial name)
+geographic area
+
+Mean age,
+years
+
+Male
+sex, %
+
+Mean BMI
+
+Comorbidities
+
+Medical therapy
+
+Question 

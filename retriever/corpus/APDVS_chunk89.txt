@@ -1,0 +1,35 @@
+ < 50 mmHg.
+4. Transcutaneous pressure of oxygen (TcPO2) < 30 mmHg.
+5. Flat or minimal pulsatile volume recording (PVR) waveforms.
+
+Angiography
+CT Angiography (CTA) with tri-vessel runoff (i.e. anterior tibial, posterior tibial, peroneal
+arteries) of lower extremities can help identify the location(s) of disease. However, this investigation requires a contrast load and should be carefully considered for those patients with
+renal disease.
+Lastly, diagnostic angiography is an invasive imaging technique that provides detailed information about the arterial anatomy and helps identify specific sites of blockage or stenosis.
+Diagnostic angiography involves the patient undergoing a femoral artery puncture to access
+the arterial system. Next, a series of catheters and wires are used to deliver contrast. Fluoroscopic imaging of the lower limb reveals vessel anatomy and identifies areas of stenotic disease.
+As arterial access is already achieved, immediate intervention may be considered including
+angioplasty (i.e. ballooning of stenosis) or stenting.
+
+118
+
+Classication Systems
+Ď Tip
+Below, we will introduce and summarize the most common classification systems. For a
+high-yield summary of all classification systems, please see this paper. (Hardman et al.
+2014)
+The Rutherford Classication and Fontaine Grading
+ The Rutherford Classification is the mainstay of diagnosing the severity of CLTI, however,
+Fontaine grading can also be used.
+ These grading systems are based on symptom presentation. Patients with CLTI usually
+present with Fontaine Grade 2 or higher or Rutherford Category 3 or higher.
+ Minor tissue loss is considered defined as non-healing ulcers with focal gangrene that do
+not exceed the foot digit.
+ Major tissue loss extends beyond the transmetatarsal level with the functional foot no
+longer salvageable. Patients with major tissue loss most often receive amputations.
+Fontaine Grade
+
+The Wound, Ischemia, and foot Infection (WIfI) classication
+ The Wound, Ischemia, and foot Infection (WIfI) classification was proposed in 2014 as an
+integrated lower extremity wound classification and prognositcation system. The W

@@ -1,0 +1,57 @@
+with normal saline or 5% dextrose/sodium bicarbonate for
+patients at increased risk of CIN undergoing EVAR.
+Level of recommendation
+
+1 (Strong)
+
+Quality of evidence
+
+A (High)
+
+Diabetes mellitus. Diabetic patients have increased
+operative mortality after AAA repair, with reduced
+
+survival 2 to 5 years after surgery, consistent with an
+increased burden of cardiovascular disease.143 However,
+whether diabetes is a distinct risk factor for major
+adverse events or death after OSR or EVAR is not well
+deﬁned.144-148
+Metformin is a ﬁrst-line medication for the treatment of
+type 2 diabetes and prescribed for >100 million patients
+worldwide. Metformin is contraindicated if the eGFR is
+below 30 mL/min/1.73 m2 because of the risk of lactic
+acidosis, which carries a mortality of up to 50%.149 Given
+the risk of CIN after conventional or CT angiography and
+the association of metformin with lactic acidosis among
+patients with renal insufﬁciency, an eGFR of <60 mL/min
+should prompt the cessation of metformin either at the
+time of administration of contrast material or up to 48
+hours before if eGFR is <45 mL/min.150 Metformin should
+be restarted no sooner than 48 hours after administration of contrast material as long as renal function has
+remained stable (<25% increase in creatinine concentration above baseline).150
+We recommend holding metformin at the time of
+administration of contrast material among patients with an
+eGFR of <60 mL/min or up to 48 hours before
+administration of contrast material if the eGFR is <45 mL/min.
+Level of recommendation
+
+1 (Strong)
+
+Quality of evidence
+
+C (Low)
+
+We recommend restarting metformin no sooner than 48
+hours after administration of contrast material as long as
+renal function has remained stable (<25% increase in
+creatinine concentration above baseline).
+Level of recommendation
+
+1 (Strong)
+
+Quality of evidence
+
+C (Low)
+
+Hematologic disorders. The presence of an aortic
+aneurysm inﬂuences both platelet count and

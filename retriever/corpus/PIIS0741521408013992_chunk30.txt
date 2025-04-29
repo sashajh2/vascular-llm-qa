@@ -1,0 +1,111 @@
+ access
+
+Prosthetic access
+
+RR (95% CI)
+
+Absolute (95% CI)
+
+Quality
+
+Importance
+
+2729/16823
+
+7001/31698
+
+0.76 (0.67 to 0.86)
+
+38 fewer per 1000
+(21 to 51)
+
+QŒŒŒ (very low)
+
+Critical
+
+527/9337
+
+656/4416
+
+0.18 (0.11 to 0.31)
+
+86 fewer per 1000
+(66 to 97)
+
+QŒŒŒ (very low)
+
+Important
+
+338/7122
+
+162/3071
+
+0.73 (0.48 to 1.16)
+
+15 fewer per 1000
+(⫺13 to 34)
+
+QŒŒŒ (very low)
+
+Important
+
+2373
+
+74
+
+NA
+
+3.81 days shorter
+(–7.77 to 0.15)
+
+QŒŒŒ (very low)
+
+Important
+
+1849/7628
+
+2509/5538
+
+0.72 (0.65 to 0.80)
+
+131 fewer per 1000
+(95 to 167)
+
+QŒŒŒ (very low)
+
+Important
+
+1410/3798
+
+1334/2326
+
+0.67 (0.58 to 0.78)
+
+174 fewer per 1000
+(93 to 242)
+
+QŒŒŒ (very low)
+
+Important
+
+892/3769
+
+778/2735
+
+0.83 (0.70 to 0.99)
+
+57 fewer per 1000
+(6 to 102)
+
+QŒŒŒ (very low)
+
+Important
+
+1055/2873
+
+622/967
+
+0.67 (0.61 to 0.74)
+
+210 fewer per 1000
+(15

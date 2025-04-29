@@ -1,0 +1,20 @@
+ patients; (2) is CEA recommended over transfemoral CAS for low
+surgical risk patients with symptomatic carotid artery stenosis of >50%; (3) the timing of carotid intervention for patients
+presenting with acute stroke; (4) screening for carotid artery stenosis in asymptomatic patients; and (5) the optimal
+sequence of intervention for patients with combined carotid and coronary artery disease.
+A separate implementation document will address other important clinical issues in extracranial cerebrovascular
+disease. Recommendations are made using the GRADE (grades of recommendation assessment, development, and
+evaluation) approach, as was used for other Society for Vascular Surgery guidelines. The committee recommends CEA
+as the ﬁrst-line treatment for symptomatic low-risk surgical patients with stenosis of 50% to 99% and asymptomatic
+patients with stenosis of 70% to 99%. The perioperative risk of stroke and death in asymptomatic patients must be <3%
+to ensure beneﬁt for the patient. In patients with recent stable stroke (modiﬁed Rankin scale score, 0-2), carotid
+revascularization is considered appropriate for symptomatic patients with >50% stenosis and should be performed as
+soon as the patient is neurologically stable after 48 hours but deﬁnitely <14 days after symptom onset. In the general
+population, screening for clinically asymptomatic carotid artery stenosis in patients without cerebrovascular symptoms
+or signiﬁcant risk factors for carotid artery disease is not recommended. In selected asymptomatic patients with an
+increased risk of carotid stenosis, we suggest screening for clinically asymptomatic carotid artery stenosis as long as the
+patients would potentially be ﬁt for and willing to consider carotid intervention if signiﬁcant stenosis is discovered. For
+patients with symptomatic carotid stenosis of 50% to 99%, who require both CEA and coronary artery bypass grafting,
+we suggest CEA before, or concomitant with, coronary artery bypass grafting to potentially reduce the risk of stroke
+and stroke/death. The sequencing of the intervention depends on the clinical presentation and institutional
+experience. (J Vasc Surg 202

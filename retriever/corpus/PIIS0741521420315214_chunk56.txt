@@ -1,0 +1,39 @@
+ of AKI in hospitalized patients. Although it
+is plagued with inconsistent deﬁnitions in the literature,
+its incidence varies between 5% and 25%. Factors consistently shown to increase risk for contrast-induced nephropathy include age, diabetes, previous renal disease,
+and escalating doses of contrast material.159-161
+Strategies reported to prevent contrast-induced nephropathy are also marred by inconsistent reporting
+standards and patient risk factors.160,161 These include
+use of IVUS, minimizing the amount of contrast material
+used during the operation, prehydration with normal saline (effectively increasing the volume of distribution of
+intravascular contrast material), and use of nonionic,
+iso-osmolar contrast agents.162,163 Research on pretreatment with statins is evolving.164
+Recommendation 22: We recommend preprocedural
+TEVAR planning to include sizing and landing sites
+before the case to minimize procedural contrast material
+use. If available, intraoperative CTA overlay technology
+and IVUS should be used to minimize use of contrast
+material. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate)
+Recommendation 23: We recommend nonionic, hypoosmolar contrast material with attempts at minimizing
+intra-arterial contrast agent use, especially in patients at
+high risk for contrast-induced nephropathy. Level of
+recommendation: Grade 1 (Strong), Quality of Evidence: B (Moderate)
+Recommendation 24: Depending on the patient’s
+corporal density and the capacity of the X-ray equipment
+available, we suggest diluting contrast material in the power injector when possible (typically to 50% or 70%). Adjustments in injection volume and time (faster injection
+of smaller doses) can usually compensate when additional visibility is required. Level of recommendation:
+Grade 2 (Weak), Quality of Evidence: C (Low)
+Recommendation 25: We suggest the use of on-table
+mapping software options on ﬁxed-imaging X-ray systems, such as roadmapping and CT fusion or overlay
+
+72S
+
+Upchurch et al
+
+Journal of Vascular Surgery
+January Supplement 2021
+
+reference, to aid in locating target landing sites and to
+minimize need for repeated injections. If available, CT
+overlay

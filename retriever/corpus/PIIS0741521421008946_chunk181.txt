@@ -1,0 +1,32 @@
+antly different between specialties:
+7.1% for interventional radiologists, 6.7% for interventional
+vascular medicine, 6.3% for vascular surgeons, and 3.1%
+for interventional cardiologists (P ¼ .3121; 6.3% for vascular
+surgeons and 3.8% for others combined; P ¼ .2469).
+When physicians with less than 5 CAS/year were
+excluded: the major adverse event rates were 6.7% for
+interventional vascular medicine, 4.7% for vascular surgeons, and 3.1% for interventional cardiologists (P ¼
+.5633). When physicians performing fewer than ﬁve CAS
+per year were excluded, and the vascular surgeons alone
+were compared with others, the MAE rates were 3.6% for
+non-vascular surgeons vs 4.7% for vascular surgeons (P ¼
+.5958). The major adverse event rate for high-volume providers was 4.0% vs 9.5% for low-volume providers, regardless of their specialty (P ¼ .1002). Logistic regression
+analysis showed that for high-volume providers, the OR
+of major adverse event rate was 0.4 (95% CI, 0.15-1.1; P ¼
+.0674). The authors concluded that perioperative major
+adverse event risks for CAS, regardless of specialties,
+were similar across various providers, particularly for
+vascular surgeons with similar volumes as nonvascular
+surgeons. Low-volume providers had higher major
+adverse event rates.
+
+POSTCAROTID INTERVENTION SURVEILLANCE:
+POST CEA AND POST STENTING
+Surveillance after a carotid intervention is common
+practice established on historical ipsilateral restenosis,
+contralateral disease progression and associated stroke
+risk. Traditional surveillance protocols for both CEA and
+CAS have been very rigorous, including ultrasound examination follow-up at 1, 3, 6, 12, and 18 months and annually
+thereafter, with some variation in early postoperative surveillance.590-593
+Early surveillance (eg, at 1-3 months), particularly when
+intraoperative completion imaging has not been performed, helps to identify technical

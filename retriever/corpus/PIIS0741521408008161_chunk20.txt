@@ -1,0 +1,29 @@
+, AC, VM,
+ME, DM, RB, BP
+Analysis and interpretation: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Data collection: RH, WM, HM,VM, BP
+Writing the article: RH, WM, EA, MM, KC, BL, BP
+Critical revision of the article: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Final approval of the article: RH, WM, EA, MM, KC, AC,
+VM, ME, DM, RB, BL, BP
+Statistical analysis: MM, VM
+Obtained funding: Not applicable
+Overall responsibility: RH, WM, EA, KC, AC, ME, DM,
+RB, BL, BP
+REFERENCES
+1. Oxman A, Guyatt G, Cook D, Montori V. Summarizing the evidence.
+In: Guyatt G, Rennie D, editors. Users’ guides to the medical literature:
+a manual for evidence-based clinical practice. Chicago: AMA Press;
+2002. p. 55-173.
+2. Chambers BR, Donnan GA. Carotid endarterectomy for asymptomatic
+carotid stenosis.[update of Cochrane Database Syst Rev 2000;(2):
+CD001923; PMID: 10796451]. Cochrane Database of Syst Rev
+2005(4):CD001923.
+3. Cina CS, Clase CM, Haynes RB. Carotid endarterectomy for symptomatic carotid stenosis. Cochrane Database Syst Rev 2000(2):CD001081.
+4. CAVATAS Investigators. Endovascular versus surgical treatment in
+patients with carotid stenosis in the Carotid and Vertebral Artery
+Transluminal Angioplasty Study (CAVATAS): a randomized trial. Lancet 2001;357:1729-37.
+5. Yadav JS, Wholey MH, Kuntz RE, Fayad P, Katzen BT, Mishkel GJ, et
+al. Protected carotid-artery stenting

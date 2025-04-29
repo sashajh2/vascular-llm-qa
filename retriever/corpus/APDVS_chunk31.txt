@@ -1,0 +1,29 @@
+id Artery Endarterectomy (CEA)
+This procedure has been performed since the 1950s, either by plaque endarterectomy and
+patch angioplasty or primary arterial repair. To prevent arterial restenosis, patch angioplasty
+has become the standard of arterial closure after plaque removal. The procedure can involve
+cerebral monitoring including electroencephalography (EEG), transcranial Doppler (TCD) and
+stump pressure monitoring or be performed awake to directly monitor patient motor response.
+Endarterectomy and patch repair can be performed under a “clamp and sew” mentality or with
+an arterial shunt to maintain cerebral perfusion. Risks include cardiopulmonary risk of acute
+myocardial ischemia, <3% perioperative risk of neurologic event, neck hematoma or cranial
+nerve injury of roughly 5-10% affecting the vagus, marginal mandibular, recurrent laryngeal
+or hypoglossal nerves.
+
+55
+
+Carotid Artery Stenting (CAS)
+Transfemoral Carotid Artery Stenting (TFCAS) with Embolic Protection
+Transfemoral stenting requires some type of protection from embolization including a distal internal carotid artery retrievable filter or fow arrest procedure to prevent cerebral embolization
+during stent placement with or without angioplasty.
+Transcarotid Artery Revascularization (TCAR)
+Treatment of a carotid stenosis that avoids aortic arch manipulation involving direct common
+carotid artery exposure and sheath placement to allow for transcarotid stent delivery to the
+internal carotid artery. The common carotid artery sheath is connected to a femoral vein
+sheath so that the natural arterial pressure gradient reverses fow across the distal internal
+carotid artery driving blood and possible embolus into the arterial tubing circuit and across a
+filter before it reenters the venous circulation. As FDA approval for the device was delivered
+in 2016, the technology is less than 10 years old without robust long-term follow up data.
+This technique offers a lower perioperative stroke risk than transfemoral stenting, for multiple
+reasons including lack of transaortic arch manipulation and great vessel cannulation which can
+result in embolus prior to placement of an

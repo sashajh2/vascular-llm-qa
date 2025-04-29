@@ -1,0 +1,44 @@
+ webcasts) [Limit not valid in CCTR,CDSR,Embase,Ovid MEDLINE(R),Ovid MEDLINE(R) Daily
+Update,Ovid MEDLINE(R) In-Process,Ovid MEDLINE(R) Publisher; records were retained]
+
+1952
+26
+
+56 from 55 keep 1-2
+
+2
+
+57 (54 not 55) or 56
+
+1928
+
+58 remove duplicates from 57
+
+1434
+
+108S.e38
+
+Hasan et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" or carotid)
+2 TITLE-ABS-KEY("acute coronary artery thrombos*" or
+"acute coronary syndrome*" or "acute heart muscle
+ischaemia*" or "acute heart muscle ischemia*" or
+"ampulla cardiomyopath*" or angina or "anginal attack*"
+or "apical ballooning" or "arteria coronaria ostium stenos*"
+or "atrial ﬁbrillation*" or "atrial infarct*" or "atrium ﬁbrillation*" or "atrium infarct*" or "auricular ﬁbrilation*" or
+"auricular ﬁbrillation*" or "auricular infarct*" or "broken
+heart syndrome*" or "cardiac allograft vasculopath*" or
+"cardiac atrial ﬁbrillation*" or "cardiac atrial infarct*" or
+"cardiac atrium ﬁbrillation*" or "cardiac atrium infarct*"
+or "cardiac infarct*" or "cardiac ischaemia*" or "cardiac
+ischemia*" or "cardiac muscle ischaemia*" or "cardiac
+muscle ischemia*" or "cardiac muscle necros*" or "cardiac
+necros*" or "cardial infarct*" or "Coronary Aneurysm*" or
+"coronary arterial obstruction*" or "coronary arterial
+thrombos*" or "coronary arterioscleros*" or "coronary artery aneurysm*" or "coronary artery anomaly" or "coronary
+artery atheroscleros*" or

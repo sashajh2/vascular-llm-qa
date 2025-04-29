@@ -1,0 +1,49 @@
+2014
+
+230 Mills et al
+
+Table V. Wound, Ischemia, and foot Infection (WIfI) reclassiﬁcation after debridement and control of infection (if
+required)
+The complete WIfI system is used to classify the patient at the time of initial presentation. In some patients with severe infection, the patient
+might require urgent drainage and debridement prior to objective documentation of foot perfusion. In such cases, the initial ischemia
+status would be listed as U (Unknown). The ischemia grade would be added after drainage of infection. If ischemia was detected and
+measured, but urgent drainage of infection was nonetheless required, the patient must be reclassiﬁed after control of infection prior to
+revascularization. This process could be simpliﬁed as follows:
+Group a: No infection within 30 days or simple infection controlled with antibiotics alone
+Group b: Infection controlled, but required incision and drainage, open toe or partial forefoot amputation
+
+Wound 0
+Wound 1
+Wound 2
+Wound 3
+
+Ischemia 0
+
+Ischemia 1
+
+Ischemia 2
+
+VL
+VL
+
+VL
+
+VL
+
+Ischemia 3
+a
+
+VL, Very low beneﬁt from revascularization (unlikely to require revascularization).
+a
+W0 I3 (Wound 0, Ischemia 3) patients ¼ rest pain, no tissue loss; most such patients would beneﬁt from revascularization.
+
+W0 I1, 2 ¼ have no wound, no rest pain, and do not require revascularization
+The remaining 11 possible patient scenarios may require revascularization.
+Some of W2 and W3 patients with I “0” may have regional perfusion abnormalities (eg, heel ulcer in patient with CKD and normal toe
+pressure, but arch incomplete and heel ischemic).
+Examples:
+1. Patient Alpha presents with a noninfected, full-thickness, dorsal foot wound with exposed tendon and an ABI of 0.45 with a TP of
+38 mm Hg.
+Initial WIfI ¼ W2 I2 fI 0
+The patient does not respond to simple wound care, so a revascularization is planned.
+Simpliﬁed reclassiﬁcation prior to re

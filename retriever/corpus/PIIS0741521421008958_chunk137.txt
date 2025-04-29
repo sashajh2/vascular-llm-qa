@@ -1,0 +1,73 @@
+ or primate or primates or quail or rabbit or rabbits or rat or rats or reptile
+or reptiles or rodent or rodents or ruminant or ruminants or salmon or sheep or shrimp or slug or slugs or
+swine or tamarin or tamarins or toad or toads or trout or urchin or urchins or vole or voles or waxworm or
+waxworms or worm or worms or xenopus or "zebra ﬁsh" or zebraﬁsh) not (human or humans or patient or
+patients)).ti,ab,hw,kw.
+
+9272186
+
+23
+
+20 not (21 or 22)
+
+4996
+
+24
+
+limit 23 to yr¼"2011 -Current"
+
+2446
+
+1042749
+
+363
+394848
+11474
+
+5123
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e31
+
+Volume 75, Number 1S
+
+Continued.
+#
+
+Searches
+
+25
+
+limit 24 to (editorial or erratum or note or addresses or autobiography or bibliography or biography or blogs or
+comment or dictionary or directory or interactive tutorial or interview or lectures or legal cases or legislation
+or news or newspaper article or overall or patient education handout or periodical index or portraits or
+published erratum or video-audio media or webcasts) [Limit not valid in CCTR,CDSR,Embase,Ovid
+MEDLINE(R),Ovid MEDLINE(R) Daily Update,Ovid MEDLINE(R) In-Process,Ovid MEDLINE(R) Publisher;
+records were retained]
+
+26
+
+from 25 keep 1-7
+
+7
+
+27
+
+(24 not 25) or 26
+
+2298
+
+28
+
+remove duplicates from 27
+
+1589
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" OR carotid)
+2 TITLE-ABS-KEY(angioplast* OR endarterectom* OR
+"endoluminal repair*" OR endovascular* OR stent*)
+3 TITLE-ABS-KEY((randomized W/3 study) OR (randomized W/3

@@ -1,0 +1,80 @@
+mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,307
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,957
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral
+stroke*" or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼title, abstract, heading word,
+drug trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+620
+
+Advanced
+
+2,711,327
+
+Advanced
+
+14
+
+mortality.fx.
+
+0
+
+Advanced
+
+15
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+864,221
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+6613
+
+Advanced
+
+17
+
+"natural history".mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+54,565
+
+Advanced
+
+18
+
+exp Disease Progress

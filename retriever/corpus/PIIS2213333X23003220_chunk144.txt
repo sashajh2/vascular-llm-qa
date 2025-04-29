@@ -1,0 +1,58 @@
+
+Although evidence in randomized trials of routine ultrasound screening is lacking, the strength of our recommendation is 1 (strong) against screening in this patient
+population, given the futility of performing such studies.
+Evidence. A systematic review of 39 RCTs and 33 observational studies (31,663 patients in total) undergoing
+routine DUS within 4 weeks of thermal or nonthermal
+ablation of the GSV, SSV, or accessory veins, found a
+very low incidence of EHIT (2.9%), DVT (0.26%), and PE
+(0.03%).234 Most EHITs were types I and II, with the incidence of EHIT III to IV being only 0.5%. The pooled incidence of any VTE event (EHIT II-IV, DVT, and PE) was
+1.32% (95% CI, 0.75%-2.02%) with signiﬁcant heterogeneity. The cost of routine ultrasound screening was estimated to be $61,292 per EHIT III or IV or DVT prevented.
+A second, large systematic review (52 studies, 16,398 patients) evaluated only observational studies or
+
+Gloviczki et al
+
+Journal of Vascular Surgery: Venous and Lymphatic Disorders
+
+49
+
+Volume 12, Number 1
+
+Table XXXVII. Evidence to decision framework: Routine ultrasound screening in asymptomatic average-risk patients
+Domain
+
+Evidence/panel input
+
+Judgment
+
+How substantial are desirable effects of the strategy?
+
+Routine screening associated with substantial cost, resource
+utilization, and cost. Risk of bleeding events associated with
+anticoagulation for asymptomatic ultrasound identiﬁed
+events.
+
+Large
+
+How substantial are the undesirable anticipated
+effects?
+
+Risk of asymptomatic thrombus progression/embolization if
+not identiﬁed. Incidence of these events is very low
+(approximately 1.5%). However, risk of progression/
+embolization in these patients is unclear.
+
+Probably
+low
+
+Do the desirable effects outweigh the undesirable
+effects?
+
+Yes
+
+Yes
+
+What is the overall certainty of the evidence of effects?
+
+High certainty regarding low incidence of thrombotic
+events after ablation. Low certainty regarding the natural
+history of rare asymptomatic events identiﬁed by

@@ -1,0 +1,56 @@
+ TP
+55-80 mm Hg;
+Grade 2: AP 55-69 mm Hg, ABI 0.5-0.69, TP
+30-54 mm Hg;
+Grade 3: AP <55 mm Hg, ABI <0.5,
+TP <30 mm Hg
+
+Yes, grades 0-3;
+Grade 0: none;
+Grade 1: mild. erythema 0.5-2 cm, induration,
+tenderness, warmth and purulence;
+Grade 2: moderate, erythema >2 cm, abscess,
+muscle tendon, joint, or bone infection;
+Grade 3: severe, systemic response (similar to
+IDSA)
+
+Detailed system intended only for DFUs; Detailed
+comprehensive ulcer classiﬁcation system and
+hemodynamic categories for gradation of
+ischemia; Gangrene not considered separately
+Infection system similar to IDSA
+
+No
+
+Yes, uninfected, mild, moderate, and severe
+(Table II)
+
+Yes, ischemia grades 0-3;
+Hemodynamics with spectrum of perfusion
+abnormalities; No cutoff value for CLI;
+Grade 0: unlikely to require revascularization
+
+Yes, IDSA system (Table II)
+
+Validated system for risk of amputation related to
+foot infection, but not designed to address
+wound depth/complexity or degree of ischemia
+Includes PAD þ diabetes with spectrum of
+wounds, ischemia and infection, scaled from 03; No cutoff for CLI. Need for revascularization
+depends on degree of ischemia, wound and/or
+infection severity; Ulcers/gangrene categorized
+based on extent and complexity of anticipated
+ablative surgery/coverage
+
+224 Mills et al
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+neuroischemia is now the most common etiology of DFUs
+in most western countries. The estimated current prevalence rates of neuropathic, ischemic, and neuroischemic
+ulcers in patients with diabetes are 35%, 15%, and 50%,
+respectively.30
+An adequate classiﬁcation system that risk stratiﬁes
+patients and aids in clinical decision-making represents an
+enormous unmet need in the ﬁeld of

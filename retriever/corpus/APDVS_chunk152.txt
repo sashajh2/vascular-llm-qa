@@ -1,0 +1,34 @@
+-24
+Popliteal               4.7                         4-6
+Pedal                   2.1                         4
+
+Balloons, Stents, and Endografts
+The delivery system for balloons consists of a catheter over the wire with the balloon built
+into the catheter tip. As such, advancing the balloon into place for angioplasty is no different
+from advancing a small catheter without a balloon.
+Similar to balloons, stents are contained in catheters that are advanced into position over wires.
+The interventional component (i.e. stent) is near the tip of the catheter.
+Both stents and balloons can elute drugs, most commonly Paclitaxel, an antiproliferative agent.
+Paclitaxel is lipophilic and remains active in the vessel wall following the procedure, preventing
+neointimal hyperplasia and improving patency.The impetus for using a drug-eluting stent or
+balloon in place of a standard stent or balloon is to decrease the chances of vascular remodeling
+following the procedure that may lead to restenosis.
+In contrast to drug-eluting stents, drug-eluting balloons have the advantage of not leaving
+hardware in the vessel after intervention. Contrarily, drug-eluting stents remain in the vessel
+lumen after intervention, but are able to continue providing radial force.
+
+192
+
+Balloons
+Balloons are versatile endovascular tools and can be categorized by the degree to which they
+assume of the shape of the vessel.
+Compliant balloons: - Compliant balloons infate to a specific volume and conform to the
+shape of the vessel. - For example, the Fogarty balloon is a compliant balloon that can be
+used to remove thrombi in both open and endovascular procedures.
+Semi-Compliant balloons: - These balloons have a slightly more rigid shape and therefore
+conform to a lesser degree to the shape of the container (i.e. vessel). - The Coda balloon
+(Cook Medical, Bloomington, IN) is semi-compliant and used to temporarily occlude
+large vessels.
+Non-Compliant balloons: - Non-compliant infate to a predetermined shape and size. They are commonly used in angioplasty of peripheral and/or visceral stenosed vessels.
+
+Figure 4: Angioplasty with a non-compliant balloon courtesty of J

@@ -1,0 +1,29 @@
+ therefore, does not support routine preprocedure DUS for patients with C1 disorder.
+1.5.3. In symptomatic patients with varicose veins
+(CEAP Class C2), the deep venous system should be
+routinely evaluated for infrainguinal obstruction or
+valvular incompetence.
+
+Rationale. Deep venous pathology, including reﬂux and
+obstruction, may affect outcomes and complications
+following interventions for superﬁcial venous incompetence. Evaluation of the deep system in C2 patients with
+symptomatic CVD, therefore, is recommended.8,68
+Evidence. Among 4881 patients who underwent endovenous ablation for superﬁcial truncal vein in the Vascular
+Quality Initiative database, 2254 patients (46.2%) had
+combined deep and superﬁcial reﬂux (Table II). After a
+median follow-up of 336 days, symptoms improved in
+both groups and improvement in VCSS score was greater
+in patients with deep vein reﬂux. These patients, however,
+had substantially higher rates of complications (10.4% vs
+3.0%; P < .001), including paresthesia (2.5% vs 0.7%; P <
+.001), skin pigmentation (1.2% vs 0.4%; P ¼ .023), superﬁcial
+phlebitis (2.0% vs 0.9%; P ¼ .018), wound infection (0.8% vs
+0.2%; P ¼ .040), and proximal thrombus extension (3.1% vs
+1.1%; P < .001). After controlling for confounding factors,
+the estimate of effect size for any complication had an
+odd ratio (OR) of 5.72 (P < .001).74 Gianesini et al75 retrospectively analyzed long-term results of the CHIVA procedure in 381 patients and found an increased risk of GSV
+reﬂux recurrence among those patients who initially had
+reﬂuxing common femoral veins.75 Other investigators
+found that ablation of superﬁcial reﬂux may restore
+segmental competence of the deep veins76 and that
+clinical outcome is excellent after superﬁcial ablation

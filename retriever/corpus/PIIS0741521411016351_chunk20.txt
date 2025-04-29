@@ -1,0 +1,33 @@
+ testing should be done in an accredited
+vascular laboratory (eg, Intersocietal Commission for the
+Accreditation of Vascular Laboratories), and the images
+should be reviewed by physicians experienced in vascular
+ultrasound interpretation.
+Determining the degree of carotid artery stenosis is
+largely based on an analysis of the peak systolic velocity
+(PSV) or the end-diastolic velocity (EDV), or both, of the
+carotid artery. A panel of experts from several medical
+specialties convened in October 2002 in San Francisco,
+California, under the auspices of the Society of Radiologists
+in Ultrasound, to arrive at a consensus regarding the performance of Doppler US imaging to aid in the diagnosis of
+ICA stenosis.68 This panel of experts recommended a cutoff PSV of the ICA of ⱖ125 cm/s for predicting angio-
+
+JOURNAL OF VASCULAR SURGERY
+Volume 54, Number 3
+
+graphic ⬎50% stenosis and ⱖ230 cm/s for predicting
+⬎70% ICA stenosis. These recommended criteria are based
+on an analysis of several published studies and the experience of the panelists rather than values validated against
+other imaging modalities.
+AbuRahma et al69 recently analyzed the CDUS and
+angiography results of 376 carotid arteries in their institution. Using the consensus criteria, they demonstrated a
+sensitivity of 93%, specificity of 68%, and overall accuracy of
+85% for stenosis between 50% and 69%. A PSV of ⱖ230
+cm/s for ⱖ70% stenosis had a sensitivity of 99%, specificity
+of 86%, and overall accuracy of 95%. Receiver operator
+curves showed that the ICA PSV was significantly better
+than EDV or ICA/CCA ratio (P ⫽ .036) in detecting
+ⱖ70% stenosis and ⱖ50% stenosis. There was no improvement in accuracy by adding the EDV values or the ratios, or
+both, to the PSV values.
+Velocity-based estimation of carotid artery stenosis may
+need to be adjusted in certain

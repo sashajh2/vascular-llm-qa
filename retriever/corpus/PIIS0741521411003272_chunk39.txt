@@ -1,0 +1,37 @@
+, Doppler examination (handheld)
+Level 2: Noninvasive— duplex scan, plethysmography
+Level 3: Invasive or complex evaluation— contrast venography, venous pressure measurements, IVUS, CT
+venography, MR venography
+
+The accuracy of the diagnosis increases with the addition of imaging and invasive testing. Recording the date
+and method used to confirm the clinical impression can be
+added in parentheses after the CEAP recording as follows:
+Full form: C2,4a,5, S Ep As, p Pr2,3,18 (Level 2, Feb 8, 2010)
+Basic form: C5, S EpAs pPr (Level 2; Feb 8, 2010)
+The main purpose of using the CEAP classification in
+patients with CVD is to distinguish primary venous disease
+from congenital varicosity and, most importantly, from
+secondary, post-thrombotic venous insufficiency.53 Evaluation and treatment of the three conditions are distinctly
+different.
+OUTCOME ASSESSMENT
+Outcome assessment of therapy of varicose veins and
+more advanced CVD includes standardized objective criteria that reflect patient symptoms, characteristic signs, and
+objective measures of functional and disease-specific
+QOL.104
+Generic QOL instruments
+Generic QOL measures allow comparison with population norms and other disease states and provide a measure
+
+16S Gloviczki et al
+
+of any ill effects of treatment. Generic and disease-specific
+QOL measures are usually complementary and should be
+used together. Of the generic QOL instruments the Short
+Form 36-Item Health Survey (SF-36) has been used with
+success for assessment of global well-being of patients with
+varicose veins.105,106
+Venous disease–specific QOL instruments
+Disease-specific QOL measurements are sensitive to
+the beneficial effects of treatment. Different diseasespecific, patient-generated QOL tools and patient-reported
+outcomes (PROs) have been popular in venous disease
+reporting.107,108 The most frequently used validated venous disease–specific instruments include the Venous Insufficiency Epidemiologic and Economic Study of Qualityof-Life (VEINES-QOL/Sym) questionnaire scale, the
+Chronic Venous Insufficiency Questionnaire (CIV

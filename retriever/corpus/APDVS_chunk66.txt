@@ -1,0 +1,33 @@
+” in healthy people:
+ Total cholesterol: Levels below 200 mg/dL (5.2 mmol/L)
+ LDL cholesterol: Levels below 130 mg/dL (3.4 mmol/L)
+ HDL cholesterol: Levels above 40 mg/dL (1 mmol/L) in men and above 50 mg/dL
+(1.3 mmol/L) in women
+The American Diabetes Association (ADA) standards of care for diabetes recommend
+that statin therapy should be initiated in individuals with diabetes and other atherosclerotic cardiovascular disease (ASCVD) risk factors.
+Please see the ASCVD risk calculator algorithm:
+ For patients ages 40 years and older with diabetes: Use moderate-dose statin therapy.
+ For patients ages 40 to 75 with diabetes and a higher cardiovascular risk (including
+those with one or more ASCVD risk factors): Use high-intensity statin therapy to
+reduce LDL cholesterol by  50% of baseline and target an LDL cholesterol goal of
+<70 mg/dL.
+ For patients with diabetes who have already had an ASCVD event: High-intensity
+statin therapy is recommended to target an LDL cholesterol reduction of  50% from
+baseline and an LDL cholesterol goal of <55 mg/dL.
+
+PAD Risk Factors
+All these risk factors increase rates of atherosclerosis and start to limit the blood fow to the
+lower extremities, attributing to claudication.
+ Smoking: Smoking is a well-established major risk factor for PAD. It contributes to
+PAD through multiple mechanisms, including endothelial dysfunction, oxidative stress,
+infammation, and platelet activation. The nicotine in tobacco constricts blood vessels
+
+97
+
+and promotes the formation of atherosclerotic plaques. Moreover, smoking cessation is
+the most effective intervention in reducing the progression of PAD.
+ Diabetes Mellitus: Diabetes is closely associated with PAD due to hyperglycemiainduced endothelial dysfunction and microvascular damage. It accelerates atherosclerosis by promoting lipid abnormalities, systemic infammation, and the development of
+neuropathy, which can mask or delay the recognition of PAD symptoms.
+ Hypertension: Hypertension is a major contributor to PAD. Elevated blood pressure
+damages arterial walls, rendering them more susceptible to atherosclerosis. Hypertension
+also increases the risk of throm

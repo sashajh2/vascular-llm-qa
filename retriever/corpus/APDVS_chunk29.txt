@@ -1,0 +1,27 @@
+ used to evaluate carotid artery stenosis with the lowest
+cost option being color fow duplex ultrasound (DSA) that allows a physician to determine
+peak systolic and end diastolic velocities throughout the carotid bifurcation. Based on the
+internally validated vascular laboratory criteria of the institution, these velocities can be correlated to ranges of degree of stenosis, with high grade stenosis defined as >70-80%. Since
+the modality is based primarily on velocity range, it cannot give exact stenosis such as 66%.
+The modality can also provide adjunct information about the blood fow waveforms in each
+arterial segment, as well as whether that fow is laminar or turbulent with utilization of color
+fow imaging. Limitations of this imaging include technician skill, inability to obtain optimal
+angle of Doppler interrogation for velocity determination, shadowing from heavily calcified
+lesions, poor visualization due to patient habitus and tortuosity.
+Axial imaging options include both computed tomography angiogram (CTA) and magnetic
+resonance angiogram (MRA). Both of these options require some form of intra-arterial contrast,
+either iodinated contrast or gadolinium, respectively. However, they offer a fuller perspective
+of relevant anatomy and a more precise determination of stenosis within the limitations of the
+modality, with MRA often overestimating the degree of stenosis due to intrinsic properties of
+MRA imaging acquisition. Both CTA and MRA, although superior to DSA in determination
+of exact degree of plaque stenosis and arterial anatomy, sacrifice the physiologic information
+offered through DSA that speak to fow patterns, fow direction and turbulence. Axial imaging
+of CTA and MRA can define patency but do not speak to the dynamic nature of blood fow
+or directionality of fow.
+Definitive determination of fow and directionality can be augmented to a carotid artery stenosis workup by diagnostic angiography. This requires femoral artery access and includes contrast
+administration, as well as a small risk of periprocedural embolization. However, it offers additional physiologic evaluation that might not be present in DSA and that is inherently lacking
+in CTA and MRA studies.
+
+54
+
+Asymptomatic Carotid Atery Sten

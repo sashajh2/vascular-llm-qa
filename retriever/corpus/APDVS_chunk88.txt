@@ -1,0 +1,42 @@
+ow through diseased and collateral vessels thereby reducing ischemia and pain.
+
+Physical Exam
+Common physical exam findings on the lower extremities include:
+ Cyanosis
+ Cool Extremities
+ Hair loss
+ Dry skin
+ Muscle atrophy
+ Dystrophic toenails (thick toenails)
+ Capillary refill > 5 seconds
+ Non-palpable distal pulses
+ Non-healing wounds
+
+Non-invasive Hemodynamic Testing
+In terms of non-invasive testing, as stated above, a combination of ABI and PVR is the gold
+standard in establishing a diagnosis. As a review, the ABI is a non-invasive test that compares
+blood pressure in the ankle with blood pressure in the arm. ABIs are calculated by dividing
+the systolic ankle pressure by the highest systolic arm/brachial pressure (between the two
+arms).
+An ABI value: - X > 1.2 is non-compressible, calcification of arteries
+
+
+ 0.9 < x < 1.2 is normal
+ 0.7 < x < 0.9 refects a mild disease burden
+ 0.4 < x < 0.7 refects a moderate disease burden
+ x < 0.4 refects a severe disease burden
+Here is an example of ABI/PVR recordings. Patient A (left) shows a normal ABI/PVR
+recording, while patient B (right) shows an abnormal ABI with diminished waveforms.
+Arterial Doppler ultrasound can also be utilized to evaluate blood fow and detect arterial
+stenosis or occlusion.
+For a definitive CLTI diagnosis, pain should be present for more than two weeks and associated
+with at least one of the following abnormal hemodynamic parametersI:
+1. Ankle-brachial index (ABI) < 0.5.
+2. Absolute toe pressure (TP) < 30 mmHg.
+3. Absolute Ankle Pressure (AP) < 50 mmHg.
+4. Transcutaneous pressure of oxygen (TcPO2) < 30 mmHg.
+5. Flat or minimal pulsatile volume recording (PVR) waveforms.
+
+Angiography
+CT Angiography (CTA) with tri-vessel runoff (i.e. anterior tibial, posterior tibial, peroneal
+arteries) of lower extremities can help identify the location(s) of disease. However,

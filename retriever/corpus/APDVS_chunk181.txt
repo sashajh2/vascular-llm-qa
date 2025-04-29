@@ -1,0 +1,36 @@
+ 10 Gy may result
+in dermal atrophy, but this may not be evident until more than 10 weeks after exposure.
+(Stewart et al. 2012)
+This discussion doesn’t cover all possible adverse effects related to skin radiation exposure.
+Rather, it provides an overview of common findings based on typical exposure scenarios in
+vascular surgery patients. Further information on the effects of single and cumulative radiation
+doses on the skin can be found in studies by Stewart ((Stewart et al. 2012)) and Bennardo
+((Bennardo et al. 2021)), respectively.
+
+Thyroid Dysfunction, Thyroid Cancer, and Radiation Exposure
+It is widely acknowledged that radiation exposure during childhood significantly increases
+the risk of developing thyroid cancer. Key risk factors in this context include both the dose
+of radiation received and the age at the time of exposure.(Iglesias et al. 2017) However,
+when it comes to establishing a similar relationship in adulthood, the evidence has been less
+straightforward.
+In October 2023, The Journal of Radiation Research published a systematic review
+and meta-analysis specifically examining the incidence of thyroid cancer following
+radiation exposure in adults. While some studies suggested an increased risk of cancer
+in adults exposed to radiation, the relative risk at a dose of 10 mGy (milligray) was deemed
+insignificant. In other words, the risk did not show a significant elevation at this particular
+dose level.
+While a definitive link between radiation exposure and thyroid cancer in adult populations
+remains elusive, several studies have hinted at a potential association between low-dose
+ionizing radiation and thyroid dysfunction.
+ There have been reports of hypothyroidism marked by elevated levels of thyroidstimulating hormone (TSH) and lower-than-average levels of free triiodothyronine (T3)
+and thyroxine (T4) compared to unexposed individuals. (Cioﬀ et al. 2020)
+Given the potential implications of radiation exposure to thyroid disfunction and cancer, additional research into the long-term effects of ionizing radiation exposure on thyroid function
+is warranted. Numerous studies have emphasized the need for further investigation in this
+area.
+
+Reproductive Function and Radiation Exposure
+One of the significant concerns associated with radiation exposure is its impact on reproductive
+health.
+
+
+In the female reproductive system, ionizing

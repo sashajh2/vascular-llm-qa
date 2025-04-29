@@ -1,0 +1,26 @@
+silent heart ischaemia*" or "silent heart ischemia*" or "silent ischaemia*" or "silent
+ischemia*" or "silent myocardial ischaemia*" or "silent myocardial ischemia*" or stenocardia or "stress cardiomyopath*"
+or "stress induced cardiomyopath*" or "subendocardial infarct*" or "subendocardial ischaemia*" or "subendocardial
+ischemia*" or takotsubo or "tako-tsubo" or "takotsubo cardiomyopath*" or "takotsubo syndrome*" or "transient left
+ventricular apical ballooning" or "transient left ventricular apical ballooning syndrome*" or "transmural cardiac
+infarct*" or "transmural heart infarct*").ti,ab,hw,kw.
+10 5 or 6 or 7 or 8 or 9
+
+1660341
+
+11 4 and 10
+
+35844
+
+12 exp Coronary Artery Bypass/
+
+126970
+
+13 ("aorta coronary artery bypass*" or "aorta coronary bypass graft*" or "aorta coronary bypass*" or "aorta coronary vein
+bypass graft*" or "aorta coronary vein bypass*" or "aorta coronary vein shunt" or "aortic coronary artery bypass*" or
+"aortic coronary bypass*" or "aorticocoronary anastomosis" or "aorto coronary artery bypass*" or "aorto coronary bypass
+graft*" or "aorto coronary vein bypass*" or "aortocoronary anastomosis" or "aortocoronary artery bypass graft*" or
+"aortocoronary artery bypass*" or "aortocoronary bypass graft*" or "aortocoronary bypass*" or "aortocoronary shunt" or
+"aortocoronary vein bypass graft*" or "aortocoronary vein bypass*" or "aortocoronary venous bypass graft*" or
+"aortocoronary venous bypass*" or CABG or "coronary artery bypass grafting" or "coronary artery bypass*" or "coronary
+artery graft*" or "coronary bypass graft*" or "coron

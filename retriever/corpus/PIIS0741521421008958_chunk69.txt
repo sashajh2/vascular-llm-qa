@@ -1,0 +1,127 @@
+-10.31),
+I2 [ 86%
+
+FaggiolI et al,96
+1990
+
+2
+
+17
+
+19
+
+NA
+
+Feldman et al,97
+2017
+
+15,402
+
+7099
+
+22,501
+
+1.38 (1.14-1.66)
+
+Kovacivoc et al,103
+2012
+
+112
+
+726
+
+838
+
+1.3 (0.38-4.41)
+
+Timaran,113 2008
+
+26,197
+
+887
+
+27,084
+
+1.65 (1.08-2.53)
+
+Overall
+
+41,713
+
+8729
+
+50,442
+
+1.42 (1.16-1.73), I2 [ 0%
+
+Feldman et al,97
+2017
+
+15,402
+
+7099
+
+22,501
+
+1.29 (1.15-1.45)
+
+Timaran et al,113
+2008
+
+26,197
+
+887
+
+27,084
+
+1.25 (0.98-1.60)
+
+Overall
+
+1.28 (1.1-1.49), I2 [ 0%
+
+Stroke
+
+Death/stroke
+
+CEA/CAS and CABG
+combined vs carotid
+intervention ﬁrst in
+asymptomatic patients
+
+CEA/CAS and CABG
+combined vs carotid
+intervention ﬁrst in
+asymptomatic patients
+
+Group 2
+
+41,599
+
+7986
+
+49,585
+
+Death
+
+Newman et al,14
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+1987
+symptomatic patients
+
+10
+
+12
+
+22
+
+NA
+
+MI
+
+CEA/CAS and CABG
+Newman et al,14
+combined vs CABG ﬁrst in
+1987
+symptomatic
