@@ -8,7 +8,7 @@ faiss_index = faiss.read_index("retriever/faiss_index/my_index.faiss")
 with open("retriever/faiss_index/corpus.json") as f:
     corpus = json.load(f)
 
-embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")  # Or your choice
+embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 def retrieve_docs(question, include_golden=True, top_k=4):
     # Embed question
