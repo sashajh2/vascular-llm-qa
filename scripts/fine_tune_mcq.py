@@ -71,7 +71,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         logging_dir=f"{output_dir}/logs",
         logging_steps=50,
         save_total_limit=2,
-        evaluation_strategy="no",
+        # evaluation_strategy="no",
         fp16=True,
         report_to="none",
     )
