@@ -11,7 +11,6 @@ from datasets import Dataset
 from utils.formatting import format_mcq_example
 import random
 from retriever.retrieval import retrieve_docs
-from utils.data_utils import train_test_split
 
 def load_dataset_from_jsonl(jsonl_path):
     """Load and parse a JSONL dataset for instruction fine-tuning."""
