@@ -17,7 +17,7 @@ def get_chunk_by_index(idx, chunk_dir="retriever/corpus"):
     filename = metadata[idx]["filename"]
     path = os.path.join(chunk_dir, filename)
     with open(path, "r") as f:
-        return filename, f.read()
+        return f.read()
 
 # next; include golden for training
 def retrieve_docs(question, include_relevant=True, top_k=4):
