@@ -1,0 +1,26 @@
+# Ignore Python virtual environments
+venv/
+
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+
+# Large model files/checkpoints
+*.pt
+*.bin
+*.ckpt
+*.pkl
+
+# Logs and junk
+*.log
+
+# Other
+*.env
