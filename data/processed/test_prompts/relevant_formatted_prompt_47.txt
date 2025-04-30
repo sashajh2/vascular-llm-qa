@@ -1,0 +1,465 @@
+
+Context:
+Document 1: , ileal, and colic artery aneurysms ..........
+Pancreaticoduodenal artery aneurysm
+(PDAA) and gastroduodenal artery aneurysm
+(GDAA) .............................................................................................
+INTRODUCTION .........................................................................
+METHODS .....................................................................................
+Guideline framework .........................................................
+Evidence synthesis ...............................................................
+RENAL ARTERY ANEURYSM (RAA) ...............................
+SPLENIC ARTERY ANEURYSM (SAA) ............................
+CELIAC ARTERY ANEURYSM (CAA) ...............................
+GASTRIC AND GASTROEPIPLOIC ARTERY
+ANEURYSMS ...............................................................................
+HEPATIC ARTERY ANEURYSM (HAA) ...........................
+Hepatic artery pseudoaneurysm ..............................
+True HAA .....................................................................................
+
+3S
+3S
+4S
+5S
+6S
+6S
+7S
+7S
+8S
+8S
+9S
+9S
+10S
+10S
+14S
+18S
+
+SUPERIOR MESENTERIC ARTERY ANEURYSM
+(SMAA) ...........................................................................................
+JEJUNAL, ILEAL, AND COLIC ARTERY
+ANEURYSMS ...............................................................................
+PANCREATICODUODENAL ARTERY ANEURYSM
+(PDAA) AND GASTRODUODENAL ARTERY
+ANEURYSM (GDAA) ................................................................
+REFERENCES .............................................................................
+
+26S
+27S
+29S
+33S
+
+SUMMARY OF RECOMMENDATIONS
+
+21S
+23S
+24S
+24S
+
+Renal artery aneurysm (RAA). 1.1: In patients who are
+thought to have RAAs, we recommend computed
+tomography angiography (CTA) as the diagnostic tool
+of choice. Level of recommendation: Grade 1 (Strong),
+Quality of Evidence: B (Moderate).
+1.2: In patients who are thought to have RAA and have
+increased radiation exposure risks or renal insufﬁciency,
+we recommend non-contrast-enhanced magnetic resonance angiography (MRA) to establish the diagnosis.
+Level of recommendation: Grade 1 (Strong), Quality of
+Evidence: C (Low).
+
+
+Document 2: ),
+members of the Writing Committee were not allowed
+to serve as an ofﬁcer, board member, trustee, owner, or
+employee of a company directly or indirectly involved
+in the topic of this guideline. Before the ﬁrst and last
+meeting of the Writing Committee, members were
+asked to report any COI in writing. In addition, at the
+beginning of each meeting this question was also asked
+and if answered yes, the members were asked to submit
+an updated COI form. These COIs included income
+received from biomedical companies, device manufacturers, pharmaceutical companies, or other companies
+producing products related to the ﬁeld. In addition, industry relationships had to be disclosed each time and
+these included: ownerships of stocks or options or bonds
+of a company, any consultancy, scientiﬁc advisory committee membership, or lecturer for a company, research
+grants, or income from patents. These incomes could
+either be personal or obtained by an institution with
+which the member had a relationship. All disclosures
+were reviewed by the three organisations, and these
+can be found at IWGDFguidelines.org/. No company
+was involved in the development or review of the guideline. Nobody else involved in the guideline received any
+payment or remuneration of any costs.
+
+DEFINITIONS AND TERMINOLOGY AS USED IN
+THIS DOCUMENT
+The deﬁnitions and criteria for diabetes related foot disease were standardised by the IWGDF and in parallel to
+this guideline an update is published.24 In addition, in
+this guideline the following terminology was used:
+Bedside testing: any non-invasive test assessing for PAD
+in the lower limb using a measure of blood ﬂow that
+could be conducted at the bedside.
+
+Chronic limb threatening ischaemia: a clinical syndrome
+deﬁned by the presence of peripheral artery disease in combination with rest pain, gangrene, or foot ulcer of at least
+two
+weeks’
+duration.
+Venous,
+embolic,
+nonatherosclerotic, and traumatic aetiologies are excluded.
+Diabetes related micro-angiopathy: pathological structural and functional changes in the microcirculation of
+people with diabetes mellitus, which can occur in any
+part of the body as a consequence of the disease.
+Diabetes related foot ulcer: a break of the skin of the foot
+that involves, as a minimum, the epidermis
+Document 3:  However, the
+Writing Committee considered there is likely to be
+important variability in patient values due to the lack of
+clear beneﬁt of one approach over the other.
+Factors such as the severity of ischaemia and tissue loss
+(e.g., WIfI staging) and patient suitability for the procedure and presence of comorbidities, as well as the availability of expertise and costs of the procedures (which
+may vary between locations and countries) drives decision making in relation to the type of procedure considered appropriate with these factors also impacting.
+Several studies have noted that only a minority of foot
+and ankle wounds in their series corresponded to one
+angiosome. Kret et al.125 found that only 36% of wounds
+in their series corresponded to a single distinct angiosome. Similarly, Aerden et al.126 found it difﬁcult to allocate people to direct revascularisation versus indirect
+revascularisation due to the presence of multiple
+wounds and large wounds that had more than one
+angiosome supplying them. In such cases it is the
+opinion of the Writing Committee that the best quality
+artery should preferentially be targeted. Many clinicians
+
+will consider attempting to treat the second vessel supplying the wound as well, although there is a lack of evidence to support this approach.7
+Clinical question
+In people with DFU, do revascularisation perfusion outcomes predict healing, major amputation, or the need
+for further revascularisation?
+
+Recommendation 21
+In a person with diabetes and either a foot ulcer or gangrene
+who has undergone revascularisation, objectively assess adequacy of perfusion e.g., using non-invasive bedside testing.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+Rationale
+There are few available data examining the predictive
+capacity of post-revascularisation perfusion measures
+for healing or amputation outcomes or for the need for
+further revascularisation in people with diabetes. However, adequate perfusion is essential for wound healing and
+
+Journal of Vascular Surgery
+
+Fitridge et al
+
+1123
+
+Volume 78, Number 5
+
+Recommendation 22
+A person with diabetes, peripheral artery disease, and either a
+foot ulcer or gangrene should be treated by a multidisciplinary team as part of a comprehensive care plan.
+Grade
+
+Certainty of evidence
+
+Best Practice Statement
+
+clinical
+Document 4: ,46 1991 A
+
+N/A
+
+A
+
+N/A
+
+B
+
+A
+
+A
+
+Low
+
+Aiello et al,47
+2012
+
+B
+
+N/A
+
+C
+
+N/A
+
+E
+
+Unclear
+
+A
+
+High
+
+C
+Anastasiadis
+et al,48 2009
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+High
+
+A
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+Moderate
+
+Bae et al,50
+2006
+
+A
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+Moderate
+
+Berens et al,44
+1992
+
+A
+
+A
+
+B
+
+C
+
+C
+
+A
+
+A
+
+Low
+
+Bishara et al,51
+2008
+
+A
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+Moderate
+
+53
+
+A
+
+N/A
+
+A
+
+N/A
+
+B
+
+A
+
+A
+
+Low
+
+Cheng et al,52
+1999
+
+A
+
+N/A
+
+A
+
+N/A
+
+B
+
+A
+
+A
+
+Low
+
+Ascher et al,
+2001
+
+Cheng et al,
+2015
+
+49
+
+Choo,54 2017
+
+B
+
+N/A
+
+C
+
+N/A
+
+A
+
+Unclear
+
+A
+
+Moderate
+
+Chun et al,55
+2014
+
+A
+
+N/A
+
+A
+
+N/A
+
+B
+
+A
+
+A
+
+Low
+
+Cornily et al,56
+2011
+
+A
+
+N/A
+
+A
+
+N/A
+
+B
+
+N/A
+
+N/A
+
+Moderate
+
+de Virgilio
+et al,57 1997
+
+B
+
+N/A
+
+C
+
+N/A
+
+A
+
+Unclear
+
+A
+
+Moderate
+
+Dharmasaroja
+et al,58 2010
+
+A
+
+N/A
+
+A
+
+N/A
+
+C
+
+N/A
+
+N/A
+
+Moderate
+
+Drohomirecka
+et al,59 2010
+
+A
+
+N/A
+
+A
+
+N/A
+
+B
+
+N/A
+
+N/A
+
+Moderate
+
+60
+Question: Which of the following statements is true?
+Choices:
+A. Patients with unknown AAA history and symptoms should undergo further
+diagnostic imaging if they are hemodynamically stable.
+B. Symptomatic AAA should undergo emergency repair to prevent possible rupture.
+C. Patients with an unknown AAA history must have diagnostic imaging confirmation of an AAA before proceeding to the operating theatre.
+D. An ECG demonstrating ischemic changes in a patient with epigastric pain,
+hypotension and tachycardia is the sine qua non for a myocardial infarction and
+any operation should be postponed.
+E. CT scans are reserved for elective evaluation of AAA and have no place in the
+work-up of a symptomatic AAA.
+Answer:
