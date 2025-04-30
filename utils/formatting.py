@@ -8,9 +8,9 @@ def format_mcq_example(example, context_chunks, include_relevant):
     context_text = "\n".join([f"Document {i+1}: {chunk}" for i, chunk in enumerate(context_chunks)])
 
     prompt = (
+        "\nContext:\n" + context_text +
         f"Question: {example['question']}\n"
         f"Choices:\n" + "\n".join(lettered_choices) +
-        "\nContext:\n" + context_text +
         "\nAnswer:"
     )
 
