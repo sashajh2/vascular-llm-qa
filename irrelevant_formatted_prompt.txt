@@ -1,0 +1,163 @@
+
+Context:
+Document 1: 180
+High risk for transfemoral CAS. Lesion morphology
+has a signiﬁcant impact on outcomes for patients undergoing transfemoral CAS. Very tight stenosis, irregular
+calciﬁed stenosis, and long lesions can limit the ability
+to deliver the stent across the lesion.172,175 Carotid
+bifurcation stent placement in heavily or circumferentially calciﬁed lesions has been associated with a
+signiﬁcant risk of stent fracture and deformation.181
+Fresh thrombus within the carotid bifurcation is a
+contraindication to carotid stent placement with distal
+embolic protection devices (EPDs) because of risk of
+embolization while crossing the lesion as well
+thrombus disruption and embolization after stent
+placement. Similarly, long, complex lesions can increase risk of embolization during placement of the
+distal EPD and should, therefore, be approached
+cautiously when considering transfemoral CAS.175 It is
+unclear how the presence of a carotid string sign impacts patient outcomes after transfemoral CAS.
+High risk for TCAR. Similar to transfemoral CAS,
+circumferential or large bulky carotid bifurcation plaques can limit the ability to deliver the stent across
+the lesion. Carotid bifurcation stent placement in
+heavily or circumferentially calciﬁed lesions has been
+associated with signiﬁcant risk of stent fracture and
+deformation. As a result, heavily calciﬁed carotid bifurcation lesions are a relative contraindication to stent
+placement. Early data suggest that long, complex,
+and echolucent lesions may be treated safely with
+TCAR because of proximal ﬂow reversal before crossing
+the stenosis. However, the level of evidence to support
+this observation is much lower than that for CEA and
+transfemoral CAS.
+
+Journal of Vascular Surgery
+
+AbuRahma et al
+
+41S
+
+Volume 75, Number 1S
+
+Risk
+stratiﬁcation
+based
+on
+patient-speciﬁc
+characteristics
+Patient-speciﬁc factors can inﬂuence outcome
+following carotid revascularization. These factors
+Document 2: PP $ 40 mmHg increases the pre-test probability of
+healing by up to 30%.
+Grade
+Conditional
+
+Certainty of evidence
+Low
+
+Rationale. The presence of PAD constitutes a substantially increased risk of failure to heal and major lower
+
+limb amputation for people with a diabetes related
+foot ulcer or gangrene. Bedside testing results are an integral component of determining the severity of
+ischaemia and, to that end, to determine the need for,
+and urgency of, further investigations. Non-invasive
+bedside tests including AP, ABI, and TP should be performed in a person with a DFU or gangrene to guide
+further management as they can help to predict the
+chance of healing and or major amputation. TcPO2 and
+skin perfusion pressure (SPP) give additional information
+on healing potential and are useful for measuring
+perfusion following forefoot amputations when TP are no
+longer possible. However, in the authors’ opinion these
+are secondary tests due to greater expense and less
+availability of the equipment and the time and expertise
+required to apply them.
+Assessment of the pedal arterial Doppler waveforms
+combined with measurement of the AP and subsequent
+calculation of the ABI, are usually the ﬁrst steps in the
+assessment of PAD. Although relevant for its diagnosis,
+as discussed in the Rationales of Recommendations 1
+and 2, it was not possible to identify sufﬁcient data on
+the capacity for Doppler arterial waveform analysis to
+predict wound healing in populations with DFU.5 Two
+low quality studies were identiﬁed which concluded
+that abnormal or absent Doppler waveforms were associated with a small (15%) increase in the likelihood of major amputation,65,66 further limiting its use. Similarly,
+there are currently insufﬁcient data to support the use
+of TBI to predict healing or amputation outcomes; however, TP (as a component of TBI) has been more widely
+investigated and is therefore included in the
+recommendation.
+The predictive capacity of APs and ABI for wound healing was inconsistent in the 15 studies included in the systematic review.5 Thresholds for AP and ABI which were
+associated with increased probability of healing could
+not be identiﬁed; however, a very low ankle pressure
+(e.g., < 50
+Document 3:  Individuals who are heavy smokers tend to develop superficial femoral artery disease, whereas
+those with diabetes and renal failure tend to develop infrapopliteal disease. The tibial
+artery is the only infrapopliteal vessel listed as an answer option. All other options are
+suprapopliteal.
+6. A 75-year-old male with a history of migraines, diabetes, hyperlipidemia, hypertension,
+triple coronary bypass (CABG x3), recurrent cellulitis, glaucoma and benign prostatic
+hyperplasia (BPH) presents to your clinic due to pain. He has smoked approximately
+2 packs per day for over 30 years. Despite smoking cessation counseling, he continues
+to smoke 1-2 cigarettes a day. He reports pain with walking for the past several years.
+After walking one city block, his calves begin to hurt. He intermittently develops toe
+sores and wounds that can take 1-2 months to heal. If the wound is larger, it can take
+3-4 months to heal. What risk factors does this patient have that contribute to the most
+likely disease process?
+A. Migraines
+B. BPH
+C. Glaucoma
+
+113
+
+D. Smoking
+E. Cellulitis
+Answer
+D. Smoking.
+Discussion: Smoking contributes to worsening peripheral arterial disease (PAD). Peripheral arterial disease results when the arteries narrow due to plaque accumulation which
+prevents or decreases the amount of oxygen-rich blood reaching your legs. The chemicals in tobacco products increase the rate of plaque formation in arterial walls thereby
+narrowing the arterial lumen. Smoking also constricts blood vessels and causes blood to
+clot, ultimately putting PAD patients at a higher risk of further complications such as
+heart attacks, limb amputations, and death. Cellulitis and other wound complications
+can be an effect of peripheral arterial disease, but is not the cause of peripheral disease.
+The other options of migraines, BPH, glaucoma have no known associations with PAD.
+7. A 74-year-old female with a past medical history of IDDM with ESRD on dialysis, hypercholesterolemia, hypertension, and previous MI is referred to you for evaluation of
+crampy calf pain for the last 2 months with onset upon physical exertion. It has since
+progressed to pain at
+Document 4: 0 to 40 mm Hg compression hose, either
+knee or thigh high. Two large RCTs support the use of
+compression to decrease the occurrence of PTS.197,517,518
+Overall, a reduction of w50% was observed. Lesser
+compression strength, such as 20 to 30 mm Hg, is not as
+effective.519 Multilayer compression is effective only for
+symptoms and not for development of PTS.520 The duration of compression for efﬁcacy has not been rigorously
+determined by prospective studies.521 However, per the
+current American College of Chest Physicians 2012 guidelines, use of compression stockings immediately after
+
+O’Donnell et al 43S
+
+diagnosis of DVT and continued compression for at least
+6 months to 2 years are supported.522 A large recent
+RCT calls this into question, but for now, we believe the
+harms for this therapy are low.523
+Use of IPC may be helpful to relieve PTS symptoms,
+but its role in preventing VLU is unknown.524,525 Use of
+IPC should be based on individual assessments as little evidence exists. A small randomized crossover trial in patients
+with PTS found that compared with placebo-level pressure,
+IPC with a level of compression of 50 mm Hg was associated with a signiﬁcant improvement in symptoms.524 However, the hard end point of VLU prevention was not
+assessed. Two other groups of patients who may beneﬁt
+from IPC are those with severe difﬁculty in donning standard compression stockings and those who are immobile.526,527 Here, studies focusing on the physiology of
+decreased venous pressure and reduced interstitial edema
+suggest beneﬁt for the latter group.
+Guideline 8.3: Primary PreventiondAcute DVT
+Treatment
+As post-thrombotic syndrome is a common preceding event for venous leg ulcers, we recommend current
+evidence-based therapies for acute DVT treatment.
+[GRADE - 1; LEVEL OF EVIDENCE - B] We suggest
+use of low-molecular-weight heparin over vitamin K
+antagonist therapy of 3-month duration to decrease
+post-thrombotic syndrome. [
+Question: A 56-year-old man with chronic rate-controlled atrial fibrillation stopped coumadin prior to a colonoscopy 1 week ago. He is otherwise healthy and takes no other medications. He presents with pain in his left calf after walking two miles in 90 degree temperatures. He is found to have both absent pulses and doppler signals in both his dorsalis pedis and posterior tibial arteries in that leg. This is accompanied by pallor and pain. What is the most likely etiology?
+Choices:
+A. Embolus as a result of his atrial fibrillation.
+B. Embolus that originated from an aortic plaque.
+C. Paradoxical embolus.
+D. Thrombosis from hypotension.
+E. Thrombosis from hypercoagulability
+Answer:
