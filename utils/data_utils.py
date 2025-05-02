@@ -35,7 +35,6 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
         question_id = str(row['question_id'])
         raw_answers = str(row['answer'])
         answer_letters = re.split(r"[,\s]+", raw_answers.strip())
-
         explanation = row.get("explanation", "")
         source = row.get("source", "")
 
