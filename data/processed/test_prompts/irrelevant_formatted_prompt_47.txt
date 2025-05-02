@@ -1,0 +1,248 @@
+
+Context:
+Document 1: 1; 95% CI, 0.69-2.46, P ¼ .41; eight studies; N ¼ 812).
+Discussion (ﬁrst paragraph):
+Twelve studies were included in this review, with a total of 1136 patients who underwent either a one-stage or
+two-stage procedure. In terms of primary outcomes, the pooled evidence from the meta-analyses showed no
+differences in primary ﬁstula failure rates, 1-year primary patency rates, 1-year secondary patency rates, 2-year
+primary patency rates, and 2-year secondary patency rates.
+Discussion (second to last paragraph):
+Although there is a slight difference in the range of studies included in both reviews, the evidence from our review
+agrees with prior conclusions.
+
+CORRECTION
+In the June 2019 regular and supplement issues of the Journal of Vascular Surgery, the editorials by Drs Lawrence
+and Gloviczki that published in each issue contained an error in the use of the term “critical limb-threatening
+ischemia”. The correct term is “chronic limb-threatening ischemia”. The error has been corrected in the title and
+in the ﬁrst paragraph of both of these editorials.
+
+CORRECTION
+In the June 2019 supplement of the Journal of Vascular Surgery, the article by Conte et al (Conte MS, Bradbury AW,
+Kolh P, White JV, Dick F, Fitridge R, et al. Global vascular guidelines on the management of chronic limbthreatening ischemia. J Vasc Surg 2019;69:3S-125S) contained a typo in the name of one of the co-authors. Dr Mauro
+Gargiulo’s name incorrectly printed as “Mauro Garguilo.” The correct surname is Gargiulo.
+
+662
+
+
+Document 2: ;162:1144-8.
+201. Rodger MA, Kahn SR, Le Gal G, Solymoss S, Chagnon I,
+Anderson DR, et al. Inter-observer reliability of measures to assess the
+post-thrombotic syndrome. Thromb Haemost 2008;100:164-6.
+202. Kolbach DN, Neumann HA, Prins MH. Deﬁnition of the postthrombotic syndrome, differences between existing classiﬁcations. Eur
+J Vasc Endovasc Surg 2005;30:404-14.
+203. Kahn SR, Desmarais S, Ducruet T, Arsenault L, Ginsberg JS.
+Comparison of the Villalta and Ginsberg clinical scales to diagnose
+the post-thrombotic syndrome: Correlation with patient-reported
+disease burden and venous valvular reﬂux. J Thromb Haemost
+2006;4:907-8.
+204. Lamping DL, Schroter S, Kurz X, Kahn SR, Abenhaim L. Evaluating
+outcomes in chronic venous disorders of the leg: Development of a
+scientiﬁcally rigorous patient-reported measure of symptoms and
+quality of life. J Vasc Surg 2003;37:410-9.
+
+52S O’Donnell et al
+
+205. Soosainathan A, Moore HM, Gohel MS, Davies AH. Scoring systems
+for the post-thrombotic syndrome. J Vasc Surg 2013;57:254-61.
+206. Kahn SR, Partsch H, Vedantham S, Prandoni P, Kearon C. Subcommittee on Control of Anticoagulation of the Scientiﬁc and Standardization Committee of the International Society on Thrombosis
+and Haemostasis. Deﬁnition of post-thrombotic syndrome of the leg
+for use in clinical investigations: A recommendation for standardization. J Thromb Haemost 2009;7:879-83.
+207. Baker DM, Turnbull NB, Pearson JC, Makin GS.
+Document 3: ous vein is translocated to the
+forearm in a looped configuration between the antecubital
+vein and brachial or proximal radial artery to perform the
+two anastomoses.
+Upper arm autogenous accesses. Upper arm accesses
+have most commonly been based on the brachial artery for
+inflow; however, the proximal radial artery is an excellent
+choice for inflow as long as there is adequate length of vein
+to support the additional 2 to 3 cm of length required to
+perform the anastomosis at the proximal radial artery,
+which is a few centimeters distal to the brachial artery at the
+antecubital fossa. Although confusion may arise regarding
+classification of accesses originating from the proximal radial artery, these accesses should be classified as upper arm
+accesses except in cases where all access flow is retrograde
+into the forearm.
+Autogenous brachial (or proximal radial)– cephalic upper arm direct access. This autogenous access is performed
+between the end of the cephalic vein and the brachial or
+proximal radial artery located in the antecubital fossa. If the
+cephalic vein and selected artery are close together, the
+procedure is performed through one transverse incision; if
+not, separate incisions are made and the end of the cephalic
+vein is tunneled to the brachial or proximal radial artery to
+perform the anastomosis.
+Autogenous brachial (or proximal radial)– cephalic upper arm transposition. This autogenous access is performed
+between the end of the cephalic vein and the brachial or
+proximal radial artery. The cephalic vein is identified at the
+elbow and mobilized to an appropriate length to allow its
+free end to reach the brachial artery. The brachial artery is
+identified through an extension of this incision or, if located
+far away, through a second incision overlying the palpable
+brachial artery pulse just beyond to the proximal radial artery.
+The cephalic vein is tunneled superficially and medially towards the brachial artery to perform the anastomosis.
+Autogenous brachial (or proximal radial)– basilic upper
+arm transposition. This autogenous access is performed
+between the
+Document 4:  et al,14
+1987
+
+12
+
+28
+
+40
+
+NA
+
+Peric et al,105 1997
+
+38
+
+81
+
+119
+
+0.8 (0.22-2.85)
+
+Rosenthal et al,107
+1984
+
+8
+
+14
+
+22
+
+0.16 (0-96.74)
+
+Urschel et al,110
+1976
+
+17
+
+8
+
+25
+
+0.04 (0-26.42)
+
+Overall
+
+137
+
+188
+
+325
+
+0.51 (0.22-1.18), I2 [ 0%
+
+2019
+
+5
+
+208
+
+213
+
+4.62 (0.72-29.87)
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+Overall
+
+25
+
+247
+
+272
+
+4.62 (0.72-29.87),
+I2 [ NA%
+
+Xiang et al,
+
+111
+
+NA
+
+NA
+
+Stroke
+
+CAS and CABG
+combined vs
+CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+21.398 (0.034-13554.280)
+
+MI
+
+CAS and CABG
+combined vs CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+0.1768 (0.0003-112.0200)
+
+Stroke/death/MI
+
+CAS and CABG
+combined vs CAS ﬁrst
+
+Yang et al,13 2016
+
+20
+
+39
+
+59
+
+1.95 (0.13-29.57)
+
+Death
+
+Illuminati et al,12
+CEA/CAS and CABG
+combined vs CABG ﬁrst in
+2011
+asymptomatic patients
+
+94
+
+91
+
+185
+
+0.9681 (0.062-
+Question: Which of the following statements is true?
+Choices:
+A. Patients with unknown AAA history and symptoms should undergo further
+diagnostic imaging if they are hemodynamically stable.
+B. Symptomatic AAA should undergo emergency repair to prevent possible rupture.
+C. Patients with an unknown AAA history must have diagnostic imaging confirmation of an AAA before proceeding to the operating theatre.
+D. An ECG demonstrating ischemic changes in a patient with epigastric pain,
+hypotension and tachycardia is the sine qua non for a myocardial infarction and
+any operation should be postponed.
+E. CT scans are reserved for elective evaluation of AAA and have no place in the
+work-up of a symptomatic AAA.
+Answer:
