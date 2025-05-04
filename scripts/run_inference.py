@@ -43,6 +43,7 @@ def run_inference_and_save(model_name_or_path, test_data_path, output_path):
         })
     df = pd.DataFrame(results)
     df.to_excel(output_path, index=False)
+    print(f"Saved {len(results)} predictions to {output_path}")
 
 
 
