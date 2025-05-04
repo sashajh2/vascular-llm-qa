@@ -31,7 +31,21 @@ def format_mcq_example(example, context_chunks, include_relevant):
 
     return prompt, target
 
+def format_mcq_test_example(example, context_chunks):
+    letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    choices = example["choices"]
+    lettered_choices = [f"{letters[i]}. {choice}" for i, choice in enumerate(choices)]
 
+    context_text = "\n".join([f"Document {i+1}: {chunk}" for i, chunk in enumerate(context_chunks)])
+
+    prompt = (
+        "\nContext:\n" + context_text + "\n"
+        f"Question: {example['question']}\n"
+        f"Choices:\n" + "\n".join(lettered_choices) +
+        "\nAnswer:"
+    )
+
+    return prompt
 
 # def format_openqa_prompt()
 

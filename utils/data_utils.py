@@ -57,3 +57,9 @@ def convert_xlsx_to_jsonl(xlsx_path, output_path):
     with open(output_path, "w") as f:
         for ex in examples:
             f.write(json.dumps(ex) + "\n")
+
+def load_dataset_from_jsonl(jsonl_path):
+    """Load and parse a JSONL dataset for instruction fine-tuning."""
+    with open(jsonl_path) as f:
+        data = [json.loads(line) for line in f]
+    return Dataset.from_list(data)

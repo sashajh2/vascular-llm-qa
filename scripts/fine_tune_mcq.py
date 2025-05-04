@@ -9,17 +9,12 @@ from transformers import (
 )
 from datasets import Dataset
 from utils.formatting import format_mcq_example
+from utils.data_utils import load_dataset_from_jsonl
 import random
 from retriever.retrieval import retrieve_docs
 
-def load_dataset_from_jsonl(jsonl_path):
-    """Load and parse a JSONL dataset for instruction fine-tuning."""
-    with open(jsonl_path) as f:
-        data = [json.loads(line) for line in f]
-    return Dataset.from_list(data)
 
-
-def generate_dataset(dataset, tokenizer):
+def generate_mcq_train_dataset(dataset, tokenizer):
     """Generate golden and distractor examples for each question."""
     examples = []
 
@@ -59,7 +54,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
     train_dataset = load_dataset_from_jsonl(train_data_path)
 
     # NEW: Generate full training set
-    tokenized_train_examples = generate_dataset(train_dataset, tokenizer)
+    tokenized_train_examples = generate_mcq_train_dataset(train_dataset, tokenizer)
     tokenized_train_dataset = Dataset.from_list(tokenized_train_examples)
 
     training_args = TrainingArguments(
