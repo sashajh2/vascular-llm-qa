@@ -15,7 +15,7 @@ def generate_mcq_test_dataset(dataset, tokenizer):
     for example in dataset:
         # Golden + distractors version
         context_chunks_relevant = retrieve_docs(example["question"], include_relevant=True)
-        prompt_relevant = format_mcq_test_example(example, context_chunks_relevant, include_relevant=True)
+        prompt_relevant = format_mcq_test_example(example, context_chunks_relevant)
         prompts.append(prompt_relevant)
     return prompts
 
