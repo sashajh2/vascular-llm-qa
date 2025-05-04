@@ -24,3 +24,4 @@ __pycache__/
 
 # Other
 *.env
+models/apollo_0.5B/apollo_mcq_500/model.safetensors
