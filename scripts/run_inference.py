@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 import pandas as pd
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from retriever.retrieval import retrieve_docs
@@ -20,6 +21,7 @@ def generate_mcq_test_dataset(dataset, tokenizer):
 
 
 def run_inference_and_save(model_name_or_path, test_data_path, output_path):
+    model_name_or_path = os.path.abspath(model_name_or_path)
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
