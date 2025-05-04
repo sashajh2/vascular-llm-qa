@@ -8,7 +8,7 @@ from utils.formatting import format_mcq_test_example
 from utils.data_utils import load_dataset_from_jsonl
 
 
-def generate_mcq_test_dataset(dataset, tokenizer):
+def generate_mcq_test_dataset(dataset):
     """Generate golden and distractor examples for each question."""
     prompts= []
 
@@ -26,7 +26,7 @@ def run_inference_and_save(model_name_or_path, test_data_path, output_path):
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
 
     test_data = load_dataset_from_jsonl(test_data_path)
-    prompts = generate_mcq_test_dataset(test_data, tokenizer)
+    prompts = generate_mcq_test_dataset(test_data)
     results = []
     for i, example in enumerate(test_data):
         prompt = prompts[i]
