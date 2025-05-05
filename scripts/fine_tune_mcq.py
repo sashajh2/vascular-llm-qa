@@ -46,27 +46,24 @@ def generate_mcq_train_dataset(dataset, tokenizer):
     return examples
 
 
-
 def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=3):
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
+    model.gradient_checkpointing_enable()  # <-- Add this here
 
     train_dataset = load_dataset_from_jsonl(train_data_path)
-
-    # NEW: Generate full training set
     tokenized_train_examples = generate_mcq_train_dataset(train_dataset, tokenizer)
     tokenized_train_dataset = Dataset.from_list(tokenized_train_examples)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
-        per_device_train_batch_size=4,
-        gradient_accumulation_steps=4,
+        per_device_train_batch_size=1,              # Lower batch size
+        gradient_accumulation_steps=8,              # Still keep effective batch size of 8
         num_train_epochs=num_train_epochs,
         save_strategy="epoch",
         logging_dir=f"{output_dir}/logs",
         logging_steps=50,
         save_total_limit=2,
-        # evaluation_strategy="no",
         fp16=True,
         report_to="none",
     )
@@ -82,7 +79,6 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
     trainer.train()
     model.save_pretrained(output_dir)
     tokenizer.save_pretrained(f"{output_dir}/tokenizer")
-
 
 
 if __name__ == "__main__":
