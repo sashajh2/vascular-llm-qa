@@ -44,7 +44,7 @@ def run_inference_and_save(model_name_or_path, test_data_path, output_path):
             "model_response": response
         })
     df = pd.DataFrame(results)
-    df.to_csv(output_path, index=False)
+    df.to_csv(output_path, index=False, encoding="utf-8")
     print(f"Saved {len(results)} predictions to {output_path}")
 
 
