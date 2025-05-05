@@ -50,6 +50,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
     tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
     model.gradient_checkpointing_enable()
+    model.config.use_cache = False
 
     train_dataset = load_dataset_from_jsonl(train_data_path)
     tokenized_train_examples = generate_mcq_train_dataset(train_dataset, tokenizer)
@@ -61,9 +62,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         gradient_accumulation_steps=8,
         num_train_epochs=num_train_epochs,
         save_strategy="no",
-        logging_dir=f"{output_dir}/logs",
-        logging_steps=50,
-        save_total_limit=2,
+        logging_steps=200,
         fp16=True,
         report_to="none",
     )
