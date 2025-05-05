@@ -13,7 +13,7 @@ from utils.formatting import format_mcq_example
 from utils.data_utils import load_dataset_from_jsonl
 import random
 from retriever.retrieval import retrieve_docs
-from torch.optim.lr_scheduler import LambdaLR
+# from torch.optim.lr_scheduler import LambdaLR
 
 
 def generate_mcq_train_dataset(dataset, tokenizer):
@@ -65,7 +65,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         warmup_init=True,
         lr=None, 
     )
-    scheduler = LambdaLR(optimizer, lr_lambda=lambda step: 1.0)
+    # scheduler = LambdaLR(optimizer, lr_lambda=lambda step: 1.0)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
