@@ -2,7 +2,6 @@ import argparse
 import json
 from transformers import (
     Adafactor,
-    AdafactorSchedule,
     AutoModelForCausalLM,
     AutoTokenizer,
     Trainer,
@@ -63,9 +62,8 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         scale_parameter=True,
         relative_step=True,
         warmup_init=True,
-        lr=None,  # Use Adafactor's own schedule
+        lr=None, 
     )
-    lr_scheduler = AdafactorSchedule(optimizer)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -84,7 +82,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         args=training_args,
         train_dataset=tokenized_train_dataset,
         data_collator=DataCollatorWithPadding(tokenizer=tokenizer, pad_to_multiple_of=8),
-        optimizers=(optimizer, lr_scheduler),
+        optimizers=(optimizer, None),
     )
 
     trainer.train()
