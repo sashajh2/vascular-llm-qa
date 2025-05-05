@@ -13,8 +13,16 @@ from utils.formatting import format_mcq_example
 from utils.data_utils import load_dataset_from_jsonl
 import random
 from retriever.retrieval import retrieve_docs
-# from torch.optim.lr_scheduler import LambdaLR
+from torch.optim.lr_scheduler import LambdaLR
 
+class AdafactorSchedule(LambdaLR):
+    def __init__(self, optimizer, initial_lr=1e-3):
+        for group in optimizer.param_groups:
+            group['initial_lr'] = initial_lr
+        lr_lambda = lambda step: 1.0  # Keeps the learning rate constant
+        super().__init__(optimizer, lr_lambda)
+        for group in optimizer.param_groups:
+            del group['initial_lr']
 
 def generate_mcq_train_dataset(dataset, tokenizer):
     """Generate golden and distractor examples for each question."""
@@ -65,7 +73,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         warmup_init=True,
         lr=None, 
     )
-    # scheduler = LambdaLR(optimizer, lr_lambda=lambda step: 1.0)
+    scheduler = AdafactorSchedule(optimizer)
 
     training_args = TrainingArguments(
         output_dir=output_dir,
@@ -84,7 +92,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         args=training_args,
         train_dataset=tokenized_train_dataset,
         data_collator=DataCollatorWithPadding(tokenizer=tokenizer, pad_to_multiple_of=8),
-        optimizers=(optimizer, None),
+        optimizers=(optimizer, scheduler),
     )
 
     trainer.train()
