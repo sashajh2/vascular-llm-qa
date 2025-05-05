@@ -84,7 +84,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         args=training_args,
         train_dataset=tokenized_train_dataset,
         data_collator=DataCollatorWithPadding(tokenizer=tokenizer, pad_to_multiple_of=8),
-        optimizers=(optimizer, scheduler),
+        optimizers=(optimizer, None),
     )
 
     trainer.train()
