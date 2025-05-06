@@ -6,7 +6,7 @@ from transformers import (
     AutoTokenizer,
     Trainer,
     TrainingArguments,
-    DataCollatorForLanguageModeling,
+    DataCollatorWithPadding,
 )
 from datasets import Dataset
 from utils.formatting import format_mcq_example
@@ -91,7 +91,7 @@ def fine_tune(model_name_or_path, train_data_path, output_dir, num_train_epochs=
         tokenizer=tokenizer,
         args=training_args,
         train_dataset=tokenized_train_dataset,
-        data_collator=DataCollatorForLanguageModeling(tokenizer=tokenizer, pad_to_multiple_of=8),
+        data_collator=DataCollatorWithPadding(tokenizer=tokenizer, pad_to_multiple_of=8),
         optimizers=(optimizer, scheduler),
     )
 
