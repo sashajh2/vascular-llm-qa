@@ -1,0 +1,9 @@
+ia; W, Wound.
+Premises:
+1. Increase in wound class increases risk of amputation (based on PEDIS, UT, and
+other wound classification systems)
+2. PAD and infection are synergistic (Eurodiale); infected wound + PAD increases
+likelihood revascularization will be needed to heal wound
+3. Infection 3 category (systemic/metabolic instability): moderate to high-risk of
+amputation regardless of other factors (validated IDSA guidelines)
+Four classes

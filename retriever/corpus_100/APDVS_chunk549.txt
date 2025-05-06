@@ -1,0 +1,6 @@
+ head injury,
+intracranial surgery, spine surgery, or stroke within the last 3 months, an active bleeding
+disorder, a GI bleeding disorder within 10 days, a cerebrovascular accident within 6 months,
+known intracranial aneurysm, tumor, or vascular malformation.
+*Mechanical thrombectomy uses aspiration, hydrodynamic forces, or mechanical/rotational
+forces to clear a thrombus. The procedural steps are similar to catheter-directed

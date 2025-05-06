@@ -1,0 +1,21 @@
+ clinical
+condition.
+
+1 (Strong)
+
+B (Moderate)
+
+3.3
+
+For the elective treatment of CAA, we suggest using an endovascular intervention
+if it is anatomically feasible. However, elective treatment may appropriately
+involve open surgical, endovascular, or laparoscopic methods of intervention,
+depending on the patient’s anatomy and underlying clinical condition.
+
+2 (Weak)
+
+B (Moderate)
+
+3.4
+
+To determine the need for revascularization of the c

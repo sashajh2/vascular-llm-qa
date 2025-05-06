@@ -1,0 +1,17 @@
+10
+
+CHD, pulmonary embolus, PAD
+
+Low-density lipoprotein
+receptor-related protein
+1 (LRP1)
+
+rs1466535
+
+0.68
+
+1.15 (1.10-1.21)
+
+4.5  1010
+
+CHD, Coronary heart disease; CI, conﬁdence interval; IA, intracranial aneurysm; OR,

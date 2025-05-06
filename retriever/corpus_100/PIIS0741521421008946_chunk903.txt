@@ -1,0 +1,7 @@
+0,663 CAS patients
+from the National Impatient Sample database, where
+operators were classiﬁed into surgeons and interventionalists, and demonstrated that the 30-day stroke/death/MI
+risks were not signiﬁcantly different between the two
+groups.588 However, the study showed that the interventionalists did have increased hospital charges and length
+of stay compared with the surgeons.
+Recently, AbuRahma et al589

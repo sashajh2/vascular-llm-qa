@@ -1,0 +1,9 @@
+ effective when high temporal resolution isn’t necessary.
+2. Collimator use: The surgeon can use the collimator to narrow the X-ray beam, focusing
+solely on the area of interest. This method effectively reduces both dose and scatter.
+
+221
+
+The image intensifier should be positioned closer to the patient to optimize image quality.
+Conversely, the X-ray tube should be placed further away from the area being imaged.
+If the X-ray tube is too close, imaging quality

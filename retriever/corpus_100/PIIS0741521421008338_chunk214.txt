@@ -1,0 +1,19 @@
+
+"myocardial infarction"/
+
+25,091
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp. or
+(chronic disease/and ischemi*.mp.) [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+410
+
+Advanced
+
+17
+
+"natural history".mp. [

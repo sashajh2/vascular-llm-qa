@@ -1,0 +1,14 @@
+copy )
+OR ( catheteriz* W/3 ( central OR peripheral ) ) OR
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Journal of Vascular Surgery
+
+Beuschel et al
+
+125S.e2
+
+Volume 75, Number 1S
+
+Supplementary Table I (online only). Patients, intervention, comparison, outcomes (PICOs)
+PICO 1. Which is more effective

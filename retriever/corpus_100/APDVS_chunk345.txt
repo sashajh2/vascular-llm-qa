@@ -1,0 +1,6 @@
+ow.
+ Hypoxia-Inducible Factors (HIFs): When cells are deprived of oxygen (as in the case
+of PAD), they activate hypoxia-inducible factors (HIFs). HIFs are transcription factors
+such as vascular endothelial growth factor (VEGF) and fibroblast growth factor (FGF).
+These factors promote the expression of genes involved in angiogenesis (the formation
+of new blood vessels) and arteriogenesis (the remodeling and

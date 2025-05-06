@@ -1,0 +1,7 @@
+ "phase III" or "phase
+4" or "phase IV") W/5 (trial or study)) OR "evaluation study"
+OR "evaluation survey" OR "evaluation analysis" OR
+"quantitative study" OR "quantitative analys*" OR "numerical study" OR "validation study" OR "validation survey"
+OR "validation analysis" OR "quasi experimental study"
+OR "quasi experimental analysis" OR "quasiexperimental
+study" OR "quasiexperimental analysis

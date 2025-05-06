@@ -1,0 +1,21 @@
+
+
+19
+
+limit 18 to (english language and yr ¼ “1996 -Current”) [Limit not valid in CDSR; records were retained]
+
+2267
+
+20
+
+19 not “conference abstract”.pt.
+
+21
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+8441729
+
+22
+
+((alpaca or alpacas or amphibian or amphibians or animal or animals or ant

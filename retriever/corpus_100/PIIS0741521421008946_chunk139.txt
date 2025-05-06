@@ -1,0 +1,5 @@
+ included 12 randomized clinical trials with nearly 16,000 patients, at 6 weeks
+there was a 60% decrease in the risk of recurrent stroke
+(hazard ratio [HR], 0.42; 95% CI, 0.32-0.55, P < .0001)
+and a 70% decrease in the risk of a fatal stroke (HR,
+0.29; 95

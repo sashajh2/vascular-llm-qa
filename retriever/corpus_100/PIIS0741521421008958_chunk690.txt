@@ -1,0 +1,15 @@
+ or 26
+
+2298
+
+28
+
+remove duplicates from 27
+
+1589
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" OR carotid)
+2 TITLE-ABS-KEY(angioplast* OR endarterectom* OR
+"endoluminal repair*" OR endovascular* OR stent*)
+3 TITLE-ABS-KEY((randomized W/3 study) OR (randomized W/3

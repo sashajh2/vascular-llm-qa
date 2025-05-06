@@ -1,0 +1,6 @@
+ posterior tibial and dorsalis pedis arteries of each leg, which is then normalized to
+the higher brachial pressure of either to calculate the ABI for
+each leg. ABI is calculated by dividing the systolic ankle pressure by systolic arm pressure. The reproducibility of the ABI
+varies, but it is signiﬁcant enough that reporting standards
+require a change of 0.15 in an isolated measurement for it
+to be considered clinically relevant or >0

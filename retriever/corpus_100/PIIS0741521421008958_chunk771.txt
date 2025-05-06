@@ -1,0 +1,7 @@
+coronary
+artery graft*" or "coronary bypass graft*" or "coronary bypass grafting" or "coronary bypass*" or "coronary vein bypass
+graft*" or "coronary venous bypass graft*" or "coronary-internal mammary artery anastomos*" or "internal mammarycoronary artery anastomos*").ti,ab,hw,kw.
+
+186583
+
+(Contin

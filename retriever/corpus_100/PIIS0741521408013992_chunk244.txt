@@ -1,0 +1,9 @@
+ in a certain situation or location
+where a patient presents for care.
+7.3. Technical remarks
+Management of nonfunctional or failed AV access
+A. Access functionality. Access functionality is a very
+important concept. An access can be patent but unusable
+for successful hemodialysis—and thus nonfunctional—and
+such an access provides no benefit to the patient. In fact, a
+nonfunctional access maybe even harmful because the patient may continue to be dialyzed using percutaneous cath

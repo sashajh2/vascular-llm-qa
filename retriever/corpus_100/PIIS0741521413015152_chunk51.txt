@@ -1,0 +1,16 @@
+ II)
+
+Primarily intended for DFUs; Ulcer grades
+validated; Includes perfusion assessment, but
+with cutoff for CLI; Gangrene not separately
+categorized; Includes validated IDSA infection
+categories
+
+Yes 6 based on ABI <0.8
+
+Yes, 6 wounds with frank purulence or >2 of the
+following (warmth, eythema, lymphangitis,
+edema, lymphadenopathy, pain, loss of
+function) considered infected
+
+Prim

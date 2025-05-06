@@ -1,0 +1,23 @@
+ square" or placebo* or nocebo*).mp,pt.
+
+2864915
+
+19
+
+or/11-18
+
+2865181
+
+20
+
+10 and 19
+
+21
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+10729834
+
+22
+
+((alpaca or alpacas or amphibian or amphibians or animal or animals or antelope

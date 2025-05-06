@@ -1,0 +1,6 @@
+ It is
+based on a scale from 0 to 3, where 0 represents none, 1
+mild, 2 moderate, and 3 severe (Table II). This classiﬁcation represents a synthesis of multiple previously published
+classiﬁcation schemes that merges systems focused on diabetic foot ulcers and pure ischemia models. A brief description of its derivation and underlying rationale follows. The
+terms grades, classes, and stages as used in this document
+are clari

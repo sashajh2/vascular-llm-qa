@@ -1,0 +1,10 @@
+ the diagnosis for this patient?
+A. CT Angiography (CTA)
+B. Doppler probe
+C. Duplex Ultrasound
+D. Angiogram
+E. Ankle-Brachial Index and Pulse Volume Recording (ABI/PVR)
+Answer
+E. ABI/PVR
+Discussion: Ankle Brachial Index (ABI) is a non-invasive method that measures the ratio
+of blood pressure in the lower legs to the blood pressure in the arms. Abnormal

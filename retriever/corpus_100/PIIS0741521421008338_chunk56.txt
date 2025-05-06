@@ -1,0 +1,5 @@
+, Bass EB, Chang S, Hartling L,
+et al. Recommendations for assessing the risk of bias in systematic reviews of health-care interventions. J Clin Epidemiol 2018;97:26-34.
+DerSimonian R, Laird N. Meta-analysis in clinical trials Control. Clin
+Trials 1986;7:177-88.
+Hultcrantz M, Rind D, Akl EA, Treweek S

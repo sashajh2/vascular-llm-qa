@@ -1,0 +1,11 @@
+3
+
+(A) 65.5
+(C) 74.7
+
+(A) HTN 66.3%, smoking 29.4%,
+CHF 11.8%, MI 31.8%, PAD
+32.9%, DM 25.9%, COPD
+12.9%, CRF 3.5%, obesity
+5.5%, HLD 20.8%
+(C) HTN 6

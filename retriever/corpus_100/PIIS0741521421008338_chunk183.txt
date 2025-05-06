@@ -1,0 +1,27 @@
+es
+
+Results
+
+Type
+
+17
+
+"natural history".mp. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+44,966
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+156,132
+
+Advanced
+
+19
+

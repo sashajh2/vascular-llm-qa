@@ -1,0 +1,13 @@
+
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼title, abstract,
+original title, name of substance word, subject heading word, ﬂoating sub-heading
+word, keyword heading word, protocol supplementary concept word, rare disease
+supplementary concept word, unique identiﬁer, synonyms]
+
+90

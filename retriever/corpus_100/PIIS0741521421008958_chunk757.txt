@@ -1,0 +1,4 @@
+ muscle
+hypoxia" or "heart muscle infarct*" or "heart muscle ischaemia*" or "heart muscle ischemia*" or "heart muscle necros*"
+or "heart necros*" or "heart postinfarction syndrome*" or "heart reinfarct*" or "heart right ventricle infarct*" or "heart
+transient ischaemic attack*" or "heart transient ischemic attack*" or "heart ventricle infarct*"

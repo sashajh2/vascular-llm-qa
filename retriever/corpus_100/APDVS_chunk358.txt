@@ -1,0 +1,5 @@
+ pulse 2+: normal
+pulse 3+: prominent pulse or aneurysmal. 4+: bounding pulse or aneurysmal.
+Lower extremity peripheral pulse exams evaluate the dorsalis pedis (DP) and posterior tibial
+(PT) pulses using manual palpation. Patients with claudication may have pulse exams ranging
+from non-palpable to normal pulse. If patients have non-palpable pulses, then a continuouswave Doppler probe can be used

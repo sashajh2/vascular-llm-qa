@@ -1,0 +1,13 @@
+ Freeman-Tukey arcsine
+method, and pooled using the DerSimonian and Laird
+random effects model. The random effects model was
+chosen a priori because of anticipated heterogeneity
+across study populations and settings. Heterogeneity
+was evaluated using the I2 index and Cochrane Q test. All
+statistical analyses were conducted using R version 3.6.1
+(The R Foundation for Statistical Computing, Vienna,
+Austria).
+
+RESULTS
+Study selection
+We

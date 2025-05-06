@@ -1,0 +1,8 @@
+ specific organ or tissue,
+measured in sieverts (Sv).
+ The effective dose, also measured in *8sieverts (Sv),** accounts for total-body radiation
+exposure and is guided by the International Commission on Radiological Protection
+(ICRP) guidelines for comparing radiation effects on individuals.
+X-ray technology for imaging comprises two critical components: the radiation source, where
+X-ray photons are generated, and the detector.
+ The shape of the beam from the source is managed by the coll

@@ -1,0 +1,8 @@
+ status of the bifurcation. As will be discussed below, this information dictates the branch points
+in treatment algorithms that follow. In general, patients
+with preocclusive carotid stenosis or carotid occlusion
+are considered for emergency intervention, whereas
+those with lesser degrees of stenosis are initially managed
+medically with urgent, but not emergency intervention,
+according to the recommendations for symptomatic patients with carotid stenosis.
+1. Management of acute stroke

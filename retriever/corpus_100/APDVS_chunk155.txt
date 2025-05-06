@@ -1,0 +1,6 @@
+id Artery Endarterectomy (CEA)
+This procedure has been performed since the 1950s, either by plaque endarterectomy and
+patch angioplasty or primary arterial repair. To prevent arterial restenosis, patch angioplasty
+has become the standard of arterial closure after plaque removal. The procedure can involve
+cerebral monitoring including electroencephalography (EEG), transcranial Doppler (TCD) and
+stump pressure monitoring or be

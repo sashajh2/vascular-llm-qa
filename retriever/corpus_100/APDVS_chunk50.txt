@@ -1,0 +1,11 @@
+ probe is used to assess the blood fow. The
+doppler signal can be triphasic, or biphasic, or monophasic.
+Doppler Signals:
+ Triphasic and biphasic doppler signals indicate good blood fow.
+
+37
+
+ Monophasic signal correlates with moderate to severe decrease in arterial blood
+fow.
+ In severe ischemia, a soft continuous venous signal may be all that is heard.
+Listen to examples of Doppler

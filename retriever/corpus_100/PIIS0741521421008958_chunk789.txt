@@ -1,0 +1,4 @@
+ "regression analysis" or "least square" or "least squares" or (hazard* adj
+(model* or analys* or regression or ratio or ratios)) or "Cox model" or "Cox multivariate analyses" or "Cox multivariate
+analysis" or "Cox regression" or "Cox survival analyses" or "Cox survival analysis" or "Cox survival model" or "change
+analysis" or ((study or trial or random* or control

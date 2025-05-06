@@ -1,0 +1,20 @@
+. [mp¼title, abstract, original title, name of substance word, subject
+heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+45,310
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+106,310
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "

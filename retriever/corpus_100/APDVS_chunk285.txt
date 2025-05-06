@@ -1,0 +1,4 @@
+ from 0.5 to 0.9, and those with ischemic rest pain or tissue loss usually
+have an ABI less than 0.5. Sabiston Textbook of Surgery: The Biological Basis of Modern
+Surgical Practice, 20th ed. Ch. 62: Peripheral Arterial Disease. Norgren L, Hiatt WR,
+Dormandy JA, Nehler MR, Harris KA, Fowkes FGR. Inter-society consensus for

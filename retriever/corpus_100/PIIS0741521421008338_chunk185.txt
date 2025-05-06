@@ -1,0 +1,33 @@
+iﬁer, synonyms]
+
+341,189
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+2,427,068
+
+Advanced
+
+21
+
+5 and 20
+
+879
+
+Advanced
+
+22
+
+21 not 12
+
+671
+
+Advanced
+
+23
+
+(trauma* or iatrogen

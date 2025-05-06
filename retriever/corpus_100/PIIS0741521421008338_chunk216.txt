@@ -1,0 +1,33 @@
+, ab, sh, hw, kw, tx, ct]
+
+27,274
+
+Advanced
+
+20
+
+13 or 14 or 15 or 16 or 17 or 18 or 19
+
+181,376
+
+Advanced
+
+21
+
+5 and 20
+
+20
+
+Advanced
+
+22
+
+21 not 12
+
+2
+
+Advanced
+
+23
+
+(trauma* or iat

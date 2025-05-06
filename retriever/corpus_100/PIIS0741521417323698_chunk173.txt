@@ -1,0 +1,3 @@
+ other 50%. The area under the receiver operating characteristic curve of the model (C statistic) was 0.893. From this model, a scoring system was derived. The overall accuracy of the scoring system as
+measured by the C statistic was 0.842.
+From Kent KC, Zwolak RM, Egorova NN, Riles TS, Manganaro A, Moskowitz AJ, et al. Analysis of risk factors for abdominal aortic

@@ -1,0 +1,14 @@
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,177
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,435

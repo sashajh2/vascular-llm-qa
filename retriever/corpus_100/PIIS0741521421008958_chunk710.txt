@@ -1,0 +1,11 @@
+ 9 and ((clinical or intervention* or evaluation or
+validation or cohort or comparative or
+prospective* or retrospective or "cross section*")
+adj4 (trial* or stud*)).ti,ab,hw,kw.
+
+1367
+
+12 limit 9 to (clinical study or clinical trial, all or
+clinical trial, phase i or clinical trial, phase ii or
+clinical trial, phase iii or clinical trial, phase iv or
+clinical trial or comparative study

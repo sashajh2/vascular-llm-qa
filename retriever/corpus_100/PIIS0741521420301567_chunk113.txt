@@ -1,0 +1,9 @@
+ scenarios. In general,
+physician and patient preferences play a more important role in the decision-making process in these
+circumstances.
+The Society for Vascular Surgery adapts GRADE so
+that the level of evidence to support the recommendation is divided into three categories: A (high quality), B
+(moderate quality), and C (low quality). Conclusions
+based on high-quality evidence are unlikely to change
+with further investigation, whereas those based on
+moderate-quality evidence are more

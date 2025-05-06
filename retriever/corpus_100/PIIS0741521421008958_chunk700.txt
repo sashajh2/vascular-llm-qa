@@ -1,0 +1,7 @@
+ant OR ruminants OR salmon
+OR sheep OR shrimp OR slug OR slugs OR swine OR
+tamarin OR tamarins OR toad OR toads OR trout OR urchin OR urchins OR vole OR voles OR waxworm OR waxworms OR worm OR worms OR xenopus OR "zebra ﬁsh"
+OR zebraﬁsh) AND NOT (human OR humans or patient
+or patients))
+7 5 and not 6
+8 DO

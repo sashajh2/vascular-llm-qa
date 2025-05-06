@@ -1,0 +1,6 @@
+ biplane imaging includes
+anterior-posterior (renal and aortoiliac), lateral (SMA and
+celiac arteries), and right anterior oblique views (IMA)
+for optimal visualization of speciﬁc vessels. The anteriorposterior projections are helpful to visualize the branches
+of the SMA and its collaterals, including the gastroduodenal and marginal arteries, whereas the lateral projection is optimal to view the origins of the CA and SMA
+given their posterior-anterior orientation

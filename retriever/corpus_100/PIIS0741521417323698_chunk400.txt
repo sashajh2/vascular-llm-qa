@@ -1,0 +1,54 @@
+5
+
+0
+
+$65
+
+2
+
+Age, years
+#75
+
+0
+
+>75
+
+1
+
+Gender
+Male
+
+0
+
+Female
+
+1
+
+Comorbidities
+Myocardial disease
+
+1
+
+Cerebrovascular disease
+
+1
+
+Chronic obstructive pulmonary disease
+
+2
+
+Laboratory value
+Creatinine, mg/dL
+<1.5
+
+0
+
+1.5 to <2
+
+2
+
+$2
+
+2
+
+EVAR,

@@ -1,0 +1,17 @@
+35”, 0.018” and 0.014”.
+
+186
+
+Stiness
+
+
+
+
+
+Wire stiffness is determined by the metal used as the core of the wire.
+The same wire will become stiffer with a larger diameter.
+Softer wires are used to manipulate catheters into vessels.
+Stiffer wires are needed to push larger devices, such as balloons or endografts.
+
+Coating
+ Wires have a hydrophilic or hydro

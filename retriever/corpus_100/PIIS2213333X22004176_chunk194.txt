@@ -1,0 +1,40 @@
+ eczema
+
+C4b
+
+Lipodermatosclerosis or atrophie blanche
+
+C4c
+
+Corona phlebectatica
+
+C5
+
+Healed venous ulcer
+
+C6
+
+Active venous ulcer
+
+C6r
+
+Recurrent active venous ulcer
+
+Etiology
+Ec
+
+Congenital
+
+Ep
+
+Primary
+
+Es
+
+Secondary (post-thrombotic)
+
+En
+
+No venous etiology identiﬁed
+
+Anatomy

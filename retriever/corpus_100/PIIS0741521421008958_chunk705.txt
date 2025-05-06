@@ -1,0 +1,12 @@
+or CEA or CAS or revasculari* or intervention*)
+adj3 (carotid or stroke or tia or "ischemic attack"
+or "brain infarct*" or "ischaemic
+attack")).ti,ab,hw,kw.
+
+64373
+
+3
+
+(procedure or stent* or surg* or endarterectom* or
+CEA or CAS or revasculari* or intervention*).ti.
+and exp cerebrovascular accident

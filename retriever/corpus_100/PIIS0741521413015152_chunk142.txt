@@ -1,0 +1,29 @@
+H
+fI3
+
+Ischemia – 1
+VL L M
+VL L M
+M M H
+H
+H H
+fI- fI- fI0
+1 2
+
+Ischemia – 2
+L L M
+L M H
+M H H
+H H H
+fI- fI- fI0 1 2
+
+H
+H
+H
+H
+fI3
+
+H
+H
+H
+H

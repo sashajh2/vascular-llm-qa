@@ -1,0 +1,9 @@
+ repeated for
+both legs (DP and PT signals) and both arms. The arm pressure must be measured with
+the Doppler probe and the manual blood pressure cuff. To calculate an ABI, the higher
+ankle pressure (DP or PT) is divided by the highest arm pressure (left or right). Note
+that the higher arm pressure is used to calculate the ABI for both legs. For this specific
+
+90
+
+case, the highest arm pressure is 150. To

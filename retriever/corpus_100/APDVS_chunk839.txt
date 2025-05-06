@@ -1,0 +1,10 @@
+. What is the most likely underlying disease process?
+A. Optical neuropathy
+B. Glaucoma
+C. Opacification of the lens
+D. Retinal angiopathy
+Answer
+C. Opacification of the lens
+Discussion: The lens is the most radiosensitive componenet of the eye. Lens opacification
+(i.e. cataracts) is the most common adverse effect of radiation exposure to the eye. There
+was no mention of increased intraocular pressure

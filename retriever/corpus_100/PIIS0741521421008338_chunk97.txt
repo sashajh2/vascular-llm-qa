@@ -1,0 +1,4 @@
+*" OR "cardiovascular stroke*" OR "intracranial hemorrhage*" OR "intracranial haemorrhag*" OR ich OR "heart
+failure" OR "myocardial infarct*" ) ) ) AND ( ( TITLE-ABSKEY ( "popliteal arter*" AND aneurysm* ) ) OR ( TITLEABS-KEY ( "popliteal artery aneurysm*" ) ) )
+AND NOT
+( ( TITLE-ABS-KEY

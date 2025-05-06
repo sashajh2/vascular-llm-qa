@@ -1,0 +1,6 @@
+ "quasi experimental analysis" OR "quasiexperimental
+study" OR "quasiexperimental analysis" OR "in vivo study"
+OR "in vivo analysis" OR "panel study" OR "panel survey"
+OR "panel analysis" OR "replication study" OR "replication
+analysis " OR "replication trial" OR "feasibility study" OR
+"feasibility analysis" OR ((correlation* W/2 study) OR (correlation* W/2 analys*))

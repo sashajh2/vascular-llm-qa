@@ -1,0 +1,5 @@
+" OR "multi-center study" OR
+"odds ratio" OR "conﬁdence interval" OR "regression analysis" OR "least square" OR "least squares" OR (hazard* W/1
+(model* OR analys* OR regression or ratio or ratios)) OR
+"Cox model" OR "Cox multivariate analyses" OR "Cox
+multivariate analysis" OR "Cox regression" OR "Cox survival analyses" OR "Cox survival

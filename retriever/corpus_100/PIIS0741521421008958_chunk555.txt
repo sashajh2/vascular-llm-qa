@@ -1,0 +1,16 @@
+id revascularization
+within 90 days before
+receiving CABG
+
+Intolerance to heparin and (A) 37
+(C) 208
+antiplatelet drugs,
+intraluminal carotid artery
+thrombus, chronic carotid
+total occlusion, history of
+ischemic major stroke
+within 3 months, severe
+comorbidity in patients
+not tolerant to
+percutaneous
+intervention, any other

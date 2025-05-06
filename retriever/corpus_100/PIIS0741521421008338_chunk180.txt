@@ -1,0 +1,28 @@
+ word, unique identiﬁer, synonyms]
+
+14
+15
+16
+
+339
+
+Advanced
+
+2,037,869
+
+Advanced
+
+mortality.fx.
+
+517,821
+
+Advanced
+
+amputation/or exp stroke/or exp "intracranial Hemorrhages"/or exp "heart failure"/or exp
+"myocardial infarction"/
+
+446,608
+
+Advanced
+
+("brain adj3 bleed

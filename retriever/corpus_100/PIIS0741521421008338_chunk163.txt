@@ -1,0 +1,16 @@
+chrane Central Register of Controlled Trials, Ovid Cochrane Database of Systematic Reviews
+#
+
+Results
+
+Type
+
+exp Popliteal Artery/ or "popliteal arter*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+490
+
+Advanced
+
+2
+
+exp ANEURYSM/ or aneurysm*.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct

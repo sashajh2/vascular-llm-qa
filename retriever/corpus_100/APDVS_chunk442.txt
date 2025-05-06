@@ -1,0 +1,9 @@
+/brachial pressure (between the two
+arms).
+An ABI value: - X > 1.2 is non-compressible, calcification of arteries
+
+
+ 0.9 < x < 1.2 is normal
+ 0.7 < x < 0.9 refects a mild disease burden
+ 0.4 < x < 0.7 refects a moderate disease burden
+ x < 0.4 refects a severe disease burden

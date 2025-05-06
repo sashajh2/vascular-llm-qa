@@ -1,0 +1,9 @@
+ B, moderate
+
+quality; and C, low quality. Conclusions based on highquality evidence are unlikely to change with further
+investigation. In contrast, those based on moderatequality evidence are more likely to be affected by future
+research. Finally, those based on low-quality evidence are
+the least supported by the current data and the most
+likely to be subject to change in the future. On occasion, a
+GRADE 1 recommendation can be made from low-quality
+(C) evidence.

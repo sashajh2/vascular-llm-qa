@@ -1,0 +1,24 @@
+0, Number 5
+
+Question 4: In a patient with simple varicose veins (CEAP class C2) does the ablation of one or more incompetent perforator veins,
+improve outcomes?
+
+Patient
+Adults with simple
+varicose veins
+(CEAP class C2)
+
+Intervention
+Ablation of
+incompetent
+perforator veins
+
+Comparison
+No perforator
+ablation
+
+Outcomes
+
+Study design
+
+Possible explanations of heterogeneity (

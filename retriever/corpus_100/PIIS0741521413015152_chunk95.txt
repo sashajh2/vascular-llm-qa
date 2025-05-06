@@ -1,0 +1,8 @@
+ II. Society for Vascular Surgery Lower Extremity Threatened Limb (SVS WIfI) classiﬁcation system
+I. Wound
+II. Ischemia
+III. foot Infection
+W I fI score
+W: Wound/clinical category
+SVS grades for rest pain and wounds/tissue loss (ulcers and gangrene):
+0 (ischemic rest pain, ischemia grade 3; no ulcer) 1 (mild)

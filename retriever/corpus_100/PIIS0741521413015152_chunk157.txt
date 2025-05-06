@@ -1,0 +1,20 @@
+revascularization. This process could be simpliﬁed as follows:
+Group a: No infection within 30 days or simple infection controlled with antibiotics alone
+Group b: Infection controlled, but required incision and drainage, open toe or partial forefoot amputation
+
+Wound 0
+Wound 1
+Wound 2
+Wound 3
+
+Ischemia 0
+
+Ischemia 1
+
+Ischemia 2
+
+VL
+VL
+
+VL
+

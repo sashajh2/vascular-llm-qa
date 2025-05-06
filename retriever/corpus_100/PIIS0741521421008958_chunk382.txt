@@ -1,0 +1,17 @@
+ 253
+(B) 251
+
+(A) 67
+(B) 67
+
+(A) 70
+(B) 69
+
+NR
+
+HTN 58%, DM 13%, smoker
+78%, MI 17% AF 5%, PAD
+20%, CAD 37%
+
+HTN 53%, DM 14%, smoker
+77%, MI 19%, AF 5%, PAD

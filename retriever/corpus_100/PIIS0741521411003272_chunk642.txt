@@ -1,0 +1,8 @@
+ for each
+individual patient.
+AUTHOR CONTRIBUTIONS
+Conception and design: PG, AC, MD, BE, DG, MG, JL,
+RM, MM, HM, FP, PP, MP, JR, MV, TW
+Analysis and interpretation: PG, AC, MD, BE, DG, MG,
+JL, RM, MM, HM, FP, PP, MP, JR, MV, TW
+Data collection: PG, AC, MD, BE, MG, MM,

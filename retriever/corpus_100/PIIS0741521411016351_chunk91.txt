@@ -1,0 +1,7 @@
+ use multiple modalities when evaluating a patient with
+suspected cervical carotid stenosis.
+In NASCET2,3 and ECST,4 a higher degree of stenosis
+in symptomatic patients was associated with a higher stroke
+risk. The ACAS5 found no correlation between the severity
+of carotid stenosis and the incidence of stroke; however,
+there were too few strokes in this study to permit a subgroup analysis of the effect of degree of sten

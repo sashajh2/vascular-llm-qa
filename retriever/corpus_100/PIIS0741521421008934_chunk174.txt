@@ -1,0 +1,8 @@
+1000
+patients aged $65 years who were undergoing cardiac
+surgery were screened with carotid duplex ultrasound
+scans before surgery. The prevalence of disease was
+17% for those with $50% stenosis and 5.9% those with
+$80% stenosis. Using multivariate analysis, ﬁve variables
+were found to be signiﬁcant independent predictors of
+$80% stenosis: female sex

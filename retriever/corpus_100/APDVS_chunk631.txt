@@ -1,0 +1,5 @@
+. 3: Therapy recommendations based on CEAP classification score
+
+Conservative Management
+Initial therapy for the majority of patients with CVD is conservative treatment with compression and leg elevation. Compression therapy includes elastic stockings or wraps or pneumatic
+compression devices. Typically, 20-30 mmHg compression is used to treat symptomatic varicose veins, although higher levels can be used in patients with more advanced disease. Graduated compression stockings oppose tissue expansion during muscle contraction, narrowing the

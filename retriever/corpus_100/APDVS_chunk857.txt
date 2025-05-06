@@ -1,0 +1,10 @@
+, have slightly more penetration than alpha particles.
+They have some ability to penetrate the skin. However, they can be easily blocked by less
+dense shielding like aluminum.
+Similar to alpha particles, beta particles can also cause harm if ingested or inhaled.
+
+Gamma Rays
+Gamma rays possess significantly more energy and can penetrate through the human body
+and less dense shielding.
+Lead is effective in shielding against gamma rays due to its density. Dense materials
+increase the likelihood of radiation interacting with subatomic particles,

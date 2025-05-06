@@ -1,0 +1,5 @@
+whole body”) W/1 (ct or
+cat or cts or scan*)) OR agent* OR “cat scan*” OR
+chemotherap* OR “ct scan*” OR diagnos* OR
+drug* OR image OR images OR imaging OR intervention* OR manag* OR medication* OR microtomograph* OR “micro-tomograph*” OR operat* OR
+pharmacotherap* OR radiotherap* OR reconstruction* OR repair* OR resect

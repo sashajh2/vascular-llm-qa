@@ -1,0 +1,5 @@
+ prompt will be used for questions 4, 5, and 6.
+A 65-year old male with a history of hypertension, hyperlipidemia, and tobacco abuse presents
+to the vascular surgery clinic with complaints of pain in his legs. Patient states that the pain
+is crampy in quality, mostly in his calf muscles, it starts after he walks 4 blocks, and is worse
+on the right as compared to the left. He notices that when he stops walking

@@ -1,0 +1,5 @@
+ hospital volume with risk of in-hospital stroke or
+death following CEA and carotid stenting by analyzing
+the Statutory German Carotid Quality Assurance database. Hospitals were categorized into empirically determined quintiles according to annual case volume. The
+resulting volume thresholds were 10, 25, 46, and 79 for
+CEA and 2, 6, 12, and 26 for CAS procedures, and the analysis included

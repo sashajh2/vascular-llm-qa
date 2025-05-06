@@ -1,0 +1,25 @@
+ 58%,
+heart disease: 49%, renal
+disease: 26%, DM 18%,
+COPD 18%
+
+Ignatiev,66 2012
+Russia
+
+Patients aged >50 years old
+and having neither
+transient nor persistent
+neurologic
+symptomatology with no
+history of previously
+endured ischemic stroke
+
+NR
+
+485
+
+58.8
+
+79
+
+HT

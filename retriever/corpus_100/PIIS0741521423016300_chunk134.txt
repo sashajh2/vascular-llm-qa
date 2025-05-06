@@ -1,0 +1,7 @@
+ gangrene, evaluate pedal Doppler waveforms in combination with ankle
+brachial index (ABI) and toe brachial index (TBI) measurements to identify the presence of peripheral artery disease
+(PAD).
+No single modality has been shown to be optimal for the
+diagnosis of PAD, and there is no value above which PAD can
+be excluded. However, PAD is less likely in the presence of ABI
+0.9 e 1.3; TBI $ 

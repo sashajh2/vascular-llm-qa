@@ -1,0 +1,10 @@
+ infarction"/
+
+446,608
+
+Advanced
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, original title, name of
+substance word, subject heading word, ﬂoating sub-heading word, keyword heading
+word, protocol supplementary concept word, rare disease supplementary

@@ -1,0 +1,6 @@
+ imaging. Limitations of this imaging include technician skill, inability to obtain optimal
+angle of Doppler interrogation for velocity determination, shadowing from heavily calcified
+lesions, poor visualization due to patient habitus and tortuosity.
+Axial imaging options include both computed tomography angiogram (CTA) and magnetic
+resonance angiogram (MRA). Both of these options require some form of intra-arterial contrast,
+either iodinated contrast or gadolinium, respectively. However

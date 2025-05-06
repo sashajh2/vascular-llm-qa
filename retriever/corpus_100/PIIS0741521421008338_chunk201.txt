@@ -1,0 +1,24 @@
+, candidate term word]
+
+54,565
+
+Advanced
+
+18
+
+exp Disease Progression/
+
+2,783,610
+
+Advanced
+
+19
+
+(untreated or "disease progression").mp. [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading word, candidate term word]
+
+288997
+
+Advanced
+

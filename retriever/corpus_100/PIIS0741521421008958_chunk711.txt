@@ -1,0 +1,17 @@
+ or
+clinical trial, phase iii or clinical trial, phase iv or
+clinical trial or comparative study or controlled
+clinical trial or evaluation studies or meta
+analysis or multicenter study or observational
+study or pragmatic clinical trial or randomized
+controlled trial or systematic reviews or
+validation studies) [Limit not valid in
+Embase,CCTR,CDSR; records were retained]
+
+742
+
+13 10 or 11 or 12
+
+1740
+
+14

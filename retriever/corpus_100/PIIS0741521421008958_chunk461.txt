@@ -1,0 +1,36 @@
+.
+Author, year
+geographic area
+
+Mean age,
+years
+
+Male sex, %
+
+1668
+
+54
+
+64.4
+
+PAD 24%, CAD 31%, DM 13%,
+HTN 16%, HLD 16%
+
+NR
+
+725
+
+NR
+
+NR
+
+CAD 87.2%
+
+Patients who underwent
+tunneled cuffed
+hemodialysis catheter
+placement
+
+NR
+
+123

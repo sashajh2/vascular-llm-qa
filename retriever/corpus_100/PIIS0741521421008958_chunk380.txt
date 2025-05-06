@@ -1,0 +1,18 @@
+72
+
+(A) 26.7
+(B) 27.2
+
+HTN 76%, DM 29%, coronary
+heart disease 24%,
+previous or present
+smoker 70%
+
+HTN 75%, DM 26%, coronary
+heart disease 21%,
+previous or present
+smoker 71%
+
+Data mostly from Eckstein
+et al,21 2008 and
+Ringaleb,

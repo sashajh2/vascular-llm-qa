@@ -1,0 +1,33 @@
+ (ASVAL) procedure
+Author,
+year
+
+Patients/Limbs
+
+Intervention
+
+Richards,
+202031
+
+Patients with varicose
+veins and truncal reﬂux
+
+ASVAL
+
+Scheerders,
+2023176
+
+Patients with varicose
+veins and truncal reﬂux
+(C2-C6)
+
+Comparison
+
+Outcome
+
+Study design
+
+None
+
+Recurrent varicose veins at
+1-year: 

@@ -1,0 +1,19 @@
+]
+
+95,488
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼title, abstract, heading word, drug
+trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term word]
+
+9324
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).

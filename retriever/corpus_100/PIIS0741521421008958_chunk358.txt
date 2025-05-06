@@ -1,0 +1,17 @@
+4
+(B) 31
+
+(A) 66.1
+(B) 67
+
+(A) 83
+(B) 65
+
+(A) 26.8
+(B) 29.9
+
+(A) CAD 75%, smoking 46%,
+MI 38%, stroke 8%,
+previous PCI/CABG 58%,
+DM 21%, CKD 4%
+(B) CAD 68%,

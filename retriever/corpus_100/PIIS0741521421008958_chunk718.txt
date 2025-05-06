@@ -1,0 +1,24 @@
+6
+
+5
+
+exp Ultrasonography, Doppler, Duplex/
+
+28503
+
+6
+
+("carotid duplex" or "color doppler ultraso*" or "doppler color ultraso*" or "duplex doppler ultraso*" or
+"duplex ultraso*").ti,ab,hw,kw.
+
+28981
+
+7
+
+5 or 6
+
+50717
+
+8
+
+4 and 

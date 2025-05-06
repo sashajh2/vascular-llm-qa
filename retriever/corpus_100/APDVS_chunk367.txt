@@ -1,0 +1,5 @@
+50 = 0.97 and
+using the PT systolic pressure the ABI = 150/150 = 1.0. So the Right ABI is 1.0, because we
+choose the highest of the two ankle pressures for the final value of the ABI.
+On the left lower extremity, using the DP systolic pressure the ABI is 120/150 = 0.8 and using
+the PT systolic pressure the

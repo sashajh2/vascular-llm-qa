@@ -1,0 +1,5 @@
+9,31,36,37,39,40,49-52 Clinically relevant renal artery stenosis is present in 7% to 66% of patients with RAA
+across series, and although renal artery occlusive disease
+is not evidenced in all RAA patients with hypertension, it
+does remain a valid indication for intervention. Whereas
+the mechanism driving hypertension in RAA patients remains elusive, additional hypotheses include distal parench

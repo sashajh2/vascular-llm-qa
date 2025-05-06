@@ -1,0 +1,7 @@
+ the results of pooled analysis
+from the Carotid Stenting Trialists Collaboration. This
+included the EVA-3S trial, the SPACE trial, and the ICSS.
+In this study of 1546 CAS patients, neither lifetime stenting experience excluding the carotid nor lifetime CAS
+experience impacted 30-day risk of death or stroke. However, annual in-trial CAS operator volume signiﬁcantly
+impacted outcomes such that low-volume providers
+(mean

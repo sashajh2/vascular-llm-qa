@@ -1,0 +1,21 @@
+, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+433,620
+
+Advanced
+
+24
+
+22 not 23
+
+542
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or

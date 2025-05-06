@@ -1,0 +1,30 @@
+First author,
+year
+
+Patient
+
+Intervention/
+exposure
+
+Ciapponi A,
+200418
+
+Comparison
+
+Adults with CVI
+including CEAP C2
+
+Calcium dobesilate
+
+Placebo
+
+Pompilio G,
+202115
+
+Adults with
+Chronic Venous
+Disease
+
+Calcium dobesilate, Placebo Ulcer healing, leg
+Hydroxyethyl
+in 45 RCTs volume

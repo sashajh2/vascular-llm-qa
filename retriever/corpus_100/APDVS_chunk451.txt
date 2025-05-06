@@ -1,0 +1,7 @@
+14 as an
+integrated lower extremity wound classification and prognositcation system. The WIfI
+classification was inspired by the tumor, node, metastasis (TNM) staging system for
+cancer.
+ Incorporating the presence and severity of lower extremity wounds, ischemia, and infection, the classification system informs providers of the risk of lower extremity amputation
+and potential benefit of revascularization.
+ For the limb in question, a severity grade of 0 to 

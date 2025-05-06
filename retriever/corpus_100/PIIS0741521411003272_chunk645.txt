@@ -1,0 +1,7 @@
+: PG
+REFERENCES
+1. Kaplan RM, Criqui MH, Denenberg JO, Bergan J, Fronek A. Quality
+of life in patients with chronic venous disease: San Diego population
+study. J Vasc Surg 2003;37:1047-53.
+2. Smith JJ, Guest MG, Greenhalgh RM, Davies AH. Measuring the
+quality of life in patients with venous ulcers. J Vasc

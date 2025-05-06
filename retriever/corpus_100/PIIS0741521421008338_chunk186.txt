@@ -1,0 +1,22 @@
+12
+
+671
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼title, abstract, original title, name of substance word,
+subject heading word, ﬂoating sub-heading word, keyword heading word, protocol
+supplementary concept word, rare disease supplementary concept word, unique
+identiﬁer, synonyms]
+
+406,208
+
+Advanced
+
+24
+
+22 not 23
+
+61

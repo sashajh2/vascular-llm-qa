@@ -1,0 +1,7 @@
+1 The quality
+of evidence is rated high (A), moderate (B), or low (C).
+This rating is based on the risk of bias, precision, directness, and consistency. The strength of recommendation
+is graded on the basis of the quality of evidence, balance
+between beneﬁts and harms, patients’ values, preferences, and clinical context. Recommendations are
+graded strong (1) or weak (2). The term we recommend
+is used with strong recommendations, and the

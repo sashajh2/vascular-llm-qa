@@ -1,0 +1,11 @@
+ox survival model" or "change
+analysis" or ((study or trial or random* or control*) and compar*)).mp,pt.
+50 or/16-49
+51 15 and 50
+52 (exp animals/ or exp nonhuman/) not exp humans/
+
+23290983
+1977
+10729834
+
+53 ((alpaca or alpacas or amphibian

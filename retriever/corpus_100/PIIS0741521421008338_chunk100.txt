@@ -1,0 +1,32 @@
+ Patients, intervention, comparison, outcomes (PICOs)
+PICO 1. Which is more effective, open or endovascular repair of PAAs?
+Population
+
+Intervention
+
+Comparison
+
+Outcomes
+
+a
+
+Open approach
+
+Endovascular approach
+
+Mortality
+Amputation
+Thromboembolic events
+Patency
+Length of hospital stay
+Surgical complications
+
+PAAs
+
+PICO2. What is the natural history of untreated PAAs?
+a
+
+PAAs
+
+None
+

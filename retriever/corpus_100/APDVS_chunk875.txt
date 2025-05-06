@@ -1,0 +1,6 @@
+ They measure the total exposure accumulated over a set period of time. It’s important to note that these devices specifically
+measure ionizing radiation and not other forms.
+There are several types of badges available. Film badges are commonly used in clinical practice.
+They are worn by a single person and are evaluated every 30 days. Other types of badges
+provide real-time quantification of radiation exposure, with readings recorded at the beginning
+and end of each shift. A radiation oﬀcer is typically tasked

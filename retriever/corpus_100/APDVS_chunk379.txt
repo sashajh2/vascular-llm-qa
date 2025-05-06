@@ -1,0 +1,7 @@
+ type. You can learn more about doppler probes and waveforms here.
+
+Duplex Ultrasonography
+Duplex ultrasonography (US) is another non-invasive imaging modality that can evaluate a
+patient’s blood fow by measuring the speed at which blood travels through the vessel. In
+this way, a patient’s hemodynamics can be assessed by identifying the location and degree of
+stenosis. Other imaging modalities such as a CT angiogram or invasive angiograms can also

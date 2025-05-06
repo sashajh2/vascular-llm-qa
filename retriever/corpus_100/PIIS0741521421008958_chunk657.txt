@@ -1,0 +1,35 @@
+w,kw.
+
+14474
+
+17
+
+14 and 15
+
+8431
+
+18
+
+13 or 16 or 17
+
+19587
+
+19
+
+exp *angioplasty/
+
+70066
+
+20
+
+carotid angioplasty/
+
+639
+
+21
+
+"carotid angioplast*".ti,ab,hw,kw.
+
+2964
+
+22

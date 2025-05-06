@@ -1,0 +1,28 @@
+120
+
+8697
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e29
+
+Volume 75, Number 1S
+
+SCOPUS
+1
+
+TITLE-ABS-KEY ( asymptomatic )
+
+2
+
+TITLE-ABS-KEY ( ( carotid W/1 ( obstruct* OR stenosis ) ) )
+
+3
+
+#1 and #2
+
+4
+
+TITLE-ABS-KEY ( ( carotid W

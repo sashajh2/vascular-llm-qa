@@ -1,0 +1,31 @@
+ 1S
+
+Supplementary Table III (online only). Risk of Bias assessment
+Selection
+
+Author, year
+
+Outcomes
+
+Random sequence
+generation:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Allocation
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of
+participants
+or personnel:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of
+outcome
+assessment:

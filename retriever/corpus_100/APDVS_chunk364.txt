@@ -1,0 +1,6 @@
+0.9: Suggests arterial stenosis. (Khan, Farooqui, and Niazi 2008)
+- ABI 0.7-0.9 = mild PAD
+- ABI 0.4-0.7 = moderate PAD
+- ABI <0.4 = severe PAD
+ABI 0.5 - 0.9: often causes claudication
+ABI <0.5: often causes ischemic rest pain/tissue loss

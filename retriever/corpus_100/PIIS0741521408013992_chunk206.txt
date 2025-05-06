@@ -1,0 +1,8 @@
+,
+type of dialysis machine, and the patient’s blood pressure.
+Better standardization can be achieved by measuring static
+VDP (at zero dialysis pump blood flow). VDP needs to be
+normalized for the systemic blood pressure. The ratio of
+systolic VDP to systemic systolic blood pressure can be
+suggestive of stenosis when the ratio of systolic VDP to
+systemic systolic blood pressure is ⬎ 0.4.97 Use

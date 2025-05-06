@@ -1,0 +1,5 @@
+is obliterated, and then the cuff is then slowly released; the pressure at which the Doppler
+signal returns is the ankle pressure. The same process is repeated for both legs (DP and PT
+signals) and both arms. The arm pressure must be conducted with the manual blood pressure
+cuff that is placed above the target vessel and the Doppler probe that is placed below the cuff
+to evaluate blood fow. To calculate the ABI, the higher ankle pressure (DP or PT)

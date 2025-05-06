@@ -1,0 +1,9 @@
+
+signal can be triphasic, biphasic, or monophasic.
+ Triphasic and biphasic doppler signals indicate good blood fow.
+ Monophasic signals correlate with a moderate to severe decrease in arterial blood fow.
+ In severe ischemia, a soft continuous venous signal may be all that is heard.
+ Temperature changes may help demarcate the level of disease.
+ Sensory loss may be present in acute ischemia and chronic neuropathy.
+
+Di�

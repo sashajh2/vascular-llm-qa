@@ -1,0 +1,5 @@
+ cuff is placed above the ankle. The Doppler probe is used to locate the
+dorsalis pedis (DP) or posterior tibial (PT) pulse. The pressure cuff is infated until the
+Doppler signal is obliterated, and then the cuff is then slowly released. The pressure at
+which the Doppler signal returns is the ankle pressure. The same process is repeated for
+both legs (DP and PT signals) and both arms. The arm pressure must be

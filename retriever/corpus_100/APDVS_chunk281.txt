@@ -1,0 +1,8 @@
+ left ABI 0.7
+Answer
+A. Right ABI 1.1; left ABI 0.8
+Discussion: Performing an ankle-brachial index (ABI) requires an appropriately sized
+manual blood pressure cuff and a hand-held, continuous-wave Doppler probe. The patient
+should be in the supine position and allowed to rest before the examination begins. The
+blood pressure cuff is placed above the ankle. The Doppler probe is used to locate the
+dorsalis

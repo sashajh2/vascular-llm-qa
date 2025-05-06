@@ -1,0 +1,6 @@
+ Cardiovascular and renal outcomes with canagliﬂozin in patients with peripheral arterial disease: Data from the
+CANVAS Program and CREDENCE trial. Diabetes Obes Metab
+2022;24:1072-83.
+146. Xie P, Li Y, Deng B, Du C, Rui S, Deng W, et al. An explainable
+machine learning model for predicting in-hospital amputation
+rate of patients with diabetic

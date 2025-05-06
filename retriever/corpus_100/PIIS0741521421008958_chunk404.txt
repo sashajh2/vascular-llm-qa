@@ -1,0 +1,16 @@
+, DM 27.7, CAD 30,
+PAD 15.5, HLD 53.3,
+smoking 62.2
+
+Brandl et al,41 2001
+Germany
+
+Patients admitted for CEA
+
+Patients were considered
+not eligible for CEA, if they
+had an intracerebral
+hemorrhage and/or early
+signs of territorial infarcts
+with disturbance of the
+blood-brain

@@ -1,0 +1,15 @@
+ural cardiac
+infarct*" or "transmural heart infarct*").ti,ab,hw,kw.
+10 5 or 6 or 7 or 8 or 9
+
+1660341
+
+11 4 and 10
+
+35844
+
+12 exp Coronary Artery Bypass/
+
+126970
+
+13 ("aorta coronary artery bypass*" or "aorta coronary bypass graft*"

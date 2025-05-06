@@ -1,0 +1,7 @@
+-term cost efﬁcacy analyses of CAS and CEA. In one report, outcomes of
+447 patients undergoing CEA in a single institution were
+compared with CAS outcomes in the literature. A Markov
+decision model was constructed that included procedural costs and long-term cost of morbidities such as
+stroke. Procedural costs of CEA and CAS were $7871
+and $10,133, respectively. Assuming a procedural stroke
+rate

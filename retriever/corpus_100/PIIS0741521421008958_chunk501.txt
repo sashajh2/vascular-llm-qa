@@ -1,0 +1,17 @@
+) procedure
+
+Any patients who underwent (A) 15402
+CEA or CAS after CABG,
+(C) 7099
+patients undergoing CAS
+and CABG on the same
+day
+
+(A) 69.7
+(C) 69.2
+
+(A) 68.9
+(C) 67.9
+
+(A) HTN 73.9%, DM 38.1%,
+anemia 1

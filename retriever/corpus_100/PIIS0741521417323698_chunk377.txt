@@ -1,0 +1,10 @@
+ represents a clinical dilemma.
+Under select circumstances, it may be appropriate to
+delay intervention for several hours to ensure conditions
+for successful repair, including optimizing anesthetic
+support, as well as blood product or device availability.
+If such an approach is elected, the patient should be
+closely monitored in an ICU.
+A more frequent concern is the timing for treatment of
+an asymptomatic, large AAA, >5.4 cm in diameter. In the
+ADAM trial, rupture risk was

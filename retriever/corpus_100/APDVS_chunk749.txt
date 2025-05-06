@@ -1,0 +1,6 @@
+ = ID.
+Catheters vary by size, stiffness, hydrophilicity, radiopacity, and functionality, but can generally be described in two categories, fush catheters and selective catheters.
+Flush catheters:
+ Contain multiple side holes just proximal to the end of the device to allow for the injection
+of contrast or other material, such as thrombolytics.
+ Omnifush (Angiodynamics, Latham, NY): soft, fexible catheter with a radi

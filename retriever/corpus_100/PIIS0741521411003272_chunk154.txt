@@ -1,0 +1,23 @@
+itis)
+Induration
+Presumes venous origin of
+secondary skin and
+subcutaneous changes (ie,
+chronic edema with fibrosis,
+hypodermitis); includes white
+atrophy and
+lipodermatosclerosis
+No. of active ulcers
+Active ulcer duration (longest
+active)
+Active ulcer size (largest active)
+Use of compression
+therapy
+
+None: 0
+
+Mild: 1
+
+Moderate: 2
+
+Severe: 

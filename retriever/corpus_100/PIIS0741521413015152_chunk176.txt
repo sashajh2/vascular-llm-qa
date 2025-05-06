@@ -1,0 +1,10 @@
+ I0 fI2,3
+W3 I1,2,3 fI0,1,2,3
+
+Clinical stage 5 would signify an unsalvageable foot (most often because of
+wound extent or severity of infection).
+
+of patients by clinical stage should yield a better platform for testing the impact of new therapies in
+randomized trials.73 For example, trials targeting reduction
+in amputation within 1 year as a primary end point of
+a

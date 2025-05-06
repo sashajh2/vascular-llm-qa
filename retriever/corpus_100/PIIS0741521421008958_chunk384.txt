@@ -1,0 +1,20 @@
+0
+(B) 10
+
+(A) 71
+(B) 69
+
+(A) 90
+(B) 80
+
+NR
+
+HTN 80%, smoking 60%,
+HLD 60%, DM 30%, CAD
+40%
+
+HTN 70%, smoking 50%,
+HLD 70%, DM 30%, CAD
+20%
+
+Mas et al,28 201

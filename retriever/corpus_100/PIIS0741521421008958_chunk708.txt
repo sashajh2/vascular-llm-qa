@@ -1,0 +1,15 @@
+Continued.
+6 exp "Early Medical Intervention"/ or "Time-toTreatment"/ or exp "Time Factors"/ or (early or
+earlier or timing or urgent* or immediat*).ti.
+
+1602429
+
+7 5 and 6
+
+6511
+
+8 limit 7 to (english language and yr¼"2017
+-Current") [Limit not valid in CDSR; records were
+retained]
+
+1811

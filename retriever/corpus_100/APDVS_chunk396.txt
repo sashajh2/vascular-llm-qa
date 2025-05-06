@@ -1,0 +1,7 @@
+ extremities for greater than 2 weeks.
+2. CLTI presents as ischemic rest pain, tissue loss (e.g. ulcers, gangrene),
+or both.
+3. CLTI is associated with amputation, impaired quality of life, and mortality.
+4. Rutherford Classification and Fontaine Grading are classification systems developed
+to categorize the degree of severity of CLTI, which also aids in management.
+5. Newer classification systems including WiFI (Wound, Ischem

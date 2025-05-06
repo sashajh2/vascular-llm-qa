@@ -1,0 +1,3 @@
+ doses, such as 2 Gy. [Stewart et al. (2012)](Bennardo et al. 2021)
+ This level of exposure is concerning not only for individuals undergoing routine radiation therapy for cancer treatment but also for those in prolonged surgeries requiring fuoroscopy, as highlighted in Weerakkody’s study on endovascular aneurysm repair (EVAR).
+(Weerakkody et al. 2008b)

@@ -1,0 +1,5 @@
+ is observed at 200°C to 300°C.
+Currently available laser fibers include hemoglobin-specific
+laser wavelengths (810, 940, and 980 nm) and waterspecific laser wavelengths (1319, 1320, and 1470 nm).
+Laser treatment was first recommended by Puglisi235 in
+1989, but it was 10 years later that Bon

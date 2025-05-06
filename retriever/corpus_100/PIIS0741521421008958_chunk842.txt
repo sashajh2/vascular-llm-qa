@@ -1,0 +1,8 @@
+"
+OR camel OR camels OR canine OR canines OR carp
+OR cats OR cattle OR chick OR chicken OR chickens
+OR chicks OR chimp OR chimpanze OR chimpanzees
+OR chimps OR cow OR cows OR "D melanogaster" OR
+"dairy calf" OR "dairy calves" OR deer OR dog OR dogs
+OR donkey OR donkeys OR drosophila OR "Drosophila
+melanogaster" OR duck OR duckling OR

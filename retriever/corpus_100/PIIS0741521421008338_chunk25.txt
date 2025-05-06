@@ -1,0 +1,9 @@
+ than one and for a beneﬁcial intervention
+(patency) would be greater than one. Because of anticipated heterogeneity, the DerSimonian and Laird random
+effects model7 was used to pool estimates from the
+included studies. The I2 statistic was used to estimate
+heterogeneity. Analysis was done using R Statistical
+Computing software version 4.0.0 (The R Foundation,
+Vienna, Austria). Data were insufﬁcient to conduct
+
+ARTICLE H

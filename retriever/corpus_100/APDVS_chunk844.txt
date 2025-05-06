@@ -1,0 +1,11 @@
+ proximal vessels,
+the c-arm is rotated counterclockwise (from the perspective of looking from the patient’s
+feet superiorly) so that the image intensifier is rotated more towards the patient’s right
+shoulder. What is the appropriate name for the c-arm position?
+A. LAO (left anterior oblique)
+B. RAO (right anterior oblique)
+C. Cranial
+D. Caudal
+E. AP (anterior posterior)
+Answer
+B

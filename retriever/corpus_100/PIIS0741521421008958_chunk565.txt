@@ -1,0 +1,4 @@
+ mellitus; ESRD,
+end-stage renal disease; HbA1c, hobgoblin A1; HLD, hyperlipidemia; HTN, hypertension; ICA, internal carotid artery; LDL, low-density lipoprotein; LOS,
+length of stay; MI, myocardial infarction; NR, not reported; NSTEMI, non-ST segment elevation myocardial infarction; PAD, peripheral artery disease;
+PCI, percutaneous coronary intervention

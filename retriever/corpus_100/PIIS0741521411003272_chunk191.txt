@@ -1,0 +1,10 @@
+. The basic CEAP classification is used for clinical practice, and the full
+CEAP classification system is used for clinical research.
+We recommend that primary venous disorders, including simple varicose
+veins, be differentiated from secondary venous insufficiency and from
+congenital venous disorders because the three conditions differ in
+pathophysiology and management.
+
+The basic CEAP classification is a simplified version,
+suitable and easy for office use, and does not have the
+details of

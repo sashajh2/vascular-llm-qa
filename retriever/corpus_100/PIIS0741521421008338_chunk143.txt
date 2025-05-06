@@ -1,0 +1,5 @@
+ repair (EVAR) in terms of (a) primary patency at 1 year, (b) primary patency at 3 years,
+(c) secondary patency at 1 year, (d) mortality at the longest follow-up, and (e) 30-day mortality.
+
+Supplementary Fig 2 (online only). Forest plots for the comparison of open aneurysm repair (OAR) versus
+endovascular aneurysm repair (EVAR) in

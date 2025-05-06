@@ -1,0 +1,15 @@
+3 10 or 11 or 12
+
+1740
+
+14 remove duplicates from 13
+
+1400
+
+SCOPUS
+1
+
+TITLE-ABS-KEY ( ( ( procedure OR stent* OR surg* OR
+endarterectom* OR cea OR cas OR revasculari* OR
+intervention* ) W/3 ( carotid OR stroke OR tia OR
+"ischemic attack" OR "brain inf

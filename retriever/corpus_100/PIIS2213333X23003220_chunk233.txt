@@ -1,0 +1,37 @@
+
+language
+RCTs,
+
+Age, sex,
+concomitant
+phlebectomy or
+sclerotherapy
+
+Michael,
+200692
+
+Adults
+with
+varicose
+veins
+(CEAP2)
+
+Surgical treatment
+(HL&S) and
+phlebectomy
+
+Compression therapy
+
+Standard surgical
+treatment is more
+effective and more
+cost-effective than
+compression alone.
+
+English
+language
+RCT,
+observational
+trial
+
+Age

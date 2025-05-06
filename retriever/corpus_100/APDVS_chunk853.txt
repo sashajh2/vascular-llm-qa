@@ -1,0 +1,8 @@
+etrance
+A critical concept to understand when discussing occupational and patient exposure to radiation is penetrance.
+ Penetrance refers to the ability of emitted radiation to penetrate into or through materials and is defined as the fraction of radiation passing through a given object (or the
+inverse of attenuation).
+ The density of materials or tissues determines their ability to attenuate or block
+X-rays.
+ Dense tissues (bone) or materials (lead) absorb a greater fraction of radiation while less
+dense tissues (skin) or

@@ -1,0 +1,14 @@
+erapy, Radionuclide Imaging, Radiotherapy, Surgery, Therapy, Ultrasonography]
+
+12817
+
+2
+
+exp abdominal aorta aneurysm/di, dm, dt, rt, su, th [Diagnosis, Disease Management,
+Drug Therapy, Radiotherapy, Surgery, Therapy]
+
+14097
+
+3
+
+(“abdominal aorta aneurysm*” or “abdominal aortic aneurysm*” or

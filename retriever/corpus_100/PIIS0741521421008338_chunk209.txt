@@ -1,0 +1,17 @@
+87
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or
+"intravascular technique*" or angioplasty or angioscopy).mp. [mp¼ti, ot, ab, sh, hw, kw, tx,
+ct]
+
+7627
+
+Advanced
+
+9
+
+(catheteriz* adj3 (central or peripheral)).mp. [mp¼ti, ot, ab, sh, hw

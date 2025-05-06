@@ -1,0 +1,7 @@
+/L) in women
+The American Diabetes Association (ADA) standards of care for diabetes recommend
+that statin therapy should be initiated in individuals with diabetes and other atherosclerotic cardiovascular disease (ASCVD) risk factors.
+Please see the ASCVD risk calculator algorithm:
+ For patients ages 40 years and older with diabetes: Use moderate-dose statin therapy.
+ For patients ages 40 to 75 with diabetes and a higher cardiovascular risk (including
+those with one or more

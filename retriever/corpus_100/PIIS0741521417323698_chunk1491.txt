@@ -1,0 +1,35 @@
+
+
+10
+
+exp triple blind procedure/
+
+186
+
+11
+
+exp Double-Blind Method/
+
+381145
+
+12
+
+exp Single-Blind Method/
+
+63322
+
+13
+
+exp latin square design/
+
+14
+
+exp Placebos/
+
+15
+
+exp Placebo Effect/
+
+16
+
+((meta adj analys*) or (randomized adj3 study) or (randomized adj3 trial) or (randomised adj3 study

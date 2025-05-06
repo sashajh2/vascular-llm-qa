@@ -1,0 +1,8 @@
+al artery aneurysm*" ) ) )
+AND NOT
+( ( TITLE-ABS-KEY ( "popliteal arter*" AND aneurysm*
+) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" )
+) ) AND ( TITLE-ABS-KEY ( ( endovascular OR
+intravascular OR angioplasty OR angioscopy )
+OR ( catheteriz* W/3 ( central OR peripheral ) ) OR
+(

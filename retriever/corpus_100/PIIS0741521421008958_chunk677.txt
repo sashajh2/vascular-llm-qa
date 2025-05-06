@@ -1,0 +1,5 @@
+ or (random* adj1 allocat*) or (doubl* adj blind*) or (doubl* adj mask*) or (singl* adj
+blind*) or (singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*) or (trebl* adj mask*) or
+"latin square" or placebo* or nocebo*).mp,pt.
+
+28649

@@ -1,0 +1,11 @@
+ cardiac ischemia*" or "silent heart
+ischaemia*" or "silent heart ischemia*" or "silent
+ischaemia*" or "silent ischemia*" or "silent myocardial
+ischaemia*" or "silent myocardial ischemia*" or stenocardia or "stress cardiomyopath*" or "stress induced cardiomyopath*"
+or
+"subendocardial
+infarct*"
+or
+"subendocardial
+ischaemia*"
+or

@@ -1,0 +1,10 @@
+
+organs.
+
+Length
+ Wires are measured in centimeters (cm) and typically range from 80 - 300 cm.
+ Wires must not only be long enough to reach the target vessel from the point of access,
+but also need to be long enough to support exchanges outside of the body as needed.
+ Care must be taken to avoid too long of a wire for its intended purpose as it is harder
+to control the end of the wire outside of the body.
+Function

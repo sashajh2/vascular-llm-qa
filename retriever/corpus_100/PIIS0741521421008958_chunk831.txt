@@ -1,0 +1,4 @@
+1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/1
+blind*) OR (trebl* W/1 mask*) OR "latin square" OR placebo* OR nocebo* OR multivariate OR "comparative
+study" OR "comparative survey" OR "comparative analysis" OR (intervention* W/2 study) OR (intervention* W/2
+trial) OR "cross-sectional study" OR

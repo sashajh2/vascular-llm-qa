@@ -1,0 +1,29 @@
+
+
+Venous edema:
+Presumes venous
+origin
+
+None: 0
+
+Mild: 1
+Limited to foot and
+ankle area
+
+Moderate: 2
+Extends above ankle
+but below knee
+
+Severe: 3
+Extends to knee and
+above
+
+Skin pigmentation:
+Presumes venous
+origin Does not
+include focal
+pigmentation over
+varicose veins or
+pigmentation owing
+to other chronic
+diseases (

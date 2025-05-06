@@ -1,0 +1,23 @@
+id angioplast*".ti,ab,hw,kw.
+
+2964
+
+22
+
+or/19-21
+
+71434
+
+23
+
+("best medical therap*" or "no surgery").ti,ab,hw,kw.
+
+175005
+
+24
+
+((conservative or medical) adj (manag* or treat* or therap*)).ti,ab,hw,kw.
+
+359760
+
+2

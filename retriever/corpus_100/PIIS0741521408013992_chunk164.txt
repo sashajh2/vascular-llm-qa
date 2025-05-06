@@ -1,0 +1,15 @@
+
+
+Seriousd
+
+None
+
+CI, Confidence interval; RR, relative risk.
+a
+One study was not randomized.
+b
+Most trials lack description of allocation concealment and blinding of patients, clinicians, and outcome assessors. The first threatens prognostic balance at
+baseline; the latter threatens maintenance of prognosis balance after randomization.
+c
+Access thrombosis is a surrogate outcome for access failure, which is a patient-important outcome associated with significant morbidity and mortality.
+d

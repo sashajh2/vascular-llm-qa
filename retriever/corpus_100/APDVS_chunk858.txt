@@ -1,0 +1,9 @@
+ rays due to its density. Dense materials
+increase the likelihood of radiation interacting with subatomic particles, reducing the rays’
+passage through the material.
+As gamma rays pass through the body, they cause ionizing damage to tissue and DNA and
+should be treated with caution.
+
+X-Rays
+X-rays, widely used in healthcare, share similarities with gamma rays in their ability to penetrate tissue.
+Their application in medical imaging includes plain X-ray films, CT scans, and fuoroscopy.

@@ -1,0 +1,27 @@
+ or therap*)).ti,ab,hw,kw.
+
+359760
+
+25
+
+(statin* or antiplatelet*).ti.
+
+59470
+
+26
+
+Platelet Aggregation Inhibitors/
+
+74332
+
+27
+
+(platelet* adj1 aggregat* adj1 inhibit*).ti,ab,hw,kw.
+
+43743
+
+28
+
+Antihypertensive Agents/
+
+129

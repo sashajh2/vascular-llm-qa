@@ -1,0 +1,7 @@
+Natural history search
+SCOPUS
+( ( TITLE-ABS-KEY ( ( "brain w/3 bleed*" ) OR ( acute W/3
+limb* W/3 ischemi* ) OR ( compress* W/3 ruptur* ) OR
+( chronic W/3 ischemi* ) ) ) OR ( TITLE-ABS-KEY ( mortality
+OR morbidity OR amputat* OR thromb* OR ali OR
+"chronic ischemia" OR stroke

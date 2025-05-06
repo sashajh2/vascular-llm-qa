@@ -1,0 +1,7 @@
+ was used alone in 75% of
+the cases and in combination with at least one other
+technique in 11% of cases.
+The risk of end-organ ischemia appears to be an especially salient concern pertaining to endovascular repair.
+Some authors have concluded that patients with aneurysmal disease at the splenic hilum may be better
+managed with open repair and splenectomy.105
+A study using a Markov decision model compared open

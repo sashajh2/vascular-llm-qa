@@ -1,0 +1,5 @@
+ table above underscores a crucial consideration: deterministic effects may potentially
+arise in cases with prolonged run times. Endovascular aneurysm repair (EVAR) is a routine
+procedure for modern vascular surgeons. While the duration of these procedures may vary,
+considering the cited range of radiation dosages from 0.51 to 3.74 (Weerakkody et al. 2008a),
+it’s conceivable that patients could experience post-operative adverse events solely

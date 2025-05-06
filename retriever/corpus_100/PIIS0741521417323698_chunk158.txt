@@ -1,0 +1,29 @@
+80-84
+
+3.35
+
+<.0001
+
+28.37
+
+26.31-30.59
+
+35
+
+0.37
+
+<.0001
+
+0.69
+
+0.62-0.77
+
+4
+
+Variable
+Male (vs female)
+Age, years (vs <55 years)
+
+Race/ethnicity (vs white)
+Hispanic
+African

@@ -1,0 +1,37 @@
+53
+
+3
+
+1 or 2
+
+336353
+
+4
+
+exp Carotid Stenosis/
+
+46337
+
+5
+
+carotid artery obstruction/
+
+25245
+
+6
+
+carotid artery disease/
+
+21918
+
+7
+
+(carotid adj1 (arter* or stenosis)).ti,ab,hw,kw.
+
+213263
+
+8
+
+or/4-7
+
+2

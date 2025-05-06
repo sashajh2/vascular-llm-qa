@@ -1,0 +1,8 @@
+ (sounds) are an auditory
+representation of fow. A triphasic pulse generates a triphasic signal (repeated sound), a
+biphasic pule a biphasic signal, and a monophasic pulse a monophasic signal.
+Ď Tip
+Here is a video that demonstrates how to use a doppler probe and the signals associated
+with each waveform type. You can learn more about doppler probes and waveforms here.
+
+Duplex Ultrasonography

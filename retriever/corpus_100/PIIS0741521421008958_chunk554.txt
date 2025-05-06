@@ -1,0 +1,14 @@
+N 72.1%,
+DM 37.5%,
+hypercholesterolemia 60.1%,
+COPD 28.8%, CRF 0.5%,
+previous stroke 18.8%,
+previous angina: 59.6%,
+previous PCI: 2.9%
+
+Patients who underwent
+carotid revascularization
+within 90 days before
+receiving CABG
+
+Intolerance to

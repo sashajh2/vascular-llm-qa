@@ -1,0 +1,8 @@
+ radiation - alpha, beta, gamma and neutrons
+courtesty of Openclipart and Juhele. X-rays have similar penetrance to gamma rays.
+
+Radiation types
+Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will
+focus on ionizing radiation, which is encountered by medical professionals in clinical settings.
+Ionizing radiation falls within the higher frequency range of the electromagnetic spectrum. The
+commonly discussed types of ionizing radiation include X-rays,

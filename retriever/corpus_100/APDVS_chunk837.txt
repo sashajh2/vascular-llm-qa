@@ -1,0 +1,6 @@
+Discussion: Increasing one’s distance from the radiation source is a key measure to to
+reduce radiation exposure. Radiation exposure decreases as the distance from the source
+increases. This phenomenon follows an inverse square law (1/d^2). Standing close to
+the source will increase their radiation dose making answer a incorrect. If wearing a lead
+smock, turning one’s back to the radiation source will render the PPE useless. If wearing
+a leaded vest and skirt, turning one’s back

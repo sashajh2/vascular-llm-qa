@@ -1,0 +1,8 @@
+.3
+Physician-generated measurement tools
+The physician-generated measurement tools include
+the CEAP classification,76,77 which, as discussed previously, is an accurate description of signs and symptoms.
+However, the instrument contains too many static elements, especially in classes C4 and C5, and is not particularly suitable for an assessment of improvement after
+therapy.116
+The VCSS was introduced by Rutherford et al104 and
+has been used successfully in several studies

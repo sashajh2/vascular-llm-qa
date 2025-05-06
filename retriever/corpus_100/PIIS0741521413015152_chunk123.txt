@@ -1,0 +1,8 @@
+ Lower Extremity Threatened Limb (SVS WIfI) classiﬁcation system has three
+components:
+Wound
+Ischemia
+Foot Infection
+II. Grades: Each component is graded on a spectrum from 0 (none) to 1 (mild) to 2 (moderate) to 3 (severe) according to the criteria
+outlined in Table II.
+III. Classes: Based on grades assigned to each of the three individual components,

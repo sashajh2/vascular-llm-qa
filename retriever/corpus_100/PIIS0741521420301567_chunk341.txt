@@ -1,0 +1,27 @@
+
+Common hepatic artery
+
+Treatment1,2,7,148,160
+
+Indication
+Ruptured
+
+Open surgical ligation
+
+Symptomatic
+
+Endovascular embolization
+
+Asymptomatic (>2 cm)
+
+Resection/reconstruction
+
+Asymptomatic in patients with
+ﬁbromuscular dysplasia or
+polyarteritis nodosa
+
+Aneurysmorrhaphy
+
+Endovascular
+Covered stent
+Co

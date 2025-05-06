@@ -1,0 +1,9 @@
+ ( TITLE-ABS-KEY
+( endovascular OR intravascular OR angioplasty OR
+angioscopy ) ) OR ( TITLE-ABS-KEY ( catheteriz* W/3
+( central OR peripheral ) ) ) OR ( TITLE-ABS-KEY
+( "percutaneous coronary" W/3 ( interven* OR technique* OR procedure* ) ) ) )
+
+Natural history search
+SCOPUS
+( ( TITLE-ABS-KEY ( ( "brain w

@@ -1,0 +1,6 @@
+ from noncardiac sources.
+The most common etiology of cardiac emboli is atrial fibrillation, a condition that causes
+uncoordinated contractions of the atrium leading to stasis of blood and clot formation (typically
+in the left atrial appendage) which can then embolize. Other common cardiac sources include,
+but are not limited to, left ventricular aneurysms, mural thrombi in the ventricles, endocarditis,
+and valvular disease

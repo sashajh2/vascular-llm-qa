@@ -1,0 +1,8 @@
+New England database to develop a new risk model
+that included anatomic features, such as aneurysm
+diameter, neck length, and level of clamp placement,
+that had not been incorporated in prior scoring schemes
+(C statistic, 0.822; Table VI, A and B).308 This model has
+since been validated using the VQI database and has
+been recently endorsed by the VQI for risk stratiﬁcation
+of patients under consideration

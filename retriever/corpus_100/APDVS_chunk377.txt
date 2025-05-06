@@ -1,0 +1,10 @@
+
+
+ Flat-line:
+ A fat waveform (i.e. no wave) does not necessarily indicate no blood fow. A fat wave
+form simply refects the lack of pulsatile blood fow.
+
+Doppler
+Doppler devices (handheld or otherwise) provide similar information to PVR studies. Instead
+of providing a visual representation of pulsatile fow, Doppler signals (sounds) are an auditory
+representation of fow. A triphasic pulse generates a tri

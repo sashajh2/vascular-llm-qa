@@ -1,0 +1,8 @@
+Their application in medical imaging includes plain X-ray films, CT scans, and fuoroscopy.
+Lead is effective in shielding against x-rays due to its density.
+The position of the x-ray emitting source of the the C-arm used for endovascular procedures
+is at the bottom of the arm, beneath the patient and the operating room table. This is the
+location of highest exposure.
+As the X-ray source emits radiation, radiation scatter occurs, moving upward and outward
+from the source.
+

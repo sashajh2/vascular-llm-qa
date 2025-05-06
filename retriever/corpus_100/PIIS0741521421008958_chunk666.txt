@@ -1,0 +1,27 @@
+
+
+#1 and #2
+
+4
+
+TITLE-ABS-KEY ( ( carotid W/2 endarterectom* ) )
+
+5
+
+TITLE-ABS-KEY ( ( carotid W/2 stent* ) )
+
+6
+
+TITLE-ABS-KEY ( "carotid angioplast*" )
+
+7
+
+#4 or #5 or #6
+
+8
+
+#3 and #7
+
+9
+
+TITLE-ABS-KEY ( ( "best medical therap*" OR "

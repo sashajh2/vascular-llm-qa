@@ -1,0 +1,7 @@
+ the positioning of the C-arm, it’s useful to become familiar with some common
+terminology. To improve visualization of the target area, the C-arm can rotate left and right,
+and cranially or caudally. All terminology is relative to the radiation source (under
+the table) and not the intensifier (above the patient). Two frequently encountered
+positions are RAO (right anterior oblique) and LAO (left anterior oblique).
+
+Adverse Outcomes Given Prol

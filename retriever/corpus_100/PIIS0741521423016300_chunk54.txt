@@ -1,0 +1,7 @@
+ brief, the GRADE system was followed.2,3 GRADE is
+structured by the development of clinical questions and selection of critical outcomes, which are subsequently translated in the PICO (Population, Intervention, Comparison,
+Outcome) format. The Writing Committee developed the
+clinical questions to be investigated after consultation
+with the external experts and patient representatives. Critically important outcomes for clinical questions were voted
+upon by the Writing Committee members. Subsequently,
+the PICOs were created and voted on for inclusion

@@ -1,0 +1,5 @@
+20/150 = 0.8 and using
+the PT systolic pressure the ABI = 110/150 = 0.73. So the Left ABI is 0.8, because we choose
+the highest of the two ankle pressures for the final value of the ABI.
+For this above example, R ABI = 1.0 and L ABI = 0.8. So this patient may have some
+peripheral vascular disease present in

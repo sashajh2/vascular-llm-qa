@@ -1,0 +1,13 @@
+ from 03; No cutoff for CLI. Need for revascularization
+depends on degree of ischemia, wound and/or
+infection severity; Ulcers/gangrene categorized
+based on extent and complexity of anticipated
+ablative surgery/coverage
+
+224 Mills et al
+
+JOURNAL OF VASCULAR SURGERY
+January 2014
+
+neuroischemia is now the most common etiology of DFUs
+in most western countries. The estimated

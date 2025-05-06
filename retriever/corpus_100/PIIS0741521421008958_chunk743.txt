@@ -1,0 +1,20 @@
+
+
+2 exp Carotid Artery Diseases/dh, dt, rt, su,
+th [Diet Therapy, Drug Therapy,
+Radiotherapy, Surgery, Therapy]
+
+19840
+
+3 ("arteria carotis" or carotid).ti,ab,hw,kw.
+
+321971
+
+4 1 or 2 or 3
+
+322854
+
+5 exp Coronary Disease/
+6 exp ischemic heart disease/
+
+52

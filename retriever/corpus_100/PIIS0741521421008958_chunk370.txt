@@ -1,0 +1,11 @@
+ 69%, HTN 64%,
+cancer 10%, DM 21%, lung
+disease 5%, current
+smoker 24%, previous
+contralateral CEA 19%, TIA
+or stroke 27%
+(B) CAD 69%, HTN 64%,
+cancer 12%, DM 25%, lung
+disease 6%, current
+smoker 28%, previous
+contr

@@ -1,0 +1,6 @@
+ with 6.71 qualityadjusted life-years for CEA, with signiﬁcantly higher costs
+for CAS.669 Similarly, the Canadian health system database was used to carry out a cost utility analysis among
+symptomatic patients using a Markov analytical model.
+In the base case analysis, CAS was noted to be more
+costly (incremental cost of $6107) and have a lower utility
+(e0.12 quality-adjusted life-years

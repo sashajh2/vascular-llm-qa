@@ -1,0 +1,7 @@
+ In addition, although not recommended for routine surveillance, a recirculation study
+can help in select cases of autogenous access dysfunction to
+confirm inadequate access flow because recirculation results
+when access flow falls below dialysis blood pump demand.
+This study has little value with a prosthetic access because
+prosthetic accesses will usually thrombose at low flows that
+do not support adequate dialysis, whereas autogenous accesses will remain patent at very low flows, thereby permitting inadequate dialysis to proceed

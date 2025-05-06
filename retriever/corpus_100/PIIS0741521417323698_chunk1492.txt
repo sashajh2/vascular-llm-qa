@@ -1,0 +1,4 @@
+ized adj3 study) or (randomized adj3 trial) or (randomised adj3 study)
+or (randomised adj3 trial) or “pragmatic clinical trial” or (doubl* adj blind*) or (doubl* adj mask*)
+or (singl* adj blind*) or (singl* adj mask*) or (tripl* adj blind*) or (tripl* adj mask*) or (trebl* adj blind*)
+or (trebl*

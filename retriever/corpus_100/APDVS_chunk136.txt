@@ -1,0 +1,6 @@
+amping is the
+opposite, ECI. The rational is similar. By unclamping the ECA first, remaining debris
+or debris loosened during removal of the clamps will fow up the ECA rather than the
+ICA. By unclamping the CCA second, and dislodged debris will fow down the open ECA
+rather than the ICA. The ICA is unclamped last. Options A and B are dangerous as they
+do not minimize

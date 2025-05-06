@@ -1,0 +1,6 @@
+, costeffectiveness analysis can reveal the value of different
+treatment options and also allow comparison to other
+treatments in other ﬁelds. Early Markov decision analysis
+models show that EVAR is cost-effective compared with
+open repair, with an incremental cost-effectiveness ratio
+of $22,826.764 However, contemporary Markov models using data from the DREAM,765 EVAR 1,682 OVER,76

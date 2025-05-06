@@ -1,0 +1,5 @@
+.75 mm), with a typically used slice thickness of around
+1 mm, depending on scanner type and manufacturer.
+Routine computed tomography (CT) scans are often performed in 3- to 5-mm cuts, but three-dimensional planning for endovascular intervention is best done with #2mm cuts.60 Given the acquisition method on most modern CTA equipment, images can often be reformatted to
+thinner cuts if the original data set is still available to do so.
+Ide

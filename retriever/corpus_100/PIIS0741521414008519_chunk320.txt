@@ -1,0 +1,11 @@
+ﬁcation system
+Clinical classiﬁcation
+C0 No visible or palpable signs of venous disease
+C1 Telangiectases or reticular veins
+C2 Varicose veins
+C3 Edema
+C4a Pigmentation and/or eczema
+C4b Lipodermatosclerosis and/or atrophie blanche
+C5 Healed venous ulcer
+C6 Active venous ulcer
+CS Symptoms, including ache, pain, tightness, skin

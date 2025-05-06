@@ -1,0 +1,9 @@
+, risk of bias indicators and outcome
+data. Because the studies were nonrandomized, we
+used the Newcastle Ottawa tool5 to assess the risk of
+bias. This tool evaluates three main domains: cohort
+selection, comparability, and outcome assessment. We
+did not calculate a score; rather, we made a global
+judgment about the risk of bias in each study.6
+Statistical analysis and certainty in evidence. We
+calculated the odds ratio (OR) with 

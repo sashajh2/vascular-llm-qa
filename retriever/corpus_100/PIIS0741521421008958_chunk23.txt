@@ -1,0 +1,8 @@
+ disease; RCT, randomized, controlled trial; RF, renal failure.
+
+Three main therapeutic strategies exist for patients with
+carotid artery disease, including medical management,
+carotid endarterectomy (CEA) and carotid artery stenting
+(CAS). Medical management is recommended in all
+cases (with CEA, CAS, or alone) and includes antiplatelet
+medications (aspirin, dipyridamole, ticlopidine, and

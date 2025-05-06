@@ -1,0 +1,21 @@
+ causes claudication
+ABI <0.5: often causes ischemic rest pain/tissue loss
+Below, we will review how to calculate the ABI for the right and left lower extremity using
+the following values:
+Artery
+
+Pressure (mm Hg)
+
+Brachial
+Dorsalis pedis (DP)
+Posterior tibial (PT)
+
+Right
+150
+145
+150
+
+Left
+130
+120
+11

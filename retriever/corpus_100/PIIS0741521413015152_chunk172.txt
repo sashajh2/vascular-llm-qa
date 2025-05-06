@@ -1,0 +1,29 @@
+
+
+Proposed
+clinical stages
+
+Very low
+
+Stage 1
+
+Low
+
+Stage 2
+
+Moderate
+
+Stage 3
+
+High
+
+Stage 4
+
+WIfI spectrum score
+W0 I0 fI0,1
+W0 I1 fI0
+W1 I0 fI0,1
+W1 I1 fI 0
+W0 I0 fI2
+W0 I1 fI1
+W0 I2 fI0,

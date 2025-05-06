@@ -1,0 +1,12 @@
+myocardial infarction"/
+
+864,221
+
+Advanced
+
+16
+
+("brain adj3 bleed*" or (acute adj3 limb* adj3 ischemi*) or (compress* adj3 ruptur*)).mp.
+or (chronic disease/and ischemi*.mp.) [mp¼title, abstract, heading word, drug trade
+name, original title, device manufacturer, drug manufacturer, device trade name,
+keyword, ﬂoating subheading

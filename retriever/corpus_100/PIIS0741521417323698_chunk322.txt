@@ -1,0 +1,7 @@
+ system from 52% to 20% within 15 months.
+These alerts were directed to nursing staff when patients
+checked in for any visit with any provider. Automatic
+screening orders were then entered that clinicians would
+sign when visit-speciﬁc relevant orders were completed.
+Patients who had undergone any type of crosssectional abdominal imaging in the preceding 10 years
+(>54,000) were excluded from the alert system.257

@@ -1,0 +1,26 @@
+ access
+
+Prosthetic access
+
+RR (95% CI)
+
+Absolute (95% CI)
+
+Quality
+
+Importance
+
+2729/16823
+
+7001/31698
+
+0.76 (0.67 to 0.86)
+
+38 fewer per 1000
+(21 to 51)
+
+QŒŒŒ (very low)
+
+Critical
+
+527/9337

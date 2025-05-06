@@ -1,0 +1,9 @@
+ is less reliable.
+The most common methods of measuring access flow can
+be performed in 10 to 15 minutes while the patient is on
+dialysis, after reversing the arterial and venous lines. The
+measurement uses ultrasound dilution (Fick principle) by
+measuring the rate of change in ultrasound transmission in
+the venous line after infusion of a saline bolus through the
+arterial line. The KDOQI Guidelines recommend monthly
+measurement of access flow

@@ -1,0 +1,9 @@
+ in the treatment effect is
+high, and further research would be unlikely to change
+the estimate of effect. In contrast, for grade C recommendations, further research would be very likely to affect the
+estimate of the effect.
+
+The second component of GRADE is to determine the
+strength of a recommendation, which includes an assessment of the relative balance between the potential beneﬁts
+and harm of an intervention, patient values and preferences, and other contextual factors. The implications of a
+grade 1

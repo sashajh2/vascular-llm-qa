@@ -1,0 +1,8 @@
+ of current evidence. The grade of
+recommendation of a guideline can be strong (1) or weak
+(2), depending on the risk and burden of a particular
+diagnostic test or a therapeutic procedure to the patient vs
+the expected benefit. The words “we recommend” are used
+for GRADE 1—strong recommendations—if the benefits
+clearly outweigh risks and burdens, or vice versa; the words
+“we suggest” are used for GRADE 2—weak recommendations

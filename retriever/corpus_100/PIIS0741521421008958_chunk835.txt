@@ -1,0 +1,5 @@
+ observational) W/1 (study or survey or analysis)) OR "case study" OR "case series" OR
+"clinical series" OR "case studies" OR "clinical study" OR
+"clinical trial" OR (("phase 0" or "phase 1" or "phase I" or
+"phase 2" or "phase II" or "phase 3" or "phase III" or "phase
+4" or "phase IV") W/5 (trial

@@ -1,0 +1,6 @@
+ of fuoroscopic exposure. (Rial and Vañó 2021) During endovascular procedures, the operating
+surgeon can control these factors by:
+1. Pulse imaging: Instead of continuously scanning the patient, the surgeon can pulsate
+images (i.e. shoot several plain x-rays). This approach reduces scatter and lowers overall
+exposure. It’s especially effective when high temporal resolution isn’t necessary.
+2. Collimator use: The surgeon can use the

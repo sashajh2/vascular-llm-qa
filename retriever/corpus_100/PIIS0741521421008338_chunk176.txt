@@ -1,0 +1,12 @@
+ word, rare disease supplementary concept
+word, unique identiﬁer, synonyms]
+
+21,743
+
+Advanced
+
+10
+
+("percutaneous coronary" adj3 (interven* or technique* or procedure*)).mp. [mp¼title,
+abstract, original title, name of substance word, subject heading word, ﬂoating subheading word, keyword heading word, protocol supplementary concept word, rare
+disease supplementary concept word, unique identiﬁ

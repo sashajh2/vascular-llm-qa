@@ -1,0 +1,4 @@
+. If the cause was determined to be embolic, long term anticoagulation
+with Vitamin K antagonists (VKA; e.g. warfarin a.k.a. “Coumadin”) or direct xa inhibitors
+(e.g. apixaban a.k.a. “Eliquis,” rivaroxaban a.k.a. “Xarelto”) should be initiated. If the patient
+was already on anticooagulation, the clinician should gain further insight into if

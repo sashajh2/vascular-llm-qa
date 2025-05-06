@@ -1,0 +1,21 @@
+
+PTA þ stent
+Covered stent
+FP vein
+FP prosthetic
+
+2
+2
+1
+5
+5
+
+Patency (PAP), %
+26-68
+51-68
+53-77
+70-75
+40-60
+
+FP, Femoropopliteal; FU, follow-up; PAP, primary patency; PTA, percutaneous transluminal angioplasty.
+

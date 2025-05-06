@@ -1,0 +1,4 @@
+ Symptomatic Carotid Endarterectomy Trial Collaborators. Beneﬁcial effect of carotid endarterectomy in symptomatic patients with high-grade carotid stenosis.
+N Engl J Med 1991;325:445-53.
+27. Toraman S, Tuncer SA, Balgetir F. Is it possible to detect cerebral
+dominance via EEG signals by using deep learning? Med Hypotheses 20

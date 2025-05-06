@@ -1,0 +1,8 @@
+ DM 26.3%,
+smoking 36.8%, CRF 5.3%,
+hypercholesterolemia 57.9%,
+TIA/stroke 15.8%
+(C) HTN 60.7%, DM 42.9%,
+smoking 21.4%, CRF 3.6%,
+hypercholesterolemia 82.7%,
+TIA/stroke 3

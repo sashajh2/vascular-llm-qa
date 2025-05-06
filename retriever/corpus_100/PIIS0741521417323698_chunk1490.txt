@@ -1,0 +1,36 @@
+*
+or tomograph* or treat* or ultrasonograph* or ultrasound* or xray* or “x-ray*”).mp.
+
+5
+
+3 and 4
+
+6
+
+1 or 2 or 5
+
+7
+
+exp meta analysis/
+
+8
+
+exp Meta-Analysis as Topic/
+
+49995
+
+9
+
+exp Randomized Controlled Trial/
+
+863768
+
+10
+
+exp triple blind procedure/
+
+186
+
+11
+
+exp Double-Bl

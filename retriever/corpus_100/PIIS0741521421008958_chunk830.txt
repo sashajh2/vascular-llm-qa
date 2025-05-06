@@ -1,0 +1,4 @@
+/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial" OR
+(random* W/1 allocat*) OR (doubl* W/1 blind*) OR (doubl*
+W/1 mask*) OR (singl* W/1 blind*) OR (singl* W/1 mask*) OR
+(tripl* W/1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/

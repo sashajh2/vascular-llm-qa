@@ -1,0 +1,6 @@
+ values > 50
+mmHg or > 0.5, respectively, should not be used in isolation to predict likelihood of ulcer healing given their uncertainty, but detailed clinical examination and further
+vascular testing is needed, as stated in Recommendation
+6. Regarding amputation risk, the probability of major
+amputation was increased by approximately 45% with
+an ABI < 0.4 based on one study in people who had undergone transmetatarsal amputation. However,

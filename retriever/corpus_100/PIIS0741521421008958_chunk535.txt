@@ -1,0 +1,11 @@
+%, triple
+vessel CAD 100%, left main
+CAD 35.4%
+(B) Previous MI 78%, Unstable
+angina pectoris 72%, triple
+vessel CAD 100%, left main
+CAD 36%
+(C) Previous MI 61.2%, Unstable
+angina pectoris 16.5%, triple
+vessel CAD 99%, left main
+CAD 5.8

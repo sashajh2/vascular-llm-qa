@@ -1,0 +1,5 @@
+, et al. MDCT interpretation of the ascending
+aorta with semiautomated measurement software:
+improved reproducibility compared with manual techniques. J Cardiovasc Comput Tomogr 2014;8:108-14.
+65. Entezari P, Kino A, Honarmand AR, Galizia MS, Yang Y,
+Collins J, et al. Analysis of the thoracic aorta using a semiautomated post processing tool

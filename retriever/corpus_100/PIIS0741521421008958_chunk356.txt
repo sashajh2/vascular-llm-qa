@@ -1,0 +1,26 @@
+years
+
+Male
+sex, %
+
+Mean BMI
+
+Comorbidities
+
+Medical therapy
+
+Question 1: Medical management vs carotid intervention in asymptomatic patients
+ACST, 20045
+(ACST trial)
+
+(A) 1560
+(B) 1560
+
+NR
+
+(A) 65.5
+(B) 65.4
+
+NR
+
+(A) DM 19.6%, CAD 26.8

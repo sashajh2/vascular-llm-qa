@@ -1,0 +1,12 @@
+ the X-ray source emits radiation, radiation scatter occurs, moving upward and outward
+from the source.
+
+216
+
+Terminology
+It is imporant to understanding the terminology related to radiation exposure.
+ The absorbed dose refers to the energy from ionizing radiation per unit mass of exposed
+material, measured in grays (Gy).
+ The equivalent dose represents the mean absorbed dose of a specific organ or tissue,
+measured in sieverts (Sv).
+ The effective dose, also measured

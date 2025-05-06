@@ -1,0 +1,6 @@
+ analysis found that coverage
+of the LSA without revascularization compared with
+coverage with revascularization was associated with
+trends toward increased risk of spinal cord ischemia (OR,
+2.69; 95% CI, 0.75-9.68), anterior circulation stroke (OR,
+2.58; 95% CI, 0.82-8.09), arm ischemia (OR, 47.7;

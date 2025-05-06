@@ -1,0 +1,7 @@
+” in healthy people:
+ Total cholesterol: Levels below 200 mg/dL (5.2 mmol/L)
+ LDL cholesterol: Levels below 130 mg/dL (3.4 mmol/L)
+ HDL cholesterol: Levels above 40 mg/dL (1 mmol/L) in men and above 50 mg/dL
+(1.3 mmol/L) in women
+The American Diabetes Association (ADA) standards of care for diabetes recommend
+that

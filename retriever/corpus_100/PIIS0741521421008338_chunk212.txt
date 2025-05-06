@@ -1,0 +1,4 @@
+ vascular accident*" or cvas or cva or "cerebral stroke*"
+or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼ti, ot, ab, sh, hw

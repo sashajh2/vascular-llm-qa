@@ -1,0 +1,31 @@
+ OR DOCTYPE(sh) OR DOCTYPE(ch)
+
+20
+
+#18 and not #19
+
+21
+
+LANGUAGE(english)
+
+22
+
+#20 and #21
+
+23
+
+PUBYEAR aft 2015
+
+24
+
+#22 and #23
+
+108S.e30
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Question 2: CEA vs CAS

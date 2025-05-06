@@ -1,0 +1,20 @@
+(matching/confounder
+(A) Independent
+to introduce bias -small
+Representativeness
+population (matched for
+adjustment):
+blind assessment*
+Was follow-up number lost- >80% follow-up,
+of the exposed cohort
+important criteria)*
+Ascertainment of
+(A) Study controls
+(B) Record linkage*
+long enough
+or description of those lost*
+(A) Truly representative*
+(C) No description of the
+exposure:
+for age and sex*
+(C) Standard procedure for

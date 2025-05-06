@@ -1,0 +1,23 @@
+%, PAD 20%
+
+House,65 1999
+Australia
+
+Patients with PVD
+
+Patients with previous
+stroke, extracranial
+vascular surgery or
+cerebrovascular
+symptoms
+
+486
+
+70.6
+
+63
+
+PAD 100%, smoking 70%,
+cholesterol: 59%, HTN 58%,
+heart disease: 49%, renal
+disease: 26

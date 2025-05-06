@@ -1,0 +1,3 @@
+ TITLE-ABS-KEY((randomized W/3 study) OR (randomized W/3 trial) OR (randomised W/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial" OR
+(random* W/1 allocat*) OR (doubl* W/1 blind*) OR (doubl*
+W/1 mask*) OR (singl* W/1 blind*) OR (singl* W/1 mask*)

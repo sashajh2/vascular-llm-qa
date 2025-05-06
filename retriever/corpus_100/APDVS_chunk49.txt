@@ -1,0 +1,17 @@
+ulses are described as:
+
+
+
+
+
+
+0 or absent
+1+ or diminished
+2+ or normal
+3+ or prominent or aneurysmal.
+4+ or bounding or aneurysmal.
+
+In patients with weak pulses, the examiner must take care not to confuse the patient’s
+pulse with involuntary muscle twitches or their own pulse.
+When a pulse is not palpated, a Doppler probe is used to assess the blood fow. The
+doppler signal can be triph

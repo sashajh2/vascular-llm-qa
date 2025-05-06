@@ -1,0 +1,22 @@
+ hand-held Doppler, the
+following measurements are obtained:
+Artery
+
+Pressure (mm Hg)
+
+Brachial
+Dorsalis pedis (DP)
+Posterior tibial (PT)
+
+Right
+150
+165
+150
+
+Left
+120
+120
+108
+
+What are the ankle-brachial indices (ABIs) of her lower extremities?
+A. Right ABI 1.1; left ABI 0

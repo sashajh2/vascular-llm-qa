@@ -1,0 +1,25 @@
+ meta analysis or multicenter study or observational study or pragmatic clinical trial or
+randomized controlled trial or systematic reviews or validation studies) [Limit not valid in
+Embase,CCTR,CDSR; records were retained]
+
+299
+
+39
+
+or/36-38
+
+1413
+
+40
+
+remove duplicates from 39
+
+978
+
+41120
+
+8697
+
+Journal of Vascular Surgery
+
+Hasan et al

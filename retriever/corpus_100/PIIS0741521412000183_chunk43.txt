@@ -1,0 +1,9 @@
+ system, there are
+two components to any treatment recommendation: the
+first is a designation of the strength of the recommendation
+(strong: 1; or weak: 2) based on the degree of confidence
+that the recommendation will provide more benefit than
+harm; the second is an evaluation of the level of evidence (A
+to C) based on the confidence that the estimate of effect is
+correct. The strength of a recommendation (1 or 2) reflects
+the balance

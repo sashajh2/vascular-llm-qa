@@ -1,0 +1,7 @@
+2 TITLE-ABS-KEY("carotid duplex" OR "color doppler
+ultraso*" OR "doppler color ultraso*" OR "duplex doppler
+ultraso*" OR "duplex ultraso*")
+3 TITLE-ABS-KEY(screen*)
+4 1 and 2 and 3
+5 TITLE-ABS-KEY((alpaca OR alpacas OR amphibian OR
+amphibians OR animal OR animals OR antelope

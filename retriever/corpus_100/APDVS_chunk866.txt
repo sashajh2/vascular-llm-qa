@@ -1,0 +1,9 @@
+ of interest and narrowing the beam to only scan structures necessary, adjusting
+the frame rate of fuoroscopy images when temporal resolution is not necessary.
+It also includes effective preoperative planning, including properly positioning the patient
+for optimal imaging to reduce repeated attempts, and planning with previous imaging to ensure
+good understanding of the vascular anatomy and to form a procedural plan prior to exposing
+the patient to additional radiation.
+
+The ALARA Principles
+ALARA stands for “As Low As Reasonably Possible,” and

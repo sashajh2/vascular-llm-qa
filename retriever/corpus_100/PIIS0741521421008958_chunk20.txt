@@ -1,0 +1,19 @@
+id No
+Patients with risk
+duplex/Doppler
+screening
+factors for atherosclerosis
+(ie, HTN, smokers,
+hypercholesterolemia,
+PAD, CAD, DM,
+RF)
+
+Prevalence of
+>50% stenosis,
+mortality, stroke
+
+Any (comparative
+Risk factors
+or noncomparative)
+
+Question 5. In patients with combined coronary/carotid disease, what is the optimal sequence for intervention

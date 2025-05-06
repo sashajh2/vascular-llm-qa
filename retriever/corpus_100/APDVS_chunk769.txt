@@ -1,0 +1,14 @@
+ balloon
+inside the stent to achieve a specific diameter based on the pressure used to infate the balloon. As the diameter of the stent increases with higher balloon pressure, the length of stent
+decreases.
+Key characteristics of balloon-expandable stents:
+
+
+Rigid
+Large profile
+Maintains shape over time
+More accurate deployment
+High radial force (higher risk of dissection)
+
+Ď Tip
+Highly tortuous vessels often require a self-expanding stent because of the increased

@@ -1,0 +1,15 @@
+ risk (more detail provided in the
+Implementation Document).
+Recommendation 2.1.: We recommend CEA over TFCAS for low- and standard-risk patients with >50%
+symptomatic carotid artery stenosis (grade IA).
+
+Question 3. What is the optimal timing of carotid intervention in patients presenting with acute stroke?
+Patients
+Patients presenting
+with stroke with
+>50% ipsilateral
+carotid stenosis
+
+Intervention
+
+Comparison

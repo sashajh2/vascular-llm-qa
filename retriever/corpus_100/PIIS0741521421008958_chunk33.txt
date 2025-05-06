@@ -1,0 +1,6 @@
+ different standardized piloted Excel sheets for each question. Disagreements were resolved via consensus.
+We extracted data on patient characteristics (eg number of patients, mean age, gender, mean body mass index, comorbidities, and details of medical therapy) and
+outcomes of interest (stroke, ipsilateral stroke, death,
+myocardial infarction [MI], cerebral hemorrhage, cerebral hyperperfusion, and prevalence of >50% carotid
+stenosis).
+Methodologic

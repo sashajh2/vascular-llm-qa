@@ -1,0 +1,12 @@
+is the most likely skin exam finding during the patient’s hospital course?
+A. Skin necrosis
+B. Burn
+C. No acute findings as the dose were too low
+D. Erythema
+
+212
+
+Answer
+D. Erythema
+Discussion: With a dose of 3.5 Gy, the most likely result will be transient erythema
+between 2 to 24 hours from exposure. This can be found in table 2.

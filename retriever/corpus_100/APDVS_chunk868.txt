@@ -1,0 +1,7 @@
+ of the structures being imaged.
+The duration of exposure: The dose of radiation delivered to the patient and the OR staff
+is directly correlated with the duration of exposure. This is why vascular surgeons try to limit
+the amount of time under fuoroscopy to the minimum required.
+The distance from the source: The intensity of radiation exposure decreases with distance
+from the emitting source in an inverse square relationship. The patient and surgeons at bedside
+and closest to the C-arm, therefore, receive significantly

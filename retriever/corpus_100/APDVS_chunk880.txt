@@ -1,0 +1,6 @@
+, there’s a caveat
+regarding a false sense of security. Due to the scattering of radiation during procedures, the
+eye can be exposed to radiation at oblique angles (i.e. around the glasses), leading to increased
+exposure and limited reduction in dose. (Kirkwood et al. 2020) In such scenarios, the optimal
+solution for reducing eye exposure would be a full visor or face shield with lateral eye
+shielding. A study by Sam

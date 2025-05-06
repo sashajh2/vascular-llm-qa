@@ -1,0 +1,8 @@
+013)), this reduces the absorbed dose
+from 9 mrem to 3 mrem.
+ Weight Consideration: However, it’s essential to recognize that wearing a thicker
+lead apron may increase the risk of back injury due to the added weight. Balancing
+protection and comfort is crucial.
+As always, healthcare providers should adhere to the ALARA principles outlined above
+(i.e. maintaining a maximum reasonable distance from the source, using the collimator, pulse
+imaging,

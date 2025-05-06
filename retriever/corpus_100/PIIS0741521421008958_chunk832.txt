@@ -1,0 +1,6 @@
+ study) OR (intervention* W/2
+trial) OR "cross-sectional study" OR "cross-sectional analysis" OR "cross-sectional survey" OR "cross-sectional
+design" OR "prevalence study" OR "prevalence analysis"
+OR "prevalence survey" OR "disease frequency study"
+OR "disease frequency analysis" OR "disease frequency
+survey" OR crossover OR "cross-over" OR cohort* OR "longitudinal study" OR "

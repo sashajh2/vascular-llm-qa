@@ -1,0 +1,29 @@
+ Number 1
+
+Table I. Revised Venous Clinical Severity Score (VCSS)
+Characteristics
+
+None: 0
+
+Mild: 1
+
+Moderate: 2
+
+Severe: 3
+
+Pain or other
+discomfort (ie,
+aching, heaviness,
+fatigue, soreness,
+burning)
+Presumes venous origin
+
+None: 0
+
+Occasional pain or
+other discomfort
+(ie, not restricting
+regular daily
+activity)
+
+Daily pain

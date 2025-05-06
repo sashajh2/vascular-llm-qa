@@ -1,0 +1,5 @@
+ aged >= 55 years with at least two traditional atherosclerotic risk factors (hyperlipidemia, hypertension, etc.)
+ Patients aged >= 55 years and active cigarette smoking
+ Patients with diabetes, hypertension, or coronary artery disease (CAD)
+ Patients with clinically occult cerebral infarction noted on brain imaging studies.
+The presence of a carotid bruit increases the likelihood of detecting significant stenosis. Asymptomatic patients with an abdominal aortic aneurysm

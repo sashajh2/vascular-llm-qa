@@ -1,0 +1,4 @@
+ or "in vivo study" or "in vivo
+analysis" or "panel study" or "panel survey" or "panel analysis" or "replication study" or "replication analysis " or
+"replication trial" or "feasibility study" or "feasibility analysis" or ((correlation* adj2 study) or (correlation* adj2 analys*)) or
+"case control study" or "case base study" or "case referrent study" or "case

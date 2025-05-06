@@ -1,0 +1,6 @@
+ interpretation: PG, PL, SW, MH Meissner, JA,
+KB, RB, MD, JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO,
+MS, SV, HW
+Data collection: PG, PL, SW, MH Meissner, JA, KB, RB, MD,
+JF, EF, MG, AH, AJ, RK, MH Murad, AO, KO, MS, SV, HW
+Writing the article

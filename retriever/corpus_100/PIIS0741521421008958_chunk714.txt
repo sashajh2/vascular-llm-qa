@@ -1,0 +1,24 @@
+ OR 1* OR
+2* OR 3* OR 4* OR 5* OR 6* OR 7* OR 8* OR 9*)
+
+5
+
+#3 and not #4
+
+6
+
+PUBYEAR aft 2015
+
+7
+
+#5 and #6
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+108S.e33
+
+Volume 75, Number 1S
+
+Question 4: Screening

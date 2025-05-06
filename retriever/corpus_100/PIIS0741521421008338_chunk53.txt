@@ -1,0 +1,6 @@
+. [E-pub ahead of
+print].
+4. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Preferred
+reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. J Clin Epidemiol 2009;62:1006-12.
+5. Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M, et al

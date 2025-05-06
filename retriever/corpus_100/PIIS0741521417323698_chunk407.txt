@@ -1,0 +1,33 @@
+3.2
+
+10
+
+20.75
+
+11
+
+31.05
+
+12
+
+43.63
+
+13
+
+57.10
+
+14
+
+69.59
+
+Proposed risk designation
+Low-risk group
+
+Medium-risk group
+
+High-risk group
+
+Prohibitive high-risk group
+
+From Eslami MH, Rybin D, Doros G, Kalish JA, Farber A; Vascular Study
+Group

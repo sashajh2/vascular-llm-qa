@@ -1,0 +1,10 @@
+ ABI = 0.8. So this patient may have some
+peripheral vascular disease present in his left lower extremity as his ABI is less than 0.9.
+Ď Tip
+Here is a video demonstrating how to obtain and calculate an ABI.
+
+102
+
+Pulse volume recordings (PVR)
+Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type
+of waveform provides important information about the characteristics of blood fow.

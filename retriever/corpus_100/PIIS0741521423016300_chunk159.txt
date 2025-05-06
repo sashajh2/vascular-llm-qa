@@ -1,0 +1,7 @@
+ pressure (TcPO2) measurement or a skin
+perfusion pressure (SPP) to assess likelihood of healing.
+A TcPO2 $ 25 mmHg increases the pre-test probability of
+healing by up to 45% and value < 25 mmHg increases the
+pre-test probability of major amputation by approximately
+20%. An SPP $ 40 mmHg increases the pre-test probability of
+healing by up to

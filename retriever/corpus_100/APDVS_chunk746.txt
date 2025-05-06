@@ -1,0 +1,8 @@
+. Often
+used as the first wire exchanged for the access wire. 0.035” long and 80 cm to 260 cm in
+length.
+High stiffness rail wires:
+ Amplatz (Boston Scientific, Marlborough, MA): stiff, hydrophobic, straight
+foppy or J-tip. 0.035” - 0.038” diameter and 75 cm - 260 cm in length.
+
+18

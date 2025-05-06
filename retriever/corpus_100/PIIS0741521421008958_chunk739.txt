@@ -1,0 +1,8 @@
+ toads OR trout OR
+urchin OR urchins OR vole OR voles OR waxworm OR waxworms OR worm OR worms OR xenopus OR "zebra ﬁsh"
+OR zebraﬁsh) AND NOT (human OR humans or patient
+or patients))
+6 4 and not 5
+7 DOCTYPE(ed) OR DOCTYPE(bk) OR DOCTYPE(er) OR
+DOCTYPE(no) OR DOCTYPE(sh)
+8 6 and not 7

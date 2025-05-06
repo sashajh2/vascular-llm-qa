@@ -1,0 +1,6 @@
+ donkey
+OR donkeys OR drosophila OR "Drosophila melanogaster"
+OR duck OR duckling OR ducklings OR ducks OR equid
+OR equids OR equine OR equines OR feline OR felines
+OR ferret OR ferrets OR ﬁnch OR ﬁnches OR ﬁsh OR ﬂatworm OR ﬂatworms OR fox OR foxes OR frog OR frogs
+OR "fruit ﬂ

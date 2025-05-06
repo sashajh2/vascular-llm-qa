@@ -1,0 +1,5 @@
+ amputat* OR thromb* OR ali OR
+"chronic ischemia" OR stroke OR "cerebrovascular accident" OR "brain vascular accident*" OR cvas OR cva OR
+"cerebral stroke*" OR "cerebrovascular stroke" ) ) OR
+( TITLE-ABS-KEY ( "cerebrovascular apoplexy" OR "heart
+attack*" OR "cardiovascular stroke*" OR "intracranial hemorrhage*" OR "intr

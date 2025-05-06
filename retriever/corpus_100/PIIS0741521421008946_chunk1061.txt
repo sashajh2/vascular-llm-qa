@@ -1,0 +1,5 @@
+ Cholesterol Levels (SPARCL) trial. Stroke 2007;38:3198-204.
+86. Collins R, Armitage J, Parish S, Sleight P, Peto R. Effects of
+cholesterol-lowering with simvastatin on stroke and other major
+vascular events in 20536 people with cerebrovascular disease or
+other high-risk conditions. Lancet 2004;

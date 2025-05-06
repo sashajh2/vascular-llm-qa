@@ -1,0 +1,37 @@
+
+
+Volume 67, Number 1
+
+Table VI, A. Mortality risk scoring scheme for patients
+undergoing repair of an abdominal aortic aneurysm (AAA)
+Parameter
+
+Points
+
+Treatment
+EVAR
+
+0
+
+OAR (infrarenal)
+
+2
+
+OAR (suprarenal)
+
+4
+
+Aneurysm size, mm
+<65
+
+0
+
+$65
+
+2
+
+Age, years
+#75
+
+0
+

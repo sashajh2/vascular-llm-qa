@@ -1,0 +1,34 @@
+Table. Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to treatment
+recommendations
+Recommendation
+
+Benefit vs risk
+
+1A
+
+Clear
+
+1B
+
+Clear
+
+1C
+
+Clear
+
+2A
+
+Balanced or unclear
+
+2B
+
+Balanced or unclear
+
+2C
+
+Balanced or unclear
+
+Quality of evidence
+High: Consistent results from RCTs or
+observational studies with large effects
+Moderate: RCTs with limitations and very

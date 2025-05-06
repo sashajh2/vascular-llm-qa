@@ -1,0 +1,26 @@
+chrane Central Register of Controlled Trials July
+2019, EBM Reviews - Cochrane Database of Systematic
+Reviews 2005 to August 21, 2019.
+
+Search Strategy:
+1
+
+asymptomatic diseases/
+
+10597
+
+2
+
+asymptomatic.ti,ab,hw,kw.
+
+336353
+
+3
+
+1 or 2
+
+336353
+
+4
+
+exp

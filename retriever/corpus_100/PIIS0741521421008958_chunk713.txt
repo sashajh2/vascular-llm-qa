@@ -1,0 +1,17 @@
+ ( carotid OR stroke OR tia OR
+"ischemic attack" OR "brain infarct*" OR "ischaemic
+attack" ) ) )
+
+2
+
+TITLE ( ( early OR earlier OR timing OR urgent* OR
+immediat* ) )
+
+3
+
+#1 and #2
+
+4
+
+INDEX(embase) OR INDEX(medline) OR PMID(0* OR 1* OR
+2* OR 3* OR 4* OR 5*

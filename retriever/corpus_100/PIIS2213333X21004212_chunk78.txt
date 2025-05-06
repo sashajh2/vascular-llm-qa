@@ -1,0 +1,7 @@
+ studies used the same
+outcome measure, we used the original scale and
+expressed results as a weighted mean difference. Rate
+ratios (ie, the ratio of the incidence rate of events within
+a given time between the intervention and the comparison) were calculated for AEs. The DerSimonian and
+Laird random effects method was used to combine effect sizes. We evaluated heterogeneity between studies
+using I2 indicator. Analyses were based on the intentionto-treat principle for

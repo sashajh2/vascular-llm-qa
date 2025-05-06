@@ -1,0 +1,5 @@
+ risk,
+we suggest carotid artery stenting as a potential alternative to carotid endarterectomy (GRADE 2 recommendation, low
+quality evidence). In asymptomatic patients with moderate to severe carotid stenosis (>60%), we recommend carotid
+endarterectomy plus medical management as long as the perioperative risk is low (GRADE 1 recommendation, high
+quality evidence). We recommend against carotid artery stenting for asymptomatic patients with moderate to severe

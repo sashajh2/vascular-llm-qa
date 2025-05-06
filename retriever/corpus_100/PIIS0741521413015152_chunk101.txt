@@ -1,0 +1,17 @@
+0.39
+
+Ankle systolic pressure
+
+TP, TcPO2
+
+>100 mm Hg
+70-100 mm Hg
+50-70 mm Hg
+<50 mm Hg
+
+$60 mm Hg
+40-59 mm Hg
+30-39 mm Hg
+<30 mm Hg
+
+ABI, Ankle-brachial index; PVR, pulse volume recording;

@@ -1,0 +1,8 @@
+ creates an
+objective classiﬁcation of the threatened limb based on
+the degree of ischemia, wound extent, gangrene, and infection. This updated Society for Vascular Surgery (SVS)
+Lower Extremity Threatened Limb Classiﬁcation System
+is intended to deﬁne the disease burden, analogous to
+the tumor, node, metastasis (TNM) system for cancer
+staging. It is not intended or designed to inﬂuence or
+dict

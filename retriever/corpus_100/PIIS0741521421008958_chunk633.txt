@@ -1,0 +1,23 @@
+ cohort*
+Ascertainment
+(matching/confounder
+(A) Independent
+enough for follow-up, or description
+(A) Truly representative* (B) Drawn from general
+of exposure:
+adjustment):
+blind assessment*
+outcomes
+of those lost*
+(B) Somewhat
+population (matched for
+(A) Secure
+A) Study controls
+(B) Record linkage*
+to occur:
+(C) Follow-up rate
+representative*
+important criteria)*
+record*
+for age and sex*
+(C

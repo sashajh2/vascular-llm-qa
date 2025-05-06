@@ -1,0 +1,4 @@
+, 6, 12, and 26 for CAS procedures, and the analysis included 17,575 CAS procedures and 161,448 CEA. For
+CEA patients, the crude risk of stroke or death decreased
+from 4.2% (95% CI, 3.6%-4.9%) in low-volume hospitals
+(ﬁrst quintile 1-10 CEA per year) to 2

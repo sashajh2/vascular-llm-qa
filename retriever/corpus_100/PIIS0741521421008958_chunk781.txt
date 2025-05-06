@@ -1,0 +1,3 @@
+tripl* adj mask*) or (trebl* adj blind*) or (trebl* adj mask*) or "latin square" or
+placebo* or nocebo* or multivariate or "comparative study" or "comparative survey" or "comparative analysis" or
+(intervention* adj2 study) or (intervention* adj2 trial) or "cross-sectional study" or "cross-sectional analysis" or "crosssectional survey" or "

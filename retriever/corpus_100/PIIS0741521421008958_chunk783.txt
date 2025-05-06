@@ -1,0 +1,4 @@
+longitudinal study" or "longitudinal survey" or "longitudinal analysis" or "longitudinal evaluation" or
+longitudinal* or ((retrospective or "ex post facto") adj3 (study or survey or analysis or design)) or retrospectiv* or
+"prospective study" or "prospective survey" or "prospective analysis" or prospectiv* or (population adj3 (stud* or survey*
+or analys* or research

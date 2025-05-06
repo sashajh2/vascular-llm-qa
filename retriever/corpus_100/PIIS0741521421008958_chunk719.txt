@@ -1,0 +1,39 @@
+1
+
+7
+
+5 or 6
+
+50717
+
+8
+
+4 and 7
+
+9
+
+exp Mass Screening/
+
+10
+
+screen*.ti,ab,hw,kw.
+
+2056301
+
+11
+
+9 or 10
+
+2065959
+
+12
+
+8 and 11
+
+13
+
+(exp animals/ or exp nonhuman/) not exp humans/
+
+10729834
+
+1

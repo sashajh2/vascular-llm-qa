@@ -1,0 +1,6 @@
+ safety,
+effectiveness, and cost of vascular procedures. By collecting, analyzing, and sharing data on preprocedure risk factors, intraprocedural variables, postprocedural outcomes,
+and 1-year follow-up data, outcome analysis can be performed. The SVS recommends that a procedure not reported in the VQI or other validated registries should not
+be referred to in terms of establishing minimum numbers
+for privileges but instead be reviewed with the goal being
+to demonstrate competent decision-making.

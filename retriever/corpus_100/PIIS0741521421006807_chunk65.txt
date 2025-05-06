@@ -1,0 +1,17 @@
+;
+moderate
+methodologic quality
+
+Leake et al,38
+2017
+
+PAA repair
+
+Meta-analysis of 14
+studies, including
+4880 PAA repairs
+(OPAR, 3915; EPAR,
+1210)
+
+OPAR had longer LOS (SMD, 2.158; 95%
+CI, 1.225-3.090; P < .

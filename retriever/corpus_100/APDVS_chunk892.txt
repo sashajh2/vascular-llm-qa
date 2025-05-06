@@ -1,0 +1,8 @@
+-dependent and
+result in significant damage, such as cell death in a specific organ. Examples of deterministic
+effects include cataracts, infertility, and non-malignant skin lesions. (Weerakkody et al. 2008a)
+Making sure thresholds are not surpassed is pertinent not only for individuals working in the
+endovascular suite but also for ensuring patient safety.
+
+The table above underscores a crucial consideration: deterministic effects may potentially
+arise in cases with prolonged run times

@@ -1,0 +1,8 @@
+ material
+in the power injector when possible (typically to 50%
+or 70%). Adjustments in injection volume and time
+(faster injection of smaller doses) can usually compensate when additional visibility is required. Level of
+recommendation: Grade 2 (Weak), Quality of Evidence: C (Low)
+Recommendation 25: We suggest the use of on-table
+mapping software options on ﬁxed-imaging X-ray
+systems, such as roadmapping and computed tomography

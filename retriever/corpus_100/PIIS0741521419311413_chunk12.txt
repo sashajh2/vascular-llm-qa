@@ -1,0 +1,9 @@
+) depends on Patient risk, Limb severity, and
+ANatomic complexity (PLAN). The proposed new Global
+Anatomic Staging System (GLASS) replaces previously
+used classiﬁcations; it deﬁnes a preferred target artery
+path (TAP), estimates limb-based patency (LBP), and
+establishes stages of complexity for interventions. GLASS
+is used to determine the likelihood of limb salvage and
+the best route to achieve it.
+Fourth, we learned

@@ -1,0 +1,9 @@
+ was recorded. Guideline developers used the terms “we recommend” to denote strong
+recommendations, whereas for weak recommendations,
+they used the less deﬁnitive wording “we suggest.”
+Following the methodology of previous AVF Guidelines,
+when evidence was lacking or there were no comparable
+alternatives to a recommendation, the recommendation
+was labeled [BEST PRACTICE]. These grades were
+reviewed and approved by the entire writing group and
+served as the basis for grading of the recommendations.

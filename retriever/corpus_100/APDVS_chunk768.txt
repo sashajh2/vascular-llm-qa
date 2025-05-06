@@ -1,0 +1,12 @@
+ can be categorized by the means of deployment.
+Self-expanding stents use a recoil mechanism during deployment to achieve a set diameter
+using stored energy from the packing of the stent.
+Key characteristics of self-expanding stents:
+
+Flexible
+Low profile
+Deformable
+Low radial force (lower dissection risk)
+
+Balloon-expandable stents are packaged around a balloon. The surgeon uses the balloon
+inside the stent to achieve a specific diameter based on the pressure used to infate the

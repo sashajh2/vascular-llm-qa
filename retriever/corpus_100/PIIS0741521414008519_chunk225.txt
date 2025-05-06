@@ -1,0 +1,5 @@
+62,63 Initiating events likely involve altered shear
+stress and mechanical stress forces on the endothelium
+and its glycocalyx (a glycosaminoglycan on the surface
+of endothelial cells); perturbations in nitric oxide production, in vasoactive substance release, and in the expression of monocyte chemoattractant protein 1,
+macrophage inﬂammatory protein 1b, vascular cell adhesion molecule 1 (VCAM

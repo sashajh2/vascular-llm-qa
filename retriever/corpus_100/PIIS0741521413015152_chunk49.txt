@@ -1,0 +1,14 @@
+30 mm Hg,
+TcPO2 <30 mm Hg
+
+No
+
+Comments
+Pure ischemia model PAD classiﬁcation system
+includes milder forms of PAD (categories 1-3);
+Categories 4-6 based on cutoff values for CLI;
+No spectrum of ischemia, does not
+acknowledge potential need for
+revascularization with <CLI cutoff depending
+on wound extent/infection; Not intended for
+patients with diabetes; Wound classes not

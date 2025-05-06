@@ -1,0 +1,6 @@
+ grade stenosis defined as >70-80%. Since
+the modality is based primarily on velocity range, it cannot give exact stenosis such as 66%.
+The modality can also provide adjunct information about the blood fow waveforms in each
+arterial segment, as well as whether that fow is laminar or turbulent with utilization of color
+fow imaging. Limitations of this imaging include technician skill, inability to obtain optimal
+angle of Doppler

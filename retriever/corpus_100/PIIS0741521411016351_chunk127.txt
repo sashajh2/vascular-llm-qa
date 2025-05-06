@@ -1,0 +1,5 @@
+specificity of 91%.86
+The utility of CDUS will depend on the clinical presentation of the patient. In neurologically symptomatic patients, a diagnosis by CDUS of stenosis between 50% and
+69% is sufficient to proceed with surgery based on its
+specificity. However, a negative CDUS result would mandate another imaging study because of the low sensitivity of
+CDUS in this setting. In neurologically asymptomatic patients, a moderate

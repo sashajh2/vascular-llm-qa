@@ -1,0 +1,12 @@
+
+
+("Carotid Artery, External"/ and stents/) or Carotid
+Stenosis/surgery or exp carotid artery
+obstruction/su or "Endarterectomy, Carotid"/ or
+exp Carotid Artery, External/su
+
+28675
+
+2 ((procedure or stent* or surg* or endarterectom*
+or CEA or CAS or revasculari* or intervention*)
+adj3 (carotid or

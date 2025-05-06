@@ -1,0 +1,5 @@
+ exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d^2). (J. H. Kim 2018)
+Ĺ Note
+Suppose a medical student is initially one foot away from a radiation source, and their
+exposure is measured at 500 mGy/min. If they then move ten feet away from the
+source, their exposure would reduce significantly to 5 mGy/min. This example vividly

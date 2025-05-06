@@ -1,0 +1,7 @@
+ of a pulse. The type
+of waveform provides important information about the characteristics of blood fow. These
+waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these
+waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis,
+and determine the effectiveness of treatment interventions.
+Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type
+of waveform provides important information

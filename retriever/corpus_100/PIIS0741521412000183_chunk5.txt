@@ -1,0 +1,4 @@
+ made according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology, incorporating the strength of the
+recommendation (strong: 1; weak: 2) and an evaluation of the level of the evidence (A to C).
+Results: On the basis of the best evidence currently available, we recommend against routine use of the term “proximal
+venous thrombosis” in favor of more precise characterization of thrombi as involving the iliofemoral or fem

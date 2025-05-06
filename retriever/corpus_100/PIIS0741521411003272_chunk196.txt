@@ -1,0 +1,6 @@
+ the clinical impression can be
+added in parentheses after the CEAP recording as follows:
+Full form: C2,4a,5, S Ep As, p Pr2,3,18 (Level 2, Feb 8, 2010)
+Basic form: C5, S EpAs pPr (Level 2; Feb 8, 2010)
+The main purpose of using the CEAP classification in
+patients with CVD is to distinguish primary

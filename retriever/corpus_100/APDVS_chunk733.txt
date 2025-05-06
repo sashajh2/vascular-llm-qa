@@ -1,0 +1,10 @@
+ the train, the wire as the train track, and the sheath as the surrounding
+tunnel.
+
+Wires
+Wires are the first device inserted into a patient, have the lowest profile, and are variable in
+properties. Vascular access wires are made of a metal core and an outer wire wrapped around
+the metal core. They are used to guide devices such as catheters and sheaths into a vessel.
+Characteristics of wires include:
+Diameter
+ Wire diameter is described in thousand

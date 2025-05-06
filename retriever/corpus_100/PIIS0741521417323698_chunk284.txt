@@ -1,0 +1,23 @@
+locus has been associated
+
+RAF
+
+OR (95% CI)
+
+rs7635818
+
+0.42
+
+1.33 (1.10-1.21)
+
+.0028
+
+rs10757278
+
+0.45
+
+1.31 (1.22-1.42)
+
+1.2  1012
+
+Numerous; including CHD,

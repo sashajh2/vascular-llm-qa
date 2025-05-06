@@ -1,0 +1,6 @@
+ detect cerebral
+dominance via EEG signals by using deep learning? Med Hypotheses 2019;131:109315.
+28. Endarterectomy for asymptomatic carotid artery stenosis. Executive
+Committee for the Asymptomatic Carotid Atherosclerosis Study.
+JAMA 1995;273:1421-8.
+29. Guirguis-Blake J, Weber

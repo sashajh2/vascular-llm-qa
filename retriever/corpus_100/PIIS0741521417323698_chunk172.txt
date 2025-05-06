@@ -1,0 +1,20 @@
+8
+
+2
+
+0.18
+
+<0001
+
+1.20
+
+1.17-1.22
+
+2
+
+BMI $25 kg/m
+
+2
+
+BMI, Body mass index; CI, conﬁdence interval; OR, odds ratio.
+The model was developed on 50% of the Life Line Screening cohort and validated on the other 50%. The area under the receiver operating characteristic curve of the model (C statistic)

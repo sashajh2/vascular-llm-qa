@@ -1,0 +1,36 @@
+w,kw.
+
+213263
+
+8
+
+or/4-7
+
+213263
+
+9
+
+3 and 8
+
+16015
+
+10
+
+exp endarterectomy/
+
+34806
+
+11
+
+(carotid adj2 endarterectom*).ti,ab,hw,kw.
+
+31347
+
+12
+
+10 or 11
+
+39920
+
+13
+

@@ -1,0 +1,8 @@
+ radiation.
+
+The ALARA Principles
+ALARA stands for “As Low As Reasonably Possible,” and refers to the balance between
+minimizing radiation exposure to the patient without compromising the quality of care.
+The energy of the X-rays: Higher energy X-rays will have greater penetrance and pass
+through thicker and deeper tissue more easily. Energy is typically adjusted during the procedure to optimize for the depth of the structures being imaged.
+The duration of exposure: The dose of radiation delivered to the patient

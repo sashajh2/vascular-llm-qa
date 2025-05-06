@@ -1,0 +1,16 @@
+ animals/ or exp nonhuman/) not exp humans/)
+
+1546
+
+36
+
+35 not ((case* adj3 report*).ti,ab,hw,kw. or case report/)
+
+1389
+
+37
+
+35 and ((clinical or intervention* or evaluation or validation or cohort or comparative or prospective* or
+retrospective or "cross section*") adj4 (trial* or stud*)).ti,ab,hw,kw.
+
+9

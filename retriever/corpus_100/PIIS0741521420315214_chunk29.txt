@@ -1,0 +1,5 @@
+Practice recommendations were made using the
+Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system.1
+Recommendation 1: In patients considered at low or intermediate risk for a thoracic aortic aneurysm (TAA) based
+on their history and physical examination ﬁndings, we suggest chest X-ray as the ﬁrst radiographic test as it may identify an alternative diagnosis for symptoms and may obviate
+the need for additional aortic imaging.

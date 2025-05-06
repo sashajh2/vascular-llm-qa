@@ -1,0 +1,8 @@
+ 1
+
+Scopus.
+1 TITLE-ABS-KEY(“abdominal aorta aneurysm*” OR
+“abdominal aortic aneurysm*” OR “aortic abdominal aneurysm*”)
+2 TITLE-ABS-KEY(((volume* or PET or spiral or helical
+or 3d or beam or 4d or “whole body”) W/1 (ct or
+cat or cts or scan*)) OR agent*

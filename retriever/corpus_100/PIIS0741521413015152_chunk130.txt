@@ -1,0 +1,9 @@
+, Ankle-brachial index.
+
+produces a grid with 64 theoretically possible clinical
+combinations (WIfI classes). To deﬁne initially the system’s
+potential clinical applicability, a Delphi consensus process
+was carried out by members of the SVS Lower Extremity
+Guidelines Committee and recognized experts in the ﬁeld
+of chronic limb ischemia. This 12-member group was
+instructed to use the classiﬁcation system to

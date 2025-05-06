@@ -1,0 +1,10 @@
+A or CAS or revasculari* or intervention*).ti.
+and exp cerebrovascular accident/
+
+23898
+
+4 (procedure or stent* or surg* or endarterectom* or
+CEA or CAS or revasculari* or intervention*).ti.
+and (cereb* adj (accident or arrest or failure or
+injur* or insufﬁcien* or insult* or attack or
+appolex*)).ti,

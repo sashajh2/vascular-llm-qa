@@ -1,0 +1,3 @@
+ "cross-sectional study" or "cross-sectional analysis" or "crosssectional survey" or "cross-sectional design" or "prevalence study" or "prevalence analysis" or "prevalence survey" or
+"disease frequency study" or "disease frequency analysis" or "disease frequency survey" or crossover or "cross-over" or
+cohort* or "longitudinal study" or "longitudinal survey" or "longitudinal analysis" or

@@ -1,0 +1,7 @@
+ left main stem disease,
+should undergo carotid imaging.525,541,542
+CAS may be an option to reduce stroke risk before
+CABG. Several studies demonstrate a trend toward
+decreased stroke risk in patients treated with CAS before
+CABG.543-545 A review of the Nationwide Inpatient Sample found a 62% higher perioperative stroke risk after
+combined CEA and CABG (3.9

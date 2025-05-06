@@ -1,0 +1,8 @@
+ open
+surgery (high ligation and stripping [HL/S], saphenectomy,
+or conventional surgery), endovenous ablation techniques
+including thermal ablation with endovenous laser therapy
+(EVLT) or radiofrequency ablation (RFA), and nonthermal
+ablations, including cyanoacrylate closure (CAC), mechanochemical ablation (MOCA), ultrasound-guided foam
+sclerotherapy (UGFS), physician compounded foam
+scler

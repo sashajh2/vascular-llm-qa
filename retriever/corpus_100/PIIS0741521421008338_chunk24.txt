@@ -1,0 +1,6 @@
+Statistical analysis and certainty in evidence. We
+calculated the odds ratio (OR) with 95% conﬁdence interval (CI) for primary and secondary outcomes, as well as
+determined an incidence rate ratio for amputations
+across the studies. Thus, the OR of a bad outcome (amputation) in which the intervention reduces the outcome
+would be less than one and for a beneﬁcial intervention
+(patency) would be greater than one. Because

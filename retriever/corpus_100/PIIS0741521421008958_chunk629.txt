@@ -1,0 +1,28 @@
+
+concealment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of participants
+or personnel:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Blinding of outcome
+assessment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High Risk
+(C) Unclear
+
+Reporting
+bias/selective reporting:
+(A) Low risk*
+(B)

@@ -1,0 +1,7 @@
+such as organs not shielded by overlying bone. This includes the torso,
+reproductive organs, and the thyroid gland.
+
+Reported effectiveness of worn lead varies. Some sources claim that a lead apron with a
+thickness of 0.5 mm can reduce radiation scatter by 90%, while others suggest a lesser reduction.
+However, there is a consensus that the apron should be at least 0.25 mm thick both in the
+front and back. (Cheon et

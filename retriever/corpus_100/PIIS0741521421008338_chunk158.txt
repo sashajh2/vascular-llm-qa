@@ -1,0 +1,21 @@
+6
+
+endovascular.mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂoating
+subheading word, candidate term word]
+
+69,835
+
+Advanced
+
+7
+
+exp endovascular procedures/
+
+30,561
+
+Advanced
+
+8
+
+("endovascular procedure*" or "endovascular technique*" or "intravascular procedure*" or

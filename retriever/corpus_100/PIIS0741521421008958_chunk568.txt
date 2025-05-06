@@ -1,0 +1,30 @@
+ risk*
+(B) High risk
+(C) Unclear
+
+Blinding of
+outcome
+assessment:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Incomplete
+outcome data:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Reporting
+bias/selective
+reporting:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+
+Other Sources
+of bias:
+(A) Low risk*
+(B) High risk
+(C) Unclear
+

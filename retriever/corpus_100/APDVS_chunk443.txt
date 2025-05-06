@@ -1,0 +1,7 @@
+ects a moderate disease burden
+ x < 0.4 refects a severe disease burden
+Here is an example of ABI/PVR recordings. Patient A (left) shows a normal ABI/PVR
+recording, while patient B (right) shows an abnormal ABI with diminished waveforms.
+Arterial Doppler ultrasound can also be utilized to evaluate blood fow and detect arterial
+stenosis or occlusion.
+For a definitive CLTI diagnosis, pain should be present for more than

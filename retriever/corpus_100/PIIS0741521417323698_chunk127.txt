@@ -1,0 +1,6 @@
+33 Participants completed a 36-item questionnaire on demographic and medical, social, and family history information as well as self-reported weight and
+height.
+These data were used to generate a multivariable
+model for risk, which conﬁrmed age as the most significant risk factor for development of an AAA, with a
+signiﬁcant increase in risk for the ages of 65 to 69 years
+(odds ratio [OR], 5.4) and 

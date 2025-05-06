@@ -1,0 +1,5 @@
+, Losos M, et al.
+The Newcastle-Ottawa Scale (NOS) for assessing the quality of
+nonrandomised studies in meta-analyses. Oxford; 2000.
+12. Whiting PF, Rutjes AW, Westwood ME, Mallett S, Deeks JJ,
+Reitsma JB, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med 2011

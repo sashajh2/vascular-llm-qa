@@ -1,0 +1,10 @@
+ catheter will pass through a 6F sheath.
+Key points about sheaths:
+ Sheaths are measured based on the inner diameter of the sheath, in contrast to catheters,
+which are measured based on their outer diameter.
+ Sheaths contain a removable introducer, which is used to expand the tract from the
+outside into the vessel, and provide a smooth transition between the wire and the sheath.
+
+191
+
+ The side port on sheaths is used to fush the

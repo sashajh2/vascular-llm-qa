@@ -1,0 +1,18 @@
+ veins
+Fibular or peroneal veins
+Sural veins
+Soleal veins
+Gastrocnemius veins
+Medial
+Lateral
+Intergemellar
+Medial plantar veins
+Lateral plantar veins
+Deep plantar venous arch
+Deep metatarsal veins (plantar/dorsal)
+Deep digital veins (plantar/dorsal)
+Pedal vein
+
+Gluteal perforators
+Superior gluteal
+Midgluteal

@@ -1,0 +1,9 @@
+ are generated, and the detector.
+ The shape of the beam from the source is managed by the collimator.
+ As X-ray beam passes through the patient, they are captured by the detector and an
+image is created by image intensifier.
+In endovascular procedures using a C-arm, the detector portion (i.e. image intensifier) is above
+the patient, while the X-ray source is beneath the patient and table.
+
+Principles for Patient Safety and Radiation Exposure
+While any procedure

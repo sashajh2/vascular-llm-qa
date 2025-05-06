@@ -1,0 +1,7 @@
+ An explainable
+machine learning model for predicting in-hospital amputation
+rate of patients with diabetic foot ulcer. Int Wound J 2022;19:
+910-8.
+147. Ho VT, Gologorsky R, Kibrik P, Chandra V, Prent A, Lee J, et al. Open,
+percutaneous, and hybrid deep venous arterialization technique for
+no-option foot salvage. J Vasc Surg 

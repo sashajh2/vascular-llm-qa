@@ -1,0 +1,21 @@
+ 100%, MD 44%, HTN
+78%, CRF 9%, stroke 12%,
+PAD 19.2%
+
+Moraca et al,78 2012
+USA
+
+Patients with screening
+preoperative carotid
+duplex referred for CABG
+
+NR
+
+559
+
+67
+
+75.7
+
+CAD 100%, DM 36.3%, COPD
+23.1

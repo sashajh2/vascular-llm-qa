@@ -1,0 +1,31 @@
+
+Observational studya
+Seriousb,f
+No serious
+inconsistency
+Access failure without interventions at 12 months
+a
+b
+42
+Observational study
+Serious
+Seriousd
+
+Other considerations
+
+Access failure without interventions at 36 months
+24
+Observational studya
+Seriousb
+
+Seriousd
+
+No serious
+indirectness
+
+No serious
+imprecision
+
+Reporting biasc
+
+Access failure with interventions at 12

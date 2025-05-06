@@ -1,0 +1,36 @@
+ adapted from Mills et al.
+(reference 84)
+Grade
+
+ABI
+
+Ankle SP e mmHg
+
+TP, TcPO2 e mmHg
+
+0
+
+$0.8
+
+>100
+
+$60
+
+1
+
+0.6e0.79
+
+70e100
+
+40e59
+
+2
+
+0.40e0.59
+
+50e69
+
+30e39
+
+3
+

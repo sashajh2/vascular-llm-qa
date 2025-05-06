@@ -1,0 +1,7 @@
+ ﬁrst component is
+to determine the quality of the evidence underlying the
+recommendation (A, high; B, moderate; C, low to very
+low), and the second is to determine the strength of the
+recommendation (1, strong; 2, weak).
+The ﬁrst component of the GRADE system is to determine the quality of the evidence (A-C) as a reﬂection of
+the degree of conﬁdence in the estimated treatment effect.

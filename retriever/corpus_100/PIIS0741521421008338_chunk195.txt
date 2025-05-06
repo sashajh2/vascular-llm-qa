@@ -1,0 +1,24 @@
+mp. [mp¼title,
+abstract, heading word, drug trade name, original title, device manufacturer, drug
+manufacturer, device trade name, keyword, ﬂoating subheading word, candidate
+term word]
+
+71,307
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+216,957
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity

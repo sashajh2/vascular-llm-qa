@@ -1,0 +1,30 @@
+raft (c-TAG)
+
+Medtronic92
+
+Valiant Captivia
+
+Iliac/femoral
+diameter, mm
+
+Aortic outer
+diameter, mm
+
+Proximal landing
+zone, mm
+
+Distal landing
+zone, mm
+
+4-8.7, depending on sheath
+
+16-42a
+
+$20
+
+$20
+
+7.3-8.3, depending on sheath
+
+18-42
+

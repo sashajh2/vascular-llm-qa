@@ -1,0 +1,27 @@
+
+6
+
+17
+
+15 not 16
+
+779
+
+18
+
+remove duplicates from 17
+
+534
+
+108S.e34
+
+Journal of Vascular Surgery
+
+Hasan et al
+
+January Supplement 2022
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" or carotid)
+2 TITLE-ABS-KEY("carotid duplex" OR "color doppler
+ultras

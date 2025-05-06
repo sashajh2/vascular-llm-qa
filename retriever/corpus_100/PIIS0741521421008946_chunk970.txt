@@ -1,0 +1,5 @@
+71
+and $10,133, respectively. Assuming a procedural stroke
+rate of 0.9% for CEA and 5.0% for CAS, and a 30-day mortality rate of 0% for CEA and 1.2% for CAS, CEA was found
+to be associated with a lifetime saving of $7017 per patient and an increase in quality-adjusted life years saved
+of 0.16.

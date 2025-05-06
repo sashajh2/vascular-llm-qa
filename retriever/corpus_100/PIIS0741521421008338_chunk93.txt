@@ -1,0 +1,6 @@
+
+how they are combined is available in the Appendix.
+Question 1: Endovascular approach/Open approach
+Scopus
+( ( ( TITLE-ABS-KEY ( "popliteal arter*" ) ) AND ( TITLEABS-KEY ( aneurysm* ) ) ) OR ( TITLE-ABS-KEY ( "popliteal artery aneurysm*" ) ) ) AND ( ( TITLE-ABS-KEY
+( endovascular OR intravascular OR angioplasty OR

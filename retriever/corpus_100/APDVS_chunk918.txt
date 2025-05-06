@@ -1,0 +1,7 @@
+ Providers:
+ Minimum Thickness: Pregnant individuals should wear a lead apron with a minimum
+thickness of 0.5 mm. This ensures proper coverage of the abdomen, shielding the fetus
+from radiation exposure.
+ Double-Thickness Option: Alternatively, a double-thickness lead apron (1.0 mm) can
+be worn. According to Vu et al. ((Elder and Vu 2013)), this reduces the absorbed dose
+from 9 mrem to 3 mrem

@@ -1,0 +1,20 @@
+. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+156,043
+
+Advanced
+
+3
+
+1 and 2
+
+1806
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer,

@@ -1,0 +1,7 @@
+ radiology and cardiology.
+Similarly, Steppacher et al583 used the State In-Patent
+Databases from New York and Florida to evaluate 4001
+CAS procedures, demonstrating no difference in inpatient stroke or death risk between interventional cardiology, interventional radiology, and vascular surgery.
+Additionally, Sgroi et al588 evaluated 20,663 CAS patients
+from the National Impatient Sample database, where
+operators were

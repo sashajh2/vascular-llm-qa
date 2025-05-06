@@ -1,0 +1,9 @@
+ASC classification system: Image 1 & Image 2.
+ TASC A lesions are those that should have excellent results from endovascular management alone.
+ TASC B lesions are those that should have good results from endovascular management
+and endovascular interventions should be the first option offered to the patient.
+
+122
+
+ TASC C lesions are those that have better long-term results with open surgical management. Endovascular techniques should be reserved for patients who are poor surgical
+candidates.

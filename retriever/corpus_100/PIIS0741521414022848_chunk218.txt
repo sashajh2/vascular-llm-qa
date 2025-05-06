@@ -1,0 +1,8 @@
+reactions, and access-site events.
+Modern, multislice spiral CT scans are noninvasive and
+provide image resolution of nearly the same quality as conventional arteriography. Moreover, the imaging data set
+can be reconﬁgured into different formats, including axial,
+coronal, sagittal, and three-dimensional images. However,
+CTA requires a large dose of intravenous contrast and is
+subject to artifact degradation due to calciﬁcation.
+MRA has poorer resolution than angiography

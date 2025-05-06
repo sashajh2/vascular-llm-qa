@@ -1,0 +1,5 @@
+ per patient and an increase in quality-adjusted life years saved
+of 0.16.668 In another report, a cost utility analysis using a
+Markov model was carried out using a Korean database
+which included 346 CAS and 331 CEA procedures performed for symptomatic disease. CAS produced 6.49
+quality-adjusted life-years compared with 6.71 qualityadjusted life-years for CEA, with signiﬁcantly

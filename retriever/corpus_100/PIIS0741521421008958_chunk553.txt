@@ -1,0 +1,10 @@
+%, HTN 81.3%,
+DM 37.5%,
+hypercholesterolemia 71.9%,
+COPD 6.3%, CRF 0%,
+previous stroke 12.5%,
+previous angina 75%,
+previous PCI 18.8%
+(C) Smoking 61.1%, HTN 72.1%,
+DM 37.5%,
+hypercholester

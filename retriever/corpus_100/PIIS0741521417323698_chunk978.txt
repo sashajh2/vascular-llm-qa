@@ -1,0 +1,6 @@
+ueroa CA, Baek S, Taylor CA, Humphrey JD. A computational
+framework for ﬂuid-solid-growth modeling in cardiovascular
+simulations. Comput Methods Appl Mech Eng 2009;198:
+3583-602.
+228. Stenbaek J, Kalin B, Swedenborg J. Growth of thrombus
+may be a better predictor of rupture than diameter in patients with abdominal aortic aneurys

@@ -1,0 +1,7 @@
+
+mrem/year (50 Sv). [“Radiation In Perspective” (n.d.)](“Information for Radiation Workers,” n.d.)
+Some agencies further specify this limit to 1,250 mrem/quarter (12.5 Sv). (“Radiation
+Emergency Preparedness and Response - Response | Occupational Safety and Health Administration,” n.d.)
+
+Deterministic versus stochastic radiation eects
+Before delving into the various risks associated with radiation exposure, it

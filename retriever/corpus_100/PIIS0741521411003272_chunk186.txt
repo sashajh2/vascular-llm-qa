@@ -1,0 +1,7 @@
+ital (Ec), primary (Ep), or secondary (Es).
+The anatomic classification separates superficial venous
+disease (As) from involvement of the perforators (Ap) or
+deep veins (Ad). Failure to identify an anatomic location is
+also coded (An).
+Pathophysiology of the disease can be reflux (Pr), obstruction (Po), or both. Failure to identify venous pathophysiology is also noted (Pn). Table II includes the full
+CEAP classification

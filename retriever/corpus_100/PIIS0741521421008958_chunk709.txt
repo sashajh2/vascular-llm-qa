@@ -1,0 +1,18 @@
+") [Limit not valid in CDSR; records were
+retained]
+
+1811
+
+9 8 not ((exp animals/ or exp nonhuman/) not exp
+humans/)
+
+1796
+
+10 9 not ((case* adj3 report*).ti,ab,hw,kw. or case
+report/)
+
+1715
+
+11 9 and ((clinical or intervention* or evaluation or
+validation or cohort or comparative or
+pro

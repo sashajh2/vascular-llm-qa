@@ -1,0 +1,10 @@
+0.9, TBI
+>0.6, TcPO2 >60 mm Hg;
+Grade 2: PAD symptoms, ABI <0.9, AP
+>50 mm Hg, TP >30 mm Hg, TcPO2 3060 mm Hg;
+Grade 3: AP <50 mm Hg, TP <30 mm Hg,
+TcPO2 <30 mm Hg
+
+No
+
+Comments

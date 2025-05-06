@@ -1,0 +1,19 @@
+ stroke:
+5.9%
+
+(A) 48
+(B) 50
+(C) 103
+
+(A) 59.3
+(B) NR
+(C) NR
+
+(A) 75.1
+(B) NR
+(C) NR
+
+(A) Previous MI 64.6%, Unstable
+angina pectoris 66.7%, triple
+vessel CAD 100%, left main
+CAD 35.4

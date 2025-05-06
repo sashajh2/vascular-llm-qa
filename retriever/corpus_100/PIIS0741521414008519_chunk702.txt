@@ -1,0 +1,7 @@
+include resting interface pressure at a standard point and
+stiffness (change in this pressure during standing and
+walking), need to be factored into compression effectiveness. These objective measures should replace such current
+classiﬁcations as “elastic” and “inelastic” bandages, especially for multibandage systems. The real behavior of a
+bandage and bandage system is not the elastic property
+tested in the laboratory but its clinical behavior on the leg.
+Even a single bandage

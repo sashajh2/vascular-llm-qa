@@ -1,0 +1,8 @@
+ open surgical
+approach for abdominal aortic aneurysm repair.
+ Delineate appropriate surveillance intervals for imaging an abdominal aortic
+aneurysm, both before and after intervention.
+Key Facts
+1. Abdominal aortic aneurysms occur in 2-8% of the population in Western countries,
+with a slightly higher prevalence among males relative to females.
+2. The average size of an abdominal aorta is approximately 2cm; hence, an aneurys

@@ -1,0 +1,5 @@
+ of intervention for patients with combined carotid and coronary artery disease.
+A separate implementation document will address other important clinical issues in extracranial cerebrovascular
+disease. Recommendations are made using the GRADE (grades of recommendation assessment, development, and
+evaluation) approach, as was used for other Society for Vascular Surgery guidelines. The committee recommends CEA
+as the ﬁrst-line treatment for symptomatic low-risk surgical patients with stenosis of 50% to 

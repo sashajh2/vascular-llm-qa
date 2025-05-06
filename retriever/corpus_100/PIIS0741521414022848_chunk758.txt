@@ -1,0 +1,53 @@
+ relationships
+
+First name
+
+Last name
+
+Afﬁliation
+
+Michael
+
+Conte
+(Chair)
+
+University of California,
+San Francisco
+
+MD
+
+Yes
+
+No
+
+Frank
+
+Pomposelli
+St. Elizabeth’s Medical
+(Co-chair)
+Center
+
+MD
+
+No
+
+Daniel
+
+Clair
+
+Cleveland Clinic
+Foundation
+
+MD
+
+Yes
+
+Member of the No
+Board of
+Directors of
+TRACO LLC,
+a malpractice
+insurance
+company.
+Yes
+No

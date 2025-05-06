@@ -1,0 +1,4 @@
+% for ECEA vs 1.1% for standard CEA.
+Schneider et al295 compared results with ECEA (2365) vs
+CCEA (17,155) using data from the VQI and the MidAmerica Vascular Study Group. compared with eversion,
+CCEA was more often performed with general anesthesia (92% vs 80%; P < .001) and with a shunt

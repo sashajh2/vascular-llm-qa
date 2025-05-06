@@ -1,0 +1,6 @@
+ux in patients with CVD.
+Implementation remarks for guideline 1.1
+1.1.a. Reﬂux is deﬁned as a minimum value >500 ms
+of reversed ﬂow in the superﬁcial truncal veins (GSV,
+SSV, anterior accessory GSV [AAGSV], posterior accessory GSV [PAGSV]) and the tibial, deep femoral, and
+perforating veins. A minimum value >1 second

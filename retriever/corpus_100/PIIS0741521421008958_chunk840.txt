@@ -1,0 +1,7 @@
+ analysis" OR "Cox regression" OR "Cox survival analyses" OR "Cox survival analysis" OR "Cox survival
+model" OR "change analysis" OR ((study OR trial OR
+random* OR control*) AND compar*))
+5 1 and 2 and 3 and 4
+6 TITLE-ABS-KEY((alpaca OR alpacas OR amphibian OR
+amphibians OR animal OR animals OR antelope OR
+armadillo OR

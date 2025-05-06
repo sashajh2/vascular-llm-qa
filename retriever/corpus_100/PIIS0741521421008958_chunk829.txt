@@ -1,0 +1,4 @@
+mary-coronary artery anastomos*")
+4 TITLE-ABS-KEY((meta W/1 analys*) OR metaanalys* OR
+(systematic* W/3 review*) OR (control* W/3 study) OR
+(control* W/3 trial) OR (randomized W/3 study) OR (randomized W/3 trial) OR (randomised W/3 study) OR (randomised W/3 trial) OR "pragmatic clinical trial

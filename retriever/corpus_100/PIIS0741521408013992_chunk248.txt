@@ -1,0 +1,11 @@
+ ligation as indicated.112
+Most nonfunctional autogenous accesses should therefore
+be investigated and the underlying defects corrected, with
+reasonable expectation of long term functionality. The
+underlying defects are usually one or more of the following:
+1. Access too deep. An access can be nonfunctional because it is placed too deep in an extremity such that punc-
+
+Sidawy et al 17S
+
+ture is difficult, inconsistent, or traumatic to the patient and
+the conduit

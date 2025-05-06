@@ -1,0 +1,34 @@
+5
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+CEA and CABG
+combined
+vs CABG ﬁrst
+
+Total
+16
+
+RR (95% CI)
+NA
+
+23
+
+9
+
+32
+
+4.33 (0.01-2681.88)
+
+Chiappini et al,95
+2005
+
+140
+
+40
+
+180
+
+0.5

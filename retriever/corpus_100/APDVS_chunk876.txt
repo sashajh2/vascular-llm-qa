@@ -1,0 +1,8 @@
+ readings recorded at the beginning
+and end of each shift. A radiation oﬀcer is typically tasked with tracking these exposure
+levels.
+Ĺ Note
+Please find more information about radiation badges here:
+When an individual’s exposure approaches a certain threshold, which is typically set below
+the maximum allowable dose for a year, measures are taken to further minimize their exposure. For instance, if an employee has reached a significant exposure level two months into the
+year, the radiation compliance oﬀcer would discuss strategies

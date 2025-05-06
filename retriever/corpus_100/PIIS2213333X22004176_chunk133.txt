@@ -1,0 +1,10 @@
+ lower extremities
+includes transverse grayscale images without and with
+transducer compression of the common femoral vein,
+proximal, mid, and distal femoral veins, popliteal veins,
+the SFJ, and the GSV and SSV.
+Level of recommendation: ungraded good practice
+statement
+1.3.2. We recommend that a complete DU scanning
+examination for venous reﬂux in the lower extremities
+includes measurement of the spectral Doppler waveform using

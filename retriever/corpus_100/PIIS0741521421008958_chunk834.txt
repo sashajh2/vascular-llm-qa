@@ -1,0 +1,5 @@
+ OR "prospective survey" OR
+"prospective analysis" OR prospectiv* OR (population W/
+3 (stud* or survey* or analys* or research)) OR "concurrent
+study" OR "concurrent survey" OR "concurrent analysis"
+OR (("follow-up" or followup) W/1 (stud* or survey or analysis)) OR ((observation or observational) W/1 (study or survey or analysis)) OR "case study" OR "case

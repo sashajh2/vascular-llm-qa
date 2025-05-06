@@ -1,0 +1,6 @@
+ OR (singl* W/1 blind*) OR (singl* W/1 mask*) OR
+(tripl* W/1 blind*) OR (tripl* W/1 mask*) OR (trebl* W/1
+blind*) OR (trebl* W/1 mask*) OR "latin square" OR placebo* OR nocebo*)
+4 PUBYEAR AFT 2010
+5 1 and 2 and 3 and 4
+6 TITLE

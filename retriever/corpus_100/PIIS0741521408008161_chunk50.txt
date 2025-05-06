@@ -1,0 +1,40 @@
+483
+
+Table. Summary of evidence (carotid endarterectomy vs stenting)
+Quality assessment
+No of studies
+
+Design
+
+Limitations
+
+Consistency
+
+Directness
+
+Death at 30 days
+5
+
+RCTs
+
+Seriousa
+
+No important
+inconsistency
+
+No uncertainty
+about directness
+
+None
+
+QQQO
+Moderate
+
+Any stroke at 30 days
+5
+RCTs
+
+Seriousa
+
+No important
+inconsistency

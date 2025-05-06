@@ -1,0 +1,14 @@
+
+C6 Active venous ulcer
+CS Symptoms, including ache, pain, tightness, skin irritation,
+heaviness, muscle cramps, as well as other
+complaints attributable to venous dysfunction
+CA Asymptomatic
+Etiologic classiﬁcation
+Ec Congenital
+Ep Primary
+Es Secondary (post-thrombotic)
+En No venous etiology identiﬁed
+Anatomic classiﬁcation
+As Superﬁcial veins
+Ap

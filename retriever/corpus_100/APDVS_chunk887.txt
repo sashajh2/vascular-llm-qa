@@ -1,0 +1,8 @@
+source, their exposure would reduce significantly to 5 mGy/min. This example vividly
+demonstrates why distance from the source plays a pivotal role in minimizing radiation
+exposure.
+
+If you are not scrubbed, the ideal place to stand is as far away from the x-ray source
+while making sure you can still see the images and interact with the surgical team.
+When discussing the positioning of the C-arm, it’s useful to become familiar with some common
+terminology.

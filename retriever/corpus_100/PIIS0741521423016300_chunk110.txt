@@ -1,0 +1,6 @@
+ ratio [PLR] 1.84 e 2.46).44,45 The PLR gives the
+change in odds of experiencing an outcome if the test is
+positive, whereas the negative likelihood ratio (NLR) expresses a change in odds of experiencing an outcome if
+the test is negative. A PLR or NLR of 1.0 means that the
+test does not change the probability of the outcome over
+and above the pre-test probability and

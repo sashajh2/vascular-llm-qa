@@ -1,0 +1,6 @@
+.
+ Triphasic Waveform:
+ A triphasic waveform consists of three phases: forward fow during systole, a brief reverse
+fow during early diastole, and a second forward fow component during late diastole.
+ Clinical Significance: Triphasic waveforms are typically found in healthy, unobstructed
+arteries. They represent normal arterial blood fow. These waveforms are seen in arteries serving well-perfused tissues where resistance is low, and blood

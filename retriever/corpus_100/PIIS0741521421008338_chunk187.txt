@@ -1,0 +1,32 @@
+6,208
+
+Advanced
+
+24
+
+22 not 23
+
+615
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient
+education handout or personal narratives or portraits or video-audio media or
+webcasts)
+
+1
+
+Advanced
+
+26
+
+24 not 25
+
+614
+
+Advanced
+
+Journal of V

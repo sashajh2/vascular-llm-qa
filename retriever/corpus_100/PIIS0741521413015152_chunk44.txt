@@ -1,0 +1,3 @@
+, ankle pressure; CLI, critical limb ischemia; DFUs, diabetic foot ulcers; IDSA, Infectious Disease Society of America; PAD,
+peripheral artery disease; PEDIS, perfusion, extent/size, depth/tissue loss, infection, sensation; PVR, pulse volume recording; SAD, sepsis, arteriopathy,
+denervation; SVS, Society for Vascular Surgery; TcPO2, transcutaneous oxygen pressure; TP, toe pressure

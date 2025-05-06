@@ -1,0 +1,39 @@
+perimalleolar area
+
+Moderate: 2
+Diffuse over lower
+one-third of calf
+
+Severe: 3
+Wider distribution
+above lower onethird of calf
+
+Active ulcer number
+
+0
+
+1
+
+2
+
+$3
+
+Active ulcer duration
+(longest active)
+
+N/A
+
+<3 Months
+
+>3 Months but
+<1 year
+
+Not healed for
+>1 year
+
+Active ulcer size (largest
+active)
+
+N/A
+
+Diameter <

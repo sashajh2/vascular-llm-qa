@@ -1,0 +1,5 @@
+; the stages should
+correlate with amputation risk (natural history of limb with that given clinical stage in the absence of revascularization). Using the same
+patient examples as above:
+Example 1: A patient with ischemic rest pain, an ABI of 0.30, no wound, and no signs of infection would be classiﬁed as: Wound
+0 Ischemia 3 foot Infection 0 or WIfI 030. The

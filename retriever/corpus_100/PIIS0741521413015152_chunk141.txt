@@ -1,0 +1,28 @@
+ by expert consensus
+a, Estimate risk of amputation at 1 year for each combination
+
+W-0
+W-1
+W-2
+W-3
+
+Ischemia – 0
+VL VL L
+VL VL L
+L
+L
+M
+M M H
+fI- fI- fI0
+1
+2
+
+M
+M
+H
+H
+fI3
+
+Ischemia – 1
+VL L M
+VL L M

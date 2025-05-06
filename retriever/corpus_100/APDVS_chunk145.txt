@@ -1,0 +1,5 @@
+ used to evaluate carotid artery stenosis with the lowest
+cost option being color fow duplex ultrasound (DSA) that allows a physician to determine
+peak systolic and end diastolic velocities throughout the carotid bifurcation. Based on the
+internally validated vascular laboratory criteria of the institution, these velocities can be correlated to ranges of degree of stenosis, with high grade stenosis defined as >70-80%. Since
+the modality is based

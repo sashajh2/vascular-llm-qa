@@ -1,0 +1,14 @@
+sterolemia 35%,
+brain infarction history 40%,
+unstable angina 50%
+(C) HTN 69% DM 26%,
+hypercholesterolemia 64%,
+brain infarction history 31%,
+unstable angina 56%
+
+Ziada et al,112 2005
+USA
+
+Patients who require
+NR
+coronary and carotid

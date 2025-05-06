@@ -1,0 +1,25 @@
+ hw, kw, tx, ct]
+
+490
+
+Advanced
+
+2
+
+exp ANEURYSM/or aneurysm*.mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+3790
+
+Advanced
+
+3
+
+1 and 2
+
+29
+
+Advanced
+
+4
+
+"popliteal artery aneurysm*".mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct

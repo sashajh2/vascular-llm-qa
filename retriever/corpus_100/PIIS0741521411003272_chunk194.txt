@@ -1,0 +1,8 @@
+ CEAP classification, only the highest score is used to denote the clinical
+class and only the main anatomic groups (s, p, and d) are
+noted.
+The revised format of the classification77 includes two
+elements in addition to the C-E-A-P findings: the date of
+the examination and the level of the diagnostic evaluation:
+Level 1: History, physical examination, Doppler examination (handheld)
+Level 2: Noninvasive— duplex scan, ple

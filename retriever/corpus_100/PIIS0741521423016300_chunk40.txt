@@ -1,0 +1,9 @@
+.
+Best Practice Statement
+
+23. In a person with diabetes and peripheral artery disease the following
+target levels should be:
+HbA1c < 8% (< 64 mmol/mol), but higher target HbA1c value may be
+necessary depending on the risk of severe hypoglycaemia.
+Blood pressure < 140/ 90 mmHg but higher target levels may be
+necessary depending on the risk of orthostatic hypotension

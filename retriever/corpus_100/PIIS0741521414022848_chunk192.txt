@@ -1,0 +1,23 @@
+ine
+Cilostazol
+Statins
+
+Treatment
+duration, months
+
+Outcome measures (functional, hemodynamic, QoL)
+
+FU duration,
+months
+
+3-15
+1-4
+1-15
+6
+6
+
+Maximal walking time, pain-free walking distance
+Maximal walking time, pain-free walking distance
+Maximal walking time, pain-free walking distance
+Pain-free walking distance, maximal walking distance
+Maximal walking distance, QoL

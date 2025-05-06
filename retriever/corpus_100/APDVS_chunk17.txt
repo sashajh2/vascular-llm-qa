@@ -1,0 +1,5 @@
+ demonstrates an association between female sex or gender and poorer outcomes in individuals with Abdominal
+Aortic Aneurysm (AAA) and Peripheral Artery Disease (PAD). (Lee et al. 2022) It has been
+demonstrated that women have higher risk of AAA rupture, prolonged lengths of stay, and
+decreased survival following both elective and emergent AAA repair. (Dillavou, Muluk, and
+Makaroun 

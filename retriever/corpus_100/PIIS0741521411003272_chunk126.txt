@@ -1,0 +1,28 @@
+tiologic
+classification
+Ec
+Ep
+Es
+En
+3. Anatomic
+classification
+As
+Ap
+Ad
+An
+4. Pathophysiologic
+classification
+Pr
+Po
+Pr,o
+Pn
+
+Description
+
+No visible or palpable signs of venous
+disease
+Telangiectases or reticular veins
+Varicose veins
+Edema
+Pigmentation and/or eczema
+Lipodermatosclerosis and/or atrophie

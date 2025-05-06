@@ -1,0 +1,7 @@
+ OR ((correlation* W/2 study) OR (correlation* W/2 analys*)) OR "case control study" OR "case
+
+base study" OR "case referrent study" OR "case referent
+study" OR "case referent study" OR "case compeer study"
+OR "case comparison study" OR "matched case control"
+OR "multicenter study" OR "multi-center study" OR
+"odds ratio" OR "conﬁdence

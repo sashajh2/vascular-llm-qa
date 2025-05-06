@@ -1,0 +1,6 @@
+, venous disability
+score, Venous Clinical Severity Score, pulmonary embolism,
+pain scale, DVT, propagation of thrombus, recurrent ulceration, thrombophlebitis, other minor AEs such as (vein
+tear, development of thread vein, telangiectatic matting,
+lipodermatosclerosis, keloid, phlebitis-like reaction, persistent compression, nausea, headache, and migraine), and
+other total AEs when HL/S

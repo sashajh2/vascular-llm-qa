@@ -1,0 +1,31 @@
+.
+
+43743
+
+28
+
+Antihypertensive Agents/
+
+129542
+
+29
+
+("blood pressure" adj3 lowering).ti,ab,hw,kw.
+
+19043
+
+30
+
+Hypolipidemic Agents/
+
+31
+
+or/23-30
+
+819988
+
+32
+
+12 or 18 or 22 or 31
+
+9222

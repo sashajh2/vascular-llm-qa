@@ -1,0 +1,18 @@
+19
+(C) 21
+
+69
+
+(A) 58
+(C) 57
+
+(A) HTN 42%, DM 5%,
+cardiac disease 37%,
+claudication 16%,
+previous stroke 15.7%
+(C) HTN 33%, DM 5%,
+cardiac disease 19%,
+claudication 5%,
+previous stroke 4.7%
+
+Author, year

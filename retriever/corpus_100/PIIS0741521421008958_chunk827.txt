@@ -1,0 +1,6 @@
+ bypass*" OR "aortocoronary
+shunt" OR "aortocoronary vein bypass graft*" OR "aortocoronary vein bypass*" OR "aortocoronary venous bypass
+graft*" OR "aortocoronary venous bypass*" OR CABG OR
+"coronary artery bypass grafting" OR "coronary artery
+bypass*" OR "coronary artery graft*" OR "coronary bypass
+graft

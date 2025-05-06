@@ -1,0 +1,10 @@
+LU, including area, perimeter, and
+depth, with additional descriptors of wound edge parameters, wound base quality, drainage, and infection.
+
+Adjuncts for standardization of ulcer documentation,
+including wound planimetry, digital photography, and
+digital planimetry software, are recommended.102-113
+
+Guideline 3.4: Wound Culture
+We suggest against routine culture of venous leg ulcers and only to obtain wound culture specimens when
+clinical evidence of

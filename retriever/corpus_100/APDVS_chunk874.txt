@@ -1,0 +1,8 @@
+ least 0.25 mm thick both in the
+front and back. (Cheon et al. 2018)
+Additional shielding such as lead screens can be found in the OR to provide further protection
+against scattered X-rays.
+
+Radiation Badges
+Radiation badges or “dosimeters” are personal wearable devices designed to measure the
+amount of radiation exposure an individual receives. They measure the total exposure accumulated over a set period of time. It’s important to note that these

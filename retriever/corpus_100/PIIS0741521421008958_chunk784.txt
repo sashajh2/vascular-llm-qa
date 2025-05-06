@@ -1,0 +1,4 @@
+ or prospectiv* or (population adj3 (stud* or survey*
+or analys* or research)) or "concurrent study" or "concurrent survey" or "concurrent analysis" or (("follow-up" or
+followup) adj (stud* or survey or analysis)) or ((observation or observational) adj (study or survey or analysis)) or "case
+study" or "case series" or "clinical series" or "case studies" or "clinical study" or "

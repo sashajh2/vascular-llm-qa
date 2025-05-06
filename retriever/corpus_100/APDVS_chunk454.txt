@@ -1,0 +1,6 @@
+�cation
+ The Global Limb Anatomic Staging System (GLASS) is a framework to estimate the
+success of lower limb revascularization based on the extent and the distribution of the
+atherosclerotic lesion. By categorizing the patient’s lesion into one of three GLASS
+stages, the surgeon can predict the likelihood of immediate technical failure and oneyear limb-based patency (LBP) following endovascular intervention. This information is
+extremely informative when planning

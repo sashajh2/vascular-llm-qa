@@ -1,0 +1,21 @@
+23
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+16,218
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral stroke*"
+or "c

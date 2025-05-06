@@ -1,0 +1,9 @@
+routine shunting is used.
+Shunting: routine versus selective
+Based on the current literature, the use of shunting during CEA has not evolved. For many years, use of arterial
+shunts was considered in three broad categories: Always,
+never, or selective use with multiple alternatives available
+to provide temporary ﬂow during periods of carotid
+clamping. These were mainly based on the preference
+and training of the operating surgeon. AbuRahma
+et al2

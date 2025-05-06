@@ -1,0 +1,6 @@
+ 93%, specificity of 68%, and overall accuracy of
+85% for stenosis between 50% and 69%. A PSV of ⱖ230
+cm/s for ⱖ70% stenosis had a sensitivity of 99%, specificity
+of 86%, and overall accuracy of 95%. Receiver operator
+curves showed that the ICA PSV was significantly better
+than EDV or ICA

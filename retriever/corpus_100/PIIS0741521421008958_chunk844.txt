@@ -1,0 +1,6 @@
+ fox OR foxes OR
+frog OR frogs OR "fruit ﬂies" OR "fruit ﬂy" OR "G mellonella" OR "Galleria mellonella" OR geese OR gerbil OR
+gerbils OR goat OR goats OR goose OR gorilla OR gorillas
+OR hamster OR hamsters OR hare OR hares OR heifer
+OR heifers OR horse OR horses OR insect OR insects
+OR jellyﬁsh OR kangaroo OR

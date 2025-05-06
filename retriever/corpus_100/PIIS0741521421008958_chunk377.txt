@@ -1,0 +1,29 @@
+
+patients (A)
+CEA (B) CAS
+
+Mean
+age, years
+
+Male sex, %
+
+Mean BMI
+
+Comorbidities (CEA)
+
+Comorbidities (CAS)
+
+Brooks et al,20 2001
+USA
+
+(A) 51
+(B) 53
+
+(A) 69.6
+(B) 66.4
+
+NR
+
+NR
+
+HTN 94.1%, DM 23.

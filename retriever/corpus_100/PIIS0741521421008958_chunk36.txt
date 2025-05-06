@@ -1,0 +1,6 @@
+
+interval (CI) overlapped both, beneﬁts and harms.10
+Statistical analysis. For comparative studies, we calculated the relative risk (RR) from each study and estimated the 95% CI and pooled across studies using the
+DerSimonian and Laird random effects model. For noncomparative studies, an overall event rate was calculated
+and transformed using the Freeman-Tukey arcsine
+method, and pooled using the DerSimonian and Laird

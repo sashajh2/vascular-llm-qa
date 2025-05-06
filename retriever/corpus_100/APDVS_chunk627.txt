@@ -1,0 +1,5 @@
+ the CEAP classification system is the global standard for describing clinical features of
+CVD, it is not sensitive to changes in disease over time and thus is a poor prognosticator of
+progression and treatment outcomes. In response, the Venous Clinical Severity Score (VCSS)
+(Fig. 2) was formulated as a complementary evaluative instrument based on ten categories
+graded on a scale of 0 to 3 for a final total score between 0 and 30 (V

@@ -1,0 +1,12 @@
+145
+150
+
+Left
+130
+120
+110
+
+For both right and left lower extremities, the highest brachial pressure is 150 and will be used
+for comparison for the ankle/brachial index.
+On the right lower extremity, using the DP systolic pressure the ABI is 145/150 = 0.97 and
+using the PT systolic pressure the ABI = 

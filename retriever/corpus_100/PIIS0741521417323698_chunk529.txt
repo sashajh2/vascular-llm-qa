@@ -1,0 +1,43 @@
+5-12
+
+Dialysis
+
+1-6
+
+Bleeding
+
+2-5
+
+Wound infection
+
+<5
+
+Leg ischemia
+
+1-4
+
+Deep venous thrombosis
+
+5-8
+
+Colon ischemia
+
+1-2
+
+Stroke
+
+1-2
+
+Graft thrombosis
+
+<1
+
+Graft infection
+
+<1
+
+Ureteral injury
+
+<1
+
+From Schermerhorn ML, Cronenwett JL. Ab

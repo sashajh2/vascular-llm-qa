@@ -1,0 +1,22 @@
+ heading word, protocol supplementary concept word, rare
+disease supplementary concept word, unique identiﬁer, synonyms]
+
+32,969
+
+Advanced
+
+11
+
+6 or 7 or 8 or 9 or 10
+
+157,678
+
+Advanced
+
+12
+
+5 and 11
+
+13
+
+(mortality or morbidity or amputat* or thromb* or ali or "chronic ischemia" or stroke or

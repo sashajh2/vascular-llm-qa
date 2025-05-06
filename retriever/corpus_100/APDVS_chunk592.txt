@@ -1,0 +1,11 @@
+AP system.
+5. A patient undergoes endovenous laser ablation (EVLA) for symptomatic varicose veins.
+Post-procedure, what is a potential complication that should be monitored using duplex
+ultrasound?
+A. Allergic reaction to the laser
+B. Endothermal heat-induced thrombosis (EHIT)
+C. Superficial wound infection
+D. Hypotension from anesthesia
+Answer
+B. Endothermal heat-induced thrombosis (EHIT).
+Discussion

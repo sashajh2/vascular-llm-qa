@@ -1,0 +1,6 @@
+ can be used to follow clinically deﬁned end points
+and changes over time.
+The Clinical class, Etiology, Anatomy, and Pathophysiology (CEAP) classiﬁcation, introduced in 1994 and revised
+in 2004, forms the basis for CVD documentation, and should
+be used for all patients with VLUs.184-186 The basic CEAP
+classiﬁcation (Table V) is a simpl

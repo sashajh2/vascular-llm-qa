@@ -1,0 +1,7 @@
+ with ischemic
+rest pain or tissue loss usually have an ABI less than 0.5.
+Ĺ Note
+Below are the parameters used to diagnose PAD using ABI values.
+1. ABI of >1.2: Calcification of arteries, non-compressible. Seen in diabetic patients.
+2. ABI of 0.9 – 1.2: Normal
+3. ABI of <0.9: Suggests arterial stenosis. (Khan, Farooqui,

@@ -1,0 +1,8 @@
+.218-222
+The peak wall rupture index considers both peak wall
+stress and residual wall strength and has been proposed
+as more predictive than estimates of peak wall stress
+alone.223-225 Further analyses have also incorporated the
+inﬂuence of intraluminal hemodynamic conditions on
+wall stress and strength indices through ﬂuid structure
+interaction simulations.226,227 The value of CTdetermined intralum

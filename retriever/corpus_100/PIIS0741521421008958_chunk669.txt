@@ -1,0 +1,13 @@
+ INDEX(medline) OR PMID(0* OR 1* OR 2* OR 3* OR 4* OR 5* OR 6* OR 7* OR 8* OR 9*)
+
+18
+
+#16 and not ##17
+
+19
+
+DOCTYPE(ed) OR DOCTYPE(bk) OR DOCTYPE(er) OR DOCTYPE(no) OR DOCTYPE(sh) OR DOCTYPE(ch)
+
+20
+
+#18 and not #1

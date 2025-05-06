@@ -1,0 +1,5 @@
+putat* or thromb* or ali or "chronic ischemia" or stroke or
+"cerebrovascular accident" or "brain vascular accident*" or cvas or cva or "cerebral
+stroke*" or "cerebrovascular stroke" or "cerebrovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH

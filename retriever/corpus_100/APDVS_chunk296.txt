@@ -1,0 +1,6 @@
+ provides important information about the characteristics of blood fow. Waveforms can be used to diagnose and
+monitor arterial diseases, assess the severity of stenosis, and determine the effectiveness
+of treatment interventions. This patient likely has claudication based on the history and
+symptoms. The first non-invasive testing to confirm the diagnosis would be ABI/PVR.
+While a CTA would provide helful information with regards to arterial anatomy and the
+extend of calcification, it cannot provide the phys

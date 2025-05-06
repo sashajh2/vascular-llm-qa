@@ -1,0 +1,9 @@
+ number
+of different interventions including angioplasty, stenting, and thrombectomy. An angiogram
+is a procedure in which contrast dye is used to display the vasculature and its disease burden
+under X-ray.
+Ď Tip
+Before an angiogram, one should be aware of all prior interventions a patient has had,
+both open and endovascular. It can be useful to review old operative reports and imaging
+studies in order to know the patient’s current anatomy.
+Ď Tip

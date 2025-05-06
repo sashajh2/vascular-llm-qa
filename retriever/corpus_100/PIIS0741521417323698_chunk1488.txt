@@ -1,0 +1,6 @@
+ aneurysm*” or “abdominal aortic aneurysm*” or “aortic abdominal aneurysm*”).mp.
+
+4
+
+(((volume* or PET or spiral or helical or 3d or beam or 4d or “whole body”) adj (ct or cat or cts or scan*))
+or agent* or “cat scan*” or chemotherap* or “ct scan*” or diagnos* or drug* or image

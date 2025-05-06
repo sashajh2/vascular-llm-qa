@@ -1,0 +1,20 @@
+chemic rest pain, ischemia grade 3; no ulcer) 1 (mild) 2 (moderate) 3 (severe)
+
+Grade
+
+Ulcer
+
+Gangrene
+
+0
+No ulcer
+Clinical description: ischemic rest pain (requires typical symptoms þ ischemia grade 3); no wound.
+
+No gangrene
+
+1
+
+Small, shallow ulcer(s) on distal leg
+No gangrene
+or foot; no exposed bone, unless limited
+to dist

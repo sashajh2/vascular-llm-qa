@@ -1,0 +1,5 @@
+. Wall stress distribution on threedimensionally reconstructed models of human abdominal aortic aneurysm. J Vasc Surg 2000;31:760-9.
+215. Vande Geest JP, Wang DH, Wisniewski SR, Makaroun MS,
+Vorp DA. Towards a noninvasive method for determination
+of patient-speciﬁc wall strength distribution in abdominal
+aortic aneurysms. Ann Biomed Eng

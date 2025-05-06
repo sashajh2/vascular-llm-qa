@@ -1,0 +1,8 @@
+. [GRADE - 2;
+LEVEL OF EVIDENCE - C]
+Guideline 4.25: Electrical Stimulation
+We suggest against electrical stimulation therapy for venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - C]
+Guideline 4.26: Ultrasound Therapy
+We suggest against routine ultrasound therapy for venous leg ulcers. [GRADE - 2; LEVEL OF EVIDENCE - B]
+COMPRESSION
+Guideline 5

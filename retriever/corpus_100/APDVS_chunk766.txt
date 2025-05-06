@@ -1,0 +1,7 @@
+.
+
+Figure 4: Angioplasty with a non-compliant balloon courtesty of J. Heuser, and Wikimedia.
+Intraoperatively surgeons will often ask for the pressures of the balloon before using. Noncompliant balloons have a nominal pressure, which is the average pressure in atmospheres
+(atm) required to infate the balloon to its predetermined size, and a burst pressure, where
+99.9% of balloons will not burst if infated to this pressure.
+

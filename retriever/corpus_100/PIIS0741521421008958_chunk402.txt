@@ -1,0 +1,33 @@
+4 days
+
+Mean
+age, years
+
+Male
+sex, %
+
+Comorbidities
+
+Azzini et al,6 2016
+Italy
+
+Patients with stroke and CAS
+who underwent
+intravenous therapy and
+CEA after intravenous
+therapy
+
+NR
+
+(A) 22
+(B) 12
+
+(A) 66.5
+(B) 68
+
+(A) 82
+(B) 67
+
+NR
+
+Barb

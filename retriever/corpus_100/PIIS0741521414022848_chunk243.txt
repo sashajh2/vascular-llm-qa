@@ -1,0 +1,24 @@
+co,175 Mii268
+
+Modality
+
+FU duration, years
+
+Patency (PAP), %
+
+PTA þ stent
+AFB
+IFB
+FFB
+
+5
+5
+5
+5
+
+63-79
+81-93
+73-88
+60-83
+
+AFB, Aortofemoral bypass; FFB, femorofemoral bypass; FU, follow-up; IFB

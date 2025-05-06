@@ -1,0 +1,8 @@
+1
+
+clinical signs of venous disease (C), etiology (E), anatomy
+(A), and the underlying pathophysiology (P).
+Clinical class includes the full spectrum of venous disorders, from no signs of visible venous disease (C0) to
+telangiectasia or reticular veins (C1), varicose veins (C2),
+edema (C3), skin changes, such as pigmentation or eczema
+(C4a) or lipoderm

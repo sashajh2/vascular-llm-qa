@@ -1,0 +1,32 @@
+ NSAIDS,
+compression,
+topical, IM, IM,
+surgical
+
+Duffett
+201935
+
+6862
+
+Prandoni, 2022255
+
+Casian,
+2022256
+
+Comparison
+
+Outcome
+
+Study design
+
+Placebo (few)
+
+SVT extension, VTE,
+pain, bleeding
+
+RCTs for
+systematic review
+
+NSAIDs,
+anticoagulant
+therapies, surgical

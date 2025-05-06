@@ -1,0 +1,26 @@
+1 not 12
+
+2
+
+Advanced
+
+23
+
+(trauma* or iatrogenic).mp. [mp¼ti, ot, ab, sh, hw, kw, tx, ct]
+
+19,379
+
+Advanced
+
+24
+
+22 not 23
+
+2
+
+Advanced
+
+25
+
+limit 24 to (addresses or autobiography or bibliography or biography or dictionary or
+directory or interactive tutorial or interview or news or newspaper article or patient

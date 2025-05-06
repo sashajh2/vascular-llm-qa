@@ -1,0 +1,6 @@
+bypass*" OR "coronary artery graft*" OR "coronary bypass
+graft*" OR "coronary bypass grafting" OR "coronary
+bypass*" OR "coronary vein bypass graft*" OR "coronary
+venous bypass graft*" OR "coronary-internal mammary
+artery anastomos*" OR "internal mammary-coronary artery anastomos*")
+4 TITLE-ABS-KEY((meta W

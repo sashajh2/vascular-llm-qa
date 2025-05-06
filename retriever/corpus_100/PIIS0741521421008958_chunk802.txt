@@ -1,0 +1,6 @@
+ABS-KEY("acute coronary artery thrombos*" or
+"acute coronary syndrome*" or "acute heart muscle
+ischaemia*" or "acute heart muscle ischemia*" or
+"ampulla cardiomyopath*" or angina or "anginal attack*"
+or "apical ballooning" or "arteria coronaria ostium stenos*"
+or "atrial ﬁbrillation*" or "atrial infarct*" or "atrium ﬁbrillation*" or

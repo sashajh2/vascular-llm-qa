@@ -1,0 +1,20 @@
+ [mp¼title, abstract, heading word, drug trade name,
+original title, device manufacturer, drug manufacturer, device trade name, keyword,
+ﬂoating subheading word, candidate term word]
+
+701
+
+Advanced
+
+5
+
+3 or 4
+
+1806
+
+Advanced
+
+6
+
+endovascular.mp. [mp¼title, abstract, heading word, drug trade name, original title,
+device manufacturer, drug manufacturer, device trade name, keyword, ﬂo

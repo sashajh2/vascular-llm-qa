@@ -1,0 +1,4 @@
+amarins or toad or toads or trout or urchin or urchins or vole or voles or waxworm or waxworms or worm or worms or
+xenopus or "zebra ﬁsh" or zebraﬁsh) not (human or humans or patient or patients)).ti,ab,hw,kw.
+54 51 not (52 or 53)
+55 limit 54 to (editorial or erratum or

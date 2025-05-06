@@ -1,0 +1,5 @@
+.5 cases per 10,000 people annually, with
+a 9% 30-day mortality rate and a 12.7% 30-day amputation rate despite early revascularization.
+(Olinic et al. 2019)
+ALI is commonly caused by arterial embolism or thrombosis, with risk factors including
+smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and

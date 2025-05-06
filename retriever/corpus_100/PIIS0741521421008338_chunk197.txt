@@ -1,0 +1,5 @@
+brovascular apoplexy" or "heart attack*" or
+"cardiovascular stroke*" or "intracranial hemorrhage*" or "intracranial haemorrhag*" or
+ICH or "heart failure" or "myocardial infarct*").mp. [mp¼title, abstract, heading word,
+drug trade name, original title, device manufacturer, drug manufacturer, device trade
+name, keyword, ﬂoating subheading word, candidate term

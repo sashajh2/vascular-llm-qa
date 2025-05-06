@@ -1,0 +1,8 @@
+. What would be the first step in treating this patient’s symptoms?
+A. Angiogram to identify targets for open surgical bypass.
+B. Angiogram with angioplasty/stent of any occluded vessels.
+C. Prescribe Cilostazol.
+D. Ensure medication optimization for his hypertension and hyperlipidemia, smoking cessation counseling, and exercise regimen.
+E. No treatments at this time, continue to monitor and come back to clinic in 3 months.
+Answer
+D

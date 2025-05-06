@@ -1,0 +1,27 @@
+ Endarterectomy, Carotid/
+
+26276
+
+6
+
+exp Stents/
+
+241364
+
+7
+
+exp Angioplasty/
+
+151689
+
+8
+
+(angioplast* or endarterectom* or "endoluminal repair*" or endovascular* or stent*).ti,ab,hw,kw.
+
+538781
+
+9
+
+5 or 6 or 7 or 8
+
+5

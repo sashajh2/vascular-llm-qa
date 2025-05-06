@@ -1,0 +1,6 @@
+70
+
+13 ("aorta coronary artery bypass*" or "aorta coronary bypass graft*" or "aorta coronary bypass*" or "aorta coronary vein
+bypass graft*" or "aorta coronary vein bypass*" or "aorta coronary vein shunt" or "aortic coronary artery bypass*" or
+"aortic coronary bypass*" or "aorticocoronary anastomosis" or "aorto coronary artery bypass*" or "aorto coronary bypass
+gra

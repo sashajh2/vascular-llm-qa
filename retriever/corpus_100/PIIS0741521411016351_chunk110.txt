@@ -1,0 +1,8 @@
+ values, which
+predict the stroke risk of a particular plaque. Plaque characterization is not routine in every vascular laboratory and
+requires specific protocols to assure standardization of results.
+B. Magnetic resonance imaging and angiography
+MRA has the advantage of being noninvasive, does not
+require iodinated contrast or ionizing radiation, and provides an unlimited number of projections of the carotid
+lumen from a single acquisition. MRA can also assess
+intrathoracic and intrac

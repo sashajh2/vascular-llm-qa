@@ -1,0 +1,5 @@
+ 295 or higher (accuracy 88%, NPV
+84%, PPV 91%) and for a 70% or greater stenosis, it was
+400 cm/s or more (accuracy 85%, NPV 85%, PPV 84%).
+For the CA, a 50% or greater stenosis correlated with a
+PSV of 240 cm/s or higher (accuracy 86

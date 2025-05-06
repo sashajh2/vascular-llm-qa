@@ -1,0 +1,7 @@
+, conﬁdence interval; IA, intracranial aneurysm; OR, odds ratio; PAD, peripheral artery disease; RAF, risk allele frequency
+in population; rs#, reference SNP ID number; SNP, single-nucleotide polymorphism.
+a
+P values are taken from the ﬁrst report demonstrating association with AAA.
+b
+Replicated in multiple populations.
+From Golledge J, Kuivaniemi H. Genetics of abdominal aortic aneurysm.

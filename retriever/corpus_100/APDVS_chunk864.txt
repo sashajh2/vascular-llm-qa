@@ -1,0 +1,12 @@
+ patients. These
+are discussed later in this chapter.
+A number of core principles should be considered whenever a provider is considering recommending or performing a treatment with ionizing radiation including:
+
+Medical Necessity and Justication for the Procedure
+The potential benefits of the procedure should outweigh the risks of not performing the procedure or performing an alternative procedure without radiation exposure.
+
+217
+
+Exposure Optimization
+The radiation dose delivered, particularly for intraoperative exposures, should be optimized
+to be as

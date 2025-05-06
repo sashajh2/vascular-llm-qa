@@ -1,0 +1,17 @@
+itis,
+edema, lymphadenopathy, pain, loss of
+function) considered infected
+
+Primarily intended for DFUs; Includes validated
+ulcer categories; PAD and infection included,
+but only as 6 with no grades/spectrum
+
+No
+
+No for soft tissue component; included only as
+osteomyelitis
+
+Orthopedic classiﬁcation intended for diabetic feet;
+No hemodynamics; Gangrene from infection
+not differentiated from that due to ischemia;
+Osteomyel

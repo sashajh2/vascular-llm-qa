@@ -1,0 +1,7 @@
+ open surgical management. Endovascular techniques should be reserved for patients who are poor surgical
+candidates.
+ TASC D lesions are those that should be treated by open surgery.
+Important caveats: - Developments in endovascular techniques and devices since the introduction of the TASC document have increased the role of endovascular surgery in treating TASC
+C and TASC D lesions.
+ Many patients with CLTI present with multisegment disease thereby complicating the
+clinical decision-making usefulness of TASC recommendations

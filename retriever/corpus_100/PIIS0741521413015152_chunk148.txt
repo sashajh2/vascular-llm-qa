@@ -1,0 +1,10 @@
+ moderate to high-risk of
+amputation regardless of other factors (validated IDSA guidelines)
+Four classes: for each box, group combination into one of these four classes
+Very low = VL = clinical stage 1
+Low = L = clinical stage 2
+Moderate = M = clinical stage 3
+High = H = clinical stage 4
+Clinical stage 5 would signify an unsalvageable foot
+
+IDSA, Infectious Disease Society of America; PAD, peripheral artery

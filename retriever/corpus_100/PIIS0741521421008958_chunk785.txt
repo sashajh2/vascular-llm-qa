@@ -1,0 +1,3 @@
+case series" or "clinical series" or "case studies" or "clinical study" or "clinical trial" or (("phase 0" or "phase 1" or
+"phase I" or "phase 2" or "phase II" or "phase 3" or "phase III" or "phase 4" or "phase IV") adj5 (trial or study)) or "evaluation
+study" or "evaluation survey" or "evaluation analysis" or "quant

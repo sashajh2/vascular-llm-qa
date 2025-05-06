@@ -1,0 +1,8 @@
+ the
+transducers.
+3. Prepump arterial dialysis pressure. Most dialysis machines currently in use have a pressure transducer connected to the blood line on the arterial side of the blood
+pump. This prepump pressure is displayed on the information screen and indicates the ease (or difficulty) with which
+blood is drawn from the access by the blood pump at any
+given pump setting. This pressure is influenced by anything
+that causes restriction of flow to the pump: the needle
+g

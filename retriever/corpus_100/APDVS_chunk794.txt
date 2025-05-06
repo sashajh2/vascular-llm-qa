@@ -1,0 +1,5 @@
+ removed from a vessel. This can be accomplished in a variety of ways. Commonly, a suction thrombectomy
+system can be used to remove thrombus from a vessel using vacuum force for example
+using the Penumbra system. Alternatively, a mechanical thrombectomy can be performed where a Fogarty catheter is deployed past a thrombus, a balloon infated at the
+end of the catheter, and then manually pulled back towards an arteriotomy and the clot
+then removed

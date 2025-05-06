@@ -1,0 +1,12 @@
+ range of the electromagnetic spectrum. The
+commonly discussed types of ionizing radiation include X-rays, alpha particles, beta particles,
+gamma rays.
+
+215
+
+Alpha Particles
+Alpha particles, despite their high energy, have poor penetrance. As such, they do not penetrate the skin. However, they can be dangerous if inhaled or ingested.
+
+Beta Particles
+Beta particles, have slightly more penetration than alpha particles.
+They have some ability to penetrate the skin. However,

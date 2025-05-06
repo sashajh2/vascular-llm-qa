@@ -1,0 +1,10 @@
+ support the recommendation is noted.
+Evidence is divided into 3 categories: A (high quality), B
+(moderate quality), and C (low quality). Conclusions based
+on high-quality evidence are unlikely to change with further study, those based on moderate-quality evidence are
+more likely to be affected by further investigation, and
+those based on low-quality evidence are the least supported
+by current data and the most likely to be subject to change
+in the future.
+
+Ricotta et al

@@ -1,0 +1,22 @@
+
+
+exp Single-Blind Method/
+
+81911
+
+15
+
+exp latin square design/
+
+16
+
+exp Placebos/
+
+17
+
+exp Placebo Effect/
+
+18
+
+((randomized adj3 study) or (randomized adj3 trial) or (randomised adj3 study) or (randomised adj3 trial) or
+"pragmatic clinical trial" or (random* adj1 allocat*) or (doubl* adj blind*) or (

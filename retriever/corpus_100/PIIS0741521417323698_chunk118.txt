@@ -1,0 +1,9 @@
+ generate a concise set of recommendations. The strength of any given recommendation and
+the quality of evidence were graded on the basis of the
+GRADE approach.3 The quality of evidence derived
+from randomized trials has an initial rating of high,
+whereas evidence derived from observational studies has
+an initial rating of low. GRADE domains are then used to
+modify this initial rating; these domains include risk of
+bias, consistency of the results across studies, directness
+of the populations and interventions of the

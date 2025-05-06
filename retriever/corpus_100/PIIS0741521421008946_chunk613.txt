@@ -1,0 +1,5 @@
+ Stent System (InspireMD) feature different constructions, but all have a mesh covering with an open or
+closed cell design, and a pore size that ranges from 180 to
+500 mm. However, studies on the efﬁcacy and safety of
+these stents are still inconclusive. Assessment of 41 procedures of ICA and CCA stenting using the Roadsaver
+double nitinol layer micromesh stent in 40 non

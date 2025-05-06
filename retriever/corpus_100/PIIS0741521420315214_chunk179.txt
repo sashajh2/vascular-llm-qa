@@ -1,0 +1,7 @@
+ per kilogram of body weight. Images are acquired with a T1-weighted three-dimensional
+spoiled gradient-recalled echo sequence, usually during
+breath-hold. As with CTA, the relationship between
+contrast material administration and image acquisition is
+crucial. The source images can be reformatted in multiple
+planes with maximum intensity projections and volume
+rendering, and a three-dimensional centerline reconstruction can be generated using the MRA data set.68,69

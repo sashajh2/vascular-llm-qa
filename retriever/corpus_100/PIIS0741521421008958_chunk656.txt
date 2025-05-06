@@ -1,0 +1,36 @@
+
+
+12
+
+10 or 11
+
+39920
+
+13
+
+carotid artery stent/
+
+1088
+
+14
+
+exp Carotid Arteries/
+
+112308
+
+15
+
+exp Stents/
+
+240571
+
+16
+
+(carotid adj2 stent*).ti,ab,hw,kw.
+
+14474
+
+17
+
+14 and 15
+

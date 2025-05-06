@@ -1,0 +1,8 @@
+ further away from the area being imaged.
+If the X-ray tube is too close, imaging quality can degrade and radiation dose increases. This
+strategic arrangement ensures that the image quality remains high while minimizing patient
+exposure to radiation.
+Ď Tip
+See a visual summary of correct and incorrect technique here.
+Another crucial aspect of radiation exposure is a person’s distance from the radiation
+source. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d

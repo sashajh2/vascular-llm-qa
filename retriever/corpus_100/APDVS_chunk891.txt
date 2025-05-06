@@ -1,0 +1,7 @@
+ eects
+Before delving into the various risks associated with radiation exposure, it’s essential to provide
+a brief overview of the types of radiation effects. These effects can be broadly categorized into
+deterministic and stochastic effects.
+Deterministic effects, also known as non-stochastic effects, occur when specific radiation
+dose thresholds are exceeded leading to adverse outcomes. They are dose-dependent and
+result in significant damage, such as cell death in a specific organ. Examples of deterministic

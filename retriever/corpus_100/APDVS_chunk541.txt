@@ -1,0 +1,6 @@
+ a hybrid approach. The algorithm above shows considerations for when to pursue
+an endovascular vs. open approach.
+Surgical Revascularization
+Surgical revascularization options include catheter embolectomy/thrombectomy, surgical bypass, endarterectomy, and hybrid procedures if indicated.
+Embolectomy/thrombectomy with a Fogarty embolectomy catheter has remained the gold
+standard for treatment of both acute and chronic thromboembolic disease. The use of

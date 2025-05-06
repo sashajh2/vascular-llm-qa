@@ -1,0 +1,13 @@
+ fI2
+W0 I1 fI1
+W0 I2 fI0,1
+Wo I3 fI0
+W1 I0 fI2
+W1 I1 fI1
+W1 I2 ﬁ0
+W2 I0 fI0/1
+W0 I0 fI3
+W0 I2 fI1,2
+W0 I3 fI1,2
+W1 I0 fI3
+W

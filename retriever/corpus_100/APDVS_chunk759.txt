@@ -1,0 +1,10 @@
+ is a useful starting point to understand what size sheath can be
+inserted in target access arteries.
+
+Artery                  Inner Diameter (mm)         Typical Access Sheath size (F)
+Radial                  2.3                         4-6
+Brachial                                            5-7
+Axillary                                            5-14
+Common Femoral          6.6                         5-24
+Popliteal               4.7                         4-6
+Pedal

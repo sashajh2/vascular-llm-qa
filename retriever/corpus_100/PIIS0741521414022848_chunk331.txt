@@ -1,0 +1,16 @@
+270 Laird,210 Matsumura211
+Kedora,271 Shackles,272 Geraghty196
+Pereira,273 Klinkert274
+Robinson,275 Klinkert,274 Pereira273
+
+Modality
+
+FU duration, years
+
+PTA
+PTA þ stent
+Covered stent
+FP vein
+FP prosthetic
+
+2

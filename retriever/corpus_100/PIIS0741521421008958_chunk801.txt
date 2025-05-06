@@ -1,0 +1,19 @@
+ 55) or 56
+
+1928
+
+58 remove duplicates from 57
+
+1434
+
+108S.e38
+
+Hasan et al
+
+Journal of Vascular Surgery
+January Supplement 2022
+
+Scopus.
+1 TITLE-ABS-KEY("arteria carotis" or carotid)
+2 TITLE-ABS-KEY("acute coronary artery thrombos*" or
+"acute coronary syndrome*" or "acute

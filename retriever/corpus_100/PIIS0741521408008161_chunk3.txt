@@ -1,0 +1,4 @@
+ grade the strength of recommendations
+(GRADE 1 for strong recommendations; GRADE 2 for weak recommendations) and rate the quality of evidence (high,
+moderate, low, and very low quality). In symptomatic and asymptomatic patients with low-grade carotid stenosis (<50%
+in symptomatic and <60% in asymptomatic patients), we recommend optimal medical therapy rather than revascularization (GRADE 1 recommendation, high quality evidence). In symptomatic patients with

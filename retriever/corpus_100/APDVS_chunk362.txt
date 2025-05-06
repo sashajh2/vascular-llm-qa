@@ -1,0 +1,8 @@
+to evaluate blood fow. To calculate the ABI, the higher ankle pressure (DP or PT) is divided
+by the highest arm pressure (left or right).
+
+101
+
+ABI result of <0.9 has shown to have high sensitivity and specificity with identifying PAD.
+Patients with claudication usually have an ABI ranging from 0.5 to 0.9, and those with ischemic
+rest pain or tissue loss usually have an ABI less than 0.5.

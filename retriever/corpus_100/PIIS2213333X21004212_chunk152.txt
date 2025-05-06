@@ -1,0 +1,5 @@
+ with CAC (SMD, e19.02;
+95% CI, e20.82 to e17.22; 1 study86).
+Recurrent incompetence. RFA intervention was associated with an increased risk of recurrent incompetence
+than CAC (RR, 3.22; 95% CI, 1.07-9.64; I2 ¼ 0.00%; 2
+studies

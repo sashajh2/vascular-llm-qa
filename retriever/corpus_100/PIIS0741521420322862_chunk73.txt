@@ -1,0 +1,34 @@
+9.41
+
+17.34
+
+18.70
+
+Hypertension
+
+63.81
+
+63.62
+
+63.67
+
+Coronary artery disease
+
+38.91
+
+34.21
+
+37.58
+
+Peripheral artery disease
+
+56.11
+
+49.79
+
+54.40
+
+Chronic renal insufﬁciency
+
+5.16
+

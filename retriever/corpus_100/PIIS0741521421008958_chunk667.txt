@@ -1,0 +1,21 @@
+ and #7
+
+9
+
+TITLE-ABS-KEY ( ( "best medical therap*" OR "no surgery" ) )
+
+10
+
+TITLE-ABS-KEY ( ( ( conservative OR medical ) W/1 ( manag* OR treat* OR therap* ) ) )
+
+11
+
+TITLE ( ( statin* OR antiplatelet* ) )
+
+12
+
+TITLE ( ( platelet* W/1 aggregat* W/1 inhibit* ) )
+
+13
+
+TITLE ( (

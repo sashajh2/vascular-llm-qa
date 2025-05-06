@@ -1,0 +1,7 @@
+ diagnose
+and exclude PAD (PLR 2.0 e 3.55, NLR 0.25 e 0.44), and
+the presence of a visual monophasic pedal Doppler
+waveform (compared with a biphasic or triphasic
+Doppler waveform where the waveform crosses the
+zero ﬂow baseline and contains both forward and reverse
+velocity components)53 has a moderate ability to diagnose and exclude PAD

@@ -1,0 +1,61 @@
+-sectional A
+
+A
+
+A
+
+C
+
+B
+
+B
+
+A
+
+Moderate
+
+Urschel et al,110
+1976
+
+Case series
+
+A
+
+A
+
+C
+
+C
+
+B
+
+B
+
+D
+
+Moderate
+
+Xiang et al,111
+2019
+
+Retrospective
+cohort
+
+B
+
+A
+
+C
+
+A
+
+C
+
+A
+
+A
+
+Low
+
+Yang et al,13
+20

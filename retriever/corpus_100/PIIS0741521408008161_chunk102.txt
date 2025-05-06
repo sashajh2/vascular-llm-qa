@@ -1,0 +1,8 @@
+, ME, DM,
+RB, BL, BP
+REFERENCES
+1. Oxman A, Guyatt G, Cook D, Montori V. Summarizing the evidence.
+In: Guyatt G, Rennie D, editors. Users’ guides to the medical literature:
+a manual for evidence-based clinical practice. Chicago: AMA Press;
+2002. p. 55-173.
+2. Chambers BR, Donnan GA. Carotid endarterectomy for

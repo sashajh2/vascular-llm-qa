@@ -1,0 +1,12 @@
+
+abnormalities; No cutoff value for CLI;
+Grade 0: unlikely to require revascularization
+
+Yes, IDSA system (Table II)
+
+Validated system for risk of amputation related to
+foot infection, but not designed to address
+wound depth/complexity or degree of ischemia
+Includes PAD þ diabetes with spectrum of
+wounds, ischemia and infection, scaled from 03; No cutoff for CLI. Need for revascularization
+depends on degree of

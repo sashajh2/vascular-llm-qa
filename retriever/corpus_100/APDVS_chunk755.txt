@@ -1,0 +1,9 @@
+ long sheaths for diagnostics and
+treatment. Long sheaths are fexible enough to track along different vessels, but are also stiff
+enough to support the advancement or exchange of devices.
+Ĺ Note
+Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the
+inner diameter of the tube.
+As such, a 6F catheter will pass through a 6F sheath.
+Key points about sheaths:
+ Sheaths

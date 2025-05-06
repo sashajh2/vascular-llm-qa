@@ -1,0 +1,12 @@
+-1
+
+fI-2
+
+fI-3
+
+VL ¼ Very Low ¼ Class or Clinical Stage 1
+L ¼ Low ¼ Class or Clinical Stage 2
+M ¼ Moderate ¼ Class or Clinical Stage 3
+H ¼ High ¼ Class or Clinical Stage 4
+
+such as vascular surgeons, angiologists, interventional radiologists, nephrologists, cardiac surgeons, and cardiologists. For this reason, the term vascular specialist

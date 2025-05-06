@@ -1,0 +1,6 @@
+ age, male gender, hypertension, diabetes, smoking, dyslipidemia, family history, and homocysteinemia. Individuals
+who are heavy smokers tend to develop superficial femoral artery disease, whereas those
+with diabetes and renal failure tend to develop infrapopliteal disease. Of the answers
+listed, only the tibial artery is infrapopliteal.
+The following prompt will be used for questions 4, 5, and 6.
+A 65

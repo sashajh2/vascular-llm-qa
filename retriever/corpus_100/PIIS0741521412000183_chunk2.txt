@@ -1,0 +1,4 @@
+,m Seattle, Wash; Rochester, Minn; Toledo, Ohio; Indianapolis, Ind; Helsingborg, Sweden;
+Rochester and New York, NY; Cincinnati, Ohio; Springfield, Ill; Newark, NJ; West Roxbury, Mass; Ann Arbor, Mich
+Background: The anticoagulant treatment of acute deep venous thrombosis (DVT) has been historically directed toward
+the prevention of recurrent venous thromboembolism. However, such treatment imperfectly
