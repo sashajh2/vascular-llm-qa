@@ -25,8 +25,8 @@ def format_mcq_example(example, context_chunks, include_relevant):
 
     # Target always in Reason + Answer format
     target = (
-        f" ##Reason: {reason}\n"
         f"##Answer: {example['correct_answer']}"
+        f" ##Reason: {reason}\n"
     )
 
     return prompt, target
