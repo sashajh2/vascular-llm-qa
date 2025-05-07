@@ -12,11 +12,11 @@ This repository contains the code and data for a project evaluating the effectiv
 ## 🧾 Data Overview
 
 - `data/raw/`: Raw multiple-choice question sets (e.g. `MCQ2.0.xlsx`) and original source materials.
-- `data/rag/`: Corpus used for retrieval, prior to chunking or indexing.
+- `data/raw/rag/`: Corpus used for retrieval, prior to chunking or indexing.
 - `data/processed/`: Cleaned and preprocessed JSONL files. Includes:
-  - `mcq.jsonl`: Original cleaned MCQ data.
+  - `mcq.jsonl`: Full cleaned MCQ data.
   - `mcq_train.jsonl`, `mcq_test.jsonl`: Training and testing splits.
-  - `test_prompts/`: Prompt-structured MCQs used during inference or evaluation.
+  - `test_prompts/`: Example prompt-structured MCQs used during inference or evaluation.
 
 ---
 
@@ -42,7 +42,7 @@ This repository contains the code and data for a project evaluating the effectiv
 
 ## ⚙️ Scripts
 
-- `scripts/fine_tune_mcq.py`: Trains a causal language model using the RAFT method (includes tokenizer, LoRA support).
+- `scripts/fine_tune_mcq.py`: Trains a causal language model using the RAFT method (includes tokenizer).
 - `scripts/run_inference.py`: Loads model and generates responses in multiple-choice format with optional RAG context.
 
 ---
