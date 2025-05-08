@@ -62,7 +62,7 @@ if __name__ == "__main__":
     parser.add_argument("--api_key", type=str, required=True)
     args = parser.parse_args()
 
-    api_key = args.api_key
-    client = OpenAI(api_key=api_key)
+    os.environ["OPENAI_API_KEY"] = args.api_key
+    client = OpenAI()
 
     run_gpt_and_save(args.data_path, args.output_path, client)
