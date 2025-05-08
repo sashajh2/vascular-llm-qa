@@ -31,7 +31,7 @@ def generate_mcq_train_dataset(dataset, tokenizer):
 
     for example in dataset:
         # Golden + distractors version
-        context_chunks_relevant = retrieve_docs(example["question"], include_relevant=True)
+        context_chunks_relevant = retrieve_docs_100(example["question"], include_relevant=True)
         prompt_relevant, target_relevant = format_mcq_example(example, context_chunks_relevant, include_relevant=True)
         tokenized_golden = tokenizer(
             prompt_relevant + target_relevant,
@@ -43,7 +43,7 @@ def generate_mcq_train_dataset(dataset, tokenizer):
         examples.append(tokenized_golden)
 
         # Distractors only version
-        context_chunks_distractor = retrieve_docs(example["question"], include_relevant=False)
+        context_chunks_distractor = retrieve_docs_100(example["question"], include_relevant=False)
         prompt_distractor, target_distractor = format_mcq_example(example, context_chunks_distractor, include_relevant=False)
         tokenized_distractor = tokenizer(
             prompt_distractor + target_distractor,
