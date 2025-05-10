@@ -1,0 +1,2707 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.25.0114.1153                               -->
+<workbook original-version='18.1' source-build='2024.3.3 (20243.25.0114.1153)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='results' inline='true' name='federated.0e8n4vv1mplld015qn8wr061pd9e' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='results' name='textscan.1bk3x0u1yv9qlt11ba4wa0wy7b0c'>
+            <connection class='textscan' directory='C:/Users/hoped/Desktop/6.793/project/vascular-llm-qa/data' filename='results.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1bk3x0u1yv9qlt11ba4wa0wy7b0c' name='results.csv' table='[results#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Model' ordinal='1' />
+            <column datatype='string' name='Train' ordinal='2' />
+            <column datatype='string' name='Question ID' ordinal='3' />
+            <column datatype='integer' name='Correct' ordinal='4' />
+            <column datatype='string' name='Source' ordinal='5' />
+            <column datatype='string' name='Topic' ordinal='6' />
+            <column datatype='string' name='Labels' ordinal='7' />
+            <column datatype='integer' name='Case Study' ordinal='8' />
+            <column datatype='integer' name='Test Question' ordinal='9' />
+            <column datatype='integer' name='Num Choices' ordinal='10' />
+            <column datatype='integer' name='Num Correct' ordinal='11' />
+            <column datatype='integer' name='APDVS' ordinal='12' />
+            <column datatype='integer' name='CC1' ordinal='13' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Model</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Model]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Model</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Train</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Train]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Train</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Question ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Question ID]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Question ID</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Correct</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Correct]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Correct</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Source</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Source]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Source</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Topic</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Topic]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Topic</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Labels</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Labels]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Labels</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Case Study</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Case Study]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Case Study</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Test Question</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Test Question]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Test Question</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Num Choices</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Num Choices]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Num Choices</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Num Correct</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Num Correct]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>Num Correct</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>APDVS</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[APDVS]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>APDVS</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CC1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CC1]</local-name>
+            <parent-name>[results.csv]</parent-name>
+            <remote-alias>CC1</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Apdvs' datatype='integer' name='[APDVS]' role='measure' type='quantitative' />
+      <column caption='1 Correct Choice' datatype='integer' name='[CC1]' role='measure' type='quantitative' />
+      <column caption='Model_Train' datatype='string' name='[Calculation_1508987358238863360]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='[Model] + &quot; &quot; + [Train]' />
+      </column>
+      <column caption='Case_Num' datatype='string' name='[Calculation_1508987358244704257]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='STR([Case Study]) + &quot; &quot; + STR([Num Correct])' />
+      </column>
+      <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+        <aliases>
+          <alias key='false' value='Other' />
+          <alias key='true' value='APDVS' />
+        </aliases>
+      </column>
+      <column caption='One Correct Choice' datatype='boolean' name='[Calculation_1508987358276337667]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='[Num Correct] == 1' />
+        <aliases>
+          <alias key='false' value='&gt; 1' />
+          <alias key='true' value='1 Choice' />
+        </aliases>
+      </column>
+      <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='100*[Correct]' />
+      </column>
+      <column datatype='integer' name='[Case Study]' role='dimension' type='ordinal' />
+      <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+          <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+          <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+          <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+          <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+          <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+        </aliases>
+      </column>
+      <column caption='Num Correct1' datatype='integer' name='[Num Correct]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+          <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+          <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+          <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+          <alias key='&quot;RAG_100&quot;' value='RAG100' />
+          <alias key='&quot;RAG_500&quot;' value='RAG500' />
+        </aliases>
+      </column>
+      <column caption='results.csv' datatype='table' name='[__tableau_internal_object_id__].[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]' role='measure' type='quantitative' />
+      <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/hoped/AppData/Local/Temp/TableauTemp/#TableauTemp_168z2pa0aujnh61cmtett0ajmf35.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/09/2025 06:44:39 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>F1</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[F1]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>F1</remote-alias>
+              <ordinal>0</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7904</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Model</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Model]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Model</remote-alias>
+              <ordinal>1</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Train</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Train]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Train</remote-alias>
+              <ordinal>2</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Question ID</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Question ID]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Question ID</remote-alias>
+              <ordinal>3</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>635</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Correct</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Correct]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Correct</remote-alias>
+              <ordinal>4</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Source</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Source]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Source</remote-alias>
+              <ordinal>5</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Topic</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Topic]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Topic</remote-alias>
+              <ordinal>6</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Labels</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Labels]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Labels</remote-alias>
+              <ordinal>7</ordinal>
+              <family>results.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Case Study</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Case Study]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Case Study</remote-alias>
+              <ordinal>8</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Test Question</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Test Question]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Test Question</remote-alias>
+              <ordinal>9</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Num Choices</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Num Choices]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Num Choices</remote-alias>
+              <ordinal>10</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Num Correct</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Num Correct]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Num Correct</remote-alias>
+              <ordinal>11</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>APDVS</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[APDVS]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>APDVS</remote-alias>
+              <ordinal>12</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>CC1</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[CC1]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>CC1</remote-alias>
+              <ordinal>13</ordinal>
+              <family>results.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[results.csv_A0FFEB5CCD984F34AF1854648995BBB0]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Model:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Train:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;base&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;RAFT_500&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;RAFT_100_gpt&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;RAFT_100&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;RAG_500&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;RAFT_500_gpt&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;RAG_100&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;USA&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='results.csv' id='results.csv_A0FFEB5CCD984F34AF1854648995BBB0'>
+            <properties context=''>
+              <relation connection='textscan.1bk3x0u1yv9qlt11ba4wa0wy7b0c' name='results.csv' table='[results#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='Model' ordinal='1' />
+                  <column datatype='string' name='Train' ordinal='2' />
+                  <column datatype='string' name='Question ID' ordinal='3' />
+                  <column datatype='integer' name='Correct' ordinal='4' />
+                  <column datatype='string' name='Source' ordinal='5' />
+                  <column datatype='string' name='Topic' ordinal='6' />
+                  <column datatype='string' name='Labels' ordinal='7' />
+                  <column datatype='integer' name='Case Study' ordinal='8' />
+                  <column datatype='integer' name='Test Question' ordinal='9' />
+                  <column datatype='integer' name='Num Choices' ordinal='10' />
+                  <column datatype='integer' name='Num Correct' ordinal='11' />
+                  <column datatype='integer' name='APDVS' ordinal='12' />
+                  <column datatype='integer' name='CC1' ordinal='13' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Base'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results N=451</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' scope='rows' value='% Accuracy' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='142' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]</rows>
+        <cols>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]</cols>
+      </table>
+      <simple-id uuid='{6638B430-0213-4893-83A1-A2C9C7394537}' />
+    </worksheet>
+    <worksheet name='Base_Num_Correct'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column caption='Num Correct1' datatype='integer' name='[Num Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Num Correct]' derivation='None' name='[none:Num Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Model:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Topic:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Avg. Correct:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true'>Num Q:  &lt;CNT(Correct)&gt;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-range-field' value='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] * [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Num Correct:qk])</cols>
+      </table>
+      <simple-id uuid='{8A40A94F-AC08-465F-AF7A-0430BAF67CCD}' />
+    </worksheet>
+    <worksheet name='Base_Num_Correct (2)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>Base Model Performace Comparsion by Number of Correct Choices N=451</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='One Correct Choice' datatype='boolean' name='[Calculation_1508987358276337667]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Num Correct] == 1' />
+              <aliases>
+                <alias key='false' value='&gt; 1' />
+                <alias key='true' value='1 Choice' />
+              </aliases>
+            </column>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column caption='Num Correct1' datatype='integer' name='[Num Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358276337667]' derivation='None' name='[none:Calculation_1508987358276337667:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358276337667:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>true</bucket>
+              <bucket>false</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' scope='rows' value='% Accuracy' />
+            <encoding attr='space' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' field-type='quantitative' max='100.0' min='0.0' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Model:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Topic:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Avg. Correct:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true'>Num Q:  &lt;CNT(Correct)&gt;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-range-field' value='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358276337667:nk])</cols>
+      </table>
+      <simple-id uuid='{95D1E8A5-7A75-4DD0-9AA4-3B4ECDC16A6E}' />
+    </worksheet>
+    <worksheet name='Base_Source'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Source]' derivation='None' name='[none:Source:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Source:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;apdvs&quot;</bucket>
+              <bucket>&quot;prep&quot;</bucket>
+              <bucket>&quot;case_studies&quot;</bucket>
+              <bucket>&quot;racs&quot;</bucket>
+              <bucket>&quot;abvm&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Source:nk])</cols>
+      </table>
+      <simple-id uuid='{9B02EF11-98D6-4BDE-A40F-F90349D32E8E}' />
+    </worksheet>
+    <worksheet name='Base_Source (2)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>Base Model Performace Comparsion by Source on Single Correct Answer N=265</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='1 Correct Choice' datatype='integer' name='[CC1]' role='measure' type='quantitative' />
+            <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+              <aliases>
+                <alias key='false' value='Other' />
+                <alias key='true' value='APDVS' />
+              </aliases>
+            </column>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[CC1]' derivation='None' name='[none:CC1:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358246354946]' derivation='None' name='[none:Calculation_1508987358246354946:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:CC1:qk]' included-values='in-range'>
+            <min>1</min>
+            <max>1</max>
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>true</bucket>
+              <bucket>false</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:CC1:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' scope='rows' value='% Accuracy' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk])</cols>
+      </table>
+      <simple-id uuid='{8EDE4C39-C4B8-4FA3-ACD2-78DA4312A8D8}' />
+    </worksheet>
+    <worksheet name='Base_Topic'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Topic]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Topic]' derivation='None' name='[none:Topic:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;lower extremity arterial disease&quot;</bucket>
+              <bucket>&quot;venuous disease&quot;</bucket>
+              <bucket>&quot;aortic disorders&quot;</bucket>
+              <bucket>&quot;other&quot;</bucket>
+              <bucket>&quot;carotid disorders&quot;</bucket>
+              <bucket>&quot;endovascular surgery&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Model:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Topic:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Avg. Correct:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true'>Num Q:  &lt;CNT(Correct)&gt;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-range-field' value='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk])</cols>
+      </table>
+      <simple-id uuid='{419FE35B-4828-4CE5-97CA-E780F6613254}' />
+    </worksheet>
+    <worksheet name='Base_Topic (2)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results C=1 N=265</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='One Correct Choice' datatype='boolean' name='[Calculation_1508987358276337667]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Num Correct] == 1' />
+              <aliases>
+                <alias key='false' value='&gt; 1' />
+                <alias key='true' value='1 Choice' />
+              </aliases>
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column caption='Num Correct1' datatype='integer' name='[Num Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Topic]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358276337667]' derivation='None' name='[none:Calculation_1508987358276337667:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Topic]' derivation='None' name='[none:Topic:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358276337667:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1508987358276337667:nk]' member='true' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;lower extremity arterial disease&quot;</bucket>
+              <bucket>&quot;venuous disease&quot;</bucket>
+              <bucket>&quot;aortic disorders&quot;</bucket>
+              <bucket>&quot;other&quot;</bucket>
+              <bucket>&quot;carotid disorders&quot;</bucket>
+              <bucket>&quot;endovascular surgery&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358276337667:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' value='34' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Model:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Topic:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Avg. Correct:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true'>Num Q:  &lt;CNT(Correct)&gt;</run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-range-field' value='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Topic:nk])</cols>
+      </table>
+      <simple-id uuid='{9EC0E112-16D2-4E65-ADAA-93AB696F7DDB}' />
+    </worksheet>
+    <worksheet name='Base_Type'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Base Evaluation Results</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Case Study]' role='dimension' type='ordinal' />
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column caption='Num Correct1' datatype='integer' name='[Num Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Case Study]' derivation='None' name='[none:Case Study:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Num Correct]' derivation='None' name='[none:Num Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Num Correct:qk]' included-values='in-range'>
+            <min>1</min>
+            <max>1</max>
+          </filter>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Num Correct:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Case Study:qk]</cols>
+      </table>
+      <simple-id uuid='{7B22B4CF-9DDA-4FBE-BDA3-540DB1D5A19E}' />
+    </worksheet>
+    <worksheet name='RAFT'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAG Results</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='integer' name='[Test Question]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Model]' derivation='Attribute' name='[attr:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Test Question]' derivation='None' name='[none:Test Question:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]' included-values='in-range'>
+            <min>1</min>
+            <max>1</max>
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;base&quot;</bucket>
+              <bucket>&quot;RAG_100&quot;</bucket>
+              <bucket>&quot;RAFT_100&quot;</bucket>
+              <bucket>&quot;RAFT_100_gpt&quot;</bucket>
+              <bucket>&quot;RAG_500&quot;</bucket>
+              <bucket>&quot;RAFT_500&quot;</bucket>
+              <bucket>&quot;RAFT_500_gpt&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <tooltip column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[attr:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk])</cols>
+      </table>
+      <simple-id uuid='{E9362454-23BE-429D-A09F-5922A397B926}' />
+    </worksheet>
+    <worksheet name='RAFT_APDVS'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAFT APDVS N=10 Q</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+              <aliases>
+                <alias key='false' value='Other' />
+                <alias key='true' value='APDVS' />
+              </aliases>
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Test Question]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358246354946]' derivation='None' name='[none:Calculation_1508987358246354946:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Test Question]' derivation='None' name='[none:Test Question:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1508987358246354946:nk]' member='true' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]' included-values='in-range'>
+            <min>1</min>
+            <max>1</max>
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;base&quot;</bucket>
+              <bucket>&quot;RAG_100&quot;</bucket>
+              <bucket>&quot;RAFT_100_gpt&quot;</bucket>
+              <bucket>&quot;RAG_500&quot;</bucket>
+              <bucket>&quot;RAFT_500&quot;</bucket>
+              <bucket>&quot;RAFT_500_gpt&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk])</cols>
+      </table>
+      <simple-id uuid='{89FAE257-B408-4C85-812D-E421CDD5573C}' />
+    </worksheet>
+    <worksheet name='RAFT_NO_APDVS'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAFT Results  (Test Questions with No APDVS N=76)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+              <aliases>
+                <alias key='false' value='Other' />
+                <alias key='true' value='APDVS' />
+              </aliases>
+            </column>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Test Question]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Model]' derivation='Attribute' name='[attr:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358246354946]' derivation='None' name='[none:Calculation_1508987358246354946:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Test Question]' derivation='None' name='[none:Test Question:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1508987358246354946:nk]' member='false' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Model:nk]' member='&quot;FreedomIntelligence/Apollo-0.5B&quot;' />
+              <groupfilter function='member' level='[none:Model:nk]' member='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]' included-values='in-range'>
+            <min>1</min>
+            <max>1</max>
+          </filter>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAFT_100&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAFT_100_gpt&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAFT_500&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAFT_500_gpt&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_100&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_500&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;base&quot;</bucket>
+              <bucket>&quot;RAG_100&quot;</bucket>
+              <bucket>&quot;RAG_500&quot;</bucket>
+              <bucket>&quot;RAFT_100&quot;</bucket>
+              <bucket>&quot;RAFT_100_gpt&quot;</bucket>
+              <bucket>&quot;RAFT_500&quot;</bucket>
+              <bucket>&quot;RAFT_500_gpt&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Test Question:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' scope='rows' value='% Accuracy' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' value='129' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <tooltip column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[attr:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] * [federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk])</rows>
+        <cols>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</cols>
+      </table>
+      <simple-id uuid='{5B9A20E2-29DF-4CF1-AAA6-DCC27C7A1AB0}' />
+    </worksheet>
+    <worksheet name='RAG'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAG Results N=451 Q</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Model]' derivation='Attribute' name='[attr:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Correct]' derivation='Avg' name='[avg:Correct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_100&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_500&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <tooltip column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[attr:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Correct:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk])</cols>
+      </table>
+      <simple-id uuid='{60EFE1A9-7518-4FDF-AAAC-01059719EF7B}' />
+    </worksheet>
+    <worksheet name='RAG_APDVS'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAG Results APDVS N=61</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+              <aliases>
+                <alias key='false' value='Other' />
+                <alias key='true' value='APDVS' />
+              </aliases>
+            </column>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Model]' derivation='Attribute' name='[attr:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358246354946]' derivation='None' name='[none:Calculation_1508987358246354946:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1508987358246354946:nk]' member='true' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_100&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_500&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <tooltip column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[attr:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk])</cols>
+      </table>
+      <simple-id uuid='{3BFB73ED-0000-464B-A107-CC155405E7A8}' />
+    </worksheet>
+    <worksheet name='RAG_NO_APDVS'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>RAG Results Non-APDVS N=390 </run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='results' name='federated.0e8n4vv1mplld015qn8wr061pd9e' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e8n4vv1mplld015qn8wr061pd9e'>
+            <column caption='APDVS' datatype='boolean' name='[Calculation_1508987358246354946]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='[Source] == &quot;apdvs&quot;' />
+              <aliases>
+                <alias key='false' value='Other' />
+                <alias key='true' value='APDVS' />
+              </aliases>
+            </column>
+            <column caption='Accuracy' datatype='integer' name='[Calculation_1508987358556037124]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='100*[Correct]' />
+            </column>
+            <column datatype='integer' name='[Correct]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Model]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;ChatGPT-4o&quot;' value='GPT-4o' />
+                <alias key='&quot;FreedomIntelligence/Apollo-0.5B&quot;' value='Apollo-0.5B' />
+                <alias key='&quot;gemini-2.0-flash-001&quot;' value='gemini-2.0' />
+                <alias key='&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;' value='JSL-2.7B' />
+                <alias key='&quot;microsoft/Phi-4-mini-instruct&quot;' value='Phi-4B' />
+                <alias key='&quot;skumar9/Llama-medx_v3.2&quot;' value='Llama Med 7B' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[Source]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Train]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;RAFT_100&quot;' value='RAFT100' />
+                <alias key='&quot;RAFT_100_gpt&quot;' value='RAFT100G' />
+                <alias key='&quot;RAFT_500&quot;' value='RAFT500' />
+                <alias key='&quot;RAFT_500_gpt&quot;' value='RAFT500G' />
+                <alias key='&quot;RAG_100&quot;' value='RAG100' />
+                <alias key='&quot;RAG_500&quot;' value='RAG500' />
+              </aliases>
+            </column>
+            <column-instance column='[Calculation_1508987358556037124]' derivation='Avg' name='[avg:Calculation_1508987358556037124:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1508987358246354946]' derivation='None' name='[none:Calculation_1508987358246354946:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Model]' derivation='None' name='[none:Model:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Train]' derivation='None' name='[none:Train:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]'>
+            <groupfilter function='member' level='[none:Calculation_1508987358246354946:nk]' member='false' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;ChatGPT-4o&quot;</bucket>
+              <bucket>&quot;gemini-2.0-flash-001&quot;</bucket>
+              <bucket>&quot;microsoft/Phi-4-mini-instruct&quot;</bucket>
+              <bucket>&quot;skumar9/Llama-medx_v3.2&quot;</bucket>
+              <bucket>&quot;johnsnowlabs/JSL-MedPhi2-2.7B&quot;</bucket>
+              <bucket>&quot;FreedomIntelligence/Apollo-0.5B&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;base&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_100&quot;' />
+              <groupfilter function='member' level='[none:Train:nk]' member='&quot;RAG_500&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]</column>
+            <column>[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Calculation_1508987358246354946:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]' scope='rows' value='% Accuracy' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk]' />
+              <color column='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e8n4vv1mplld015qn8wr061pd9e].[avg:Calculation_1508987358556037124:qk]</rows>
+        <cols>([federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Model:nk] / [federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk])</cols>
+      </table>
+      <simple-id uuid='{86562A11-F4B2-4CEA-B7E5-B74D40A5101D}' />
+    </worksheet>
+    <worksheet name='Sheet 5'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A56879CE-DE09-4E1C-956A-04C81BABFC94}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 1'>
+      <style />
+      <size maxheight='860' maxwidth='1550' minheight='560' minwidth='420' sizing-mode='range' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98140' id='3' name='Base_Num_Correct (2)' w='49484' x='516' y='930'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='98140' id='5' name='Base_Source (2)' w='49484' x='50000' y='930'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='7' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98140' id='6' param='vert' type-v2='layout-flow' w='98968' x='516' y='930'>
+                <zone fixed-size='280' h='98140' id='3' is-fixed='true' name='Base_Num_Correct (2)' w='49484' x='516' y='930'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='98140' id='5' is-fixed='true' name='Base_Source (2)' w='49484' x='50000' y='930'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{64CF7248-147F-4E4E-9AAB-4ABA930879B4}' />
+    </dashboard>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 2'>
+      <style />
+      <size maxheight='860' maxwidth='1350' minheight='560' minwidth='420' sizing-mode='range' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98140' id='5' name='RAG_NO_APDVS' w='98814' x='593' y='930'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='7' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98140' id='6' param='vert' type-v2='layout-flow' w='98814' x='593' y='930'>
+                <zone fixed-size='280' h='98140' id='5' is-fixed='true' name='RAG_NO_APDVS' w='98814' x='593' y='930'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{347A77EC-96CC-4502-BD2A-C3A390F103CD}' />
+    </dashboard>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 3'>
+      <style />
+      <size maxheight='860' maxwidth='650' minheight='560' minwidth='420' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98140' id='7' param='horz' type-v2='layout-flow' w='97538' x='1231' y='930'>
+            <zone h='98140' id='5' type-v2='layout-basic' w='72923' x='1231' y='930'>
+              <zone h='98140' id='3' name='RAFT_NO_APDVS' w='72923' x='1231' y='930'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='160' h='98140' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='24615' x='74154' y='930'>
+              <zone h='24302' id='8' name='RAFT_NO_APDVS' pane-specification-id='2' param='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' type-v2='color' w='24615' x='74154' y='930'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='1' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000' />
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{DE14F4E8-C2AD-474F-B3C3-D96D1C8868E3}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' name='Base'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{DABC5B40-0B2A-4175-813E-33857594F219}' />
+    </window>
+    <window class='worksheet' name='Base_Source'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F2A6D476-6BE9-4BD0-9C8D-A22A3AF50E75}' />
+    </window>
+    <window class='worksheet' name='Base_Source (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{95F4EE04-3AAA-4D76-A628-8496FE2CC00B}' />
+    </window>
+    <window class='worksheet' name='Base_Num_Correct'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{FD19A27F-AA5A-4C00-A52C-290EA7290689}' />
+    </window>
+    <window class='worksheet' name='Base_Num_Correct (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{45BAA357-A18D-4259-859E-10C662A0CDBA}' />
+    </window>
+    <window class='worksheet' name='Base_Topic'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{566FA16C-990D-4CF8-A99E-B8C2E1B26D1C}' />
+    </window>
+    <window class='worksheet' name='Base_Topic (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{6C3EE011-6356-42FC-8BA4-0655CD0B9E57}' />
+    </window>
+    <window class='worksheet' name='Base_Type'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4D092E7B-131D-4D2A-B02C-112A0DF2C091}' />
+    </window>
+    <window class='worksheet' name='RAG'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4A36CE93-C185-4EC4-BD6A-128BF00DADD8}' />
+    </window>
+    <window class='worksheet' name='RAG_APDVS'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F1E430AF-DCA1-48CA-AA15-D896FBD534BF}' />
+    </window>
+    <window class='worksheet' name='RAG_NO_APDVS'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E8FF4988-90BA-4F91-BCAD-F6956705F407}' />
+    </window>
+    <window class='worksheet' name='RAFT'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F672D43B-1983-4C38-BF8A-4CC9D670AB98}' />
+    </window>
+    <window class='worksheet' name='RAFT_APDVS'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C9C10D5C-1E92-41F5-AD8A-1988E9ACA1BF}' />
+    </window>
+    <window class='worksheet' name='RAFT_NO_APDVS'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.0e8n4vv1mplld015qn8wr061pd9e].[none:Train:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{B9666031-BAE5-4058-B792-ABD81AEE0779}' />
+    </window>
+    <window class='worksheet' name='Sheet 5'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{19164843-A2F4-4FAF-9EB3-675FAD126163}' />
+    </window>
+    <window class='dashboard' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Base_Num_Correct (2)'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Base_Source (2)'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{CA18185B-E5C7-4EE6-B4EC-1347B73C72C2}' />
+    </window>
+    <window class='dashboard' name='Dashboard 2'>
+      <viewpoints>
+        <viewpoint name='RAG_NO_APDVS'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{79732738-AB19-414B-B009-2259A00106A8}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 3'>
+      <viewpoints>
+        <viewpoint name='RAFT_NO_APDVS'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='8' />
+      <simple-id uuid='{C9CC33CA-15B4-4A87-B4BA-C58537BDEAF2}' />
+    </window>
+  </windows>
+</workbook>
